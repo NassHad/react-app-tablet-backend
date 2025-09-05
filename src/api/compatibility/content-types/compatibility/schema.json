@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "compatibilities",
+  "info": {
+    "singularName": "compatibility",
+    "pluralName": "compatibilities",
+    "displayName": "Compatibility"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "vehicle": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::vehicle.vehicle"
+    },
+    "product": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::product.product"
+    }
+  }
+}

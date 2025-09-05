@@ -1,0 +1,39 @@
+{
+  "kind": "collectionType",
+  "collectionName": "specific_questions",
+  "info": {
+    "singularName": "specific-question",
+    "pluralName": "specific-questions",
+    "displayName": "SpecificQuestion"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "question": {
+      "type": "text"
+    },
+    "slug": {
+      "type": "uid"
+    },
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "eclairage",
+        "batterie"
+      ]
+    },
+    "options": {
+      "type": "json"
+    },
+    "required": {
+      "type": "boolean"
+    },
+    "compatibility": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::compatibility.compatibility"
+    }
+  }
+}

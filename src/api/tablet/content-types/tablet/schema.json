@@ -1,0 +1,14 @@
+{
+  "kind": "collectionType",
+  "collectionName": "tablets",
+  "info": {
+    "singularName": "tablet",
+    "pluralName": "tablets",
+    "displayName": "Tablet"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {}
+}
