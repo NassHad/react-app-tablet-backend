@@ -19,6 +19,12 @@
     },
     "isActive": {
       "type": "boolean"
+    },
+    "models": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::model.model",
+      "mappedBy": "brand"
     }
   }
 }
