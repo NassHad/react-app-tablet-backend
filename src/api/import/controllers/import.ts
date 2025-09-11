@@ -63,7 +63,7 @@ export default {
       for (const item of items) {
         try {
           // Check if model already exists
-          const exists = await strapi.entityService.count('api::model.model', {
+          const exists = await strapi.entityService.count('api::battery-model.battery-model', {
             filters: { slug: item.slug },
           });
 
@@ -73,7 +73,7 @@ export default {
           }
 
           // Find the brand by slug
-          const brands = await strapi.entityService.findMany('api::brand.brand', {
+          const brands = await strapi.entityService.findMany('api::battery-brand.battery-brand', {
             filters: { slug: item.brandSlug },
             limit: 1,
           });
@@ -95,7 +95,7 @@ export default {
             publishedAt: new Date(),
           };
 
-          await strapi.entityService.create('api::model.model', { data });
+          await strapi.entityService.create('api::battery-model.battery-model', { data });
           created++;
         } catch (err) {
           console.error(`Error creating model "${item.name}":`, err);

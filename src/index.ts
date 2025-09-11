@@ -31,10 +31,10 @@ export default {
       if (!slug || seen.has(slug)) continue; // dedupe inside file
       seen.add(slug);
 
-      const exists = await strapi.entityService.count("api::brand.brand", { filters: { slug } }) as number;
+      const exists = await strapi.entityService.count("api::battery-brand.battery-brand", { filters: { slug } }) as number;
       if (exists > 0) { skipped++; continue; }
 
-      await strapi.entityService.create("api::brand.brand", {
+      await strapi.entityService.create("api::battery-brand.battery-brand", {
         data: {
           slug,
           name,

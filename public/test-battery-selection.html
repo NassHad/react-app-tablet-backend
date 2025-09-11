@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Battery Selection API Test</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            max-width: 1200px; 
+            margin: 0 auto; 
+            padding: 20px; 
+            background: #f5f5f5; 
+        }
+        .container { 
+            background: white; 
+            padding: 30px; 
+            border-radius: 10px; 
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1); 
+        }
+        h1 { 
+            color: #333; 
+            text-align: center; 
+            margin-bottom: 30px; 
+        }
+        .section { 
+            margin: 20px 0; 
+            padding: 20px; 
+            border: 1px solid #ddd; 
+            border-radius: 5px; 
+        }
+        button { 
+            background: #007bff; 
+            color: white; 
+            border: none; 
+            padding: 10px 20px; 
+            border-radius: 5px; 
+            cursor: pointer; 
+            margin: 5px; 
+        }
+        button:hover { 
+            background: #0056b3; 
+        }
+        input { 
+            padding: 8px; 
+            margin: 5px; 
+            border: 1px solid #ddd; 
+            border-radius: 3px; 
+        }
+        pre { 
+            background: #f8f9fa; 
+            padding: 15px; 
+            border-radius: 5px; 
+            overflow-x: auto; 
+            white-space: pre-wrap; 
+        }
+        .endpoint { 
+            background: #e9ecef; 
+            padding: 10px; 
+            border-radius: 3px; 
+            font-family: monospace; 
+            margin: 5px 0; 
+        }
+        .error { 
+            color: red; 
+        }
+        .success { 
+            color: green; 
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🔋 Battery Selection API Test</h1>
+        
+        <div class="section">
+            <h2>🎯 API Endpoints</h2>
+            <div class="endpoint">GET /api/battery-selection/category/{categoryId}</div>
+            <div class="endpoint">GET /api/battery-selection/category/{categoryId}/brands</div>
+            <div class="endpoint">GET /api/battery-selection/category/{categoryId}/brand/{brandId}/models</div>
+        </div>
+
+        <div class="section">
+            <h2>🔍 Test 1: Get All Brands and Models by Category</h2>
+            <input type="number" id="categoryId1" placeholder="Category ID (e.g., 1)" value="1">
+            <button onclick="testGetBrandsAndModels()">Get Brands & Models</button>
+            <pre id="result1"></pre>
+        </div>
+
+        <div class="section">
+            <h2>🏢 Test 2: Get Only Brands by Category</h2>
+            <input type="number" id="categoryId2" placeholder="Category ID (e.g., 1)" value="1">
+            <button onclick="testGetBrands()">Get Brands Only</button>
+            <pre id="result2"></pre>
+        </div>
+
+        <div class="section">
+            <h2>🚗 Test 3: Get Models by Category and Brand</h2>
+            <input type="number" id="categoryId3" placeholder="Category ID (e.g., 1)" value="1">
+            <input type="number" id="brandId3" placeholder="Brand ID (e.g., 1)" value="1">
+            <button onclick="testGetModels()">Get Models</button>
+            <pre id="result3"></pre>
+        </div>
+
+        <div class="section">
+            <h2>📊 All Categories (for reference)</h2>
+            <button onclick="getCategories()">Load Categories</button>
+            <pre id="categories"></pre>
+        </div>
+    </div>
+
+    <script>
+        const API_BASE = window.location.origin + '/api';
+
+        async function makeRequest(url) {
+            try {
+                const response = await fetch(url);
+                const data = await response.json();
+                return { success: true, data };
+            } catch (error) {
+                return { success: false, error: error.message };
+            }
+        }
+
+        async function testGetBrandsAndModels() {
+            const categoryId = document.getElementById('categoryId1').value;
+            const resultEl = document.getElementById('result1');
+            
+            if (!categoryId) {
+                resultEl.innerHTML = '<span class="error">Please enter a category ID</span>';
+                return;
+            }
+
+            resultEl.innerHTML = 'Loading...';
+            const result = await makeRequest(`${API_BASE}/battery-selection/category/${categoryId}`);
+            
+            if (result.success) {
+                resultEl.innerHTML = '<span class="success">✅ Success!</span>\n\n' + JSON.stringify(result.data, null, 2);
+            } else {
+                resultEl.innerHTML = '<span class="error">❌ Error: ' + result.error + '</span>';
+            }
+        }
+
+        async function testGetBrands() {
+            const categoryId = document.getElementById('categoryId2').value;
+            const resultEl = document.getElementById('result2');
+            
+            if (!categoryId) {
+                resultEl.innerHTML = '<span class="error">Please enter a category ID</span>';
+                return;
+            }
+
+            resultEl.innerHTML = 'Loading...';
+            const result = await makeRequest(`${API_BASE}/battery-selection/category/${categoryId}/brands`);
+            
+            if (result.success) {
+                resultEl.innerHTML = '<span class="success">✅ Success!</span>\n\n' + JSON.stringify(result.data, null, 2);
+            } else {
+                resultEl.innerHTML = '<span class="error">❌ Error: ' + result.error + '</span>';
+            }
+        }
+
+        async function testGetModels() {
+            const categoryId = document.getElementById('categoryId3').value;
+            const brandId = document.getElementById('brandId3').value;
+            const resultEl = document.getElementById('result3');
+            
+            if (!categoryId || !brandId) {
+                resultEl.innerHTML = '<span class="error">Please enter both category ID and brand ID</span>';
+                return;
+            }
+
+            resultEl.innerHTML = 'Loading...';
+            const result = await makeRequest(`${API_BASE}/battery-selection/category/${categoryId}/brand/${brandId}/models`);
+            
+            if (result.success) {
+                resultEl.innerHTML = '<span class="success">✅ Success!</span>\n\n' + JSON.stringify(result.data, null, 2);
+            } else {
+                resultEl.innerHTML = '<span class="error">❌ Error: ' + result.error + '</span>';
+            }
+        }
+
+        async function getCategories() {
+            const resultEl = document.getElementById('categories');
+            resultEl.innerHTML = 'Loading...';
+            
+            const result = await makeRequest(`${API_BASE}/categories`);
+            
+            if (result.success) {
+                resultEl.innerHTML = '<span class="success">✅ Available Categories:</span>\n\n' + JSON.stringify(result.data, null, 2);
+            } else {
+                resultEl.innerHTML = '<span class="error">❌ Error: ' + result.error + '</span>';
+            }
+        }
+    </script>
+</body>
+</html>

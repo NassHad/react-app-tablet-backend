@@ -373,12 +373,13 @@ export interface AdminUser extends Struct.CollectionTypeSchema {
   };
 }
 
-export interface ApiBrandBrand extends Struct.CollectionTypeSchema {
-  collectionName: 'brands';
+export interface ApiBatteryBrandBatteryBrand
+  extends Struct.CollectionTypeSchema {
+  collectionName: 'battery_brands';
   info: {
-    displayName: 'Brand';
-    pluralName: 'brands';
-    singularName: 'brand';
+    displayName: 'BatteryBrand';
+    pluralName: 'battery-brands';
+    singularName: 'battery-brand';
   };
   options: {
     draftAndPublish: true;
@@ -389,12 +390,53 @@ export interface ApiBrandBrand extends Struct.CollectionTypeSchema {
       Schema.Attribute.Private;
     isActive: Schema.Attribute.Boolean;
     locale: Schema.Attribute.String & Schema.Attribute.Private;
-    localizations: Schema.Attribute.Relation<'oneToMany', 'api::brand.brand'> &
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::battery-brand.battery-brand'
+    > &
       Schema.Attribute.Private;
-    models: Schema.Attribute.Relation<'oneToMany', 'api::model.model'>;
     name: Schema.Attribute.String;
     publishedAt: Schema.Attribute.DateTime;
     slug: Schema.Attribute.UID;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
+export interface ApiBatteryModelBatteryModel
+  extends Struct.CollectionTypeSchema {
+  collectionName: 'battery_models';
+  info: {
+    displayName: 'BatteryModel';
+    pluralName: 'battery-models';
+    singularName: 'battery-model';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  attributes: {
+    batteryBrand: Schema.Attribute.Relation<
+      'manyToOne',
+      'api::battery-brand.battery-brand'
+    >;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    endDate: Schema.Attribute.Date;
+    fuel: Schema.Attribute.String;
+    isActive: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<true>;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::battery-model.battery-model'
+    > &
+      Schema.Attribute.Private;
+    motorisation: Schema.Attribute.String;
+    name: Schema.Attribute.String & Schema.Attribute.Required;
+    publishedAt: Schema.Attribute.DateTime;
+    slug: Schema.Attribute.UID<'name'>;
+    startDate: Schema.Attribute.Date;
     updatedAt: Schema.Attribute.DateTime;
     updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
@@ -460,36 +502,6 @@ export interface ApiCompatibilityCompatibility
     updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
     vehicle: Schema.Attribute.Relation<'oneToOne', 'api::vehicle.vehicle'>;
-  };
-}
-
-export interface ApiModelModel extends Struct.CollectionTypeSchema {
-  collectionName: 'models';
-  info: {
-    displayName: 'Model';
-    pluralName: 'models';
-    singularName: 'model';
-  };
-  options: {
-    draftAndPublish: true;
-  };
-  attributes: {
-    brand: Schema.Attribute.Relation<'manyToOne', 'api::brand.brand'>;
-    createdAt: Schema.Attribute.DateTime;
-    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
-      Schema.Attribute.Private;
-    endDate: Schema.Attribute.Date;
-    isActive: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<true>;
-    locale: Schema.Attribute.String & Schema.Attribute.Private;
-    localizations: Schema.Attribute.Relation<'oneToMany', 'api::model.model'> &
-      Schema.Attribute.Private;
-    name: Schema.Attribute.String & Schema.Attribute.Required;
-    publishedAt: Schema.Attribute.DateTime;
-    slug: Schema.Attribute.UID<'name'>;
-    startDate: Schema.Attribute.Date;
-    updatedAt: Schema.Attribute.DateTime;
-    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
-      Schema.Attribute.Private;
   };
 }
 
@@ -1160,10 +1172,10 @@ declare module '@strapi/strapi' {
       'admin::transfer-token': AdminTransferToken;
       'admin::transfer-token-permission': AdminTransferTokenPermission;
       'admin::user': AdminUser;
-      'api::brand.brand': ApiBrandBrand;
+      'api::battery-brand.battery-brand': ApiBatteryBrandBatteryBrand;
+      'api::battery-model.battery-model': ApiBatteryModelBatteryModel;
       'api::category.category': ApiCategoryCategory;
       'api::compatibility.compatibility': ApiCompatibilityCompatibility;
-      'api::model.model': ApiModelModel;
       'api::product.product': ApiProductProduct;
       'api::specific-question.specific-question': ApiSpecificQuestionSpecificQuestion;
       'api::tablet.tablet': ApiTabletTablet;

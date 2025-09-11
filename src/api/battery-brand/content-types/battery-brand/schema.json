@@ -1,10 +1,10 @@
 {
   "kind": "collectionType",
-  "collectionName": "brands",
+  "collectionName": "battery_brands",
   "info": {
-    "singularName": "brand",
-    "pluralName": "brands",
-    "displayName": "Brand"
+    "singularName": "battery-brand",
+    "pluralName": "battery-brands",
+    "displayName": "BatteryBrand"
   },
   "options": {
     "draftAndPublish": true
@@ -19,12 +19,6 @@
     },
     "isActive": {
       "type": "boolean"
-    },
-    "models": {
-      "type": "relation",
-      "relation": "oneToMany",
-      "target": "api::model.model",
-      "mappedBy": "brand"
     }
   }
 }

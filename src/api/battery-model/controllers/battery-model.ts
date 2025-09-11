@@ -1,10 +1,10 @@
 export default {
   async find(ctx: any) {
     const { query } = ctx;
-    const entities = await strapi.entityService.findMany('api::model.model', {
+    const entities = await strapi.entityService.findMany('api::battery-model.battery-model', {
       ...query,
       populate: {
-        brand: true,
+        batteryBrand: true,
       },
     });
     return entities;
@@ -12,9 +12,9 @@ export default {
 
   async findOne(ctx: any) {
     const { id } = ctx.params;
-    const entity = await strapi.entityService.findOne('api::model.model', id, {
+    const entity = await strapi.entityService.findOne('api::battery-model.battery-model', id, {
       populate: {
-        brand: true,
+        batteryBrand: true,
       },
     });
     return entity;
@@ -22,10 +22,10 @@ export default {
 
   async create(ctx: any) {
     const { data } = ctx.request.body;
-    const entity = await strapi.entityService.create('api::model.model', {
+    const entity = await strapi.entityService.create('api::battery-model.battery-model', {
       data,
       populate: {
-        brand: true,
+        batteryBrand: true,
       },
     });
     return entity;
@@ -34,10 +34,10 @@ export default {
   async update(ctx: any) {
     const { id } = ctx.params;
     const { data } = ctx.request.body;
-    const entity = await strapi.entityService.update('api::model.model', id, {
+    const entity = await strapi.entityService.update('api::battery-model.battery-model', id, {
       data,
       populate: {
-        brand: true,
+        batteryBrand: true,
       },
     });
     return entity;
@@ -45,7 +45,7 @@ export default {
 
   async delete(ctx: any) {
     const { id } = ctx.params;
-    const entity = await strapi.entityService.delete('api::model.model', id);
+    const entity = await strapi.entityService.delete('api::battery-model.battery-model', id);
     return entity;
   },
 };

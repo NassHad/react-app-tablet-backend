@@ -2,8 +2,8 @@ export default {
   routes: [
     {
       method: 'GET',
-      path: '/models',
-      handler: 'model.find',
+      path: '/battery-brands',
+      handler: 'battery-brand.find',
       config: {
         policies: [],
         middlewares: [],
@@ -11,8 +11,8 @@ export default {
     },
     {
       method: 'GET',
-      path: '/models/:id',
-      handler: 'model.findOne',
+      path: '/battery-brands/:id',
+      handler: 'battery-brand.findOne',
       config: {
         policies: [],
         middlewares: [],
@@ -20,8 +20,8 @@ export default {
     },
     {
       method: 'POST',
-      path: '/models',
-      handler: 'model.create',
+      path: '/battery-brands',
+      handler: 'battery-brand.create',
       config: {
         policies: [],
         middlewares: [],
@@ -29,8 +29,8 @@ export default {
     },
     {
       method: 'PUT',
-      path: '/models/:id',
-      handler: 'model.update',
+      path: '/battery-brands/:id',
+      handler: 'battery-brand.update',
       config: {
         policies: [],
         middlewares: [],
@@ -38,8 +38,8 @@ export default {
     },
     {
       method: 'DELETE',
-      path: '/models/:id',
-      handler: 'model.delete',
+      path: '/battery-brands/:id',
+      handler: 'battery-brand.delete',
       config: {
         policies: [],
         middlewares: [],

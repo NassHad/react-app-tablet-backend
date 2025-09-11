@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vehicle Form Demo - Motorisation Selection</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            max-width: 800px; 
+            margin: 0 auto; 
+            padding: 20px; 
+            background: #f5f5f5; 
+        }
+        .container { 
+            background: white; 
+            padding: 30px; 
+            border-radius: 10px; 
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1); 
+        }
+        h1 { 
+            color: #333; 
+            text-align: center; 
+            margin-bottom: 30px; 
+        }
+        .form-group { 
+            margin: 20px 0; 
+        }
+        label { 
+            display: block; 
+            margin-bottom: 5px; 
+            font-weight: bold; 
+            color: #555; 
+        }
+        select, input { 
+            width: 100%; 
+            padding: 10px; 
+            border: 1px solid #ddd; 
+            border-radius: 5px; 
+            font-size: 16px; 
+        }
+        select:disabled { 
+            background: #f5f5f5; 
+            color: #999; 
+        }
+        button { 
+            background: #007bff; 
+            color: white; 
+            border: none; 
+            padding: 15px 30px; 
+            border-radius: 5px; 
+            cursor: pointer; 
+            font-size: 16px; 
+            margin: 10px 5px; 
+        }
+        button:hover { 
+            background: #0056b3; 
+        }
+        button:disabled {
+            background: #6c757d;
+            cursor: not-allowed;
+        }
+        .result { 
+            background: #f8f9fa; 
+            padding: 15px; 
+            border-radius: 5px; 
+            margin: 20px 0; 
+            border-left: 4px solid #007bff; 
+        }
+        .loading {
+            color: #007bff;
+            font-style: italic;
+        }
+        .error {
+            color: #dc3545;
+            background: #f8d7da;
+            padding: 10px;
+            border-radius: 5px;
+            margin: 10px 0;
+        }
+        .success {
+            color: #155724;
+            background: #d4edda;
+            padding: 10px;
+            border-radius: 5px;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🚗 Vehicle Form Demo - Motorisation Selection</h1>
+        
+        <form id="vehicleForm">
+            <div class="form-group">
+                <label for="brandSelect">Select Brand:</label>
+                <select id="brandSelect" onchange="loadModels()">
+                    <option value="">Choose a brand...</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="modelSelect">Select Model:</label>
+                <select id="modelSelect" onchange="loadMotorisations()" disabled>
+                    <option value="">Choose a model...</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="motorisationSelect">Select Motorisation:</label>
+                <select id="motorisationSelect" disabled>
+                    <option value="">Choose a motorisation...</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="yearInput">Year:</label>
+                <input type="number" id="yearInput" placeholder="Enter year" min="1900" max="2030">
+            </div>
+
+            <button type="button" onclick="submitForm()">Submit Vehicle</button>
+            <button type="button" onclick="resetForm()">Reset Form</button>
+        </form>
+
+        <div id="result" class="result" style="display: none;">
+            <h3>Form Data:</h3>
+            <pre id="resultContent"></pre>
+        </div>
+    </div>
+
+    <script>
+        const API_BASE = window.location.origin + '/api';
+
+        // Load brands on page load
+        window.onload = function() {
+            loadBrands();
+        };
+
+        async function loadBrands() {
+            try {
+                const response = await fetch(`${API_BASE}/battery-brands`);
+                const brands = await response.json();
+                
+                const brandSelect = document.getElementById('brandSelect');
+                brandSelect.innerHTML = '<option value="">Choose a brand...</option>';
+                
+                brands.forEach(brand => {
+                    const option = document.createElement('option');
+                    option.value = brand.id;
+                    option.textContent = brand.name;
+                    brandSelect.appendChild(option);
+                });
+                
+            } catch (error) {
+                showError('Error loading brands: ' + error.message);
+            }
+        }
+
+        async function loadModels() {
+            const brandSelect = document.getElementById('brandSelect');
+            const modelSelect = document.getElementById('modelSelect');
+            const motorisationSelect = document.getElementById('motorisationSelect');
+            
+            if (!brandSelect.value) {
+                modelSelect.innerHTML = '<option value="">Choose a model...</option>';
+                modelSelect.disabled = true;
+                motorisationSelect.innerHTML = '<option value="">Choose a motorisation...</option>';
+                motorisationSelect.disabled = true;
+                return;
+            }
+
+            try {
+                modelSelect.innerHTML = '<option value="">Loading models...</option>';
+                modelSelect.disabled = true;
+                
+                const response = await fetch(`${API_BASE}/battery-selection/category/1/brand/${brandSelect.value}/models`);
+                const models = await response.json();
+                
+                modelSelect.innerHTML = '<option value="">Choose a model...</option>';
+                modelSelect.disabled = false;
+                
+                models.forEach(model => {
+                    const option = document.createElement('option');
+                    option.value = model.id;
+                    option.textContent = model.name;
+                    modelSelect.appendChild(option);
+                });
+                
+                // Reset motorisation select
+                motorisationSelect.innerHTML = '<option value="">Choose a motorisation...</option>';
+                motorisationSelect.disabled = true;
+                
+            } catch (error) {
+                showError('Error loading models: ' + error.message);
+                modelSelect.innerHTML = '<option value="">Error loading models</option>';
+            }
+        }
+
+        async function loadMotorisations() {
+            const modelSelect = document.getElementById('modelSelect');
+            const motorisationSelect = document.getElementById('motorisationSelect');
+            
+            if (!modelSelect.value) {
+                motorisationSelect.innerHTML = '<option value="">Choose a motorisation...</option>';
+                motorisationSelect.disabled = true;
+                return;
+            }
+
+            try {
+                motorisationSelect.innerHTML = '<option value="">Loading motorisations...</option>';
+                motorisationSelect.disabled = true;
+                
+                const response = await fetch(`${API_BASE}/motorisation/model/${modelSelect.value}`);
+                const data = await response.json();
+                
+                motorisationSelect.innerHTML = '<option value="">Choose a motorisation...</option>';
+                motorisationSelect.disabled = false;
+                
+                if (data.motorisations && data.motorisations.length > 0) {
+                    data.motorisations.forEach(motor => {
+                        const option = document.createElement('option');
+                        option.value = motor.id;
+                        option.textContent = `${motor.motorisation} (${motor.fuel})`;
+                        option.dataset.fuel = motor.fuel;
+                        option.dataset.startDate = motor.startDate;
+                        option.dataset.endDate = motor.endDate;
+                        motorisationSelect.appendChild(option);
+                    });
+                } else {
+                    const option = document.createElement('option');
+                    option.value = '';
+                    option.textContent = 'No motorisations available';
+                    motorisationSelect.appendChild(option);
+                }
+                
+            } catch (error) {
+                showError('Error loading motorisations: ' + error.message);
+                motorisationSelect.innerHTML = '<option value="">Error loading motorisations</option>';
+            }
+        }
+
+        function submitForm() {
+            const brandSelect = document.getElementById('brandSelect');
+            const modelSelect = document.getElementById('modelSelect');
+            const motorisationSelect = document.getElementById('motorisationSelect');
+            const yearInput = document.getElementById('yearInput');
+            
+            const formData = {
+                brand: {
+                    id: brandSelect.value,
+                    name: brandSelect.options[brandSelect.selectedIndex].text
+                },
+                model: {
+                    id: modelSelect.value,
+                    name: modelSelect.options[modelSelect.selectedIndex].text
+                },
+                motorisation: {
+                    id: motorisationSelect.value,
+                    name: motorisationSelect.options[motorisationSelect.selectedIndex].text,
+                    fuel: motorisationSelect.options[motorisationSelect.selectedIndex].dataset.fuel,
+                    startDate: motorisationSelect.options[motorisationSelect.selectedIndex].dataset.startDate,
+                    endDate: motorisationSelect.options[motorisationSelect.selectedIndex].dataset.endDate
+                },
+                year: yearInput.value
+            };
+            
+            document.getElementById('resultContent').textContent = JSON.stringify(formData, null, 2);
+            document.getElementById('result').style.display = 'block';
+        }
+
+        function resetForm() {
+            document.getElementById('vehicleForm').reset();
+            document.getElementById('brandSelect').innerHTML = '<option value="">Choose a brand...</option>';
+            document.getElementById('modelSelect').innerHTML = '<option value="">Choose a model...</option>';
+            document.getElementById('modelSelect').disabled = true;
+            document.getElementById('motorisationSelect').innerHTML = '<option value="">Choose a motorisation...</option>';
+            document.getElementById('motorisationSelect').disabled = true;
+            document.getElementById('result').style.display = 'none';
+            loadBrands();
+        }
+
+        function showError(message) {
+            const errorDiv = document.createElement('div');
+            errorDiv.className = 'error';
+            errorDiv.textContent = message;
+            document.querySelector('.container').insertBefore(errorDiv, document.getElementById('vehicleForm'));
+            
+            setTimeout(() => {
+                errorDiv.remove();
+            }, 5000);
+        }
+    </script>
+</body>
+</html>

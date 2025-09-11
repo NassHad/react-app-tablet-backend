@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Import Battery Data</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            max-width: 800px; 
+            margin: 0 auto; 
+            padding: 20px; 
+            background: #f5f5f5; 
+        }
+        .container { 
+            background: white; 
+            padding: 30px; 
+            border-radius: 10px; 
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1); 
+        }
+        h1 { 
+            color: #333; 
+            text-align: center; 
+            margin-bottom: 30px; 
+        }
+        .section { 
+            margin: 20px 0; 
+            padding: 20px; 
+            border: 1px solid #ddd; 
+            border-radius: 5px; 
+        }
+        button { 
+            background: #007bff; 
+            color: white; 
+            border: none; 
+            padding: 15px 30px; 
+            border-radius: 5px; 
+            cursor: pointer; 
+            margin: 10px 5px; 
+            font-size: 16px;
+        }
+        button:hover { 
+            background: #0056b3; 
+        }
+        button:disabled {
+            background: #6c757d;
+            cursor: not-allowed;
+        }
+        .danger {
+            background: #dc3545;
+        }
+        .danger:hover {
+            background: #c82333;
+        }
+        .success {
+            background: #28a745;
+        }
+        .success:hover {
+            background: #218838;
+        }
+        pre { 
+            background: #f8f9fa; 
+            padding: 15px; 
+            border-radius: 5px; 
+            overflow-x: auto; 
+            white-space: pre-wrap; 
+            max-height: 400px;
+            overflow-y: auto;
+        }
+        .status {
+            padding: 10px;
+            border-radius: 5px;
+            margin: 10px 0;
+        }
+        .status.success {
+            background: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+        .status.error {
+            background: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+        }
+        .status.info {
+            background: #d1ecf1;
+            color: #0c5460;
+            border: 1px solid #bee5eb;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🔋 Import Battery Data</h1>
+        
+        <div class="section">
+            <h2>📊 Data Import Status</h2>
+            <div id="status" class="status info">
+                Ready to import battery brands and models from JSON files
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>🏢 Import Battery Brands</h2>
+            <p>Import battery brands from <code>data/brands.json</code></p>
+            <button onclick="importBatteryBrands()" id="importBrandsBtn">
+                Import Battery Brands
+            </button>
+            <pre id="brandsResult"></pre>
+        </div>
+
+        <div class="section">
+            <h2>🚗 Import Battery Models</h2>
+            <p>Import battery models from <code>scripts/models.json</code></p>
+            <button onclick="importBatteryModels()" id="importModelsBtn">
+                Import Battery Models
+            </button>
+            <pre id="modelsResult"></pre>
+        </div>
+
+        <div class="section">
+            <h2>🔄 Import All Data</h2>
+            <p>Import both battery brands and models in sequence</p>
+            <button onclick="importAllData()" id="importAllBtn">
+                Import All Data
+            </button>
+        </div>
+
+        <div class="section">
+            <h2>📈 Check Import Status</h2>
+            <button onclick="checkImportStatus()">
+                Check Current Data
+            </button>
+            <pre id="statusResult"></pre>
+        </div>
+    </div>
+
+    <script>
+        const API_BASE = window.location.origin + '/api';
+
+        function updateStatus(message, type = 'info') {
+            const statusEl = document.getElementById('status');
+            statusEl.textContent = message;
+            statusEl.className = `status ${type}`;
+        }
+
+        function setButtonLoading(buttonId, loading = true) {
+            const btn = document.getElementById(buttonId);
+            btn.disabled = loading;
+            if (loading) {
+                btn.textContent = 'Loading...';
+            }
+        }
+
+        async function makeRequest(url, method = 'GET', body = null) {
+            try {
+                const options = {
+                    method,
+                    headers: {
+                        'Content-Type': 'application/json',
+                    }
+                };
+                
+                if (body) {
+                    options.body = JSON.stringify(body);
+                }
+
+                const response = await fetch(url, options);
+                const data = await response.json();
+                return { success: true, data };
+            } catch (error) {
+                return { success: false, error: error.message };
+            }
+        }
+
+        async function importBatteryBrands() {
+            const resultEl = document.getElementById('brandsResult');
+            setButtonLoading('importBrandsBtn', true);
+            updateStatus('Importing battery brands...', 'info');
+            
+            resultEl.innerHTML = 'Starting import...\n';
+            
+            try {
+                // This would need to be implemented as an API endpoint
+                // For now, we'll show the script content
+                resultEl.innerHTML = `To import battery brands, run this script in Strapi console:
+
+const fs = require('fs');
+const path = require('path');
+
+function slugify(text) {
+  return text
+    .toString()
+    .toLowerCase()
+    .trim()
+    .replace(/\\s+/g, '-')
+    .replace(/[^\\w\\-]+/g, '')
+    .replace(/\\-\\-+/g, '-')
+    .replace(/^-+/, '')
+    .replace(/-+$/, '');
+}
+
+async function importBatteryBrands() {
+  try {
+    console.log('🚀 Starting battery brands import...');
+    
+    const brandsPath = path.join(__dirname, '..', 'data', 'brands.json');
+    const brandsData = JSON.parse(fs.readFileSync(brandsPath, 'utf8'));
+    
+    console.log(\`📊 Found \${brandsData.length} brands to import\`);
+    
+    let importedCount = 0;
+    let skippedCount = 0;
+    let errorCount = 0;
+    
+    for (const brandData of brandsData) {
+      try {
+        const existingBrands = await strapi.entityService.findMany('api::battery-brand.battery-brand', {
+          filters: { name: brandData.name }
+        });
+        
+        if (existingBrands && existingBrands.length > 0) {
+          console.log(\`⏭️  Skipping existing brand: \${brandData.name}\`);
+          skippedCount++;
+          continue;
+        }
+        
+        const slug = slugify(brandData.name);
+        
+        const batteryBrand = await strapi.entityService.create('api::battery-brand.battery-brand', {
+          data: {
+            name: brandData.name,
+            slug: slug,
+            isActive: brandData.active === 1
+          }
+        });
+        
+        console.log(\`✅ Created battery brand: \${brandData.name} (ID: \${batteryBrand.id})\`);
+        importedCount++;
+        
+      } catch (error) {
+        console.error(\`❌ Error creating battery brand "\${brandData.name}":\`, error.message);
+        errorCount++;
+      }
+    }
+    
+    console.log('\\n📈 Import Summary:');
+    console.log(\`✅ Imported: \${importedCount}\`);
+    console.log(\`⏭️  Skipped: \${skippedCount}\`);
+    console.log(\`❌ Errors: \${errorCount}\`);
+    console.log(\`📊 Total processed: \${brandsData.length}\`);
+    
+  } catch (error) {
+    console.error('💥 Fatal error during import:', error);
+  }
+}
+
+importBatteryBrands();`;
+
+                updateStatus('Battery brands import script ready', 'success');
+            } catch (error) {
+                resultEl.innerHTML = `Error: ${error.message}`;
+                updateStatus('Error preparing import', 'error');
+            } finally {
+                setButtonLoading('importBrandsBtn', false);
+            }
+        }
+
+        async function importBatteryModels() {
+            const resultEl = document.getElementById('modelsResult');
+            setButtonLoading('importModelsBtn', true);
+            updateStatus('Importing battery models...', 'info');
+            
+            resultEl.innerHTML = 'Starting import...\n';
+            
+            try {
+                resultEl.innerHTML = `To import battery models, run this script in Strapi console:
+
+const fs = require('fs');
+const path = require('path');
+
+function slugify(text) {
+  return text
+    .toString()
+    .toLowerCase()
+    .trim()
+    .replace(/\\s+/g, '-')
+    .replace(/[^\\w\\-]+/g, '')
+    .replace(/\\-\\-+/g, '-')
+    .replace(/^-+/, '')
+    .replace(/-+$/, '');
+}
+
+function parseDate(dateString) {
+  if (!dateString) return null;
+  try {
+    const [day, month, year] = dateString.split('/');
+    return new Date(year, month - 1, day);
+  } catch (error) {
+    console.warn(\`⚠️  Invalid date format: \${dateString}\`);
+    return null;
+  }
+}
+
+async function importBatteryModels() {
+  try {
+    console.log('🚀 Starting battery models import...');
+    
+    const modelsPath = path.join(__dirname, 'models.json');
+    const modelsData = JSON.parse(fs.readFileSync(modelsPath, 'utf8'));
+    
+    console.log(\`📊 Found \${modelsData.length} models to import\`);
+    
+    let importedCount = 0;
+    let skippedCount = 0;
+    let errorCount = 0;
+    
+    const batteryBrands = await strapi.entityService.findMany('api::battery-brand.battery-brand', {
+      filters: { isActive: true }
+    });
+    
+    const brandSlugMap = {};
+    batteryBrands.forEach(brand => {
+      brandSlugMap[brand.slug] = brand.id;
+    });
+    
+    console.log(\`📋 Found \${batteryBrands.length} battery brands for lookup\`);
+    
+    for (const modelData of modelsData) {
+      try {
+        const brandId = brandSlugMap[modelData.brandSlug];
+        
+        if (!brandId) {
+          console.log(\`⚠️  Brand not found for slug: \${modelData.brandSlug}, skipping model: \${modelData.name}\`);
+          skippedCount++;
+          continue;
+        }
+        
+        const modelIdentifier = \`\${modelData.name}-\${modelData.brandSlug}-\${modelData.motorisation || 'default'}\`;
+        const modelSlug = slugify(modelIdentifier);
+        
+        const existingModels = await strapi.entityService.findMany('api::battery-model.battery-model', {
+          filters: { slug: modelSlug }
+        });
+        
+        if (existingModels && existingModels.length > 0) {
+          console.log(\`⏭️  Skipping existing model: \${modelData.name} (\${modelData.motorisation})\`);
+          skippedCount++;
+          continue;
+        }
+        
+        const startDate = parseDate(modelData.startDate);
+        const endDate = parseDate(modelData.endDate);
+        
+        const batteryModel = await strapi.entityService.create('api::battery-model.battery-model', {
+          data: {
+            name: modelData.name,
+            slug: modelSlug,
+            startDate: startDate,
+            endDate: endDate,
+            isActive: true,
+            batteryBrand: brandId
+          }
+        });
+        
+        console.log(\`✅ Created battery model: \${modelData.name} (\${modelData.motorisation}) for brand: \${modelData.brandSlug} (ID: \${batteryModel.id})\`);
+        importedCount++;
+        
+      } catch (error) {
+        console.error(\`❌ Error creating battery model "\${modelData.name}":\`, error.message);
+        errorCount++;
+      }
+    }
+    
+    console.log('\\n📈 Import Summary:');
+    console.log(\`✅ Imported: \${importedCount}\`);
+    console.log(\`⏭️  Skipped: \${skippedCount}\`);
+    console.log(\`❌ Errors: \${errorCount}\`);
+    console.log(\`📊 Total processed: \${modelsData.length}\`);
+    
+  } catch (error) {
+    console.error('💥 Fatal error during import:', error);
+  }
+}
+
+importBatteryModels();`;
+
+                updateStatus('Battery models import script ready', 'success');
+            } catch (error) {
+                resultEl.innerHTML = `Error: ${error.message}`;
+                updateStatus('Error preparing import', 'error');
+            } finally {
+                setButtonLoading('importModelsBtn', false);
+            }
+        }
+
+        async function importAllData() {
+            setButtonLoading('importAllBtn', true);
+            updateStatus('Preparing to import all data...', 'info');
+            
+            // Import brands first
+            await importBatteryBrands();
+            
+            // Wait a bit, then import models
+            setTimeout(async () => {
+                await importBatteryModels();
+                updateStatus('All import scripts ready!', 'success');
+                setButtonLoading('importAllBtn', false);
+            }, 1000);
+        }
+
+        async function checkImportStatus() {
+            const resultEl = document.getElementById('statusResult');
+            resultEl.innerHTML = 'Checking current data...\n';
+            
+            try {
+                // Check battery brands
+                const brandsResult = await makeRequest(`${API_BASE}/battery-brands`);
+                const brandsCount = brandsResult.success ? brandsResult.data.length : 0;
+                
+                // Check battery models
+                const modelsResult = await makeRequest(`${API_BASE}/battery-models`);
+                const modelsCount = modelsResult.success ? modelsResult.data.length : 0;
+                
+                resultEl.innerHTML = `📊 Current Data Status:
+                
+🏢 Battery Brands: ${brandsCount}
+🚗 Battery Models: ${modelsCount}
+
+${brandsCount > 0 ? '✅ Battery brands are imported' : '❌ No battery brands found'}
+${modelsCount > 0 ? '✅ Battery models are imported' : '❌ No battery models found'}
+
+${brandsCount === 0 && modelsCount === 0 ? '💡 Run the import scripts in Strapi console to populate data' : ''}`;
+
+                updateStatus(`Found ${brandsCount} brands and ${modelsCount} models`, 'info');
+                
+            } catch (error) {
+                resultEl.innerHTML = `Error checking status: ${error.message}`;
+                updateStatus('Error checking status', 'error');
+            }
+        }
+
+        // Check status on page load
+        window.onload = function() {
+            checkImportStatus();
+        };
+    </script>
+</body>
+</html>
