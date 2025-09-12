@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "light_brands",
+  "info": {
+    "singularName": "light-brand",
+    "pluralName": "light-brands",
+    "displayName": "LightBrand"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "slug": {
+      "type": "uid"
+    },
+    "name": {
+      "type": "string"
+    },
+    "isActive": {
+      "type": "boolean"
+    }
+  }
+}
