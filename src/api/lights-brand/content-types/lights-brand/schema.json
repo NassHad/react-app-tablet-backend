@@ -1,0 +1,33 @@
+{
+  "kind": "collectionType",
+  "collectionName": "lights_brands",
+  "info": {
+    "singularName": "lights-brand",
+    "pluralName": "lights-brands",
+    "displayName": "LightsBrand"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "slug": {
+      "type": "uid",
+      "targetField": "name"
+    },
+    "isActive": {
+      "type": "boolean",
+      "default": true
+    },
+    "models": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::lights-model.lights-model",
+      "mappedBy": "lightsBrand"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "kind": "collectionType",
+  "collectionName": "lights_positions",
+  "info": {
+    "singularName": "lights-position",
+    "pluralName": "lights-positions",
+    "displayName": "LightsPosition"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "slug": {
+      "type": "uid",
+      "targetField": "name"
+    },
+    "isActive": {
+      "type": "boolean",
+      "default": true
+    },
+    "lightsModels": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::lights-model.lights-model",
+      "mappedBy": "lightsPositions"
+    }
+  }
+}

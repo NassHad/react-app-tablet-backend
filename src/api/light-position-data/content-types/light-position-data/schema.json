@@ -1,0 +1,48 @@
+{
+  "kind": "collectionType",
+  "collectionName": "light_position_data",
+  "info": {
+    "singularName": "light-position-data",
+    "pluralName": "light-position-datas",
+    "displayName": "LightPositionData"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "lightType": {
+      "type": "string",
+      "required": true
+    },
+    "position": {
+      "type": "string",
+      "required": true
+    },
+    "category": {
+      "type": "string",
+      "required": true
+    },
+    "typeConception": {
+      "type": "string"
+    },
+    "partNumber": {
+      "type": "string"
+    },
+    "notes": {
+      "type": "text"
+    },
+    "source": {
+      "type": "string"
+    },
+    "isActive": {
+      "type": "boolean",
+      "default": true
+    },
+    "lightsPosition": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::lights-position.lights-position"
+    }
+  }
+}

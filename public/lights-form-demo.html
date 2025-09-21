@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lights Selection Demo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .form-group {
+            margin-bottom: 20px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+            color: #555;
+        }
+        select, input {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+        select:disabled {
+            background-color: #f5f5f5;
+            color: #999;
+        }
+        .loading {
+            color: #666;
+            font-style: italic;
+        }
+        .error {
+            color: #e74c3c;
+            background-color: #fdf2f2;
+            padding: 10px;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+        .success {
+            color: #27ae60;
+            background-color: #f0f9f0;
+            padding: 10px;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+        .results {
+            margin-top: 30px;
+            padding: 20px;
+            background-color: #f8f9fa;
+            border-radius: 5px;
+        }
+        .light-item {
+            background: white;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 5px;
+            border-left: 4px solid #3498db;
+        }
+        .light-type {
+            font-weight: bold;
+            color: #2c3e50;
+        }
+        .light-position {
+            color: #7f8c8d;
+            font-size: 14px;
+        }
+        .light-category {
+            background-color: #ecf0f1;
+            padding: 2px 8px;
+            border-radius: 3px;
+            font-size: 12px;
+            color: #34495e;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🔦 Lights Selection Demo</h1>
+        
+        <form id="lightsForm">
+            <div class="form-group">
+                <label for="category">Select Category:</label>
+                <select id="category" required>
+                    <option value="">Choose a category...</option>
+                    <option value="1">Lights Category (Example)</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="brand">Select Brand:</label>
+                <select id="brand" disabled>
+                    <option value="">Choose a brand...</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="model">Select Model:</label>
+                <select id="model" disabled>
+                    <option value="">Choose a model...</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="position">Select Light Position:</label>
+                <select id="position" disabled>
+                    <option value="">Choose a position...</option>
+                </select>
+            </div>
+
+            <div id="message"></div>
+        </form>
+
+        <div id="results" class="results" style="display: none;">
+            <h3>💡 Available Light Bulbs:</h3>
+            <div id="lightData"></div>
+        </div>
+    </div>
+
+    <script>
+        const API_BASE = 'http://localhost:1337/api';
+        let currentCategoryId = null;
+        let currentBrandId = null;
+        let currentModelId = null;
+
+        // DOM elements
+        const categorySelect = document.getElementById('category');
+        const brandSelect = document.getElementById('brand');
+        const modelSelect = document.getElementById('model');
+        const positionSelect = document.getElementById('position');
+        const messageDiv = document.getElementById('message');
+        const resultsDiv = document.getElementById('results');
+        const lightDataDiv = document.getElementById('lightData');
+
+        // Event listeners
+        categorySelect.addEventListener('change', loadBrands);
+        brandSelect.addEventListener('change', loadModels);
+        modelSelect.addEventListener('change', loadPositions);
+        positionSelect.addEventListener('change', loadLightData);
+
+        async function loadBrands() {
+            const categoryId = categorySelect.value;
+            if (!categoryId) {
+                resetForm();
+                return;
+            }
+
+            currentCategoryId = categoryId;
+            showLoading('Loading brands...');
+            
+            try {
+                const response = await fetch(`${API_BASE}/lights-selection/category/${categoryId}/brands`);
+                const brands = await response.json();
+                
+                brandSelect.innerHTML = '<option value="">Choose a brand...</option>';
+                brands.forEach(brand => {
+                    const option = document.createElement('option');
+                    option.value = brand.id;
+                    option.textContent = brand.name;
+                    brandSelect.appendChild(option);
+                });
+                
+                brandSelect.disabled = false;
+                hideMessage();
+            } catch (error) {
+                showError('Failed to load brands: ' + error.message);
+            }
+        }
+
+        async function loadModels() {
+            const brandId = brandSelect.value;
+            if (!brandId || !currentCategoryId) {
+                resetForm(['model', 'position']);
+                return;
+            }
+
+            currentBrandId = brandId;
+            showLoading('Loading models...');
+            
+            try {
+                const response = await fetch(`${API_BASE}/lights-selection/category/${currentCategoryId}/brand/${brandId}/models`);
+                const models = await response.json();
+                
+                modelSelect.innerHTML = '<option value="">Choose a model...</option>';
+                models.forEach(model => {
+                    const option = document.createElement('option');
+                    option.value = model.id;
+                    option.textContent = `${model.name} (${model.constructionYearStart} - ${model.constructionYearEnd})`;
+                    modelSelect.appendChild(option);
+                });
+                
+                modelSelect.disabled = false;
+                hideMessage();
+            } catch (error) {
+                showError('Failed to load models: ' + error.message);
+            }
+        }
+
+        async function loadPositions() {
+            const modelId = modelSelect.value;
+            if (!modelId) {
+                resetForm(['position']);
+                return;
+            }
+
+            currentModelId = modelId;
+            showLoading('Loading positions...');
+            
+            try {
+                const response = await fetch(`${API_BASE}/lights-selection/model/${modelId}/positions`);
+                const positions = await response.json();
+                
+                positionSelect.innerHTML = '<option value="">Choose a position...</option>';
+                positions.forEach(position => {
+                    const option = document.createElement('option');
+                    option.value = position.id;
+                    option.textContent = position.name;
+                    positionSelect.appendChild(option);
+                });
+                
+                positionSelect.disabled = false;
+                hideMessage();
+            } catch (error) {
+                showError('Failed to load positions: ' + error.message);
+            }
+        }
+
+        async function loadLightData() {
+            const positionId = positionSelect.value;
+            if (!positionId) {
+                resultsDiv.style.display = 'none';
+                return;
+            }
+
+            showLoading('Loading light data...');
+            
+            try {
+                const response = await fetch(`${API_BASE}/lights-selection/position/${positionId}/data`);
+                const lightData = await response.json();
+                
+                displayLightData(lightData);
+                hideMessage();
+            } catch (error) {
+                showError('Failed to load light data: ' + error.message);
+            }
+        }
+
+        function displayLightData(lightData) {
+            if (lightData.length === 0) {
+                lightDataDiv.innerHTML = '<p>No light data available for this position.</p>';
+                resultsDiv.style.display = 'block';
+                return;
+            }
+
+            lightDataDiv.innerHTML = lightData.map(data => `
+                <div class="light-item">
+                    <div class="light-type">${data.lightType}</div>
+                    <div class="light-position">${data.position}</div>
+                    <div style="margin-top: 10px;">
+                        <span class="light-category">${data.category}</span>
+                        ${data.typeConception ? `<span class="light-category" style="margin-left: 5px;">${data.typeConception}</span>` : ''}
+                    </div>
+                    ${data.partNumber ? `<div style="margin-top: 5px; font-size: 12px; color: #7f8c8d;">Part: ${data.partNumber}</div>` : ''}
+                    ${data.notes ? `<div style="margin-top: 5px; font-size: 12px; color: #7f8c8d;">${data.notes}</div>` : ''}
+                </div>
+            `).join('');
+
+            resultsDiv.style.display = 'block';
+        }
+
+        function resetForm(disabledFields = ['brand', 'model', 'position']) {
+            disabledFields.forEach(field => {
+                const select = document.getElementById(field);
+                select.innerHTML = `<option value="">Choose a ${field}...</option>`;
+                select.disabled = true;
+            });
+            resultsDiv.style.display = 'none';
+        }
+
+        function showLoading(message) {
+            messageDiv.innerHTML = `<div class="loading">${message}</div>`;
+        }
+
+        function showError(message) {
+            messageDiv.innerHTML = `<div class="error">${message}</div>`;
+        }
+
+        function hideMessage() {
+            messageDiv.innerHTML = '';
+        }
+
+        // Initialize
+        hideMessage();
+    </script>
+</body>
+</html>

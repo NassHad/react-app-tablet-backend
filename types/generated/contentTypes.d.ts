@@ -505,6 +505,155 @@ export interface ApiCompatibilityCompatibility
   };
 }
 
+export interface ApiLightPositionDataLightPositionData
+  extends Struct.CollectionTypeSchema {
+  collectionName: 'light_position_data';
+  info: {
+    displayName: 'LightPositionData';
+    pluralName: 'light-position-datas';
+    singularName: 'light-position-data';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  attributes: {
+    category: Schema.Attribute.String & Schema.Attribute.Required;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    isActive: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<true>;
+    lightsPosition: Schema.Attribute.Relation<
+      'manyToOne',
+      'api::lights-position.lights-position'
+    >;
+    lightType: Schema.Attribute.String & Schema.Attribute.Required;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::light-position-data.light-position-data'
+    > &
+      Schema.Attribute.Private;
+    notes: Schema.Attribute.Text;
+    partNumber: Schema.Attribute.String;
+    position: Schema.Attribute.String & Schema.Attribute.Required;
+    publishedAt: Schema.Attribute.DateTime;
+    source: Schema.Attribute.String;
+    typeConception: Schema.Attribute.String;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
+export interface ApiLightsBrandLightsBrand extends Struct.CollectionTypeSchema {
+  collectionName: 'lights_brands';
+  info: {
+    displayName: 'LightsBrand';
+    pluralName: 'lights-brands';
+    singularName: 'lights-brand';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    isActive: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<true>;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::lights-brand.lights-brand'
+    > &
+      Schema.Attribute.Private;
+    models: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::lights-model.lights-model'
+    >;
+    name: Schema.Attribute.String & Schema.Attribute.Required;
+    publishedAt: Schema.Attribute.DateTime;
+    slug: Schema.Attribute.UID<'name'>;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
+export interface ApiLightsModelLightsModel extends Struct.CollectionTypeSchema {
+  collectionName: 'lights_models';
+  info: {
+    displayName: 'LightsModel';
+    pluralName: 'lights-models';
+    singularName: 'lights-model';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  attributes: {
+    constructionYearEnd: Schema.Attribute.String;
+    constructionYearStart: Schema.Attribute.String;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    isActive: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<true>;
+    lightsBrand: Schema.Attribute.Relation<
+      'manyToOne',
+      'api::lights-brand.lights-brand'
+    >;
+    lightsPositions: Schema.Attribute.Relation<
+      'manyToMany',
+      'api::lights-position.lights-position'
+    >;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::lights-model.lights-model'
+    > &
+      Schema.Attribute.Private;
+    name: Schema.Attribute.String & Schema.Attribute.Required;
+    publishedAt: Schema.Attribute.DateTime;
+    slug: Schema.Attribute.UID<'name'>;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
+export interface ApiLightsPositionLightsPosition
+  extends Struct.CollectionTypeSchema {
+  collectionName: 'lights_positions';
+  info: {
+    displayName: 'LightsPosition';
+    pluralName: 'lights-positions';
+    singularName: 'lights-position';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    isActive: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<true>;
+    lightsModels: Schema.Attribute.Relation<
+      'manyToMany',
+      'api::lights-model.lights-model'
+    >;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::lights-position.lights-position'
+    > &
+      Schema.Attribute.Private;
+    name: Schema.Attribute.String & Schema.Attribute.Required;
+    publishedAt: Schema.Attribute.DateTime;
+    slug: Schema.Attribute.UID<'name'>;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
 export interface ApiProductProduct extends Struct.CollectionTypeSchema {
   collectionName: 'products';
   info: {
@@ -1176,6 +1325,10 @@ declare module '@strapi/strapi' {
       'api::battery-model.battery-model': ApiBatteryModelBatteryModel;
       'api::category.category': ApiCategoryCategory;
       'api::compatibility.compatibility': ApiCompatibilityCompatibility;
+      'api::light-position-data.light-position-data': ApiLightPositionDataLightPositionData;
+      'api::lights-brand.lights-brand': ApiLightsBrandLightsBrand;
+      'api::lights-model.lights-model': ApiLightsModelLightsModel;
+      'api::lights-position.lights-position': ApiLightsPositionLightsPosition;
       'api::product.product': ApiProductProduct;
       'api::specific-question.specific-question': ApiSpecificQuestionSpecificQuestion;
       'api::tablet.tablet': ApiTabletTablet;
