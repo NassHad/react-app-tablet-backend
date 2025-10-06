@@ -1,0 +1,66 @@
+{
+  "kind": "collectionType",
+  "collectionName": "battery_products",
+  "info": {
+    "singularName": "battery-product",
+    "pluralName": "battery-products",
+    "displayName": "BatteryProduct",
+    "description": "Battery products with specific battery types for vehicles"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "slug": {
+      "type": "uid",
+      "targetField": "name",
+      "required": true
+    },
+    "brand": {
+      "type": "string",
+      "required": true
+    },
+    "brandSlug": {
+      "type": "string",
+      "required": true
+    },
+    "modelName": {
+      "type": "string",
+      "required": true
+    },
+    "modelSlug": {
+      "type": "string",
+      "required": true
+    },
+    "motorisations": {
+      "type": "json"
+    },
+    "isActive": {
+      "type": "boolean",
+      "default": true
+    },
+    "batteryBrand": {
+      "type": "string",
+      "default": "Fulmen Endurance"
+    },
+    "category": {
+      "type": "string",
+      "default": "battery"
+    },
+    "img": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  }
+}

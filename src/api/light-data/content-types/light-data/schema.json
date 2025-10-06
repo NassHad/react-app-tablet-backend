@@ -1,0 +1,50 @@
+{
+  "kind": "collectionType",
+  "collectionName": "lights_data",
+  "info": {
+    "singularName": "light-data",
+    "pluralName": "lights-data",
+    "displayName": "LightData"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "ref": {
+      "type": "string"
+    },
+    "brand": {
+      "type": "string"
+    },
+    "img": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "brandImg": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "isActive": {
+      "type": "boolean"
+    },
+    "description": {
+      "type": "text"
+    },
+    "category": {
+      "type": "string"
+    }
+  }
+}

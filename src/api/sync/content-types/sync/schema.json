@@ -1,0 +1,31 @@
+{
+  "kind": "collectionType",
+  "collectionName": "syncs",
+  "info": {
+    "singularName": "sync",
+    "pluralName": "syncs",
+    "displayName": "Sync",
+    "description": "Synchronisation des données pour les tablettes offline"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "tabletId": {
+      "type": "string",
+      "required": true,
+      "unique": true
+    },
+    "version": {
+      "type": "string",
+      "required": true
+    },
+    "lastSync": {
+      "type": "datetime"
+    },
+    "data": {
+      "type": "json"
+    }
+  }
+}

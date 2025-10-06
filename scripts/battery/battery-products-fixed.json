@@ -1,0 +1,7761 @@
+[
+  {
+    "brand": "ALFA ROMEO",
+    "brandSlug": "alfa-romeo",
+    "modelName": "147",
+    "modelSlug": "147",
+    "motorisations": [
+      {
+        "motorisation": "1.9 JTD, 1.9 JTD 16V, 1.9 JTDM, 1.9 JTDM 8V, 1.9 JTDM, 16V",
+        "fuel": "Diesel",
+        "startDate": "2001-04-01",
+        "endDate": "2010-03-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      },
+      {
+        "motorisation": "1.6 16V T.SPARK, ECO",
+        "fuel": "Petrole",
+        "startDate": "2001-01-01",
+        "endDate": "2010-03-01",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "ALFA ROMEO",
+    "brandSlug": "alfa-romeo",
+    "modelName": "159 / 159 Sportwagon",
+    "modelSlug": "159-159-sportwagon",
+    "motorisations": [
+      {
+        "motorisation": "1.9 JTDM 16V, 1.9 JTDM 16V",
+        "fuel": "Diesel",
+        "startDate": "2005-09-01",
+        "endDate": "2011-11-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "ALFA ROMEO",
+    "brandSlug": "alfa-romeo",
+    "modelName": "GIULIETTA",
+    "modelSlug": "giulietta",
+    "motorisations": [
+      {
+        "motorisation": "1.6 JTDM, 2.0 JTDM",
+        "fuel": "Diesel",
+        "startDate": "2010-04-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.4 TB",
+        "fuel": "Petrole",
+        "startDate": "2010-04-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "ALFA ROMEO",
+    "brandSlug": "alfa-romeo",
+    "modelName": "GT",
+    "modelSlug": "gt",
+    "motorisations": [
+      {
+        "motorisation": "1.9 JTD",
+        "fuel": "Diesel",
+        "startDate": "2003-11-01",
+        "endDate": "2010-09-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "ALFA ROMEO",
+    "brandSlug": "alfa-romeo",
+    "modelName": "MITO",
+    "modelSlug": "mito",
+    "motorisations": [
+      {
+        "motorisation": "1.3 MultiJet, 1.6 JTDM",
+        "fuel": "Diesel",
+        "startDate": "2008-08-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "AUDI",
+    "brandSlug": "audi",
+    "modelName": "A1",
+    "modelSlug": "a1",
+    "motorisations": [
+      {
+        "motorisation": "1.6 TDI",
+        "fuel": "Diesel",
+        "startDate": "2010-05-01",
+        "endDate": "2015-04-01",
+        "batteryAGM": "F40",
+        "batteryEFB": "F32",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "AUDI",
+    "brandSlug": "audi",
+    "modelName": "A1, A1 Sportback",
+    "modelSlug": "a1-a1-sportback",
+    "motorisations": [
+      {
+        "motorisation": "1.4 TDI, 1.6 TDI",
+        "fuel": "Diesel",
+        "startDate": "2011-03-01",
+        "endDate": "2018-10-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.2 TFSI",
+        "fuel": "Petrole",
+        "startDate": "2010-05-01",
+        "endDate": "2015-04-01",
+        "batteryAGM": "F40",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.0 TFSI, 1.4 TFSI",
+        "fuel": "Petrole",
+        "startDate": "2010-05-01",
+        "endDate": "2018-10-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "AUDI",
+    "brandSlug": "audi",
+    "modelName": "A3, A3 Convertible, A3 Sportback",
+    "modelSlug": "a3-a3-convertible-a3-sportback",
+    "motorisations": [
+      {
+        "motorisation": "1.6 TDI, 1.9 TDI, 2.0 TDI quattro, 2.0 TDI 16V, 2.0 TDI 16V quattro",
+        "fuel": "Diesel",
+        "startDate": "1996-09-01",
+        "endDate": "2013-03-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "AUDI",
+    "brandSlug": "audi",
+    "modelName": "A3, A3 Sportback",
+    "modelSlug": "a3-a3-sportback",
+    "motorisations": [
+      {
+        "motorisation": "1.6 TDI, 1.6 TDI quattro, 2.0 TDI, 2.0 TDI quattro, 30 TDI (1.6)",
+        "fuel": "Diesel",
+        "startDate": "2012-10-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "AUDI",
+    "brandSlug": "audi",
+    "modelName": "A4, A4 Avant, A4 Convertible",
+    "modelSlug": "a4-a4-avant-a4-convertible",
+    "motorisations": [
+      {
+        "motorisation": "1.9 TDI, 2.0 TDI 16V, 2.5 TDI, 2.5 TDI quattro",
+        "fuel": "Diesel",
+        "startDate": "1995-01-01",
+        "endDate": "2015-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "AUDI",
+    "brandSlug": "audi",
+    "modelName": "A5, A5 Sportback",
+    "modelSlug": "a5-a5-sportback",
+    "motorisations": [
+      {
+        "motorisation": "2.7 TDI, 3.0 TDI quattro",
+        "fuel": "Diesel",
+        "startDate": "2007-06-01",
+        "endDate": "2012-03-01",
+        "batteryAGM": "F44",
+        "batteryEFB": "FL1050",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "AUDI",
+    "brandSlug": "audi",
+    "modelName": "A6, A6 Avant",
+    "modelSlug": "a6-a6-avant",
+    "motorisations": [
+      {
+        "motorisation": "2.5 TDI, 2.5 TDI quattro, 2.7 TDI, 2.7 TDI quattro 3.0 TDI quattro",
+        "fuel": "Diesel",
+        "startDate": "1997-07-01",
+        "endDate": "2018-09-01",
+        "batteryAGM": "F42",
+        "batteryEFB": "",
+        "batteryConventional": "F12"
+      }
+    ]
+  },
+  {
+    "brand": "AUDI",
+    "brandSlug": "audi",
+    "modelName": "Q3, Q3",
+    "modelSlug": "q3-q3",
+    "motorisations": [
+      {
+        "motorisation": "2.0 TDI, 2.0 TDI quattro, 35 TDI quattro",
+        "fuel": "Diesel",
+        "startDate": "2011-06-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "AUDI",
+    "brandSlug": "audi",
+    "modelName": "Q5",
+    "modelSlug": "q5",
+    "motorisations": [
+      {
+        "motorisation": "2.0 TDI quattro",
+        "fuel": "Diesel",
+        "startDate": "2008-11-01",
+        "endDate": "",
+        "batteryAGM": "F44",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "2.0 TDI, 2.0 TDI quattro",
+        "fuel": "Diesel",
+        "startDate": "2012-06-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "AUDI",
+    "brandSlug": "audi",
+    "modelName": "Q7",
+    "modelSlug": "q7",
+    "motorisations": [
+      {
+        "motorisation": "3.0 TDI quattro",
+        "fuel": "Diesel",
+        "startDate": "2006-03-01",
+        "endDate": "2015-08-01",
+        "batteryAGM": "F44",
+        "batteryEFB": "FL1050",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "BMW",
+    "brandSlug": "bmw",
+    "modelName": "1",
+    "modelSlug": "1",
+    "motorisations": [
+      {
+        "motorisation": "116 d, 118 d, 120 d",
+        "fuel": "Diesel",
+        "startDate": "2006-09-01",
+        "endDate": "2011-12-01",
+        "batteryAGM": "F42",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "116 d, 118 d, 120 d",
+        "fuel": "Diesel",
+        "startDate": "2004-06-01",
+        "endDate": "2011-06-01",
+        "batteryAGM": "F42",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "114 d, 116 d, 118 d, 120 d, 125d",
+        "fuel": "Diesel",
+        "startDate": "2011-07-01",
+        "endDate": "2019-06-01",
+        "batteryAGM": "F42",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "114 d, 116 d, 120 d",
+        "fuel": "Diesel",
+        "startDate": "2011-12-01",
+        "endDate": "",
+        "batteryAGM": "F42",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "BMW",
+    "brandSlug": "bmw",
+    "modelName": "2 Active Tourer, 2 Coupe, 2 Gran Tourer",
+    "modelSlug": "2-active-tourer-2-coupe-2-gran-tourer",
+    "motorisations": [
+      {
+        "motorisation": "214 d, 216 d, 218 d",
+        "fuel": "Diesel",
+        "startDate": "2014-07-01",
+        "endDate": "",
+        "batteryAGM": "F42",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "BMW",
+    "brandSlug": "bmw",
+    "modelName": "3",
+    "modelSlug": "3",
+    "motorisations": [
+      {
+        "motorisation": "325 td, 325 tds",
+        "fuel": "Diesel",
+        "startDate": "1991-09-01",
+        "endDate": "1998-02-01",
+        "batteryAGM": "F43",
+        "batteryEFB": "",
+        "batteryConventional": "F10"
+      },
+      {
+        "motorisation": "318 d, 320 d",
+        "fuel": "Diesel",
+        "startDate": "1998-04-01",
+        "endDate": "2005-05-01",
+        "batteryAGM": "F42",
+        "batteryEFB": "",
+        "batteryConventional": "F12"
+      },
+      {
+        "motorisation": "330 d, 330 xd",
+        "fuel": "Diesel",
+        "startDate": "1999-10-01",
+        "endDate": "2005-02-01",
+        "batteryAGM": "F43",
+        "batteryEFB": "",
+        "batteryConventional": "F10"
+      },
+      {
+        "motorisation": "318 d, 320 d",
+        "fuel": "Diesel",
+        "startDate": "2004-12-01",
+        "endDate": "2011-10-01",
+        "batteryAGM": "F42",
+        "batteryEFB": "",
+        "batteryConventional": "F12"
+      },
+      {
+        "motorisation": "316 d, 325 , 330 d, 330 xd",
+        "fuel": "Diesel",
+        "startDate": "2005-09-01",
+        "endDate": "2011-12-01",
+        "batteryAGM": "F43",
+        "batteryEFB": "",
+        "batteryConventional": "F10"
+      },
+      {
+        "motorisation": "316 d, 318 d, 320 d, 320 d xDrive",
+        "fuel": "Diesel",
+        "startDate": "2011-11-01",
+        "endDate": "2018-10-01",
+        "batteryAGM": "F43",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "BMW",
+    "brandSlug": "bmw",
+    "modelName": "5",
+    "modelSlug": "5",
+    "motorisations": [
+      {
+        "motorisation": "520 d, 525 d, 525 td, 530 d",
+        "fuel": "Diesel",
+        "startDate": "1997-01-01",
+        "endDate": "2003-06-01",
+        "batteryAGM": "F43",
+        "batteryEFB": "",
+        "batteryConventional": "F10"
+      },
+      {
+        "motorisation": "525 d, 530 d",
+        "fuel": "Diesel",
+        "startDate": "2004-06-01",
+        "endDate": "2010-03-01",
+        "batteryAGM": "F44",
+        "batteryEFB": "FL1050",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "BMW",
+    "brandSlug": "bmw",
+    "modelName": "X1",
+    "modelSlug": "x1",
+    "motorisations": [
+      {
+        "motorisation": "sDrive 16 d, sDrive 18 d, sDrive 20 d, xDrive 18 d, xDrive 20 d",
+        "fuel": "Diesel",
+        "startDate": "2009-09-01",
+        "endDate": "2015-06-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "BMW",
+    "brandSlug": "bmw",
+    "modelName": "X3",
+    "modelSlug": "x3",
+    "motorisations": [
+      {
+        "motorisation": "2.0 D",
+        "fuel": "Diesel",
+        "startDate": "2004-09-01",
+        "endDate": "2008-08-01",
+        "batteryAGM": "F42",
+        "batteryEFB": "",
+        "batteryConventional": "F12"
+      },
+      {
+        "motorisation": "xDrive 20 d",
+        "fuel": "Diesel",
+        "startDate": "2010-09-01",
+        "endDate": "2014-03-01",
+        "batteryAGM": "F42",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "BMW",
+    "brandSlug": "bmw",
+    "modelName": "X5",
+    "modelSlug": "x5",
+    "motorisations": [
+      {
+        "motorisation": "3.0 D",
+        "fuel": "Diesel",
+        "startDate": "1999-12-01",
+        "endDate": "2006-09-01",
+        "batteryAGM": "F43",
+        "batteryEFB": "",
+        "batteryConventional": "F10"
+      },
+      {
+        "motorisation": "3.0 D, 3.0 sd, xDrive 30 d, xDrive 35 d, xDrive 40 d",
+        "fuel": "Diesel",
+        "startDate": "2007-02-01",
+        "endDate": "2013-07-01",
+        "batteryAGM": "F43",
+        "batteryEFB": "",
+        "batteryConventional": "F10"
+      }
+    ]
+  },
+  {
+    "brand": "FIAT",
+    "brandSlug": "fiat",
+    "modelName": "500",
+    "modelSlug": "500",
+    "motorisations": [
+      {
+        "motorisation": "0.9, 1.2, 1.4",
+        "fuel": "Petrole",
+        "startDate": "2007-07-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.3 D Multijet",
+        "fuel": "Diesel",
+        "startDate": "2007-10-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "FIAT",
+    "brandSlug": "fiat",
+    "modelName": "500 C",
+    "modelSlug": "500-c",
+    "motorisations": [
+      {
+        "motorisation": "0.9, 1.2, 1.4",
+        "fuel": "Petrole",
+        "startDate": "2009-09-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "FIAT",
+    "brandSlug": "fiat",
+    "modelName": "500L",
+    "modelSlug": "500l",
+    "motorisations": [
+      {
+        "motorisation": "1.6 D Multijet",
+        "fuel": "Diesel",
+        "startDate": "2012-09-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "0.9, 1.4",
+        "fuel": "Petrol",
+        "startDate": "2012-09-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "FIAT",
+    "brandSlug": "fiat",
+    "modelName": "500X",
+    "modelSlug": "500x",
+    "motorisations": [
+      {
+        "motorisation": "1.6 D Multijet",
+        "fuel": "Diesel",
+        "startDate": "2014-09-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.0, 1.4",
+        "fuel": "Petrole",
+        "startDate": "2014-09-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "FIAT",
+    "brandSlug": "fiat",
+    "modelName": "DOBLO Box Body / Estate",
+    "modelSlug": "doblo-box-body-estate",
+    "motorisations": [
+      {
+        "motorisation": "1.3 D Multijet",
+        "fuel": "Diesel",
+        "startDate": "2010-02-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "FIAT",
+    "brandSlug": "fiat",
+    "modelName": "DOBLO Cargo",
+    "modelSlug": "doblo-cargo",
+    "motorisations": [
+      {
+        "motorisation": "1.3 D Multijet, 1.3 JTD 16V, 1.9, 1.9 JTD",
+        "fuel": "Diesel",
+        "startDate": "2001-03-01",
+        "endDate": "2010-01-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "FIAT",
+    "brandSlug": "fiat",
+    "modelName": "DOBLO MPV",
+    "modelSlug": "doblo-mpv",
+    "motorisations": [
+      {
+        "motorisation": "1.3 D Multijet, 1.3 JTD 16V, 1.9, 1.9 JTD",
+        "fuel": "Diesel",
+        "startDate": "2001-03-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F10"
+      }
+    ]
+  },
+  {
+    "brand": "FIAT",
+    "brandSlug": "fiat",
+    "modelName": "DUCATO Box",
+    "modelSlug": "ducato-box",
+    "motorisations": [
+      {
+        "motorisation": "2.5 D, 2.5 TDI, 2.8 D, 2.8 D 4x4, 2.8 TDI",
+        "fuel": "Diesel",
+        "startDate": "1994-03-01",
+        "endDate": "2002-04-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "2.8 JTD, 2.8 JTD 4x4, 2.8 JTD Power, 2.8 TD",
+        "fuel": "Diesel",
+        "startDate": "2002-04-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F10"
+      },
+      {
+        "motorisation": "2.0 JTD, 2.3 JTD",
+        "fuel": "Diesel",
+        "startDate": "2002-04-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      },
+      {
+        "motorisation": "100 Multijet 2,2 D, 120 Multijet 2,3 D, 160 Multijet 3.0 D, 180 Multijet 3.0 D",
+        "fuel": "Diesel",
+        "startDate": "2006-07-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "FL1050",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "115 Multijet 2,0 D, 130 Multijet 2,3 D",
+        "fuel": "Diesel",
+        "startDate": "2006-07-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "150 Multijet 2,3 D, 160 Multijet 3,0 D",
+        "fuel": "Diesel",
+        "startDate": "2006-07-01",
+        "endDate": "",
+        "batteryAGM": "F43",
+        "batteryEFB": "FL1000",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "FIAT",
+    "brandSlug": "fiat",
+    "modelName": "DUCATO Bus",
+    "modelSlug": "ducato-bus",
+    "motorisations": [
+      {
+        "motorisation": "100 Multijet 2,2 D, 120 Multijet 2,3 D, 160 Multijet 3.0 D, 180 Multijet 3.0 D",
+        "fuel": "Diesel",
+        "startDate": "2006-07-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "FL1050",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "FIAT",
+    "brandSlug": "fiat",
+    "modelName": "DUCATO Platform/ Chassis",
+    "modelSlug": "ducato-platform-chassis",
+    "motorisations": [
+      {
+        "motorisation": "100 Multijet 2,2 D, 120 Multijet 2,3 D, 160 Multijet 3.0 D, 180 Multijet 3.0 D",
+        "fuel": "Diesel",
+        "startDate": "2006-07-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "FL1050",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "115 Multijet 2.0 D, 130 Multijet 2.3 D",
+        "fuel": "Diesel",
+        "startDate": "2006-07-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "FIAT",
+    "brandSlug": "fiat",
+    "modelName": "GRANDE PUNTO",
+    "modelSlug": "grande-punto",
+    "motorisations": [
+      {
+        "motorisation": "1.4, 1.4 16V, 1.4 T-Jet",
+        "fuel": "Petrole",
+        "startDate": "2005-06-01",
+        "endDate": "2015-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "FIAT",
+    "brandSlug": "fiat",
+    "modelName": "MULTIPLA",
+    "modelSlug": "multipla",
+    "motorisations": [
+      {
+        "motorisation": "1.9 JTD, 1.9 JTD 105 , 1.9 JTD 110, 1.9 JTD 115",
+        "fuel": "Diesel",
+        "startDate": "1999-04-01",
+        "endDate": "2010-06-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "FIAT",
+    "brandSlug": "fiat",
+    "modelName": "PANDA | PANDA / PANDA CLASSIC",
+    "modelSlug": "panda-panda-panda-classic",
+    "motorisations": [
+      {
+        "motorisation": "1.2 (169AXF2A, 169AXF1A)",
+        "fuel": "Petrole",
+        "startDate": "2010-03-01",
+        "endDate": "2013-08-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "FIAT",
+    "brandSlug": "fiat",
+    "modelName": "PANDA",
+    "modelSlug": "panda",
+    "motorisations": [
+      {
+        "motorisation": "0.9, 0.9 4x4 , 1.2",
+        "fuel": "Petrole",
+        "startDate": "2012-02-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "FIAT",
+    "brandSlug": "fiat",
+    "modelName": "PUNTO",
+    "modelSlug": "punto",
+    "motorisations": [
+      {
+        "motorisation": "1.9 DS 60, 1.9 JTD, 1.9 JTD 80",
+        "fuel": "Diesel",
+        "startDate": "1999-09-01",
+        "endDate": "2012-03-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "FIAT",
+    "brandSlug": "fiat",
+    "modelName": "SCUDO Box",
+    "modelSlug": "scudo-box",
+    "motorisations": [
+      {
+        "motorisation": "1.9 D",
+        "fuel": "Diesel",
+        "startDate": "1996-02-01",
+        "endDate": "2006-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "FIAT",
+    "brandSlug": "fiat",
+    "modelName": "STILO",
+    "modelSlug": "stilo",
+    "motorisations": [
+      {
+        "motorisation": "1.9 JTD",
+        "fuel": "Diesel",
+        "startDate": "2001-10-01",
+        "endDate": "2006-11-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "FORD",
+    "brandSlug": "ford",
+    "modelName": "C-MAX",
+    "modelSlug": "c-max",
+    "motorisations": [
+      {
+        "motorisation": "1.8 TDCi, 2.0 TDCi",
+        "fuel": "Diesel",
+        "startDate": "2007-02-01",
+        "endDate": "2010-09-01",
+        "batteryAGM": "",
+        "batteryEFB": "FL652",
+        "batteryConventional": "F8"
+      }
+    ]
+  },
+  {
+    "brand": "FORD",
+    "brandSlug": "ford",
+    "modelName": "ECOSPORT",
+    "modelSlug": "ecosport",
+    "motorisations": [
+      {
+        "motorisation": "1.0 EcoBoost",
+        "fuel": "Petrole",
+        "startDate": "2013-10-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "FL652",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "FORD",
+    "brandSlug": "ford",
+    "modelName": "FIESTA IV",
+    "modelSlug": "fiesta-iv",
+    "motorisations": [
+      {
+        "motorisation": "1.8 D, 1.8 DI",
+        "fuel": "Diesel",
+        "startDate": "1995-08-01",
+        "endDate": "2002-01-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F6"
+      }
+    ]
+  },
+  {
+    "brand": "FORD",
+    "brandSlug": "ford",
+    "modelName": "FIESTA V",
+    "modelSlug": "fiesta-v",
+    "motorisations": [
+      {
+        "motorisation": "1.4 TDCi",
+        "fuel": "Diesel",
+        "startDate": "2001-11-01",
+        "endDate": "2008-06-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F6"
+      },
+      {
+        "motorisation": "1.25 16V, 1.4 16V, 1.6 16V",
+        "fuel": "Petrole",
+        "startDate": "2001-11-01",
+        "endDate": "2008-06-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F3"
+      }
+    ]
+  },
+  {
+    "brand": "FORD",
+    "brandSlug": "ford",
+    "modelName": "FIESTA VI",
+    "modelSlug": "fiesta-vi",
+    "motorisations": [
+      {
+        "motorisation": "1.4 TDCi, 1.5 TDCi",
+        "fuel": "Diesel",
+        "startDate": "2009-01-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "FL652",
+        "batteryConventional": "F6"
+      },
+      {
+        "motorisation": "1.0, 1.0 EcoBoost, 1.0 Sport, 1.6 Ti",
+        "fuel": "Petrole",
+        "startDate": "2008-06-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "FL652",
+        "batteryConventional": "F6"
+      },
+      {
+        "motorisation": "1.6 TDCi",
+        "fuel": "Diesel",
+        "startDate": "2010-02-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "FL652",
+        "batteryConventional": "F8"
+      }
+    ]
+  },
+  {
+    "brand": "FORD",
+    "brandSlug": "ford",
+    "modelName": "FIESTA VII",
+    "modelSlug": "fiesta-vii",
+    "motorisations": [
+      {
+        "motorisation": "1.5 TDCi",
+        "fuel": "Diesel",
+        "startDate": "2010-08-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "FL652",
+        "batteryConventional": "F8"
+      }
+    ]
+  },
+  {
+    "brand": "FORD",
+    "brandSlug": "ford",
+    "modelName": "FOCUS",
+    "modelSlug": "focus",
+    "motorisations": [
+      {
+        "motorisation": "1.8 TDCi, 1.8 Turbo DI / TDDi",
+        "fuel": "Diesel",
+        "startDate": "1998-10-01",
+        "endDate": "2004-11-01",
+        "batteryAGM": "",
+        "batteryEFB": "FL652",
+        "batteryConventional": "F8"
+      },
+      {
+        "motorisation": "1.4 16V, 1.6 16V, 1.8 16V",
+        "fuel": "Petrole",
+        "startDate": "1998-10-01",
+        "endDate": "2004-11-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F3"
+      }
+    ]
+  },
+  {
+    "brand": "FORD",
+    "brandSlug": "ford",
+    "modelName": "FOCUS C-MAX",
+    "modelSlug": "focus-c-max",
+    "motorisations": [
+      {
+        "motorisation": "1.6 TDCi, 1.8 TDCi, 2.0 TDCi",
+        "fuel": "Diesel",
+        "startDate": "2003-10-01",
+        "endDate": "2007-03-01",
+        "batteryAGM": "",
+        "batteryEFB": "FL752",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "FORD",
+    "brandSlug": "ford",
+    "modelName": "FOCUS II",
+    "modelSlug": "focus-ii",
+    "motorisations": [
+      {
+        "motorisation": "1.6 TDCi, 1.8 TDCi, 2.0 TDCi",
+        "fuel": "Diesel",
+        "startDate": "2004-07-01",
+        "endDate": "2012-09-01",
+        "batteryAGM": "",
+        "batteryEFB": "FL652",
+        "batteryConventional": "F8"
+      }
+    ]
+  },
+  {
+    "brand": "FORD",
+    "brandSlug": "ford",
+    "modelName": "FOCUS Turnier",
+    "modelSlug": "focus-turnier",
+    "motorisations": [
+      {
+        "motorisation": "1.8 TDCi, 1.8 Turbo DI / TDDi",
+        "fuel": "Diesel",
+        "startDate": "1999-02-01",
+        "endDate": "2004-11-01",
+        "batteryAGM": "",
+        "batteryEFB": "FL652",
+        "batteryConventional": "F8"
+      }
+    ]
+  },
+  {
+    "brand": "FORD",
+    "brandSlug": "ford",
+    "modelName": "FUSION",
+    "modelSlug": "fusion",
+    "motorisations": [
+      {
+        "motorisation": "1.4 TDCi, 1.6 TDCi",
+        "fuel": "Diesel",
+        "startDate": "2002-08-01",
+        "endDate": "2012-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "FL652",
+        "batteryConventional": "F8"
+      },
+      {
+        "motorisation": "1.4, 1.6",
+        "fuel": "Petrole",
+        "startDate": "2002-08-01",
+        "endDate": "2012-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F3"
+      }
+    ]
+  },
+  {
+    "brand": "FORD",
+    "brandSlug": "ford",
+    "modelName": "GALAXY",
+    "modelSlug": "galaxy",
+    "motorisations": [
+      {
+        "motorisation": "1.9 TDI",
+        "fuel": "Diesel",
+        "startDate": "1995-03-01",
+        "endDate": "2006-05-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F10"
+      }
+    ]
+  },
+  {
+    "brand": "FORD",
+    "brandSlug": "ford",
+    "modelName": "KA",
+    "modelSlug": "ka",
+    "motorisations": [
+      {
+        "motorisation": "1.3 i",
+        "fuel": "Petrole",
+        "startDate": "1996-09-01",
+        "endDate": "2008-11-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F3"
+      },
+      {
+        "motorisation": "1.2",
+        "fuel": "Petrole",
+        "startDate": "2008-10-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "FORD",
+    "brandSlug": "ford",
+    "modelName": "KA+",
+    "modelSlug": "ka",
+    "motorisations": [
+      {
+        "motorisation": "1.3 i",
+        "fuel": "Petrole",
+        "startDate": "1996-09-01",
+        "endDate": "2008-11-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F3"
+      }
+    ]
+  },
+  {
+    "brand": "FORD",
+    "brandSlug": "ford",
+    "modelName": "KUGA I MONDEO",
+    "modelSlug": "kuga-i-mondeo",
+    "motorisations": [
+      {
+        "motorisation": "1.2",
+        "fuel": "Petrole",
+        "startDate": "2008-10-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "FORD",
+    "brandSlug": "ford",
+    "modelName": "MONDEO III",
+    "modelSlug": "mondeo-iii",
+    "motorisations": [
+      {
+        "motorisation": "1.2, 1.2 Ti-VCT",
+        "fuel": "Petrole",
+        "startDate": "2016-06-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F3"
+      },
+      {
+        "motorisation": "2.0 TDCi, 2.0 TDCi 4x4",
+        "fuel": "Diesel",
+        "startDate": "2008-03-01",
+        "endDate": "2012-11-01",
+        "batteryAGM": "",
+        "batteryEFB": "FL652",
+        "batteryConventional": "F8"
+      }
+    ]
+  },
+  {
+    "brand": "FORD",
+    "brandSlug": "ford",
+    "modelName": "MONDEO III Turnier",
+    "modelSlug": "mondeo-iii-turnier",
+    "motorisations": [
+      {
+        "motorisation": "2.0 16V DI / TDDi / TDCi",
+        "fuel": "Diesel",
+        "startDate": "2000-10-01",
+        "endDate": "2007-03-01",
+        "batteryAGM": "",
+        "batteryEFB": "FL652",
+        "batteryConventional": "F8"
+      },
+      {
+        "motorisation": "1.8 16V",
+        "fuel": "Petrole",
+        "startDate": "2000-10-01",
+        "endDate": "2007-03-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F6"
+      }
+    ]
+  },
+  {
+    "brand": "FORD",
+    "brandSlug": "ford",
+    "modelName": "RANGER",
+    "modelSlug": "ranger",
+    "motorisations": [
+      {
+        "motorisation": "3.2 TDCi 4x4",
+        "fuel": "Diesel",
+        "startDate": "2011-04-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "FL752",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "FORD",
+    "brandSlug": "ford",
+    "modelName": "S-MAX TRANSIT",
+    "modelSlug": "s-max-transit",
+    "motorisations": [
+      {
+        "motorisation": "1.8 TDCi, 2.0 TDCi",
+        "fuel": "Diesel",
+        "startDate": "2006-05-01",
+        "endDate": "2014-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "FL752",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "FORD",
+    "brandSlug": "ford",
+    "modelName": "TRANSIT Box TRANSIT Box",
+    "modelSlug": "transit-box-transit-box",
+    "motorisations": [
+      {
+        "motorisation": "2.5 DI, 2.5 TD, 2.5 TDI",
+        "fuel": "Diesel",
+        "startDate": "1991-05-01",
+        "endDate": "2000-03-01",
+        "batteryAGM": "",
+        "batteryEFB": "FL652",
+        "batteryConventional": "F8"
+      },
+      {
+        "motorisation": "2.2 TDCi, 2.4 Di, 2.4 TDCi, 2.4 TDE",
+        "fuel": "Diesel",
+        "startDate": "2000-01-01",
+        "endDate": "2014-08-01",
+        "batteryAGM": "",
+        "batteryEFB": "FL752",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "FORD",
+    "brandSlug": "ford",
+    "modelName": "TRANSIT CONNECT",
+    "modelSlug": "transit-connect",
+    "motorisations": [
+      {
+        "motorisation": "1.8 DI, 1.8 TDCi",
+        "fuel": "Diesel",
+        "startDate": "2002-06-01",
+        "endDate": "2013-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "FL652",
+        "batteryConventional": "F8"
+      }
+    ]
+  },
+  {
+    "brand": "CHEVROLET",
+    "brandSlug": "chevrolet",
+    "modelName": "MATIZ",
+    "modelSlug": "matiz",
+    "motorisations": [
+      {
+        "motorisation": "0.8",
+        "fuel": "Petrole",
+        "startDate": "2005-03-01",
+        "endDate": "2013-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "CHRYSLER",
+    "brandSlug": "chrysler",
+    "modelName": "PT CRUISER",
+    "modelSlug": "pt-cruiser",
+    "motorisations": [
+      {
+        "motorisation": "2.2 CRD",
+        "fuel": "Diesel",
+        "startDate": "2002-03-01",
+        "endDate": "2010-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "FK508",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "CITROËN",
+    "brandSlug": "citron",
+    "modelName": "BERLINGO",
+    "modelSlug": "berlingo",
+    "motorisations": [
+      {
+        "motorisation": "1.6 HDi 75, 1.6 HDi 75 16V, 1.6 HDi 90, 1.6 BlueHDi 100, 1.6 BlueHDi 120, 1.6 HDi 110, 1.6 HDi 115",
+        "fuel": "Diesel",
+        "startDate": "2008-04-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "CITROËN",
+    "brandSlug": "citron",
+    "modelName": "BERLINGO / BERLINGO FIRST Box",
+    "modelSlug": "berlingo-berlingo-first-box",
+    "motorisations": [
+      {
+        "motorisation": "1.6 HDI 75, 1.6 HDI 90, 1.9 D 70, 2.0 HDI 90",
+        "fuel": "Diesel",
+        "startDate": "1996-07-01",
+        "endDate": "2011-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "CITROËN",
+    "brandSlug": "citron",
+    "modelName": "BERLINGO / BERLINGO FIRST MPV",
+    "modelSlug": "berlingo-berlingo-first-mpv",
+    "motorisations": [
+      {
+        "motorisation": "1.6 HDI 90, 1.9 D",
+        "fuel": "Diesel",
+        "startDate": "1996-07-01",
+        "endDate": "2008-05-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "1.4 i, 1.6 16V",
+        "fuel": "Petrole",
+        "startDate": "1996-07-01",
+        "endDate": "2011-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "CITROËN",
+    "brandSlug": "citron",
+    "modelName": "BERLINGO Box",
+    "modelSlug": "berlingo-box",
+    "motorisations": [
+      {
+        "motorisation": "1.6 HDi 110, 1.6 HDi 115, 1.6 HDi 75, 1.6 HDi 90 16V",
+        "fuel": "Diesel",
+        "startDate": "2008-04-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "1.6 BlueHDi 100, 1.6 BlueHDi 120, 1.6 HDi / BlueHDi 75, 1.6 HDi 90",
+        "fuel": "Diesel",
+        "startDate": "2010-07-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "BlueHDi 100",
+        "fuel": "Diesel",
+        "startDate": "2018-06-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "CITROËN",
+    "brandSlug": "citron",
+    "modelName": "BERLINGO Platform/ Chassis",
+    "modelSlug": "berlingo-platform-chassis",
+    "motorisations": [
+      {
+        "motorisation": "1.6 HDi 90 16V",
+        "fuel": "Diesel",
+        "startDate": "2008-04-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "CITROËN",
+    "brandSlug": "citron",
+    "modelName": "C1",
+    "modelSlug": "c1",
+    "motorisations": [
+      {
+        "motorisation": "1.4 HDi",
+        "fuel": "Diesel",
+        "startDate": "2005-06-01",
+        "endDate": "2014-09-01",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "CITROËN",
+    "brandSlug": "citron",
+    "modelName": "C1 II",
+    "modelSlug": "c1-ii",
+    "motorisations": [
+      {
+        "motorisation": "1.0 VTi 68, 1.0 VTi 72, 1.2 VTi 82",
+        "fuel": "Petrole",
+        "startDate": "2014-04-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "CITROËN",
+    "brandSlug": "citron",
+    "modelName": "C15",
+    "modelSlug": "c15",
+    "motorisations": [
+      {
+        "motorisation": "1.8 D, 1.9 D",
+        "fuel": "Diesel",
+        "startDate": "1986-07-01",
+        "endDate": "2005-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "CITROËN",
+    "brandSlug": "citron",
+    "modelName": "C2",
+    "modelSlug": "c2",
+    "motorisations": [
+      {
+        "motorisation": "1.1, 1.4, 1.4 16V",
+        "fuel": "Petrole",
+        "startDate": "2006-06-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      },
+      {
+        "motorisation": "1.4 HDi",
+        "fuel": "Diesel",
+        "startDate": "2003-09-01",
+        "endDate": "2009-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "CITROËN",
+    "brandSlug": "citron",
+    "modelName": "C3 AIRCROSS II",
+    "modelSlug": "c3-aircross-ii",
+    "motorisations": [
+      {
+        "motorisation": "1.2 PureTech 82, 110, 130",
+        "fuel": "Petrole",
+        "startDate": "2017-06-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "CITROËN",
+    "brandSlug": "citron",
+    "modelName": "C3 I",
+    "modelSlug": "c3-i",
+    "motorisations": [
+      {
+        "motorisation": "1.4 Hdi, 1.4 16V Hdi, 1.6 16V Hdi",
+        "fuel": "Diesel",
+        "startDate": "2002-02-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "1.1 i, 1.4 i, 1.4 16V, 1.6 16V",
+        "fuel": "Petrole",
+        "startDate": "2002-02-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "CITROËN",
+    "brandSlug": "citron",
+    "modelName": "C3 II",
+    "modelSlug": "c3-ii",
+    "motorisations": [
+      {
+        "motorisation": "1.6 BlueHDi 100, 120, 1.6 HDi 90, 110, 115, 1.6 BlueHDi 75, 1.6 BlueHDi 100",
+        "fuel": "Diesel",
+        "startDate": "2009-11-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "1.1, 1.4, 1.0 VTi 68, 1.2 VTi 82, 1.6 VTi 120",
+        "fuel": "Petrole",
+        "startDate": "2012-08-01",
+        "endDate": "2016-09-01",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      },
+      {
+        "motorisation": "1.4 VTi 95",
+        "fuel": "Petrole",
+        "startDate": "2009-11-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "CITROËN",
+    "brandSlug": "citron",
+    "modelName": "C3 III",
+    "modelSlug": "c3-iii",
+    "motorisations": [
+      {
+        "motorisation": "1.2 THP 110, 1.2 VTi 68, 1.2 VTi 82",
+        "fuel": "Petrole",
+        "startDate": "2016-07-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.6 BlueHDi 75, 1.6 BlueHDi 100",
+        "fuel": "Diesel",
+        "startDate": "2016-07-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "CITROËN",
+    "brandSlug": "citron",
+    "modelName": "C3 Picasso",
+    "modelSlug": "c3-picasso",
+    "motorisations": [
+      {
+        "motorisation": "1.6 BlueHDi 100, 1.6 HDi 90, 1.6 HDi 110, 1.6 HDi 115",
+        "fuel": "Diesel",
+        "startDate": "2010-05-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.4 VTi 95",
+        "fuel": "Petrole",
+        "startDate": "2009-02-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      },
+      {
+        "motorisation": "1.2 THP 110",
+        "fuel": "Petrole",
+        "startDate": "2015-01-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "CITROËN",
+    "brandSlug": "citron",
+    "modelName": "C3 Pluriel",
+    "modelSlug": "c3-pluriel",
+    "motorisations": [
+      {
+        "motorisation": "1.4, 1.6",
+        "fuel": "Petrole",
+        "startDate": "2003-05-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      },
+      {
+        "motorisation": "1.4 HDi",
+        "fuel": "Diesel",
+        "startDate": "2004-04-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "CITROËN",
+    "brandSlug": "citron",
+    "modelName": "C4 AIRCROSS",
+    "modelSlug": "c4-aircross",
+    "motorisations": [
+      {
+        "motorisation": "1.6 HDi 115, 1.6 HDi 115 AWC, 1.8 HDi 150 AWC",
+        "fuel": "Diesel",
+        "startDate": "2012-04-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "CITROËN",
+    "brandSlug": "citron",
+    "modelName": "C4 CACTUS",
+    "modelSlug": "c4-cactus",
+    "motorisations": [
+      {
+        "motorisation": "1.6 HDi 90, 1.6 BlueHDi 100",
+        "fuel": "Diesel",
+        "startDate": "2014-09-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.2 VTi 75 / PureTech 75, 1.2 VTi 82",
+        "fuel": "Petrole",
+        "startDate": "2014-09-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      },
+      {
+        "motorisation": "1.2 THP 110",
+        "fuel": "Petrole",
+        "startDate": "2014-09-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "CITROËN",
+    "brandSlug": "citron",
+    "modelName": "C4 Grand Picasso I",
+    "modelSlug": "c4-grand-picasso-i",
+    "motorisations": [
+      {
+        "motorisation": "1.6 Hdi, 1.6 HDi 110, 2.0 HDi 138, 2.0 HDi 150, 2.0 HDi 165",
+        "fuel": "Diesel",
+        "startDate": "2006-10-01",
+        "endDate": "2013-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "CITROËN",
+    "brandSlug": "citron",
+    "modelName": "C4 Grand Picasso II",
+    "modelSlug": "c4-grand-picasso-ii",
+    "motorisations": [
+      {
+        "motorisation": "1.6 HDi / BlueHDi 115/120, 2.0 BlueHDi 150",
+        "fuel": "Diesel",
+        "startDate": "2013-06-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.2 THP 130, 1.6 THP 165, 1.6 VTi 120",
+        "fuel": "Petrole",
+        "startDate": "2013-09-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "CITROËN",
+    "brandSlug": "citron",
+    "modelName": "C4 I",
+    "modelSlug": "c4-i",
+    "motorisations": [
+      {
+        "motorisation": "1.4 16V, 1.6 16V",
+        "fuel": "Petrole",
+        "startDate": "2004-11-01",
+        "endDate": "2011-07-01",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "CITROËN",
+    "brandSlug": "citron",
+    "modelName": "C4 II",
+    "modelSlug": "c4-ii",
+    "motorisations": [
+      {
+        "motorisation": "1.6 BlueHDi 100, 120, 1.6 HDi 90, 110, 115, 2.0 HDi / BlueHDi 150",
+        "fuel": "Diesel",
+        "startDate": "2009-11-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      },
+      {
+        "motorisation": "1.2 THP 110, 130",
+        "fuel": "Petrole",
+        "startDate": "2014-04-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.6 VTi 120",
+        "fuel": "Petrole",
+        "startDate": "2009-11-01",
+        "endDate": "2016-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "CITROËN",
+    "brandSlug": "citron",
+    "modelName": "C4 Picasso I MPV",
+    "modelSlug": "c4-picasso-i-mpv",
+    "motorisations": [
+      {
+        "motorisation": "1.6 Hdi, 2.0 HDi 138, 150",
+        "fuel": "Diesel",
+        "startDate": "2006-10-01",
+        "endDate": "2013-08-01",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.6 HDi 110",
+        "fuel": "Diesel",
+        "startDate": "2010-09-01",
+        "endDate": "2013-08-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "CITROËN",
+    "brandSlug": "citron",
+    "modelName": "C4 Picasso II",
+    "modelSlug": "c4-picasso-ii",
+    "motorisations": [
+      {
+        "motorisation": "1.6 BlueHDi 100, 120, 1.6 Hdi / BlueHDi 115 2.0 HDi 135/ BlueHDi 150",
+        "fuel": "Diesel",
+        "startDate": "2013-02-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.2 THP 130, 1.6 THP 165, 1.6 VTi 120",
+        "fuel": "Petrole",
+        "startDate": "2013-02-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      },
+      {
+        "motorisation": "1.6 HDi 90",
+        "fuel": "Diesel",
+        "startDate": "2013-02-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "CITROËN",
+    "brandSlug": "citron",
+    "modelName": "C5 I",
+    "modelSlug": "c5-i",
+    "motorisations": [
+      {
+        "motorisation": "2.0 Hdi",
+        "fuel": "Diesel",
+        "startDate": "2001-03-01",
+        "endDate": "2004-08-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      },
+      {
+        "motorisation": "1.8 16V, 2.0 16V, 2.0 16V HPi",
+        "fuel": "Petrole",
+        "startDate": "2001-03-01",
+        "endDate": "2004-08-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "CITROËN",
+    "brandSlug": "citron",
+    "modelName": "C5 II",
+    "modelSlug": "c5-ii",
+    "motorisations": [
+      {
+        "motorisation": "1.6 HDi (RC8HZB)",
+        "fuel": "Diesel",
+        "startDate": "2004-09-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "2.0 Hdi, 2.2 Hdi",
+        "fuel": "Diesel",
+        "startDate": "2004-09-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "CITROËN",
+    "brandSlug": "citron",
+    "modelName": "C5 III",
+    "modelSlug": "c5-iii",
+    "motorisations": [
+      {
+        "motorisation": "2.0 HDI / 140",
+        "fuel": "Diesel",
+        "startDate": "2008-02-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.6 HDi 110, 115, 2.0 HDi 150 / BlueHDi 150, 2.0 HDi 165 / 180 / 200",
+        "fuel": "Diesel",
+        "startDate": "2009-04-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "1.6 HDi 110",
+        "fuel": "Diesel",
+        "startDate": "2008-02-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "CITROËN",
+    "brandSlug": "citron",
+    "modelName": "C5 III Break",
+    "modelSlug": "c5-iii-break",
+    "motorisations": [
+      {
+        "motorisation": "2.0 HDI / 140 / 150 / BlueHDi 150 / 165 / 180, 2.2 Hdi 200, 3.0 Hdi 240",
+        "fuel": "Diesel",
+        "startDate": "2008-02-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      },
+      {
+        "motorisation": "1.6 HDi 110 / 115",
+        "fuel": "Diesel",
+        "startDate": "2008-02-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "CITROËN",
+    "brandSlug": "citron",
+    "modelName": "C8",
+    "modelSlug": "c8",
+    "motorisations": [
+      {
+        "motorisation": "2.0 HDI, 2.0 HDi 135 / 165, 2.2 Hdi",
+        "fuel": "Diesel",
+        "startDate": "2002-07-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "CITROËN",
+    "brandSlug": "citron",
+    "modelName": "C-CROSSER",
+    "modelSlug": "c-crosser",
+    "motorisations": [
+      {
+        "motorisation": "2.2 HDi",
+        "fuel": "Diesel",
+        "startDate": "2007-02-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "FL954",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "CITROËN",
+    "brandSlug": "citron",
+    "modelName": "DS3",
+    "modelSlug": "ds3",
+    "motorisations": [
+      {
+        "motorisation": "1.6 HDi 90 / 110 / 115, 1.6 BlueHDi 120",
+        "fuel": "Diesel",
+        "startDate": "2009-11-01",
+        "endDate": "2015-07-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "1.2 VTi 82, 1.4 VTi 95, 1.6 Racing, 1.6 THP 155, 1.6 VTi 120",
+        "fuel": "Petrole",
+        "startDate": "2010-04-01",
+        "endDate": "2015-03-01",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "CITROËN",
+    "brandSlug": "citron",
+    "modelName": "DS4",
+    "modelSlug": "ds4",
+    "motorisations": [
+      {
+        "motorisation": "1.6 HDi 110 / 115",
+        "fuel": "Diesel",
+        "startDate": "2011-04-01",
+        "endDate": "2015-07-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "2.0 HDi / BlueHDi 135, 2.0 HDi 165",
+        "fuel": "Diesel",
+        "startDate": "2011-04-01",
+        "endDate": "2015-07-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "CITROËN",
+    "brandSlug": "citron",
+    "modelName": "DS5",
+    "modelSlug": "ds5",
+    "motorisations": [
+      {
+        "motorisation": "1.6 HDi 115 / 135 / 165, 2.0 BlueHDi 180",
+        "fuel": "Diesel",
+        "startDate": "2011-11-01",
+        "endDate": "2015-07-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "HONDA",
+    "brandSlug": "honda",
+    "modelName": "CIVIC VIII Hatchback",
+    "modelSlug": "civic-viii-hatchback",
+    "motorisations": [
+      {
+        "motorisation": "2.2 CTDi",
+        "fuel": "Diesel",
+        "startDate": "2005-09-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "HONDA",
+    "brandSlug": "honda",
+    "modelName": "CR-V III",
+    "modelSlug": "cr-v-iii",
+    "motorisations": [
+      {
+        "motorisation": "2.2 i-CTDi 4WD, 2.2 i-DTEC 4WD",
+        "fuel": "Diesel",
+        "startDate": "2007-01-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "HONDA",
+    "brandSlug": "honda",
+    "modelName": "JAZZ III | FIT",
+    "modelSlug": "jazz-iii-fit",
+    "motorisations": [
+      {
+        "motorisation": "1.2, 1.3 i",
+        "fuel": "Petrole",
+        "startDate": "2008-07-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "HYUNDAI",
+    "brandSlug": "hyundai",
+    "modelName": "GETZ",
+    "modelSlug": "getz",
+    "motorisations": [
+      {
+        "motorisation": "1.5 CRDi",
+        "fuel": "Diesel",
+        "startDate": "2003-03-01",
+        "endDate": "2009-06-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.1, 1.3 i",
+        "fuel": "Petrole",
+        "startDate": "2002-09-01",
+        "endDate": "2009-06-01",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "HYUNDAI",
+    "brandSlug": "hyundai",
+    "modelName": "i10",
+    "modelSlug": "i10",
+    "motorisations": [
+      {
+        "motorisation": "1.0, 1.2",
+        "fuel": "Petrole",
+        "startDate": "2008-01-01",
+        "endDate": "2013-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "HYUNDAI",
+    "brandSlug": "hyundai",
+    "modelName": "i20",
+    "modelSlug": "i20",
+    "motorisations": [
+      {
+        "motorisation": "1.2",
+        "fuel": "Petrole",
+        "startDate": "2014-11-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "HYUNDAI",
+    "brandSlug": "hyundai",
+    "modelName": "i30",
+    "modelSlug": "i30",
+    "motorisations": [
+      {
+        "motorisation": "1.6 CRDI",
+        "fuel": "Diesel",
+        "startDate": "2011-12-01",
+        "endDate": "2016-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "HYUNDAI",
+    "brandSlug": "hyundai",
+    "modelName": "ix35 | TUCSON",
+    "modelSlug": "ix35-tucson",
+    "motorisations": [
+      {
+        "motorisation": "1.7 CRDi",
+        "fuel": "Diesel",
+        "startDate": "2010-11-01",
+        "endDate": "",
+        "batteryAGM": "F42",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "2.0 CRDi 4WD",
+        "fuel": "Diesel",
+        "startDate": "2010-01-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "FL955",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "HYUNDAI",
+    "brandSlug": "hyundai",
+    "modelName": "MATRIX",
+    "modelSlug": "matrix",
+    "motorisations": [
+      {
+        "motorisation": "1.5 CRDi, 1.5 CRDi VGT",
+        "fuel": "Diesel",
+        "startDate": "2001-10-01",
+        "endDate": "2010-08-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "HYUNDAI",
+    "brandSlug": "hyundai",
+    "modelName": "SANTA FÉ I",
+    "modelSlug": "santa-f-i",
+    "motorisations": [
+      {
+        "motorisation": "2.0 CRDi, 2.0 CRDi 4x4",
+        "fuel": "Diesel",
+        "startDate": "2001-08-01",
+        "endDate": "2006-03-01",
+        "batteryAGM": "",
+        "batteryEFB": "FL954",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "HYUNDAI",
+    "brandSlug": "hyundai",
+    "modelName": "SANTA FÉ II",
+    "modelSlug": "santa-f-ii",
+    "motorisations": [
+      {
+        "motorisation": "2.2 CRDi, 2.2 CRDi 4x4, 2.2 CRDi GLS 4x4",
+        "fuel": "Diesel",
+        "startDate": "2006-03-01",
+        "endDate": "2009-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "FL954",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "HYUNDAI",
+    "brandSlug": "hyundai",
+    "modelName": "TUCSON",
+    "modelSlug": "tucson",
+    "motorisations": [
+      {
+        "motorisation": "2.0 CRDi / All-wheel Drive",
+        "fuel": "Diesel",
+        "startDate": "2004-08-01",
+        "endDate": "2010-03-01",
+        "batteryAGM": "",
+        "batteryEFB": "FL954",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.7 CRDi",
+        "fuel": "Diesel",
+        "startDate": "2015-06-01",
+        "endDate": "",
+        "batteryAGM": "F42",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "IVECO",
+    "brandSlug": "iveco",
+    "modelName": "DAILY III Box Body / Estate",
+    "modelSlug": "daily-iii-box-body-estate",
+    "motorisations": [
+      {
+        "motorisation": "29 L 12 V, 35 S 9 V,35 C 9 V, 35 C 12 V, 35 S 12 V, 35 S 11 V,35 C 11 V, 35 S 13 V,35 C 13 V, 35 S 15 V, 35 C 15V",
+        "fuel": "Diesel",
+        "startDate": "1999-05-01",
+        "endDate": "2007-07-01",
+        "batteryAGM": "",
+        "batteryEFB": "FL1000",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "IVECO",
+    "brandSlug": "iveco",
+    "modelName": "DAILY III Platform/ Chassis",
+    "modelSlug": "daily-iii-platform-chassis",
+    "motorisations": [
+      {
+        "motorisation": "29 L 12, 35 C 10 V , 35 S 10 V, 35 C 12, 35 S 12, 35 S 11, 35 C 11, 35 S 13, 35 S 9, 35 C 9, 50 C 11",
+        "fuel": "Diesel",
+        "startDate": "1999-05-01",
+        "endDate": "2006-04-01",
+        "batteryAGM": "",
+        "batteryEFB": "FL1000",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "JEEP",
+    "brandSlug": "jeep",
+    "modelName": "RENEGADE Closed Off-Road Vehicle",
+    "modelSlug": "renegade-closed-off-road-vehicle",
+    "motorisations": [
+      {
+        "motorisation": "1.6 CRD",
+        "fuel": "Diesel",
+        "startDate": "2014-07-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "FK508",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "KIA",
+    "brandSlug": "kia",
+    "modelName": "CEE'D SW",
+    "modelSlug": "ceed-sw",
+    "motorisations": [
+      {
+        "motorisation": "1.6 CRDi 90 / 115",
+        "fuel": "Diesel",
+        "startDate": "2007-09-01",
+        "endDate": "2012-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "KIA",
+    "brandSlug": "kia",
+    "modelName": "PICANTO",
+    "modelSlug": "picanto",
+    "motorisations": [
+      {
+        "motorisation": "1.0, 1.2",
+        "fuel": "Petrole",
+        "startDate": "2017-03-01",
+        "endDate": "",
+        "batteryAGM": "F40",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.0",
+        "fuel": "Petrole",
+        "startDate": "2004-04-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.0, 1.2",
+        "fuel": "Petrole",
+        "startDate": "2011-05-01",
+        "endDate": "",
+        "batteryAGM": "F40",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "KIA",
+    "brandSlug": "kia",
+    "modelName": "RIO III",
+    "modelSlug": "rio-iii",
+    "motorisations": [
+      {
+        "motorisation": "1.2 CVVT",
+        "fuel": "Petrole",
+        "startDate": "2014-11-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "KIA",
+    "brandSlug": "kia",
+    "modelName": "SORENTO I",
+    "modelSlug": "sorento-i",
+    "motorisations": [
+      {
+        "motorisation": "2.5 CRDi",
+        "fuel": "Diesel",
+        "startDate": "2002-08-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "FL955",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "KIA",
+    "brandSlug": "kia",
+    "modelName": "SPORTAGE",
+    "modelSlug": "sportage",
+    "motorisations": [
+      {
+        "motorisation": "1.7 CRDi, 2.0 CRDi",
+        "fuel": "Diesel",
+        "startDate": "2015-09-01",
+        "endDate": "",
+        "batteryAGM": "F42",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.7 CRDi, 2.0 CRDi",
+        "fuel": "Diesel",
+        "startDate": "2015-09-01",
+        "endDate": "",
+        "batteryAGM": "F42",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "KIA",
+    "brandSlug": "kia",
+    "modelName": "VENGA",
+    "modelSlug": "venga",
+    "motorisations": [
+      {
+        "motorisation": "1.7 CRDi",
+        "fuel": "Diesel",
+        "startDate": "2010-12-01",
+        "endDate": "",
+        "batteryAGM": "F42",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.4 CRDi 90, 1.6 CRDi 115",
+        "fuel": "Diesel",
+        "startDate": "2010-02-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "LANCIA",
+    "brandSlug": "lancia",
+    "modelName": "YPSILON",
+    "modelSlug": "ypsilon",
+    "motorisations": [
+      {
+        "motorisation": "0.9 TwinAir, 1.2",
+        "fuel": "Petrole",
+        "startDate": "2011-05-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "LAND ROVER",
+    "brandSlug": "land-rover",
+    "modelName": "FREELANDER",
+    "modelSlug": "freelander",
+    "motorisations": [
+      {
+        "motorisation": "2.0 DI 4x4, 2.0 Td4 4x4",
+        "fuel": "Diesel",
+        "startDate": "1998-02-01",
+        "endDate": "2006-10-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "LAND ROVER",
+    "brandSlug": "land-rover",
+    "modelName": "RANGE ROVER EVOQUE",
+    "modelSlug": "range-rover-evoque",
+    "motorisations": [
+      {
+        "motorisation": "2.0 D / 4x4",
+        "fuel": "Diesel",
+        "startDate": "2015-06-01",
+        "endDate": "",
+        "batteryAGM": "F42",
+        "batteryEFB": "FL752",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "brandSlug": "mercedes-benz",
+    "modelName": "A-CLASS",
+    "modelSlug": "a-class",
+    "motorisations": [
+      {
+        "motorisation": "A 160 CDI, A 170 CDI",
+        "fuel": "Diesel",
+        "startDate": "1998-07-01",
+        "endDate": "2004-08-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      },
+      {
+        "motorisation": "A 140, A 160, A 190",
+        "fuel": "Petrole",
+        "startDate": "1997-07-01",
+        "endDate": "2004-08-01",
+        "batteryAGM": "F40",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "A 160 CDI, A 180 CDI, A 200 CDI",
+        "fuel": "Diesel",
+        "startDate": "2004-09-01",
+        "endDate": "2012-06-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      },
+      {
+        "motorisation": "A 150, A170, A200",
+        "fuel": "Petrole",
+        "startDate": "2004-09-01",
+        "endDate": "2012-06-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "A 180 CDI, A200 CDI / D, A220 D",
+        "fuel": "Diesel",
+        "startDate": "2012-06-01",
+        "endDate": "",
+        "batteryAGM": "F42",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "A 160, A 180, A 200, A 250",
+        "fuel": "Petrole",
+        "startDate": "2012-09-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "brandSlug": "mercedes-benz",
+    "modelName": "B-CLASS",
+    "modelSlug": "b-class",
+    "motorisations": [
+      {
+        "motorisation": "B 180 CDI, B 200 CDI",
+        "fuel": "Diesel",
+        "startDate": "2005-03-01",
+        "endDate": "2011-11-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      },
+      {
+        "motorisation": "B 160 CDI / d, B 180 CDI, B 200 CDI / d / d 4-matic, B 220 CDI / d",
+        "fuel": "Diesel",
+        "startDate": "2011-11-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "brandSlug": "mercedes-benz",
+    "modelName": "CABRIOLET",
+    "modelSlug": "cabriolet",
+    "motorisations": [
+      {
+        "motorisation": "300 CE-24 (124.061)",
+        "fuel": "Petrole",
+        "startDate": "1992-04-01",
+        "endDate": "1993-06-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "brandSlug": "mercedes-benz",
+    "modelName": "C-CLASS",
+    "modelSlug": "c-class",
+    "motorisations": [
+      {
+        "motorisation": "C 200 CDI, C 220 CDI, C 220 D, C 250 D, C 250 Turbo-D",
+        "fuel": "Diesel",
+        "startDate": "1993-05-01",
+        "endDate": "2000-05-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      },
+      {
+        "motorisation": "C 200 CDI, C 220 CDI, C 320 CDI",
+        "fuel": "Diesel",
+        "startDate": "2000-09-01",
+        "endDate": "2003-06-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      },
+      {
+        "motorisation": "C 200 CDI, C 220",
+        "fuel": "Diesel",
+        "startDate": "2007-01-01",
+        "endDate": "2009-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      },
+      {
+        "motorisation": "C 200 d, C 220 BlueTEC / d , C 250 BlueTEC / d / d 4-matic",
+        "fuel": "Diesel",
+        "startDate": "2014-02-01",
+        "endDate": "2018-05-01",
+        "batteryAGM": "F42",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "brandSlug": "mercedes-benz",
+    "modelName": "C- CLASS",
+    "modelSlug": "c-class",
+    "motorisations": [
+      {
+        "motorisation": "C 180 CDI, C 200 CDI, C 250 CDI, C 320 CDI",
+        "fuel": "Diesel",
+        "startDate": "2011-01-01",
+        "endDate": "2014-01-01",
+        "batteryAGM": "F42",
+        "batteryEFB": "",
+        "batteryConventional": "F12"
+      }
+    ]
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "brandSlug": "mercedes-benz",
+    "modelName": "C-CLASS Coupe",
+    "modelSlug": "c-class-coupe",
+    "motorisations": [
+      {
+        "motorisation": "C 200 CDI, C220 CDI",
+        "fuel": "Diesel",
+        "startDate": "2001-03-01",
+        "endDate": "2008-05-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "brandSlug": "mercedes-benz",
+    "modelName": "CLK",
+    "modelSlug": "clk",
+    "motorisations": [
+      {
+        "motorisation": "220 CDI, 270 CDI, 320 CDI",
+        "fuel": "Diesel",
+        "startDate": "2002-10-01",
+        "endDate": "2009-05-01",
+        "batteryAGM": "F42",
+        "batteryEFB": "",
+        "batteryConventional": "F12"
+      }
+    ]
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "brandSlug": "mercedes-benz",
+    "modelName": "E-CLASS",
+    "modelSlug": "e-class",
+    "motorisations": [
+      {
+        "motorisation": "E 200 CDI, E 220 CDI , E 290 Turbo-D, E 300 Turbo-D, E320 CDI",
+        "fuel": "Diesel",
+        "startDate": "1996-03-01",
+        "endDate": "2002-03-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      },
+      {
+        "motorisation": "E 220 CDI, E 280 CDI, E 320 CDI",
+        "fuel": "Diesel",
+        "startDate": "2002-11-01",
+        "endDate": "2008-12-01",
+        "batteryAGM": "F43",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "E 200 CDI / BlueTEC, E 220 CDI / BlueTEC, E 250 CDI / BlueTEC, E 350 CDI",
+        "fuel": "Diesel",
+        "startDate": "2009-01-01",
+        "endDate": "",
+        "batteryAGM": "F43",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "brandSlug": "mercedes-benz",
+    "modelName": "GLA-CLASS",
+    "modelSlug": "gla-class",
+    "motorisations": [
+      {
+        "motorisation": "GLA 200 CDI / d / 4-matic, GLA 220 CDI / d",
+        "fuel": "Diesel",
+        "startDate": "2013-12-01",
+        "endDate": "",
+        "batteryAGM": "F42",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "brandSlug": "mercedes-benz",
+    "modelName": "GLC",
+    "modelSlug": "glc",
+    "motorisations": [
+      {
+        "motorisation": "220 d 4-matic, 250 d 4-matic",
+        "fuel": "Diesel",
+        "startDate": "2015-06-01",
+        "endDate": "2019-04-01",
+        "batteryAGM": "F42",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "brandSlug": "mercedes-benz",
+    "modelName": "M-CLASS",
+    "modelSlug": "m-class",
+    "motorisations": [
+      {
+        "motorisation": "ML 270 CDI, ML 400 CDI",
+        "fuel": "Diesel",
+        "startDate": "1999-12-01",
+        "endDate": "2005-06-01",
+        "batteryAGM": "F43",
+        "batteryEFB": "",
+        "batteryConventional": "F10"
+      },
+      {
+        "motorisation": "ML 280 / 300 /320 / 350 CDI 4-matic",
+        "fuel": "Diesel",
+        "startDate": "2005-07-01",
+        "endDate": "2011-12-01",
+        "batteryAGM": "F43",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "ML 250 CDI / BlueTEC 4-matic",
+        "fuel": "Diesel",
+        "startDate": "2011-06-01",
+        "endDate": "2015-12-01",
+        "batteryAGM": "F43",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "brandSlug": "mercedes-benz",
+    "modelName": "SL",
+    "modelSlug": "sl",
+    "motorisations": [
+      {
+        "motorisation": "63 AMG",
+        "fuel": "Petrole",
+        "startDate": "2012-01-01",
+        "endDate": "",
+        "batteryAGM": "F43",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "brandSlug": "mercedes-benz",
+    "modelName": "SPRINTER 3,5-t Box",
+    "modelSlug": "sprinter-35-t-box",
+    "motorisations": [
+      {
+        "motorisation": "313 CDI, 314 CDI, 316 CDI",
+        "fuel": "Diesel",
+        "startDate": "2006-06-01",
+        "endDate": "",
+        "batteryAGM": "F43",
+        "batteryEFB": "FL1000",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "brandSlug": "mercedes-benz",
+    "modelName": "SPRINTER 4,6-t Box",
+    "modelSlug": "sprinter-46-t-box",
+    "motorisations": [
+      {
+        "motorisation": "413 CDI, 414 CDI",
+        "fuel": "Diesel",
+        "startDate": "2006-06-01",
+        "endDate": "",
+        "batteryAGM": "F43",
+        "batteryEFB": "FL1000",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "brandSlug": "mercedes-benz",
+    "modelName": "VITO / MIXTO Box",
+    "modelSlug": "vito-mixto-box",
+    "motorisations": [
+      {
+        "motorisation": "109 / 111 / 115 CDI",
+        "fuel": "Diesel",
+        "startDate": "2003-09-01",
+        "endDate": "",
+        "batteryAGM": "F42",
+        "batteryEFB": "FL752",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "110 / 113 / 116 / 122 CDI",
+        "fuel": "Diesel",
+        "startDate": "2010-09-01",
+        "endDate": "",
+        "batteryAGM": "F42",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "brandSlug": "mercedes-benz",
+    "modelName": "VITO Box",
+    "modelSlug": "vito-box",
+    "motorisations": [
+      {
+        "motorisation": "108 CDI 2.2 , 108 D 2.3, 110 CDI 2.2, 110 D 2.3, 112 CDI 2.2",
+        "fuel": "Diesel",
+        "startDate": "1997-03-01",
+        "endDate": "2003-07-01",
+        "batteryAGM": "F42",
+        "batteryEFB": "FL752",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "brandSlug": "mercedes-benz",
+    "modelName": "VITO Bus",
+    "modelSlug": "vito-bus",
+    "motorisations": [
+      {
+        "motorisation": "109 / 110 / 111 / 113 / 115 / 116 CDI",
+        "fuel": "Diesel",
+        "startDate": "2003-09-01",
+        "endDate": "",
+        "batteryAGM": "F42",
+        "batteryEFB": "FL752",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "MINI",
+    "brandSlug": "mini",
+    "modelName": "MINI",
+    "modelSlug": "mini",
+    "motorisations": [
+      {
+        "motorisation": "Cooper, One",
+        "fuel": "Petrole",
+        "startDate": "2013-09-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "Cooper / S, John Cooper Works, One",
+        "fuel": "Petrole",
+        "startDate": "2013-12-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "Cooper / S, One",
+        "fuel": "Petrole",
+        "startDate": "2001-06-01",
+        "endDate": "2006-09-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F6"
+      },
+      {
+        "motorisation": "Cooper / S, One",
+        "fuel": "Petrole",
+        "startDate": "2006-10-01",
+        "endDate": "2013-11-01",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "Cooper D, One D",
+        "fuel": "Diesel",
+        "startDate": "2006-11-01",
+        "endDate": "2013-11-01",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "MINI",
+    "brandSlug": "mini",
+    "modelName": "MINI COUNTRYMAN",
+    "modelSlug": "mini-countryman",
+    "motorisations": [
+      {
+        "motorisation": "Cooper D / ALL4, One D",
+        "fuel": "Diesel",
+        "startDate": "2010-08-01",
+        "endDate": "2016-10-01",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "Cooper / S / S ALL4, One",
+        "fuel": "Petrole",
+        "startDate": "2010-08-01",
+        "endDate": "2016-10-01",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "MITSUBISHI",
+    "brandSlug": "mitsubishi",
+    "modelName": "L 200 / TRITON | HUNTER",
+    "modelSlug": "l-200-triton-hunter",
+    "motorisations": [
+      {
+        "motorisation": "2.5 DiD / 4WD",
+        "fuel": "Diesel",
+        "startDate": "2005-11-01",
+        "endDate": "2015-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "FL954",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "NISSAN",
+    "brandSlug": "nissan",
+    "modelName": "CABSTAR",
+    "modelSlug": "cabstar",
+    "motorisations": [
+      {
+        "motorisation": "28.11 DCI, 32.11 DCI, 35.11 DCI 2.5, 28.12 DCI, 32.12 DCI, 34.12 DCI, 35.12 DCI 2.5, 35.13 DCI, 45.13 DCI 2.5, 35.14 DCI, 45.14 DCI 2.5, 35.15 DCI, 45.15 DCI 3.0",
+        "fuel": "Diesel",
+        "startDate": "2006-09-01",
+        "endDate": "2013-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "FL955",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "NISSAN",
+    "brandSlug": "nissan",
+    "modelName": "JUKE",
+    "modelSlug": "juke",
+    "motorisations": [
+      {
+        "motorisation": "1.5 dCi",
+        "fuel": "Diesel",
+        "startDate": "2010-06-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "1.6 / DIG-T / 4x4",
+        "fuel": "Petrole",
+        "startDate": "2010-06-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "FL605",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.2 DIG-T",
+        "fuel": "Petrole",
+        "startDate": "2014-05-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "NISSAN",
+    "brandSlug": "nissan",
+    "modelName": "MICRA II",
+    "modelSlug": "micra-ii",
+    "motorisations": [
+      {
+        "motorisation": "1.0 / 1.3 / 1.4 / i 16V",
+        "fuel": "Petrole",
+        "startDate": "1992-08-01",
+        "endDate": "2003-02-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "NISSAN",
+    "brandSlug": "nissan",
+    "modelName": "MICRA IV",
+    "modelSlug": "micra-iv",
+    "motorisations": [
+      {
+        "motorisation": "2.1",
+        "fuel": "Petrole",
+        "startDate": "2010-05-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "NISSAN",
+    "brandSlug": "nissan",
+    "modelName": "MICRA V",
+    "modelSlug": "micra-v",
+    "motorisations": [
+      {
+        "motorisation": "0.9 IG-T",
+        "fuel": "Petrole",
+        "startDate": "2016-12-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "NISSAN",
+    "brandSlug": "nissan",
+    "modelName": "NOTE",
+    "modelSlug": "note",
+    "motorisations": [
+      {
+        "motorisation": "1.4, 1.6",
+        "fuel": "Petrole",
+        "startDate": "2006-03-01",
+        "endDate": "2012-06-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F3"
+      },
+      {
+        "motorisation": "1.5 dCi",
+        "fuel": "Diesel",
+        "startDate": "2013-06-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "NISSAN",
+    "brandSlug": "nissan",
+    "modelName": "NP300 NAVARA",
+    "modelSlug": "np300-navara",
+    "motorisations": [
+      {
+        "motorisation": "2.5 dCi 4WD",
+        "fuel": "Diesel",
+        "startDate": "2006-10-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "NISSAN",
+    "brandSlug": "nissan",
+    "modelName": "NV200 Box Body / Estate",
+    "modelSlug": "nv200-box-body-estate",
+    "motorisations": [
+      {
+        "motorisation": "e-NV",
+        "fuel": "Electric",
+        "startDate": "2014-05-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "NISSAN",
+    "brandSlug": "nissan",
+    "modelName": "PATHFINDER III",
+    "modelSlug": "pathfinder-iii",
+    "motorisations": [
+      {
+        "motorisation": "2.5 dCi / 4WD",
+        "fuel": "Diesel",
+        "startDate": "2005-01-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "NISSAN",
+    "brandSlug": "nissan",
+    "modelName": "PRIMERA Hatchback",
+    "modelSlug": "primera-hatchback",
+    "motorisations": [
+      {
+        "motorisation": "1.6 16V",
+        "fuel": "Petrole",
+        "startDate": "1996-09-01",
+        "endDate": "2002-07-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "NISSAN",
+    "brandSlug": "nissan",
+    "modelName": "QASHQAI / QASHQAI +2 I",
+    "modelSlug": "qashqai-qashqai-2-i",
+    "motorisations": [
+      {
+        "motorisation": "1.5 dCi, 1.6 dCi / All-wheel Drive, 2.0 dCi / All-wheel Drive",
+        "fuel": "Diesel",
+        "startDate": "2007-02-01",
+        "endDate": "2013-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "NISSAN",
+    "brandSlug": "nissan",
+    "modelName": "QASHQAI II Closed Off-Road Vehicle",
+    "modelSlug": "qashqai-ii-closed-off-road-vehicle",
+    "motorisations": [
+      {
+        "motorisation": "1.5 dCi, 1.6 dCi / ALL MODE 4x4-i",
+        "fuel": "Diesel",
+        "startDate": "2013-11-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.2 DIG-T",
+        "fuel": "Petrole",
+        "startDate": "2013-11-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "NISSAN",
+    "brandSlug": "nissan",
+    "modelName": "TERRANO II",
+    "modelSlug": "terrano-ii",
+    "motorisations": [
+      {
+        "motorisation": "2.7 TD 4WD, 3.0 Di 4WD",
+        "fuel": "Diesel",
+        "startDate": "1993-02-01",
+        "endDate": "2007-09-01",
+        "batteryAGM": "",
+        "batteryEFB": "FL955",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "NISSAN",
+    "brandSlug": "nissan",
+    "modelName": "X-TRAIL",
+    "modelSlug": "x-trail",
+    "motorisations": [
+      {
+        "motorisation": "2.2 dCi 4x4, 2.2 Di 4x4 2.0 dCi / 4x4",
+        "fuel": "Diesel",
+        "startDate": "2001-06-01",
+        "endDate": "2008-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "dCi / 4x4",
+        "fuel": "Diesel",
+        "startDate": "2007-06-01",
+        "endDate": "2013-11-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.6 dCi, 1.6 dCi ALL MODE 4x4-i",
+        "fuel": "Diesel",
+        "startDate": "2014-04-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "OPEL",
+    "brandSlug": "opel",
+    "modelName": "AGILA",
+    "modelSlug": "agila",
+    "motorisations": [
+      {
+        "motorisation": "1.0 12V, 1.2 16V, 1.2 16V, 1.2 16V Twinport",
+        "fuel": "Petrole",
+        "startDate": "2000-09-01",
+        "endDate": "2007-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F3"
+      },
+      {
+        "motorisation": "1.0, 1.2",
+        "fuel": "Petrole",
+        "startDate": "2008-04-01",
+        "endDate": "2011-06-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F3"
+      }
+    ]
+  },
+  {
+    "brand": "OPEL",
+    "brandSlug": "opel",
+    "modelName": "ASTRA G Estate",
+    "modelSlug": "astra-g-estate",
+    "motorisations": [
+      {
+        "motorisation": "2.0 DI, 2.0 DTI 16V",
+        "fuel": "Diesel",
+        "startDate": "1998-02-01",
+        "endDate": "2004-07-01",
+        "batteryAGM": "",
+        "batteryEFB": "FL652",
+        "batteryConventional": "F8"
+      }
+    ]
+  },
+  {
+    "brand": "OPEL",
+    "brandSlug": "opel",
+    "modelName": "ASTRA G Hatchback",
+    "modelSlug": "astra-g-hatchback",
+    "motorisations": [
+      {
+        "motorisation": "1.7 CDTI, 1.7 DTI 16V, 1.7 TD",
+        "fuel": "Diesel",
+        "startDate": "1998-02-01",
+        "endDate": "2009-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F6"
+      }
+    ]
+  },
+  {
+    "brand": "OPEL",
+    "brandSlug": "opel",
+    "modelName": "ASTRA J",
+    "modelSlug": "astra-j",
+    "motorisations": [
+      {
+        "motorisation": "1.7 CDTI (68)",
+        "fuel": "Diesel",
+        "startDate": "2009-09-01",
+        "endDate": "2015-10-01",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": "F6"
+      }
+    ]
+  },
+  {
+    "brand": "OPEL",
+    "brandSlug": "opel",
+    "modelName": "COMBO Box Body / Estate",
+    "modelSlug": "combo-box-body-estate",
+    "motorisations": [
+      {
+        "motorisation": "1.3 CDTI 16V, 1.7 DI 16V, 1.7 CDTI 16V",
+        "fuel": "Diesel",
+        "startDate": "2001-10-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F6"
+      }
+    ]
+  },
+  {
+    "brand": "OPEL",
+    "brandSlug": "opel",
+    "modelName": "CORSA B",
+    "modelSlug": "corsa-b",
+    "motorisations": [
+      {
+        "motorisation": "1.0 i 12V, 1.2 i 16V, 1.4 Si",
+        "fuel": "Petrole",
+        "startDate": "1993-03-01",
+        "endDate": "2000-09-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F3"
+      },
+      {
+        "motorisation": "1.5 D, 1.5TD, 1.7 D",
+        "fuel": "Diesel",
+        "startDate": "1993-03-01",
+        "endDate": "2000-09-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F6"
+      }
+    ]
+  },
+  {
+    "brand": "OPEL",
+    "brandSlug": "opel",
+    "modelName": "CORSA C",
+    "modelSlug": "corsa-c",
+    "motorisations": [
+      {
+        "motorisation": "1.0, 1.2 Twinport, 1.2, 1.4",
+        "fuel": "Petrole",
+        "startDate": "2000-09-01",
+        "endDate": "2009-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F3"
+      },
+      {
+        "motorisation": "1.3 CDTI, 1.7 CDTI, 1.7 DI, 1.7 DTI",
+        "fuel": "Diesel",
+        "startDate": "2000-09-01",
+        "endDate": "2009-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F6"
+      },
+      {
+        "motorisation": "1.3 CDTI (L08, L68)",
+        "fuel": "Diesel",
+        "startDate": "2006-07-01",
+        "endDate": "2011-06-01",
+        "batteryAGM": "",
+        "batteryEFB": "FL652",
+        "batteryConventional": "F8"
+      }
+    ]
+  },
+  {
+    "brand": "OPEL",
+    "brandSlug": "opel",
+    "modelName": "CORSA D",
+    "modelSlug": "corsa-d",
+    "motorisations": [
+      {
+        "motorisation": "1.0, 1.2, 1.4",
+        "fuel": "Petrole",
+        "startDate": "2006-07-01",
+        "endDate": "2014-08-01",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "OPEL",
+    "brandSlug": "opel",
+    "modelName": "CORSA E",
+    "modelSlug": "corsa-e",
+    "motorisations": [
+      {
+        "motorisation": "1.0, 1.2, 1.4",
+        "fuel": "Petrole",
+        "startDate": "2014-09-01",
+        "endDate": "",
+        "batteryAGM": "F40",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "OPEL",
+    "brandSlug": "opel",
+    "modelName": "CROSSLAND X",
+    "modelSlug": "crossland-x",
+    "motorisations": [
+      {
+        "motorisation": "1.2",
+        "fuel": "Petrole",
+        "startDate": "2017-03-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "OPEL",
+    "brandSlug": "opel",
+    "modelName": "KARL",
+    "modelSlug": "karl",
+    "motorisations": [
+      {
+        "motorisation": "1.0",
+        "fuel": "Petrole",
+        "startDate": "2015-01-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F8"
+      }
+    ]
+  },
+  {
+    "brand": "OPEL",
+    "brandSlug": "opel",
+    "modelName": "MERIVA A MPV",
+    "modelSlug": "meriva-a-mpv",
+    "motorisations": [
+      {
+        "motorisation": "1.3 CDTI, 1.7 CDTI, 1.7 DI, 1.7 DTI",
+        "fuel": "Diesel",
+        "startDate": "2003-09-01",
+        "endDate": "2010-05-01",
+        "batteryAGM": "",
+        "batteryEFB": "FL652",
+        "batteryConventional": "F6"
+      },
+      {
+        "motorisation": "1.4 16V Twinport, 1.6, 1.6 16V, 1.8",
+        "fuel": "Petrole",
+        "startDate": "2003-05-01",
+        "endDate": "2010-05-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F6"
+      }
+    ]
+  },
+  {
+    "brand": "OPEL",
+    "brandSlug": "opel",
+    "modelName": "MERIVA B MPV",
+    "modelSlug": "meriva-b-mpv",
+    "motorisations": [
+      {
+        "motorisation": "1.6 CDTi, 1.7 CDTI",
+        "fuel": "Diesel",
+        "startDate": "2010-06-01",
+        "endDate": "2017-03-01",
+        "batteryAGM": "",
+        "batteryEFB": "FL652",
+        "batteryConventional": "F8"
+      }
+    ]
+  },
+  {
+    "brand": "OPEL",
+    "brandSlug": "opel",
+    "modelName": "MOKKA / MOKKA X",
+    "modelSlug": "mokka-mokka-x",
+    "motorisations": [
+      {
+        "motorisation": "1.6 CDTI, 1.7 CDTI / 4x4",
+        "fuel": "Diesel",
+        "startDate": "2015-01-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": "F6"
+      },
+      {
+        "motorisation": "1.4 / 4x4",
+        "fuel": "Petrole",
+        "startDate": "2013-04-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "OPEL",
+    "brandSlug": "opel",
+    "modelName": "VECTRA C GTS",
+    "modelSlug": "vectra-c-gts",
+    "motorisations": [
+      {
+        "motorisation": "1.9 CDTI, 2.2 DTI 16V",
+        "fuel": "Diesel",
+        "startDate": "2004-04-01",
+        "endDate": "2009-01-01",
+        "batteryAGM": "",
+        "batteryEFB": "FL652",
+        "batteryConventional": "F8"
+      }
+    ]
+  },
+  {
+    "brand": "OPEL",
+    "brandSlug": "opel",
+    "modelName": "ZAFIRA / ZAFIRA FAMILY B",
+    "modelSlug": "zafira-zafira-family-b",
+    "motorisations": [
+      {
+        "motorisation": "1.9 CDTI",
+        "fuel": "Diesel",
+        "startDate": "2005-07-01",
+        "endDate": "2015-04-01",
+        "batteryAGM": "",
+        "batteryEFB": "FL652",
+        "batteryConventional": "F8"
+      }
+    ]
+  },
+  {
+    "brand": "OPEL",
+    "brandSlug": "opel",
+    "modelName": "ZAFIRA A MPV",
+    "modelSlug": "zafira-a-mpv",
+    "motorisations": [
+      {
+        "motorisation": "2.0 DI, 2.0 DI 16V, 2.0 DTI 16V",
+        "fuel": "Diesel",
+        "startDate": "1999-07-01",
+        "endDate": "2005-06-01",
+        "batteryAGM": "",
+        "batteryEFB": "FL652",
+        "batteryConventional": "F8"
+      },
+      {
+        "motorisation": "1.6 16V, 1.8 16V",
+        "fuel": "Petrole",
+        "startDate": "1999-04-01",
+        "endDate": "2005-06-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F3"
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "108",
+    "modelSlug": "108",
+    "motorisations": [
+      {
+        "motorisation": "1.0 Vti, 1.0 VTi 72, 1.2",
+        "fuel": "Petrole",
+        "startDate": "2014-05-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "1007",
+    "modelSlug": "1007",
+    "motorisations": [
+      {
+        "motorisation": "1.4 Hdi, 1.6 Hdi",
+        "fuel": "Diesel",
+        "startDate": "2005-04-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "1.4, 1.6 16V",
+        "fuel": "Petrole",
+        "startDate": "2005-04-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "106 II",
+    "modelSlug": "106-ii",
+    "motorisations": [
+      {
+        "motorisation": "1.0 i, 1.1i, 1.4i",
+        "fuel": "Petrole",
+        "startDate": "1996-04-01",
+        "endDate": "2001-03-01",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      },
+      {
+        "motorisation": "1.5 D",
+        "fuel": "Diesel",
+        "startDate": "1996-05-01",
+        "endDate": "2004-07-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "107",
+    "modelSlug": "107",
+    "motorisations": [
+      {
+        "motorisation": "1.0",
+        "fuel": "Petrole",
+        "startDate": "2005-06-01",
+        "endDate": "2014-05-01",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      },
+      {
+        "motorisation": "1.4 HDi",
+        "fuel": "Diesel",
+        "startDate": "2005-06-01",
+        "endDate": "2014-05-01",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "2008",
+    "modelSlug": "2008",
+    "motorisations": [
+      {
+        "motorisation": "1.2 THP 110 / PureTech 110, 1.2 THP 130 / PureTech 130",
+        "fuel": "Petrole",
+        "startDate": "2015-01-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.6 BlueHDi 75 / 100 /120",
+        "fuel": "Diesel",
+        "startDate": "2014-07-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.2 Vti, 1.6 Vti",
+        "fuel": "Petrole",
+        "startDate": "2013-03-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "206 CC",
+    "modelSlug": "206-cc",
+    "motorisations": [
+      {
+        "motorisation": "1.6 16V",
+        "fuel": "Petrole",
+        "startDate": "2000-09-01",
+        "endDate": "2007-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      },
+      {
+        "motorisation": "2.0 S16",
+        "fuel": "Petrole",
+        "startDate": "2000-09-01",
+        "endDate": "2007-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "206 Hatchback",
+    "modelSlug": "206-hatchback",
+    "motorisations": [
+      {
+        "motorisation": "1.4 Hdi, 1.6 HDi 110, 1.9 D, 2.0 HDI 90",
+        "fuel": "Diesel",
+        "startDate": "1998-09-01",
+        "endDate": "2009-09-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "1.1 i, 1.4 i, 1.4 16V, 1.6i, 16 16V",
+        "fuel": "Petrole",
+        "startDate": "1998-09-01",
+        "endDate": "2007-02-01",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      },
+      {
+        "motorisation": "2.0 RC, 2.0 S16",
+        "fuel": "Petrole",
+        "startDate": "1999-04-01",
+        "endDate": "2007-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "206 SW",
+    "modelSlug": "206-sw",
+    "motorisations": [
+      {
+        "motorisation": "1.4 Hdi, 1.6 HDi 110, 2.0 HDI",
+        "fuel": "Diesel",
+        "startDate": "2002-07-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "1.4, 1.4 16V, 1.6 16V",
+        "fuel": "Petrole",
+        "startDate": "2002-07-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "206 Van",
+    "modelSlug": "206-van",
+    "motorisations": [
+      {
+        "motorisation": "1.4 Hdi, 1.9 D",
+        "fuel": "Diesel",
+        "startDate": "1999-04-01",
+        "endDate": "2009-03-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "206+",
+    "modelSlug": "206",
+    "motorisations": [
+      {
+        "motorisation": "1.4 HDi eco 70",
+        "fuel": "Diesel",
+        "startDate": "2009-01-01",
+        "endDate": "2013-06-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "1.1",
+        "fuel": "Petrole",
+        "startDate": "2009-01-01",
+        "endDate": "2013-06-01",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "207 | 207/207+",
+    "modelSlug": "207-207207",
+    "motorisations": [
+      {
+        "motorisation": "1.4 Hdi, 1.6 Hdi, 1.6 Hdi 110",
+        "fuel": "Diesel",
+        "startDate": "2006-02-01",
+        "endDate": "2015-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "1.4 16V, 1.6 16V Vti",
+        "fuel": "Petrole",
+        "startDate": "2007-02-01",
+        "endDate": "2013-10-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "1.4, 1.6 16V, 1.6 16V Turbo",
+        "fuel": "Petrole",
+        "startDate": "2006-02-01",
+        "endDate": "2013-10-01",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "207 CC",
+    "modelSlug": "207-cc",
+    "motorisations": [
+      {
+        "motorisation": "1.6 HDi",
+        "fuel": "Diesel",
+        "startDate": "2007-02-01",
+        "endDate": "2015-01-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "1.6 16V / Turbo",
+        "fuel": "Petrole",
+        "startDate": "2007-02-01",
+        "endDate": "2013-10-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "207 SW",
+    "modelSlug": "207-sw",
+    "motorisations": [
+      {
+        "motorisation": "1.6 HDi",
+        "fuel": "Diesel",
+        "startDate": "2009-08-01",
+        "endDate": "2013-10-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "1.4 16V, 1.6 16V",
+        "fuel": "Petrole",
+        "startDate": "2007-06-01",
+        "endDate": "2013-10-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "207 Van",
+    "modelSlug": "207-van",
+    "motorisations": [
+      {
+        "motorisation": "1.4 Hdi, 1.6 Hdi",
+        "fuel": "Diesel",
+        "startDate": "2007-04-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "208 I",
+    "modelSlug": "208-i",
+    "motorisations": [
+      {
+        "motorisation": "1.4 Hdi, 1.6 Hdi / BlueHDi 75 / 100 / 120",
+        "fuel": "Diesel",
+        "startDate": "2012-03-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.0, 1.2, 1.6",
+        "fuel": "Petrole",
+        "startDate": "2012-03-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      },
+      {
+        "motorisation": "1.2 THP 110, 1.6 Gti",
+        "fuel": "Petrole",
+        "startDate": "2013-01-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "3008 MPV",
+    "modelSlug": "3008-mpv",
+    "motorisations": [
+      {
+        "motorisation": "1.6 HDI, 1.6 BlueHDi 120",
+        "fuel": "Diesel",
+        "startDate": "2014-05-01",
+        "endDate": "2016-08-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "2.0 HDI, 2.0 HDi 150 / BlueHDi 150",
+        "fuel": "Diesel",
+        "startDate": "2009-06-01",
+        "endDate": "2016-08-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      },
+      {
+        "motorisation": "2.0 HDi Hybrid4",
+        "fuel": "Diesel",
+        "startDate": "2011-02-01",
+        "endDate": "2016-08-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "3008 SUV",
+    "modelSlug": "3008-suv",
+    "motorisations": [
+      {
+        "motorisation": "1.5 BlueHDi 130, 1.6 BlueHDi 120, 2.0 BlueHDi 120 / 150 / 180",
+        "fuel": "Diesel",
+        "startDate": "2016-05-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.2 THP/ PureTech 130, 1.6 THP 165",
+        "fuel": "Petrole",
+        "startDate": "2016-05-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "306 Hatchback",
+    "modelSlug": "306-hatchback",
+    "motorisations": [
+      {
+        "motorisation": "1.9 D, 1.9 DT, 2.0 HDI 90",
+        "fuel": "Diesel",
+        "startDate": "1993-05-01",
+        "endDate": "2002-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "307",
+    "modelSlug": "307",
+    "motorisations": [
+      {
+        "motorisation": "1.4 Hdi, 1.6 Hdi, 1.6 Hdi 110, 2.0 HDi 90 / 135",
+        "fuel": "Diesel",
+        "startDate": "2001-10-01",
+        "endDate": "2009-03-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "1.6 16V, 2.0 16V",
+        "fuel": "Petrole",
+        "startDate": "2000-08-01",
+        "endDate": "2007-11-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "307 Break",
+    "modelSlug": "307-break",
+    "motorisations": [
+      {
+        "motorisation": "1.6 Hdi / 110, 2.0 HDI 90 / 110 / 135",
+        "fuel": "Diesel",
+        "startDate": "2002-03-01",
+        "endDate": "2009-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "307 CC",
+    "modelSlug": "307-cc",
+    "motorisations": [
+      {
+        "motorisation": "2.0 16V",
+        "fuel": "Petrol",
+        "startDate": "2003-10-01",
+        "endDate": "2005-06-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "2.0 HDi 135",
+        "fuel": "Diesel",
+        "startDate": "2005-06-01",
+        "endDate": "2009-04-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "307 SW",
+    "modelSlug": "307-sw",
+    "motorisations": [
+      {
+        "motorisation": "1.6 HDi 90 /110, 2.0 HDI 90 / 110 / 135",
+        "fuel": "Diesel",
+        "startDate": "2002-03-01",
+        "endDate": "2009-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "308 CC",
+    "modelSlug": "308-cc",
+    "motorisations": [
+      {
+        "motorisation": "2.0 HDI",
+        "fuel": "Diesel",
+        "startDate": "2009-04-01",
+        "endDate": "2012-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "308 I",
+    "modelSlug": "308-i",
+    "motorisations": [
+      {
+        "motorisation": "1.6 Hdi, 2.0 HDI",
+        "fuel": "Diesel",
+        "startDate": "2007-09-01",
+        "endDate": "2014-10-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "308 II",
+    "modelSlug": "308-ii",
+    "motorisations": [
+      {
+        "motorisation": "1.6 BlueHDi 120, 1.6 HDi 100 / BlueHDi 115, 2.0 BlueHDi 150, 2.0 GT BlueHDi 180",
+        "fuel": "Diesel",
+        "startDate": "2013-11-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.2 THP 110 / 130, 1.6 GT 205, 1.6 Gti",
+        "fuel": "Petrole",
+        "startDate": "2013-11-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.5 BlueHDi 130",
+        "fuel": "Diesel",
+        "startDate": "2017-06-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "308 SW I",
+    "modelSlug": "308-sw-i",
+    "motorisations": [
+      {
+        "motorisation": "1.6 HDi",
+        "fuel": "Diesel",
+        "startDate": "2009-11-01",
+        "endDate": "2014-10-01",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "308 SW II",
+    "modelSlug": "308-sw-ii",
+    "motorisations": [
+      {
+        "motorisation": "1.6 BlueHDi 100 / 120 / BlueHDi 115, 2.0 BlueHDi 150, 2.0 GT HDi 180 / BlueHDi 180",
+        "fuel": "Diesel",
+        "startDate": "2014-03-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.2 THP 110 / 130",
+        "fuel": "Petrole",
+        "startDate": "2014-03-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "406",
+    "modelSlug": "406",
+    "motorisations": [
+      {
+        "motorisation": "1.9 D, 1.9 DT, 2.0 HDI 90, 2.2 Hdi",
+        "fuel": "Diesel",
+        "startDate": "1996-01-01",
+        "endDate": "2004-05-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "1.8 16V, 2.0 16V",
+        "fuel": "Petrole",
+        "startDate": "1995-11-01",
+        "endDate": "2004-06-01",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "406 Break",
+    "modelSlug": "406-break",
+    "motorisations": [
+      {
+        "motorisation": "1.9 TD, 2.0 HDI 90 / 110, 2.2 Hdi",
+        "fuel": "Diesel",
+        "startDate": "1996-10-01",
+        "endDate": "2004-10-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "407",
+    "modelSlug": "407",
+    "motorisations": [
+      {
+        "motorisation": "2.0 HDi 135, 2.2 Hdi 170, 2.7 Hdi",
+        "fuel": "Diesel",
+        "startDate": "2004-05-01",
+        "endDate": "2010-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      },
+      {
+        "motorisation": "1.6 HDi 110",
+        "fuel": "Diesel",
+        "startDate": "2004-05-01",
+        "endDate": "2010-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "1.8, 1.8 16V, 2.0, 2.0 16V, 2.2",
+        "fuel": "Petrole",
+        "startDate": "2004-03-01",
+        "endDate": "2010-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "407 SW",
+    "modelSlug": "407-sw",
+    "motorisations": [
+      {
+        "motorisation": "2.0 HDI / 135 / 170, 2.7 Hdi",
+        "fuel": "Diesel",
+        "startDate": "2004-07-01",
+        "endDate": "2010-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      },
+      {
+        "motorisation": "1.6 HDi 110",
+        "fuel": "Diesel",
+        "startDate": "2004-05-01",
+        "endDate": "2010-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "5008",
+    "modelSlug": "5008",
+    "motorisations": [
+      {
+        "motorisation": "1.6 Hdi, 1.6 BlueHDi 120, 2.0 HDI, 2.0 HDi 136 / BlueHDi 136, 2.0 HDi 150 / BlueHDi 150",
+        "fuel": "Diesel",
+        "startDate": "2009-09-01",
+        "endDate": "2017-03-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "5008 II",
+    "modelSlug": "5008-ii",
+    "motorisations": [
+      {
+        "motorisation": "1.5 BlueHDi 130, 1.6 BlueHDi 120, 2.0 BlueHDi 180",
+        "fuel": "Diesel",
+        "startDate": "2016-12-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "508 I",
+    "modelSlug": "508-i",
+    "motorisations": [
+      {
+        "motorisation": "1.6 BlueHDi 120, 2.0 BlueHDi 150 / 180",
+        "fuel": "Diesel",
+        "startDate": "2014-03-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "508 SW I",
+    "modelSlug": "508-sw-i",
+    "motorisations": [
+      {
+        "motorisation": "1.6 BlueHDi 120, 2.0 BlueHDi 150 / 180, 2.0 HDi 180 RXH",
+        "fuel": "Diesel",
+        "startDate": "2014-03-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "607",
+    "modelSlug": "607",
+    "motorisations": [
+      {
+        "motorisation": "2.0 HDI, 2.2 Hdi",
+        "fuel": "Diesel",
+        "startDate": "2000-02-01",
+        "endDate": "2011-07-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "807",
+    "modelSlug": "807",
+    "motorisations": [
+      {
+        "motorisation": "2.0 HDI, 2.2 HDi",
+        "fuel": "Diesel",
+        "startDate": "2002-06-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "BIPPER",
+    "modelSlug": "bipper",
+    "motorisations": [
+      {
+        "motorisation": "1.3 HDi 75, 1.4 Hdi",
+        "fuel": "Diesel",
+        "startDate": "2008-02-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "BIPPER Tepee",
+    "modelSlug": "bipper-tepee",
+    "motorisations": [
+      {
+        "motorisation": "1.3 HDi 75 / 80, 1.4 Ddi",
+        "fuel": "Diesel",
+        "startDate": "2008-04-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "BOXER Box",
+    "modelSlug": "boxer-box",
+    "motorisations": [
+      {
+        "motorisation": "2.0 BlueHDi 110 / 130 / 160",
+        "fuel": "Diesel",
+        "startDate": "2015-07-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      },
+      {
+        "motorisation": "2.2 HDi 100 / 120",
+        "fuel": "Diesel",
+        "startDate": "2006-04-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "FL1050",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "2.5 D / DT / 4x4 / TDI / TDI 4x4, 2.8 HDI / 4x4",
+        "fuel": "Diesel",
+        "startDate": "1994-03-01",
+        "endDate": "2002-04-01",
+        "batteryAGM": "",
+        "batteryEFB": "FL1000",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.9 D, 1.9 DT, 1.9 DT 4x4",
+        "fuel": "Diesel",
+        "startDate": "1994-03-01",
+        "endDate": "2002-04-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "BOXER Platform/Chassis",
+    "modelSlug": "boxer-platformchassis",
+    "motorisations": [
+      {
+        "motorisation": "2.2 HDi 100 / 120",
+        "fuel": "Diesel",
+        "startDate": "2006-04-01",
+        "endDate": "",
+        "batteryAGM": "F43",
+        "batteryEFB": "FL1050",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "2.2 HDi 110 / 130 / 150",
+        "fuel": "Diesel",
+        "startDate": "2011-03-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F10"
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "EXPERT Box",
+    "modelSlug": "expert-box",
+    "motorisations": [
+      {
+        "motorisation": "1.9 TD / D / 70",
+        "fuel": "Diesel",
+        "startDate": "1996-02-01",
+        "endDate": "2006-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "1.6 BlueHDi 95 / 115, 2.0 BlueHDi 120 / 150 / 180",
+        "fuel": "Diesel",
+        "startDate": "2016-04-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      },
+      {
+        "motorisation": "1.6 HDi 90 8V / 16V",
+        "fuel": "Diesel",
+        "startDate": "2007-01-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "2.0 HDi 120 / 130 / 140 / 165",
+        "fuel": "Diesel",
+        "startDate": "2007-01-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      },
+      {
+        "motorisation": "1.6 DDIS, 1.9 DDiS / 4x4, 2.0 DDiS / 4x4",
+        "fuel": "Diesel",
+        "startDate": "2006-06-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "EXPERT Tepee",
+    "modelSlug": "expert-tepee",
+    "motorisations": [
+      {
+        "motorisation": "2.0 HDi 100 / 120 / 130 / 140 / 165",
+        "fuel": "Diesel",
+        "startDate": "2011-03-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "PARTNER Box",
+    "modelSlug": "partner-box",
+    "motorisations": [
+      {
+        "motorisation": "1.6 Hdi / BlueHDi 75 / 100 / 120",
+        "fuel": "Diesel",
+        "startDate": "2008-04-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "1.6 HDi 16V / 4x4",
+        "fuel": "Diesel",
+        "startDate": "2010-04-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      },
+      {
+        "motorisation": "1.6 BlueHDi 100",
+        "fuel": "Diesel",
+        "startDate": "2018-09-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "PARTNER Box | PARTNER ORIGIN | RANCH",
+    "modelSlug": "partner-box-partner-origin-ranch",
+    "motorisations": [
+      {
+        "motorisation": "1.6 HDi 75 / 90, 1.9 D, 2.0 HDI",
+        "fuel": "Diesel",
+        "startDate": "1996-05-01",
+        "endDate": "2015-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "PARTNER Combispace | PARTNER ORIGIN | RANCH",
+    "modelSlug": "partner-combispace-partner-origin-ranch",
+    "motorisations": [
+      {
+        "motorisation": "1.6 HDi 75 / 90, 1.9 D, 2.0 HDI",
+        "fuel": "Diesel",
+        "startDate": "1998-12-01",
+        "endDate": "2015-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "PEUGEOT",
+    "brandSlug": "peugeot",
+    "modelName": "PARTNER Tepee",
+    "modelSlug": "partner-tepee",
+    "motorisations": [
+      {
+        "motorisation": "1.6 HDI / 16V / BlueHDi 75 / 90 / 100 / 120",
+        "fuel": "Diesel",
+        "startDate": "2008-04-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "1.6 HDi 75 / 90, 1.9 D, 2.0 HDI",
+        "fuel": "Diesel",
+        "startDate": "2012-10-01",
+        "endDate": "2018-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "CAPTUR",
+    "modelSlug": "captur",
+    "motorisations": [
+      {
+        "motorisation": "1.5 dCi 90 / 110",
+        "fuel": "Diesel",
+        "startDate": "2013-06-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "0.9 TCe 90, 1.2 TCe 120",
+        "fuel": "Petrole",
+        "startDate": "2013-06-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.2 TCe 120",
+        "fuel": "Petrole",
+        "startDate": "2016-01-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "CLIO Grandtour",
+    "modelSlug": "clio-grandtour",
+    "motorisations": [
+      {
+        "motorisation": "1.5 dCi (KR0F, KR0G)",
+        "fuel": "Diesel",
+        "startDate": "2008-02-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F6"
+      },
+      {
+        "motorisation": "1.5 dCi (KR0H, KR1S, KR1C, KR1N)",
+        "fuel": "Diesel",
+        "startDate": "2008-02-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "FL652",
+        "batteryConventional": "F8"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "CLIO I",
+    "modelSlug": "clio-i",
+    "motorisations": [
+      {
+        "motorisation": "1.2, 1.4, 1.7",
+        "fuel": "Petrole",
+        "startDate": "1990-05-01",
+        "endDate": "1998-09-01",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      },
+      {
+        "motorisation": "1.9 D",
+        "fuel": "Diesel",
+        "startDate": "1991-01-01",
+        "endDate": "1998-09-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "CLIO I Box",
+    "modelSlug": "clio-i-box",
+    "motorisations": [
+      {
+        "motorisation": "1.9 D / RND",
+        "fuel": "Diesel",
+        "startDate": "1991-01-01",
+        "endDate": "1998-09-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "CLIO II",
+    "modelSlug": "clio-ii",
+    "motorisations": [
+      {
+        "motorisation": "1.5 dCi",
+        "fuel": "Diesel",
+        "startDate": "2001-06-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F6"
+      },
+      {
+        "motorisation": "1.2 / 16V, 1.4, 1.6 / 16V",
+        "fuel": "Petrole",
+        "startDate": "1998-09-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F3"
+      },
+      {
+        "motorisation": "1.9 D, 1.9 dTi",
+        "fuel": "Diesel",
+        "startDate": "1998-09-01",
+        "endDate": "2005-05-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "1.2 LPG",
+        "fuel": "Petroleum",
+        "startDate": "1998-09-01",
+        "endDate": "2009-06-01",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "CLIO II Box",
+    "modelSlug": "clio-ii-box",
+    "motorisations": [
+      {
+        "motorisation": "1.5 dCi",
+        "fuel": "Diesel",
+        "startDate": "2001-06-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F6"
+      },
+      {
+        "motorisation": "1.9 D, Dti",
+        "fuel": "Diesel",
+        "startDate": "1998-09-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "1.2 (SB0A, SB0F, SB10)",
+        "fuel": "Petrole",
+        "startDate": "1998-09-01",
+        "endDate": "2003-10-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F3"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "CLIO III",
+    "modelSlug": "clio-iii",
+    "motorisations": [
+      {
+        "motorisation": "1.5 dCi",
+        "fuel": "Diesel",
+        "startDate": "2005-05-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "FL652",
+        "batteryConventional": "F8"
+      },
+      {
+        "motorisation": "1.2 16V (BR02, BR0J, BR11, CR02, CR0J, CR11, BR0P, CR0P, BR0R, BR1D, BR1L, CR0R )",
+        "fuel": "Petrole",
+        "startDate": "2005-06-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F3"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "CLIO III Box",
+    "modelSlug": "clio-iii-box",
+    "motorisations": [
+      {
+        "motorisation": "1.5 dCi",
+        "fuel": "Diesel",
+        "startDate": "2010-08-01",
+        "endDate": "2014-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "FL652",
+        "batteryConventional": "F8"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "CLIO IV",
+    "modelSlug": "clio-iv",
+    "motorisations": [
+      {
+        "motorisation": "1.5 dCi 75 / 90",
+        "fuel": "Diesel",
+        "startDate": "2012-11-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "0.9 TCe 90, 1.2 TCe 120, 1.6 RS",
+        "fuel": "Petrole",
+        "startDate": "2012-11-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.2 16V",
+        "fuel": "Petrole",
+        "startDate": "2012-11-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      },
+      {
+        "motorisation": "1.2 TCe 120 (BHAU)",
+        "fuel": "Petrole",
+        "startDate": "2016-01-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "CLIO IV Grandtour",
+    "modelSlug": "clio-iv-grandtour",
+    "motorisations": [
+      {
+        "motorisation": "1.5 dCi 75 / 90",
+        "fuel": "Diesel",
+        "startDate": "2013-01-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "0.9 TCe 90, 1.2 Tce 120 (KHM0)",
+        "fuel": "Petrole",
+        "startDate": "2013-01-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "ESPACE II",
+    "modelSlug": "espace-ii",
+    "motorisations": [
+      {
+        "motorisation": "2.1 TD",
+        "fuel": "Diesel",
+        "startDate": "1991-01-01",
+        "endDate": "1996-10-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "ESPACE III",
+    "modelSlug": "espace-iii",
+    "motorisations": [
+      {
+        "motorisation": "1.9 dTi, 2.2 D / 12V TD / dCi",
+        "fuel": "Diesel",
+        "startDate": "1996-11-01",
+        "endDate": "2002-10-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "ESPACE IV",
+    "modelSlug": "espace-iv",
+    "motorisations": [
+      {
+        "motorisation": "1.9 dCi, 2.0 dCi, 2.2 dCi, 3.0 dCi",
+        "fuel": "Diesel",
+        "startDate": "2002-11-01",
+        "endDate": "2005-02-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F12"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "ESPACE V",
+    "modelSlug": "espace-v",
+    "motorisations": [
+      {
+        "motorisation": "1.6 dCi 130 / 160",
+        "fuel": "Diesel",
+        "startDate": "2015-06-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "GRAND SCÉNIC II",
+    "modelSlug": "grand-scnic-ii",
+    "motorisations": [
+      {
+        "motorisation": "1.5 dCi, 1.9 dCi, 2.0 dCi",
+        "fuel": "Diesel",
+        "startDate": "2004-04-01",
+        "endDate": "2008-11-01",
+        "batteryAGM": "",
+        "batteryEFB": "FL652",
+        "batteryConventional": "F8"
+      },
+      {
+        "motorisation": "1.5 dCi (JM1E)",
+        "fuel": "Diesel",
+        "startDate": "2005-05-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F6"
+      },
+      {
+        "motorisation": "1.5 dCi (JM0F, JM16, JM1F)",
+        "fuel": "Diesel",
+        "startDate": "2003-06-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F6"
+      },
+      {
+        "motorisation": "1.5 dCi (JM02, JM13), 1.9 dCi, 2.0 dCi",
+        "fuel": "Diesel",
+        "startDate": "2003-06-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "FL652",
+        "batteryConventional": "F8"
+      },
+      {
+        "motorisation": "1.6 / 16V, 2.0",
+        "fuel": "Petrole",
+        "startDate": "2003-06-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F6"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "GRAND SCÉNIC III",
+    "modelSlug": "grand-scnic-iii",
+    "motorisations": [
+      {
+        "motorisation": "1.5 dCi",
+        "fuel": "Diesel",
+        "startDate": "2009-02-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "1.5 dCi (JZ02, JZ0R)",
+        "fuel": "Diesel",
+        "startDate": "2009-04-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F6"
+      },
+      {
+        "motorisation": "1.6 dCi",
+        "fuel": "Diesel",
+        "startDate": "2011-04-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.9 dCi",
+        "fuel": "Diesel",
+        "startDate": "2009-02-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "GRAND SCÉNIC IV",
+    "modelSlug": "grand-scnic-iv",
+    "motorisations": [
+      {
+        "motorisation": "1.5 dCi 95 / 110 , 1.6 dCi 130 / 160",
+        "fuel": "Diesel",
+        "startDate": "2016-09-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "KADJAR",
+    "modelSlug": "kadjar",
+    "motorisations": [
+      {
+        "motorisation": "1.5 dCi 110, 1.6 dCi 130 /4x4",
+        "fuel": "Diesel",
+        "startDate": "2015-06-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.2 TCe 130",
+        "fuel": "Petrole",
+        "startDate": "2015-06-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "KANGOO",
+    "modelSlug": "kangoo",
+    "motorisations": [
+      {
+        "motorisation": "1.5 dCi, 1.9 RXED",
+        "fuel": "Diesel",
+        "startDate": "1999-09-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "1.9 dCi 4x4, 1.9 dTi, D 55 1.9, D 65 1.9",
+        "fuel": "Diesel",
+        "startDate": "1997-08-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "KANGOO / GRAND KANGOO",
+    "modelSlug": "kangoo-grand-kangoo",
+    "motorisations": [
+      {
+        "motorisation": "1.5 dCi / 110",
+        "fuel": "Diesel",
+        "startDate": "2008-06-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.5 dCi (KW0B)",
+        "fuel": "Diesel",
+        "startDate": "2008-02-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      },
+      {
+        "motorisation": "1.5 dCi (KW0A, KW0F)",
+        "fuel": "Diesel",
+        "startDate": "2008-02-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "KANGOO BE BOP",
+    "modelSlug": "kangoo-be-bop",
+    "motorisations": [
+      {
+        "motorisation": "1.5 dCi / 75",
+        "fuel": "Diesel",
+        "startDate": "2009-06-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "KANGOO Express",
+    "modelSlug": "kangoo-express",
+    "motorisations": [
+      {
+        "motorisation": "1.5 dCi",
+        "fuel": "Diesel",
+        "startDate": "2001-12-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "1.2, 1.2 16V, 1.4, 1.6 16V",
+        "fuel": "Petrole",
+        "startDate": "1997-08-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      },
+      {
+        "motorisation": "1.9 D, D 55 1.9, D 65 1.9",
+        "fuel": "Diesel",
+        "startDate": "1997-08-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      },
+      {
+        "motorisation": "1.5 dCi / 75 / 85 / 90 / 110",
+        "fuel": "Diesel",
+        "startDate": "2008-02-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "Z.E.",
+        "fuel": "Electric",
+        "startDate": "2011-10-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "KOLEOS I",
+    "modelSlug": "koleos-i",
+    "motorisations": [
+      {
+        "motorisation": "2.0 dCi / 4x4",
+        "fuel": "Diesel",
+        "startDate": "2008-09-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "LAGUNA I",
+    "modelSlug": "laguna-i",
+    "motorisations": [
+      {
+        "motorisation": "1.9 dCi, 1.9 dTi, 2.2 D, 2.2 dT",
+        "fuel": "Diesel",
+        "startDate": "1993-11-01",
+        "endDate": "2001-03-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      },
+      {
+        "motorisation": "1.8, 1.8 16V, 2.0",
+        "fuel": "Petrole",
+        "startDate": "1993-11-01",
+        "endDate": "2001-03-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "1.6 16V",
+        "fuel": "Petrole",
+        "startDate": "1997-11-01",
+        "endDate": "2001-03-01",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "LAGUNA II",
+    "modelSlug": "laguna-ii",
+    "motorisations": [
+      {
+        "motorisation": "1.9 dCi, 2.0 dCi, 2.2 dCi",
+        "fuel": "Diesel",
+        "startDate": "2001-03-01",
+        "endDate": "2007-09-01",
+        "batteryAGM": "",
+        "batteryEFB": "FL652",
+        "batteryConventional": "F8"
+      },
+      {
+        "motorisation": "1.8 16V (BG06, BG0J, BG0M, BG0J ), 2.0 16V",
+        "fuel": "Petrole",
+        "startDate": "2001-03-01",
+        "endDate": "2007-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F6"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "LAGUNA II Grandtour",
+    "modelSlug": "laguna-ii-grandtour",
+    "motorisations": [
+      {
+        "motorisation": "1.9 dCi, 2.0 dCi",
+        "fuel": "Diesel",
+        "startDate": "2001-03-01",
+        "endDate": "2007-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "FL652",
+        "batteryConventional": "F8"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "LAGUNA III",
+    "modelSlug": "laguna-iii",
+    "motorisations": [
+      {
+        "motorisation": "2.0 dCi",
+        "fuel": "Diesel",
+        "startDate": "2007-10-01",
+        "endDate": "2015-12-01",
+        "batteryAGM": "F42",
+        "batteryEFB": "",
+        "batteryConventional": "F7"
+      },
+      {
+        "motorisation": "1.5 dCi",
+        "fuel": "Diesel",
+        "startDate": "2007-10-01",
+        "endDate": "2015-12-01",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "LAGUNA III Grandtour",
+    "modelSlug": "laguna-iii-grandtour",
+    "motorisations": [
+      {
+        "motorisation": "2.0 dCi",
+        "fuel": "Diesel",
+        "startDate": "2007-10-01",
+        "endDate": "2015-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.5 dCi (KT0A)",
+        "fuel": "Diesel",
+        "startDate": "2007-10-01",
+        "endDate": "2015-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "MASTER II Box",
+    "modelSlug": "master-ii-box",
+    "motorisations": [
+      {
+        "motorisation": "2.5 D, 2.5 dCi 100 / 120, 2.8 dTI, 3.0 dCi 120 / 160",
+        "fuel": "Diesel",
+        "startDate": "1998-07-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F10"
+      },
+      {
+        "motorisation": "1.9 dCi 80, 1.9 dTI, 2.2 dCI 90",
+        "fuel": "Diesel",
+        "startDate": "2000-09-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "MASTER II Bus",
+    "modelSlug": "master-ii-bus",
+    "motorisations": [
+      {
+        "motorisation": "2.5 D, 2.5 dCi 120, 2.8 dTI, 3.0 dCi 140",
+        "fuel": "Diesel",
+        "startDate": "1998-07-01",
+        "endDate": "2001-01-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F10"
+      },
+      {
+        "motorisation": "1.9 dCi / 80, 2.2 dCI 90",
+        "fuel": "Diesel",
+        "startDate": "2000-09-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "MASTER III Box",
+    "modelSlug": "master-iii-box",
+    "motorisations": [
+      {
+        "motorisation": "2.3 dCi 110, 130, 135, 165, 170 FWD",
+        "fuel": "Diesel",
+        "startDate": "2014-09-01",
+        "endDate": "",
+        "batteryAGM": "F43",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "2.5 D, 2.5 dCi 100 / 120, 2.8 dTI, 3.0 dCi 140",
+        "fuel": "Diesel",
+        "startDate": "2010-02-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F10"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "MASTER III Platform/ Chassis",
+    "modelSlug": "master-iii-platform-chassis",
+    "motorisations": [
+      {
+        "motorisation": "2.3 dCi 100 / 125 / 130 / 145 FWD, 125 / 130 / 145 RWD",
+        "fuel": "Diesel",
+        "startDate": "2010-02-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F10"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "MEGANE CC",
+    "modelSlug": "megane-cc",
+    "motorisations": [
+      {
+        "motorisation": "1.5 dCi",
+        "fuel": "Diesel",
+        "startDate": "2010-06-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "MEGANE I",
+    "modelSlug": "megane-i",
+    "motorisations": [
+      {
+        "motorisation": "1.9 D Eco, 1.9 dCi, 1.9 dTi",
+        "fuel": "Diesel",
+        "startDate": "1996-01-01",
+        "endDate": "2003-08-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      },
+      {
+        "motorisation": "1.4 16V, 1.4 e, 1.4 Eco, 1.6 16V, 1.6 e",
+        "fuel": "Petrole",
+        "startDate": "1996-01-01",
+        "endDate": "2003-08-01",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "MEGANE II",
+    "modelSlug": "megane-ii",
+    "motorisations": [
+      {
+        "motorisation": "1.5 dCi (BM0F, BM0T, BM2B, CM0F, CM0T, (BM1E, CM1E,BM1F, CM1F)",
+        "fuel": "Diesel",
+        "startDate": "2002-09-01",
+        "endDate": "2008-06-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F6"
+      },
+      {
+        "motorisation": "1.9 dCi",
+        "fuel": "Diesel",
+        "startDate": "2002-11-01",
+        "endDate": "2009-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "FL652",
+        "batteryConventional": "F8"
+      },
+      {
+        "motorisation": "1.4 16V, 1.6 16V",
+        "fuel": "Petrole",
+        "startDate": "2002-11-01",
+        "endDate": "2008-02-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "MEGANE II Coupé-Cabriolet",
+    "modelSlug": "megane-ii-coup-cabriolet",
+    "motorisations": [
+      {
+        "motorisation": "1.9 dCi",
+        "fuel": "Diesel",
+        "startDate": "2003-09-01",
+        "endDate": "2009-03-01",
+        "batteryAGM": "",
+        "batteryEFB": "FL652",
+        "batteryConventional": "F8"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "MEGANE II Estate",
+    "modelSlug": "megane-ii-estate",
+    "motorisations": [
+      {
+        "motorisation": "1.5 dCi (KM02, KM13)",
+        "fuel": "Diesel",
+        "startDate": "2003-08-01",
+        "endDate": "2009-07-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F6"
+      },
+      {
+        "motorisation": "1.9 dCi",
+        "fuel": "Diesel",
+        "startDate": "2003-08-01",
+        "endDate": "2009-07-01",
+        "batteryAGM": "",
+        "batteryEFB": "FL652",
+        "batteryConventional": "F8"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "MEGANE II Hatchback Van",
+    "modelSlug": "megane-ii-hatchback-van",
+    "motorisations": [
+      {
+        "motorisation": "1.5 dCi",
+        "fuel": "Diesel",
+        "startDate": "2003-08-01",
+        "endDate": "2008-02-01",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "MEGANE III Coupe",
+    "modelSlug": "megane-iii-coupe",
+    "motorisations": [
+      {
+        "motorisation": "1.5 dCi (DZ09, DZ0D, DZ1F, DZ1G), 1.6 dCi (DZ00)",
+        "fuel": "Diesel",
+        "startDate": "2009-02-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "1.5 dCi (DZ0A, DZ0B, DZ0C, DZ1A)",
+        "fuel": "Diesel",
+        "startDate": "2008-11-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "MEGANE III Grandtour",
+    "modelSlug": "megane-iii-grandtour",
+    "motorisations": [
+      {
+        "motorisation": "1.5 dCi (KZ09, KZ0D, KZ1G)",
+        "fuel": "Diesel",
+        "startDate": "2009-02-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "1.5 dCi (KZ0C, KZ1A, KZ1M, KZ1W)",
+        "fuel": "Diesel",
+        "startDate": "2009-03-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "MEGANE III Hatchback",
+    "modelSlug": "megane-iii-hatchback",
+    "motorisations": [
+      {
+        "motorisation": "1.5 dCi (BZ0C, BZ09, BZ0D, BZ1W)",
+        "fuel": "Diesel",
+        "startDate": "2008-11-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.9 dCi (BZ0N, BZ0J), 2.0 dCi (BZ0L)",
+        "fuel": "Diesel",
+        "startDate": "2008-11-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "MEGANE IV Grandtour",
+    "modelSlug": "megane-iv-grandtour",
+    "motorisations": [
+      {
+        "motorisation": "1.5 dCi 90 / 110, 1.6 dCi 130 / 165",
+        "fuel": "Diesel",
+        "startDate": "2016-04-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "MEGANE IV Hatchback",
+    "modelSlug": "megane-iv-hatchback",
+    "motorisations": [
+      {
+        "motorisation": "1.5 dCi 90 / 110, 1.6 dCi 130 / 165",
+        "fuel": "Diesel",
+        "startDate": "2015-11-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.2 TCe 100 / 130, 1.6 Tce 205",
+        "fuel": "Petrole",
+        "startDate": "2015-11-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "MEGANE Scenic",
+    "modelSlug": "megane-scenic",
+    "motorisations": [
+      {
+        "motorisation": "1.9 D, 1.9 dTi",
+        "fuel": "Diesel",
+        "startDate": "1997-03-01",
+        "endDate": "1999-09-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      },
+      {
+        "motorisation": "1.4 i, 1.6 i / e",
+        "fuel": "Petrole",
+        "startDate": "1996-10-01",
+        "endDate": "1999-09-01",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      },
+      {
+        "motorisation": "1.9 dT",
+        "fuel": "Diesel",
+        "startDate": "1997-03-01",
+        "endDate": "1999-08-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "1.6 16V",
+        "fuel": "Petrole",
+        "startDate": "1998-04-01",
+        "endDate": "1999-10-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F3"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "MODUS / GRAND MODUS",
+    "modelSlug": "modus-grand-modus",
+    "motorisations": [
+      {
+        "motorisation": "1.5 dCi / 75 / 90",
+        "fuel": "Diesel",
+        "startDate": "2004-09-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F6"
+      },
+      {
+        "motorisation": "1.2 / 16V, 1.4, 1.6",
+        "fuel": "Petrole",
+        "startDate": "2004-12-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F3"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "SCÉNIC I MPV",
+    "modelSlug": "scnic-i-mpv",
+    "motorisations": [
+      {
+        "motorisation": "1.9 D / dCi / dTi /",
+        "fuel": "Diesel",
+        "startDate": "1999-09-01",
+        "endDate": "2003-08-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F6"
+      },
+      {
+        "motorisation": "1.6 (JA00, JA16, JA15, JA19, JA1V, JA2B, JA2C, JA0B)",
+        "fuel": "Petrole",
+        "startDate": "1999-09-01",
+        "endDate": "2003-09-01",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      },
+      {
+        "motorisation": "1.8 16V, 2.0 16V / RX4",
+        "fuel": "Petrole",
+        "startDate": "1999-09-01",
+        "endDate": "2003-08-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F6"
+      },
+      {
+        "motorisation": "1.4 16V, 1.6",
+        "fuel": "Petrole",
+        "startDate": "1999-09-01",
+        "endDate": "2003-08-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F6"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "SCÉNIC II",
+    "modelSlug": "scnic-ii",
+    "motorisations": [
+      {
+        "motorisation": "1.5 dCi (JM02, JM13), 1.9 dCi, 2.0 dCi",
+        "fuel": "Diesel",
+        "startDate": "2003-06-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "FL652",
+        "batteryConventional": "F8"
+      },
+      {
+        "motorisation": "1.5 dCi (JM0F, JM16, JM1F)",
+        "fuel": "Diesel",
+        "startDate": "2003-06-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F6"
+      },
+      {
+        "motorisation": "1.5 dCi (JM1E)",
+        "fuel": "Diesel",
+        "startDate": "2005-05-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      },
+      {
+        "motorisation": "1.6 / 16V, 2.0",
+        "fuel": "Petrole",
+        "startDate": "2003-06-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F6"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "SCÉNIC III",
+    "modelSlug": "scnic-iii",
+    "motorisations": [
+      {
+        "motorisation": "1.5 dCi",
+        "fuel": "Diesel",
+        "startDate": "2009-02-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "1.5 dCi (JZ02, JZ0R)",
+        "fuel": "Diesel",
+        "startDate": "2009-04-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F6"
+      },
+      {
+        "motorisation": "1.6 dCi",
+        "fuel": "Diesel",
+        "startDate": "2011-04-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.9 dCi",
+        "fuel": "Diesel",
+        "startDate": "2009-02-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "SCÉNIC IV",
+    "modelSlug": "scnic-iv",
+    "motorisations": [
+      {
+        "motorisation": "1.5 dCi 95 / 110 , 1.6 dCi 130 / 160",
+        "fuel": "Diesel",
+        "startDate": "2016-09-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "TALISMAN",
+    "modelSlug": "talisman",
+    "motorisations": [
+      {
+        "motorisation": "1.5 dCi 110, 1.6 dCi 130 / 160",
+        "fuel": "Diesel",
+        "startDate": "2015-06-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "TRAFIC Box",
+    "modelSlug": "trafic-box",
+    "motorisations": [
+      {
+        "motorisation": "1.9 D, 2.1 D, 2.5 D",
+        "fuel": "Diesel",
+        "startDate": "1989-05-01",
+        "endDate": "2001-03-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "TRAFIC Bus",
+    "modelSlug": "trafic-bus",
+    "motorisations": [
+      {
+        "motorisation": "1.9 D, 2.1 D, 2.5 D",
+        "fuel": "Diesel",
+        "startDate": "1994-06-01",
+        "endDate": "2001-03-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "TRAFIC II Box",
+    "modelSlug": "trafic-ii-box",
+    "motorisations": [
+      {
+        "motorisation": "2.0 dCi 90 / 115 (FL01, FL0U)",
+        "fuel": "Diesel",
+        "startDate": "2006-08-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "FL652",
+        "batteryConventional": "F8"
+      },
+      {
+        "motorisation": "2.5 dCi 145 (FL0J)",
+        "fuel": "Diesel",
+        "startDate": "2006-08-01",
+        "endDate": "",
+        "batteryAGM": "F42",
+        "batteryEFB": "",
+        "batteryConventional": "FL800"
+      },
+      {
+        "motorisation": "1.9 dCi 100 (FL0C)",
+        "fuel": "Diesel",
+        "startDate": "2001-03-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "TRAFIC II Bus",
+    "modelSlug": "trafic-ii-bus",
+    "motorisations": [
+      {
+        "motorisation": "2.0 dCi 90 / 115",
+        "fuel": "Diesel",
+        "startDate": "2006-08-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "FL652",
+        "batteryConventional": "F8"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "TRAFIC II Platform/ Chassis",
+    "modelSlug": "trafic-ii-platform-chassis",
+    "motorisations": [
+      {
+        "motorisation": "2.0 dCi 90 / 115",
+        "fuel": "Diesel",
+        "startDate": "2006-08-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F8"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "TRAFIC III Box",
+    "modelSlug": "trafic-iii-box",
+    "motorisations": [
+      {
+        "motorisation": "1.6 dCi 125 / 145",
+        "fuel": "Diesel",
+        "startDate": "2015-07-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "TRAFIC III Bus",
+    "modelSlug": "trafic-iii-bus",
+    "motorisations": [
+      {
+        "motorisation": "1.6 dCi 90 / 125 / 145",
+        "fuel": "Diesel",
+        "startDate": "2015-07-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "TWINGO I",
+    "modelSlug": "twingo-i",
+    "motorisations": [
+      {
+        "motorisation": "1.2 / 16V",
+        "fuel": "Petrole",
+        "startDate": "1993-03-01",
+        "endDate": "2007-06-01",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "TWINGO I Box",
+    "modelSlug": "twingo-i-box",
+    "motorisations": [
+      {
+        "motorisation": "1.2",
+        "fuel": "Petrole",
+        "startDate": "1993-03-01",
+        "endDate": "2004-08-01",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "TWINGO II",
+    "modelSlug": "twingo-ii",
+    "motorisations": [
+      {
+        "motorisation": "1.2 / 16V / Turbo, 1.6 RS",
+        "fuel": "Petrole",
+        "startDate": "2007-03-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F3"
+      },
+      {
+        "motorisation": "1.5 dCi / 75 / 90",
+        "fuel": "Diesel",
+        "startDate": "2007-03-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "TWINGO III",
+    "modelSlug": "twingo-iii",
+    "motorisations": [
+      {
+        "motorisation": "1.0 SCe 70",
+        "fuel": "Petrole",
+        "startDate": "2014-09-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F1"
+      },
+      {
+        "motorisation": "0.9 Tce 90 / 110",
+        "fuel": "Petrole",
+        "startDate": "2014-09-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "VEL SATIS",
+    "modelSlug": "vel-satis",
+    "motorisations": [
+      {
+        "motorisation": "2.0 dCi, 2.2 dCi, 3.0 dCi",
+        "fuel": "Diesel",
+        "startDate": "2002-06-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F12"
+      }
+    ]
+  },
+  {
+    "brand": "RENAULT",
+    "brandSlug": "renault",
+    "modelName": "ZOE",
+    "modelSlug": "zoe",
+    "motorisations": [
+      {
+        "motorisation": "ZOE",
+        "fuel": "Electric",
+        "startDate": "2012-06-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "SEAT",
+    "brandSlug": "seat",
+    "modelName": "ALTEA",
+    "modelSlug": "altea",
+    "motorisations": [
+      {
+        "motorisation": "1.6 TDI",
+        "fuel": "Diesel",
+        "startDate": "2004-04-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "SEAT",
+    "brandSlug": "seat",
+    "modelName": "IBIZA II",
+    "modelSlug": "ibiza-ii",
+    "motorisations": [
+      {
+        "motorisation": "1.9 D / TDI / SDI",
+        "fuel": "Diesel",
+        "startDate": "1993-04-01",
+        "endDate": "2002-02-01",
+        "batteryAGM": "",
+        "batteryEFB": "FL652",
+        "batteryConventional": "F8"
+      },
+      {
+        "motorisation": "1.0 / i, 1.4i",
+        "fuel": "Petrol",
+        "startDate": "1993-03-01",
+        "endDate": "2002-02-01",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "SEAT",
+    "brandSlug": "seat",
+    "modelName": "IBIZA III",
+    "modelSlug": "ibiza-iii",
+    "motorisations": [
+      {
+        "motorisation": "1.4 TDI",
+        "fuel": "Diesel",
+        "startDate": "2002-05-01",
+        "endDate": "2009-11-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "1.9 SDI",
+        "fuel": "Diesel",
+        "startDate": "2002-02-01",
+        "endDate": "2009-11-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      },
+      {
+        "motorisation": "1.2 / 12V, 1.4 16V",
+        "fuel": "Petrole",
+        "startDate": "2002-02-01",
+        "endDate": "2009-11-01",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "SEAT",
+    "brandSlug": "seat",
+    "modelName": "IBIZA IV",
+    "modelSlug": "ibiza-iv",
+    "motorisations": [
+      {
+        "motorisation": "1.0, 1.2 / TSI, 1.4",
+        "fuel": "Petrole",
+        "startDate": "2008-03-01",
+        "endDate": "",
+        "batteryAGM": "F40",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      },
+      {
+        "motorisation": "1.2 TDI",
+        "fuel": "Diesel",
+        "startDate": "2010-05-01",
+        "endDate": "",
+        "batteryAGM": "F40",
+        "batteryEFB": "",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "SEAT",
+    "brandSlug": "seat",
+    "modelName": "LEON",
+    "modelSlug": "leon",
+    "motorisations": [
+      {
+        "motorisation": "1.6 TDI, 1.9 TDI, 2.0 TDI / 16V",
+        "fuel": "Diesel",
+        "startDate": "2005-07-01",
+        "endDate": "2012-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "SKODA",
+    "brandSlug": "skoda",
+    "modelName": "FABIA II",
+    "modelSlug": "fabia-ii",
+    "motorisations": [
+      {
+        "motorisation": "1.4 TDI, 1.6 TDI",
+        "fuel": "Diesel",
+        "startDate": "2007-01-01",
+        "endDate": "2014-12-01",
+        "batteryAGM": "F40",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "SKODA",
+    "brandSlug": "skoda",
+    "modelName": "OCTAVIA I",
+    "modelSlug": "octavia-i",
+    "motorisations": [
+      {
+        "motorisation": "1.9 TDI",
+        "fuel": "Diesel",
+        "startDate": "1996-09-01",
+        "endDate": "2010-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "SKODA",
+    "brandSlug": "skoda",
+    "modelName": "YETI",
+    "modelSlug": "yeti",
+    "motorisations": [
+      {
+        "motorisation": "2.0 TDI / TDI 4x4",
+        "fuel": "Diesel",
+        "startDate": "2009-05-01",
+        "endDate": "2017-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "SMART",
+    "brandSlug": "smart",
+    "modelName": "FORTWO Cabrio",
+    "modelSlug": "fortwo-cabrio",
+    "motorisations": [
+      {
+        "motorisation": "1.0, 1.0 Turbo, 1.0 Turbo Brabus",
+        "fuel": "Petrole",
+        "startDate": "2007-01-01",
+        "endDate": "",
+        "batteryAGM": "F40",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "SMART",
+    "brandSlug": "smart",
+    "modelName": "FORTWO Coupe",
+    "modelSlug": "fortwo-coupe",
+    "motorisations": [
+      {
+        "motorisation": "0.7",
+        "fuel": "Petrole",
+        "startDate": "2004-01-01",
+        "endDate": "2007-01-01",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      },
+      {
+        "motorisation": "1.0 / Turbo / Brabus",
+        "fuel": "Petrole",
+        "startDate": "2007-01-01",
+        "endDate": "",
+        "batteryAGM": "F40",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      },
+      {
+        "motorisation": "0.9, 1.0",
+        "fuel": "Petrole",
+        "startDate": "2014-09-01",
+        "endDate": "",
+        "batteryAGM": "F40",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "SUZUKI",
+    "brandSlug": "suzuki",
+    "modelName": "GRAND VITARA II",
+    "modelSlug": "grand-vitara-ii",
+    "motorisations": [
+      {
+        "motorisation": "1.9 DDiS / All-wheel Drive",
+        "fuel": "Diesel",
+        "startDate": "2006-03-01",
+        "endDate": "2008-08-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "SUZUKI",
+    "brandSlug": "suzuki",
+    "modelName": "JIMNY Closed Off-Road Vehicle",
+    "modelSlug": "jimny-closed-off-road-vehicle",
+    "motorisations": [
+      {
+        "motorisation": "1.5 DDiS 4WD / 4x4",
+        "fuel": "Diesel",
+        "startDate": "2003-12-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "FL604",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "SUZUKI",
+    "brandSlug": "suzuki",
+    "modelName": "SWIFT III",
+    "modelSlug": "swift-iii",
+    "motorisations": [
+      {
+        "motorisation": "1.3 / 4x4, 1.6",
+        "fuel": "Petrole",
+        "startDate": "2005-02-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F3"
+      }
+    ]
+  },
+  {
+    "brand": "SUZUKI",
+    "brandSlug": "suzuki",
+    "modelName": "SWIFT IV",
+    "modelSlug": "swift-iv",
+    "motorisations": [
+      {
+        "motorisation": "1.2, 1.6",
+        "fuel": "Petrole",
+        "startDate": "2010-10-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "SUZUKI",
+    "brandSlug": "suzuki",
+    "modelName": "SX4 | SX4 CLASSIC",
+    "modelSlug": "sx4-sx4-classic",
+    "motorisations": [
+      {
+        "motorisation": "1.9 D All-wheel Drive, 2.0 TD Intercooler All-wheel Drive",
+        "fuel": "Diesel",
+        "startDate": "1995-01-01",
+        "endDate": "1998-03-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "SUZUKI",
+    "brandSlug": "suzuki",
+    "modelName": "VITARA",
+    "modelSlug": "vitara",
+    "motorisations": [
+      {
+        "motorisation": "2.5 CRDi",
+        "fuel": "Diesel",
+        "startDate": "2002-08-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "FL955",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.6 DDiS / AllGrip",
+        "fuel": "Diesel",
+        "startDate": "2015-02-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "TOYOTA",
+    "brandSlug": "toyota",
+    "modelName": "AURIS | COROLLA",
+    "modelSlug": "auris-corolla",
+    "motorisations": [
+      {
+        "motorisation": "1.4 D-4D",
+        "fuel": "Diesel",
+        "startDate": "2007-03-01",
+        "endDate": "2012-09-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "2.0 D-4D",
+        "fuel": "Diesel",
+        "startDate": "2007-03-01",
+        "endDate": "2012-09-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.8 Hybrid",
+        "fuel": "Petrole/Electro",
+        "startDate": "2010-09-01",
+        "endDate": "2012-09-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "TOYOTA",
+    "brandSlug": "toyota",
+    "modelName": "AURIS",
+    "modelSlug": "auris",
+    "motorisations": [
+      {
+        "motorisation": "1.8 Hybrid",
+        "fuel": "Electro",
+        "startDate": "2012-10-01",
+        "endDate": "2018-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "TOYOTA",
+    "brandSlug": "toyota",
+    "modelName": "AVENSIS",
+    "modelSlug": "avensis",
+    "motorisations": [
+      {
+        "motorisation": "2.0 D-4D (ADT250_)",
+        "fuel": "Diesel",
+        "startDate": "2003-04-01",
+        "endDate": "2008-11-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "TOYOTA",
+    "brandSlug": "toyota",
+    "modelName": "AYGO",
+    "modelSlug": "aygo",
+    "motorisations": [
+      {
+        "motorisation": "1.0 (KGB40)",
+        "fuel": "Petrole",
+        "startDate": "2014-05-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "TOYOTA",
+    "brandSlug": "toyota",
+    "modelName": "COROLLA | COROLLA / ALLEX",
+    "modelSlug": "corolla-corolla-allex",
+    "motorisations": [
+      {
+        "motorisation": "1.4 D, 2.0 D-4D",
+        "fuel": "Diesel",
+        "startDate": "2002-01-01",
+        "endDate": "2007-02-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "TOYOTA",
+    "brandSlug": "toyota",
+    "modelName": "HILUX VII Pickup | HILUX VIGO",
+    "modelSlug": "hilux-vii-pickup-hilux-vigo",
+    "motorisations": [
+      {
+        "motorisation": "2.5 D 4WD / D-4D 4WD, 3.0 D-4D 4WD",
+        "fuel": "Diesel",
+        "startDate": "2005-03-01",
+        "endDate": "2015-05-01",
+        "batteryAGM": "",
+        "batteryEFB": "FL955",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "TOYOTA",
+    "brandSlug": "toyota",
+    "modelName": "LAND CRUISER 90 | LAND CRUISER COLORADO",
+    "modelSlug": "land-cruiser-90-land-cruiser-colorado",
+    "motorisations": [
+      {
+        "motorisation": "2.8 D-4D, 3.0 D-4D",
+        "fuel": "Diesel",
+        "startDate": "1996-04-01",
+        "endDate": "2002-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "FL954",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "TOYOTA",
+    "brandSlug": "toyota",
+    "modelName": "LAND CRUISER PRADO",
+    "modelSlug": "land-cruiser-prado",
+    "motorisations": [
+      {
+        "motorisation": "2.8 D-4D, 3.0 D-4D",
+        "fuel": "Diesel",
+        "startDate": "2009-08-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "FL954",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "TOYOTA",
+    "brandSlug": "toyota",
+    "modelName": "RAV 4 II",
+    "modelSlug": "rav-4-ii",
+    "motorisations": [
+      {
+        "motorisation": "2.0 D 4WD",
+        "fuel": "Diesel",
+        "startDate": "2001-05-01",
+        "endDate": "2005-11-01",
+        "batteryAGM": "",
+        "batteryEFB": "FL954",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "TOYOTA",
+    "brandSlug": "toyota",
+    "modelName": "RAV 4 III",
+    "modelSlug": "rav-4-iii",
+    "motorisations": [
+      {
+        "motorisation": "2.2 D / 4WD",
+        "fuel": "Diesel",
+        "startDate": "2006-02-01",
+        "endDate": "2013-06-01",
+        "batteryAGM": "",
+        "batteryEFB": "FL954",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "TOYOTA",
+    "brandSlug": "toyota",
+    "modelName": "RAV 4 IV",
+    "modelSlug": "rav-4-iv",
+    "motorisations": [
+      {
+        "motorisation": "2.0 D / 4WD",
+        "fuel": "Diesel",
+        "startDate": "2012-12-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "FL954",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "2.5 Hybrid / 4WD",
+        "fuel": "Petrole/Electro",
+        "startDate": "2015-10-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "TOYOTA",
+    "brandSlug": "toyota",
+    "modelName": "VERSO",
+    "modelSlug": "verso",
+    "motorisations": [
+      {
+        "motorisation": "2.0 D-4D",
+        "fuel": "Diesel",
+        "startDate": "2009-04-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F12"
+      },
+      {
+        "motorisation": "1.6 D4-D",
+        "fuel": "Diesel",
+        "startDate": "2013-11-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "FL800"
+      }
+    ]
+  },
+  {
+    "brand": "TOYOTA",
+    "brandSlug": "toyota",
+    "modelName": "YARIS | YARIS/VITZ | ECHO",
+    "modelSlug": "yaris-yarisvitz-echo",
+    "motorisations": [
+      {
+        "motorisation": "1.3",
+        "fuel": "Petrole",
+        "startDate": "1999-11-01",
+        "endDate": "2005-10-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F3"
+      },
+      {
+        "motorisation": "1.0",
+        "fuel": "Petrole",
+        "startDate": "2003-03-01",
+        "endDate": "2005-09-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F3"
+      }
+    ]
+  },
+  {
+    "brand": "TOYOTA",
+    "brandSlug": "toyota",
+    "modelName": "YARIS | YARIS/VITZ",
+    "modelSlug": "yaris-yarisvitz",
+    "motorisations": [
+      {
+        "motorisation": "1.5 Hybrid",
+        "fuel": "Petrole/Electro",
+        "startDate": "2012-03-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.0, 1.3, 1.5",
+        "fuel": "Petrole",
+        "startDate": "2010-12-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F1"
+      },
+      {
+        "motorisation": "1.4 D",
+        "fuel": "Diesel",
+        "startDate": "2011-09-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "1.4 D-4D",
+        "fuel": "Diesel",
+        "startDate": "2005-08-01",
+        "endDate": "2012-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "1.0 VVT-i, 1.3 VVT-i",
+        "fuel": "Petrole",
+        "startDate": "2005-08-01",
+        "endDate": "2011-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "brandSlug": "volkswagen",
+    "modelName": "CADDY III Box",
+    "modelSlug": "caddy-iii-box",
+    "motorisations": [
+      {
+        "motorisation": "1.9 TDI, 2.0 SDI, TDI 16V, TDI 4motion",
+        "fuel": "Diesel",
+        "startDate": "2004-04-01",
+        "endDate": "2015-05-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "brandSlug": "volkswagen",
+    "modelName": "EOS",
+    "modelSlug": "eos",
+    "motorisations": [
+      {
+        "motorisation": "2.0 TDI / 16V",
+        "fuel": "Diesel",
+        "startDate": "2006-06-01",
+        "endDate": "2015-08-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "brandSlug": "volkswagen",
+    "modelName": "FOX Hatchback",
+    "modelSlug": "fox-hatchback",
+    "motorisations": [
+      {
+        "motorisation": "1.2, 1.4",
+        "fuel": "Petrole",
+        "startDate": "2005-04-01",
+        "endDate": "2011-07-01",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "brandSlug": "volkswagen",
+    "modelName": "GOLF III",
+    "modelSlug": "golf-iii",
+    "motorisations": [
+      {
+        "motorisation": "1.9 D / TD / GTD / TDI / SDI /",
+        "fuel": "Diesel",
+        "startDate": "1991-11-01",
+        "endDate": "1997-08-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      },
+      {
+        "motorisation": "1.4",
+        "fuel": "Petrole",
+        "startDate": "1991-10-01",
+        "endDate": "1997-08-01",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "brandSlug": "volkswagen",
+    "modelName": "GOLF IV",
+    "modelSlug": "golf-iv",
+    "motorisations": [
+      {
+        "motorisation": "1.9 SDI / TDI / TDI 4motion",
+        "fuel": "Diesel",
+        "startDate": "1997-08-01",
+        "endDate": "2005-06-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      },
+      {
+        "motorisation": "1.4 16V, 1.6 16V, 1.6 FSI, 1.6",
+        "fuel": "Petrole",
+        "startDate": "1997-10-01",
+        "endDate": "2005-06-01",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "brandSlug": "volkswagen",
+    "modelName": "GOLF PLUS",
+    "modelSlug": "golf-plus",
+    "motorisations": [
+      {
+        "motorisation": "1.9 TDI, 2.0 TDI / TDI 16V",
+        "fuel": "Diesel",
+        "startDate": "2005-01-01",
+        "endDate": "2013-12-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "brandSlug": "volkswagen",
+    "modelName": "GOLF V",
+    "modelSlug": "golf-v",
+    "motorisations": [
+      {
+        "motorisation": "1.9 TDI, 2.0 TDI / TDI 16V",
+        "fuel": "Diesel",
+        "startDate": "2003-10-01",
+        "endDate": "2008-11-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "brandSlug": "volkswagen",
+    "modelName": "GOLF VI",
+    "modelSlug": "golf-vi",
+    "motorisations": [
+      {
+        "motorisation": "1.6 TDI",
+        "fuel": "Diesel",
+        "startDate": "2009-02-01",
+        "endDate": "2012-11-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "2.0 TDI / TDI 4motion",
+        "fuel": "Diesel",
+        "startDate": "2008-10-01",
+        "endDate": "2013-05-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      },
+      {
+        "motorisation": "1.4, 1.4 TSI",
+        "fuel": "Petrole",
+        "startDate": "2008-10-01",
+        "endDate": "2012-11-01",
+        "batteryAGM": "F40",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "brandSlug": "volkswagen",
+    "modelName": "GOLF VII",
+    "modelSlug": "golf-vii",
+    "motorisations": [
+      {
+        "motorisation": "1.6 TDI / 4motion, 2.0 TDI 4motion",
+        "fuel": "Diesel",
+        "startDate": "2012-08-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.0 TSI, 1.2 TSI, 1.4, TSI, 1.5 TSI",
+        "fuel": "Petrole",
+        "startDate": "2015-05-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      }
+    ]
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "brandSlug": "volkswagen",
+    "modelName": "GOLF VII Variant",
+    "modelSlug": "golf-vii-variant",
+    "motorisations": [
+      {
+        "motorisation": "1.6 TDI",
+        "fuel": "Diesel",
+        "startDate": "2013-05-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "brandSlug": "volkswagen",
+    "modelName": "PASSAT",
+    "modelSlug": "passat",
+    "motorisations": [
+      {
+        "motorisation": "1.9 TDI, 2.0 TDI / TDI 16V",
+        "fuel": "Diesel",
+        "startDate": "2005-03-01",
+        "endDate": "2010-11-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "brandSlug": "volkswagen",
+    "modelName": "PASSAT Variant",
+    "modelSlug": "passat-variant",
+    "motorisations": [
+      {
+        "motorisation": "1.6 TDI, 1.9 TDI, 2.0 TDI / 16V",
+        "fuel": "Diesel",
+        "startDate": "1996-04-01",
+        "endDate": "2010-11-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "brandSlug": "volkswagen",
+    "modelName": "POLO",
+    "modelSlug": "polo",
+    "motorisations": [
+      {
+        "motorisation": "55 1.4, 60 1.4, 60 1.6",
+        "fuel": "Petrole",
+        "startDate": "1994-10-01",
+        "endDate": "1999-10-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F3"
+      },
+      {
+        "motorisation": "1.4",
+        "fuel": "Petrole",
+        "startDate": "1999-10-01",
+        "endDate": "2001-09-01",
+        "batteryAGM": "",
+        "batteryEFB": "",
+        "batteryConventional": "F3"
+      },
+      {
+        "motorisation": "1.2 TDI, 1.4TDI, 1.6TDI",
+        "fuel": "Diesel",
+        "startDate": "2009-06-01",
+        "endDate": "",
+        "batteryAGM": "F40",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "1.2 TSI , TSI 16V",
+        "fuel": "Petrole",
+        "startDate": "2014-01-01",
+        "endDate": "",
+        "batteryAGM": "F40",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "1.2, 1.2 TSI",
+        "fuel": "Petrole",
+        "startDate": "2011-05-01",
+        "endDate": "2014-05-01",
+        "batteryAGM": "F40",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      },
+      {
+        "motorisation": "1.4 (6R1)",
+        "fuel": "Petrole",
+        "startDate": "2009-03-01",
+        "endDate": "2014-05-01",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      },
+      {
+        "motorisation": "1.2, 1.2 12V, 1.4 16V",
+        "fuel": "Petrole",
+        "startDate": "2001-10-01",
+        "endDate": "2009-11-01",
+        "batteryAGM": "",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      },
+      {
+        "motorisation": "1.4 TDI, 1.9 SDI, 1.9 TDI",
+        "fuel": "Diesel",
+        "startDate": "2001-10-01",
+        "endDate": "2009-11-01",
+        "batteryAGM": "F40",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "1.0 / TSI",
+        "fuel": "Petrole",
+        "startDate": "2017-06-01",
+        "endDate": "",
+        "batteryAGM": "F40",
+        "batteryEFB": "F30",
+        "batteryConventional": "F1"
+      }
+    ]
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "brandSlug": "volkswagen",
+    "modelName": "SCIROCCO",
+    "modelSlug": "scirocco",
+    "motorisations": [
+      {
+        "motorisation": "2.0 TDI",
+        "fuel": "Diesel",
+        "startDate": "2008-08-01",
+        "endDate": "2017-11-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "brandSlug": "volkswagen",
+    "modelName": "SHARAN",
+    "modelSlug": "sharan",
+    "motorisations": [
+      {
+        "motorisation": "1.9 TDI, 2.0 TDI",
+        "fuel": "Diesel",
+        "startDate": "1995-09-01",
+        "endDate": "2010-03-01",
+        "batteryAGM": "F42",
+        "batteryEFB": "",
+        "batteryConventional": "FL800"
+      }
+    ]
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "brandSlug": "volkswagen",
+    "modelName": "TIGUAN",
+    "modelSlug": "tiguan",
+    "motorisations": [
+      {
+        "motorisation": "2.0 TDI / TDI 4motion",
+        "fuel": "Diesel",
+        "startDate": "2007-09-01",
+        "endDate": "2018-07-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      },
+      {
+        "motorisation": "2.0 TDI / TDI 4motion",
+        "fuel": "Diesel",
+        "startDate": "2016-01-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "brandSlug": "volkswagen",
+    "modelName": "TIGUAN ALLSPACE",
+    "modelSlug": "tiguan-allspace",
+    "motorisations": [
+      {
+        "motorisation": "2.0 TDI",
+        "fuel": "Diesel",
+        "startDate": "2017-06-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "brandSlug": "volkswagen",
+    "modelName": "TOUAREG",
+    "modelSlug": "touareg",
+    "motorisations": [
+      {
+        "motorisation": "2.5 R5 TDI, 3.0 V6 TDI, 5.0 V10 TDI",
+        "fuel": "Diesel",
+        "startDate": "2002-10-01",
+        "endDate": "2010-05-01",
+        "batteryAGM": "F43",
+        "batteryEFB": "FL1000",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "3.0 V6 TDI",
+        "fuel": "Diesel",
+        "startDate": "2010-01-01",
+        "endDate": "2018-03-01",
+        "batteryAGM": "F43",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "brandSlug": "volkswagen",
+    "modelName": "TOURAN",
+    "modelSlug": "touran",
+    "motorisations": [
+      {
+        "motorisation": "1.9 TDI, 2.0 TDI / TDI 16V",
+        "fuel": "Diesel",
+        "startDate": "2003-02-01",
+        "endDate": "2010-05-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      },
+      {
+        "motorisation": "1.6 TDI",
+        "fuel": "Diesel",
+        "startDate": "2010-05-01",
+        "endDate": "2015-05-01",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": "F4"
+      },
+      {
+        "motorisation": "2.0 TDI",
+        "fuel": "Diesel",
+        "startDate": "2010-05-01",
+        "endDate": "2015-05-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      },
+      {
+        "motorisation": "1.6 TDI",
+        "fuel": "Diesel",
+        "startDate": "2015-05-01",
+        "endDate": "2016-05-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": ""
+      },
+      {
+        "motorisation": "2.0 TDI",
+        "fuel": "Diesel",
+        "startDate": "2015-05-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "brandSlug": "volkswagen",
+    "modelName": "TRANSPORTER IV Box",
+    "modelSlug": "transporter-iv-box",
+    "motorisations": [
+      {
+        "motorisation": "1.9 D, 2.4 D / TD",
+        "fuel": "Diesel",
+        "startDate": "1990-07-01",
+        "endDate": "2003-04-01",
+        "batteryAGM": "",
+        "batteryEFB": "F32",
+        "batteryConventional": "F7"
+      }
+    ]
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "brandSlug": "volkswagen",
+    "modelName": "T-ROC",
+    "modelSlug": "t-roc",
+    "motorisations": [
+      {
+        "motorisation": "1.0 TSI, 1.5 TSI",
+        "fuel": "Petrole",
+        "startDate": "2017-07-01",
+        "endDate": "",
+        "batteryAGM": "",
+        "batteryEFB": "F31",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "VOLVO",
+    "brandSlug": "volvo",
+    "modelName": "V40 Hatchback",
+    "modelSlug": "v40-hatchback",
+    "motorisations": [
+      {
+        "motorisation": "D2, D3, D4",
+        "fuel": "Diesel",
+        "startDate": "2012-03-01",
+        "endDate": "",
+        "batteryAGM": "F41",
+        "batteryEFB": "",
+        "batteryConventional": ""
+      }
+    ]
+  },
+  {
+    "brand": "VOLVO",
+    "brandSlug": "volvo",
+    "modelName": "XC90 I",
+    "modelSlug": "xc90-i",
+    "motorisations": [
+      {
+        "motorisation": "D5 AWD",
+        "fuel": "Diesel",
+        "startDate": "2002-10-01",
+        "endDate": "2014-12-01",
+        "batteryAGM": "F43",
+        "batteryEFB": "FL1000",
+        "batteryConventional": "F10"
+      }
+    ]
+  }
+]

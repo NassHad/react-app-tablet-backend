@@ -24,6 +24,17 @@
       "relation": "manyToOne",
       "target": "api::battery-brand.battery-brand"
     },
+    "model": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::model.model"
+    },
+    "modelSlug": {
+      "type": "string"
+    },
+    "motorisations": {
+      "type": "json"
+    },
     "startDate": {
       "type": "date"
     },

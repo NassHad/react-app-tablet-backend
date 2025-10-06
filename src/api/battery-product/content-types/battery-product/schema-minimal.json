@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "battery_products",
+  "info": {
+    "singularName": "battery-product",
+    "pluralName": "battery-products",
+    "displayName": "Battery Product"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}

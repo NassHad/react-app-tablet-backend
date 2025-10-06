@@ -30,5 +30,47 @@ export default {
       handler: 'lights-selection.getLightDataByPosition',
       config: { policies: [] },
     },
+    {
+      method: 'GET',
+      path: '/lights-selection/brands',
+      handler: 'lights-selection.getBrands',
+      config: { policies: [] },
+    },
+    {
+      method: 'GET',
+      path: '/lights-selection/models-by-brand/:brandId',
+      handler: 'lights-selection.getModelsByBrand',
+      config: { policies: [] },
+    },
+    {
+      method: 'GET',
+      path: '/lights-selection/models-by-brand-slug/:brandSlug',
+      handler: 'lights-selection.getModelsByBrandSlug',
+      config: { policies: [] },
+    },
+    {
+      method: 'GET',
+      path: '/lights-selection/models-from-products',
+      handler: 'lights-selection.getModelsFromProducts',
+      config: { policies: [] },
+    },
+    {
+      method: 'GET',
+      path: '/lights-selection/positions',
+      handler: 'lights-selection.getPositionsBySlugs',
+      config: { policies: [] },
+    },
+    {
+      method: 'GET',
+      path: '/lights-selection/positions/all',
+      handler: 'lights-selection.getAllPositions',
+      config: { policies: [] },
+    },
+    {
+      method: 'GET',
+      path: '/lights-selection/products',
+      handler: 'lights-selection.getProductsBySlugs',
+      config: { policies: [] },
+    },
   ],
 };

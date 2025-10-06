@@ -292,5 +292,79 @@ export default {
       console.error('Error fetching models by category and brand:', error);
       return ctx.internalServerError('Failed to fetch models');
     }
+  },
+
+  // New endpoint: Get motorisations for a specific brand and model
+  async getMotorisationsByBrandAndModel(ctx: any) {
+    try {
+      const { brandSlug, modelSlug } = ctx.query;
+
+      if (!brandSlug || !modelSlug) {
+        return ctx.badRequest('Brand slug and model slug are required');
+      }
+
+      // Create the expected modelSlug format (brand-model)
+      const expectedModelSlug = `${brandSlug}-${modelSlug}`;
+
+      // Get battery model with the matching modelSlug
+      const batteryModels = await strapi.entityService.findMany('api::battery-model.battery-model', {
+        filters: {
+          modelSlug: expectedModelSlug,
+          isActive: true
+        },
+        populate: {
+          batteryBrand: true,
+          model: {
+            populate: {
+              brand: true
+            }
+          }
+        }
+      });
+
+      if (batteryModels.length === 0) {
+        return ctx.send({
+          data: [],
+          success: true,
+          message: `No battery model found for ${brandSlug} ${modelSlug}`
+        });
+      }
+
+      const batteryModel = batteryModels[0];
+      const motorisations = (batteryModel as any).motorisations || [];
+
+      // Format motorisations for frontend
+      const formattedMotorisations = motorisations.map((motor: any, index: number) => ({
+        id: `motor-${index}`,
+        motorisation: motor.motorisation || 'Unknown',
+        fuel: motor.fuel || 'Unknown',
+        startDate: motor.startDate,
+        endDate: motor.endDate,
+        batteryModelId: batteryModel.id,
+        batteryModelSlug: batteryModel.slug
+      }));
+
+      return ctx.send({
+        data: formattedMotorisations,
+        success: true,
+        message: `Found ${formattedMotorisations.length} motorisation(s) for ${brandSlug} ${modelSlug}`,
+        model: {
+          id: (batteryModel as any).model?.id,
+          name: (batteryModel as any).model?.name,
+          slug: (batteryModel as any).model?.slug,
+          brand: (batteryModel as any).model?.brand
+        },
+        batteryModel: {
+          id: batteryModel.id,
+          name: batteryModel.name,
+          slug: batteryModel.slug,
+          modelSlug: (batteryModel as any).modelSlug
+        }
+      });
+
+    } catch (error) {
+      console.error('Error fetching motorisations by brand and model:', error);
+      return ctx.internalServerError('Failed to fetch motorisations');
+    }
   }
 };

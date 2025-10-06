@@ -29,13 +29,13 @@ function parseDate(dateString) {
 
 async function importBatteryModels() {
   try {
-    console.log('🚀 Starting battery models import...');
+    console.log('🚀 Starting battery models import (grouped by model)...');
     
     // Read the models.json file
     const modelsPath = path.join(__dirname, 'models.json');
     const modelsData = JSON.parse(fs.readFileSync(modelsPath, 'utf8'));
     
-    console.log(`📊 Found ${modelsData.length} models to import`);
+    console.log(`📊 Found ${modelsData.length} model entries to process`);
     
     let importedCount = 0;
     let skippedCount = 0;
@@ -55,55 +55,117 @@ async function importBatteryModels() {
     
     console.log(`📋 Found ${batteryBrands.length} battery brands for lookup`);
     
+    // Get all general models to create a lookup map
+    const generalModels = await strapi.entityService.findMany('api::model.model', {
+      filters: {
+        isActive: true
+      },
+      populate: {
+        brand: true
+      }
+    });
+    
+    const modelLookupMap = {};
+    generalModels.forEach(model => {
+      if (model.brand && model.brand.slug) {
+        const key = `${model.brand.slug}-${model.name.toLowerCase()}`;
+        if (!modelLookupMap[key]) {
+          modelLookupMap[key] = [];
+        }
+        modelLookupMap[key].push(model.id);
+      }
+    });
+    
+    console.log(`📋 Found ${generalModels.length} general models for lookup`);
+    
+    // Group models by brand + model name
+    const groupedModels = new Map();
+    
     for (const modelData of modelsData) {
+      const groupKey = `${modelData.brandSlug}-${modelData.name}`;
+      
+      if (!groupedModels.has(groupKey)) {
+        groupedModels.set(groupKey, {
+          brandSlug: modelData.brandSlug,
+          name: modelData.name,
+          motorisations: []
+        });
+      }
+      
+      groupedModels.get(groupKey).motorisations.push({
+        motorisation: modelData.motorisation || 'Unknown',
+        fuel: modelData.fuel || 'Unknown',
+        startDate: parseDate(modelData.startDate),
+        endDate: parseDate(modelData.endDate)
+      });
+    }
+    
+    console.log(`📊 Grouped into ${groupedModels.size} unique models`);
+    
+    // Process each grouped model
+    for (const [groupKey, groupData] of groupedModels) {
       try {
         // Find the corresponding battery brand by slug
-        const brandId = brandSlugMap[modelData.brandSlug];
+        const brandId = brandSlugMap[groupData.brandSlug];
         
         if (!brandId) {
-          console.log(`⚠️  Brand not found for slug: ${modelData.brandSlug}, skipping model: ${modelData.name}`);
+          console.log(`⚠️  Brand not found for slug: ${groupData.brandSlug}, skipping model: ${groupData.name}`);
           skippedCount++;
           continue;
         }
         
-        // Create a unique identifier for the model (name + brand + motorisation)
-        const modelIdentifier = `${modelData.name}-${modelData.brandSlug}-${modelData.motorisation || 'default'}`;
-        const modelSlug = slugify(modelIdentifier);
+        // Find the corresponding general model
+        const modelKey = `${groupData.brandSlug}-${groupData.name.toLowerCase()}`;
+        const generalModelIds = modelLookupMap[modelKey];
+        
+        if (!generalModelIds || generalModelIds.length === 0) {
+          console.log(`⚠️  General model not found for: ${groupData.brandSlug} ${groupData.name}, skipping`);
+          skippedCount++;
+          continue;
+        }
+        
+        // Use the first matching general model
+        const generalModelId = generalModelIds[0];
+        
+        // Create a simple slug for the model (just brand + model name)
+        const modelSlug = slugify(`${groupData.brandSlug}-${groupData.name}`);
         
         // Check if model already exists
         const existingModels = await strapi.entityService.findMany('api::battery-model.battery-model', {
           filters: {
-            slug: modelSlug
+            modelSlug: modelSlug
           }
         });
         
         if (existingModels && existingModels.length > 0) {
-          console.log(`⏭️  Skipping existing model: ${modelData.name} (${modelData.motorisation})`);
+          console.log(`⏭️  Skipping existing model: ${groupData.name} (${groupData.motorisations.length} motorisations)`);
           skippedCount++;
           continue;
         }
         
-        // Parse dates
-        const startDate = parseDate(modelData.startDate);
-        const endDate = parseDate(modelData.endDate);
-        
-        // Create the battery model
+        // Create the battery model with grouped motorisations
         const batteryModel = await strapi.entityService.create('api::battery-model.battery-model', {
           data: {
-            name: modelData.name,
+            name: groupData.name,
             slug: modelSlug,
-            startDate: startDate,
-            endDate: endDate,
+            modelSlug: modelSlug,
             isActive: true,
-            batteryBrand: brandId
+            batteryBrand: brandId,
+            model: generalModelId,
+            motorisations: groupData.motorisations,
+            // Keep individual fields for backward compatibility (use first motorisation)
+            motorisation: groupData.motorisations[0]?.motorisation || null,
+            fuel: groupData.motorisations[0]?.fuel || null,
+            startDate: groupData.motorisations[0]?.startDate || null,
+            endDate: groupData.motorisations[0]?.endDate || null
           }
         });
         
-        console.log(`✅ Created battery model: ${modelData.name} (${modelData.motorisation}) for brand: ${modelData.brandSlug} (ID: ${batteryModel.id})`);
+        console.log(`✅ Created battery model: ${groupData.name} with ${groupData.motorisations.length} motorisations for brand: ${groupData.brandSlug} (ID: ${batteryModel.id})`);
         importedCount++;
         
       } catch (error) {
-        console.error(`❌ Error creating battery model "${modelData.name}":`, error.message);
+        console.error(`❌ Error creating battery model "${groupData.name}":`, error.message);
         errorCount++;
       }
     }

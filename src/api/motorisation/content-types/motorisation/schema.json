@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "motorisations",
+  "info": {
+    "singularName": "motorisation",
+    "pluralName": "motorisations",
+    "displayName": "Motorisation",
+    "description": "Types de motorisation des véhicules"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true,
+      "unique": true
+    },
+    "slug": {
+      "type": "uid",
+      "targetField": "name"
+    }
+  }
+}
