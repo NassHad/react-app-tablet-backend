@@ -505,6 +505,72 @@ export interface ApiCompatibilityCompatibility
   };
 }
 
+export interface ApiLightBrandLightBrand extends Struct.CollectionTypeSchema {
+  collectionName: 'light_brands';
+  info: {
+    displayName: 'LightBrand';
+    pluralName: 'light-brands';
+    singularName: 'light-brand';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    isActive: Schema.Attribute.Boolean;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::light-brand.light-brand'
+    > &
+      Schema.Attribute.Private;
+    name: Schema.Attribute.String;
+    publishedAt: Schema.Attribute.DateTime;
+    slug: Schema.Attribute.UID;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
+export interface ApiLightModelLightModel extends Struct.CollectionTypeSchema {
+  collectionName: 'light_models';
+  info: {
+    displayName: 'LightModel';
+    pluralName: 'light-models';
+    singularName: 'light-model';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    endDate: Schema.Attribute.Date;
+    isActive: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<true>;
+    lightBrand: Schema.Attribute.Relation<
+      'manyToOne',
+      'api::light-brand.light-brand'
+    >;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::light-model.light-model'
+    > &
+      Schema.Attribute.Private;
+    name: Schema.Attribute.String & Schema.Attribute.Required;
+    publishedAt: Schema.Attribute.DateTime;
+    slug: Schema.Attribute.UID<'name'>;
+    startDate: Schema.Attribute.Date;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
 export interface ApiLightPositionDataLightPositionData
   extends Struct.CollectionTypeSchema {
   collectionName: 'light_position_data';
@@ -1325,6 +1391,8 @@ declare module '@strapi/strapi' {
       'api::battery-model.battery-model': ApiBatteryModelBatteryModel;
       'api::category.category': ApiCategoryCategory;
       'api::compatibility.compatibility': ApiCompatibilityCompatibility;
+      'api::light-brand.light-brand': ApiLightBrandLightBrand;
+      'api::light-model.light-model': ApiLightModelLightModel;
       'api::light-position-data.light-position-data': ApiLightPositionDataLightPositionData;
       'api::lights-brand.lights-brand': ApiLightsBrandLightsBrand;
       'api::lights-model.lights-model': ApiLightsModelLightsModel;
