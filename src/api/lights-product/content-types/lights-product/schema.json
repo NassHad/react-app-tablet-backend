@@ -1,0 +1,68 @@
+{
+  "kind": "collectionType",
+  "collectionName": "lights_products",
+  "info": {
+    "singularName": "lights-product",
+    "pluralName": "lights-products",
+    "displayName": "LightsProduct"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "ref": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "text"
+    },
+    "brand": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::brand.brand"
+    },
+    "model": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::model.model"
+    },
+    "lightPositions": {
+      "type": "json"
+    },
+    "slug": {
+      "type": "uid",
+      "targetField": "name"
+    },
+    "constructionYearStart": {
+      "type": "string"
+    },
+    "constructionYearEnd": {
+      "type": "string"
+    },
+    "typeConception": {
+      "type": "string"
+    },
+    "partNumber": {
+      "type": "string"
+    },
+    "notes": {
+      "type": "text"
+    },
+    "source": {
+      "type": "string"
+    },
+    "category": {
+      "type": "string"
+    },
+    "isActive": {
+      "type": "boolean",
+      "default": true
+    }
+  }
+}

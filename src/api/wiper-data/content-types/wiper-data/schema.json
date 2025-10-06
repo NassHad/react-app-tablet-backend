@@ -1,0 +1,14 @@
+{
+  "kind": "collectionType",
+  "collectionName": "wipers_data",
+  "info": {
+    "singularName": "wiper-data",
+    "pluralName": "wipers-data",
+    "displayName": "WiperData"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {}
+}

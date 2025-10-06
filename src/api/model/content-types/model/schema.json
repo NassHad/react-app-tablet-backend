@@ -1,0 +1,31 @@
+{
+  "kind": "collectionType",
+  "collectionName": "models",
+  "info": {
+    "singularName": "model",
+    "pluralName": "models",
+    "displayName": "Model"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "slug": {
+      "type": "uid",
+      "targetField": ""
+    },
+    "brand": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::brand.brand",
+      "inversedBy": "models"
+    },
+    "isActive": {
+      "type": "boolean"
+    }
+  }
+}

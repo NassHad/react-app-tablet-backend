@@ -1,19 +1,22 @@
 export default {
   async getBrandsAndModelsByCategory(categoryId: string) {
-    // Get all products for this category
-    const products = await strapi.entityService.findMany('api::product.product', {
+    // Get all lights products
+    const lightsProducts = await strapi.entityService.findMany('api::lights-product.lights-product', {
       filters: {
-        category: {
-          id: categoryId
-        },
         isActive: true
       },
       populate: {
-        category: true
+        brand: true,
+        model: {
+          populate: {
+            brand: true
+          }
+        },
+        lights_position: true
       }
     });
 
-    if (!products || products.length === 0) {
+    if (!lightsProducts || lightsProducts.length === 0) {
       return {
         category: null,
         brands: [],
@@ -21,57 +24,15 @@ export default {
       };
     }
 
-    const productIds = products.map((p: any) => p.id);
-
-    // Get all compatibilities for these products
-    const compatibilities = await strapi.entityService.findMany('api::compatibility.compatibility', {
-      filters: {
-        product: {
-          id: {
-            $in: productIds
-          }
-        }
-      },
-      populate: {
-        vehicle: true
-      }
-    });
-
-    if (!compatibilities || compatibilities.length === 0) {
-      return {
-        category: (products[0] as any).category,
-        brands: [],
-        models: []
-      };
-    }
-
-    // Get all light position data
-    const lightData = await strapi.entityService.findMany('api::light-position-data.light-position-data', {
-      filters: {
-        isActive: true
-      },
-      populate: {
-        lightsPosition: {
-          populate: {
-              lightsModels: {
-                populate: {
-                  lightsBrand: true
-                }
-              }
-          }
-        }
-      }
-    });
-
+    // Extract unique brands and models
     const brandsMap = new Map();
     const modelsMap = new Map();
 
-    lightData.forEach((data: any) => {
-      const position = data.lightsPosition;
-      if (position && position.lightsModel && position.lightsModel.lightsBrand) {
-        const brand = position.lightsModel.lightsBrand;
-        const model = position.lightsModel;
+    lightsProducts.forEach((product: any) => {
+      const model = product.model;
+      const brand = product.brand;
 
+      if (model && brand) {
         // Add brand
         if (!brandsMap.has(brand.id)) {
           brandsMap.set(brand.id, {
@@ -88,8 +49,6 @@ export default {
             id: model.id,
             name: model.name,
             slug: model.slug,
-            constructionYearStart: model.constructionYearStart,
-            constructionYearEnd: model.constructionYearEnd,
             brand: {
               id: brand.id,
               name: brand.name,
@@ -101,37 +60,29 @@ export default {
     });
 
     return {
-      category: (products[0] as any).category,
+      category: { id: categoryId, name: 'Lights Category' },
       brands: Array.from(brandsMap.values()),
       models: Array.from(modelsMap.values())
     };
   },
 
   async getBrandsByCategory(categoryId: string) {
-    const lightData = await strapi.entityService.findMany('api::light-position-data.light-position-data', {
+    const lightsProducts = await strapi.entityService.findMany('api::lights-product.lights-product', {
       filters: {
         isActive: true
       },
       populate: {
-        lightsPosition: {
-          populate: {
-              lightsModels: {
-                populate: {
-                  lightsBrand: true
-                }
-              }
-          }
-        }
+        brand: true,
+        model: true
       }
     });
 
     const brandsMap = new Map();
 
-    lightData.forEach((data: any) => {
-      const position = data.lightsPosition;
-      if (position && position.lightsModel && position.lightsModel.lightsBrand) {
-        const brand = position.lightsModel.lightsBrand;
+    lightsProducts.forEach((product: any) => {
+      const brand = product.brand;
 
+      if (brand) {
         if (!brandsMap.has(brand.id)) {
           brandsMap.set(brand.id, {
             id: brand.id,
@@ -146,18 +97,18 @@ export default {
   },
 
   async getModelsByCategoryAndBrand(categoryId: string, brandId: string) {
-    const lightData = await strapi.entityService.findMany('api::light-position-data.light-position-data', {
+    const lightsProducts = await strapi.entityService.findMany('api::lights-product.lights-product', {
       filters: {
-        isActive: true
+        isActive: true,
+        brand: {
+          id: brandId
+        }
       },
       populate: {
-        lightsPosition: {
+        brand: true,
+        model: {
           populate: {
-              lightsModels: {
-                populate: {
-                  lightsBrand: true
-                }
-              }
+            brand: true
           }
         }
       }
@@ -165,28 +116,23 @@ export default {
 
     const modelsMap = new Map();
 
-    lightData.forEach((data: any) => {
-      const position = data.lightsPosition;
-      if (position && position.lightsModel && position.lightsModel.lightsBrand) {
-        const brand = position.lightsModel.lightsBrand;
-        const model = position.lightsModel;
+    lightsProducts.forEach((product: any) => {
+      const model = product.model;
+      const brand = product.brand;
 
-        if (brand.id == brandId) {
-          const modelKey = `${brand.id}-${model.id}`;
-          if (!modelsMap.has(modelKey)) {
-            modelsMap.set(modelKey, {
-              id: model.id,
-              name: model.name,
-              slug: model.slug,
-              constructionYearStart: model.constructionYearStart,
-              constructionYearEnd: model.constructionYearEnd,
-              brand: {
-                id: brand.id,
-                name: brand.name,
-                slug: brand.slug
-              }
-            });
-          }
+      if (model && brand && brand.id == brandId) {
+        const modelKey = `${brand.id}-${model.id}`;
+        if (!modelsMap.has(modelKey)) {
+          modelsMap.set(modelKey, {
+            id: model.id,
+            name: model.name,
+            slug: model.slug,
+            brand: {
+              id: brand.id,
+              name: brand.name,
+              slug: brand.slug
+            }
+          });
         }
       }
     });

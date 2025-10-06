@@ -1,0 +1,56 @@
+{
+  "kind": "collectionType",
+  "collectionName": "battery_data",
+  "info": {
+    "singularName": "battery-data",
+    "pluralName": "battery-datas",
+    "displayName": "BatteryData",
+    "description": "Battery reference data with codes, brands, and images"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "ref": {
+      "type": "string",
+      "required": true,
+      "unique": true
+    },
+    "brand": {
+      "type": "string",
+      "required": true
+    },
+    "img": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "brandImg": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "isActive": {
+      "type": "boolean",
+      "default": true
+    },
+    "description": {
+      "type": "text"
+    },
+    "category": {
+      "type": "string",
+      "default": "battery"
+    }
+  }
+}

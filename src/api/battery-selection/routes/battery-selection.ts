@@ -27,5 +27,14 @@ export default {
         middlewares: [],
       },
     },
+    {
+      method: 'GET',
+      path: '/battery-selection/motorisations',
+      handler: 'battery-selection.getMotorisationsByBrandAndModel',
+      config: {
+        policies: [],
+        middlewares: [],
+      },
+    },
   ],
 };

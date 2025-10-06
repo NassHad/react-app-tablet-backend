@@ -3,9 +3,11 @@ export default {
     {
       method: 'GET',
       path: '/sync/:tabletId',
-      handler: 'sync.index',
+      handler: 'sync.sync',
       config: {
-        auth: false, // ou true si tu veux token obligatoire
+        auth: false, // Pas d'auth pour les tablettes
+        policies: [],
+        middlewares: [],
       },
     },
   ],

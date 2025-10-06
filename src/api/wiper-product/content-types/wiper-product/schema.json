@@ -1,0 +1,14 @@
+{
+  "kind": "collectionType",
+  "collectionName": "wiper_products",
+  "info": {
+    "singularName": "wiper-product",
+    "pluralName": "wiper-products",
+    "displayName": "WiperProduct"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {}
+}

@@ -404,6 +404,43 @@ export interface ApiBatteryBrandBatteryBrand
   };
 }
 
+export interface ApiBatteryDataBatteryData extends Struct.CollectionTypeSchema {
+  collectionName: 'battery_data';
+  info: {
+    description: 'Battery reference data with codes, brands, and images';
+    displayName: 'BatteryData';
+    pluralName: 'battery-datas';
+    singularName: 'battery-data';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  attributes: {
+    brand: Schema.Attribute.String & Schema.Attribute.Required;
+    brandImg: Schema.Attribute.Media<'images' | 'files' | 'videos' | 'audios'>;
+    category: Schema.Attribute.String & Schema.Attribute.DefaultTo<'battery'>;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    description: Schema.Attribute.Text;
+    img: Schema.Attribute.Media<'images' | 'files' | 'videos' | 'audios'>;
+    isActive: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<true>;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::battery-data.battery-data'
+    > &
+      Schema.Attribute.Private;
+    publishedAt: Schema.Attribute.DateTime;
+    ref: Schema.Attribute.String &
+      Schema.Attribute.Required &
+      Schema.Attribute.Unique;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
 export interface ApiBatteryModelBatteryModel
   extends Struct.CollectionTypeSchema {
   collectionName: 'battery_models';
@@ -432,11 +469,83 @@ export interface ApiBatteryModelBatteryModel
       'api::battery-model.battery-model'
     > &
       Schema.Attribute.Private;
+    model: Schema.Attribute.Relation<'manyToOne', 'api::model.model'>;
+    modelSlug: Schema.Attribute.String;
     motorisation: Schema.Attribute.String;
+    motorisations: Schema.Attribute.JSON;
     name: Schema.Attribute.String & Schema.Attribute.Required;
     publishedAt: Schema.Attribute.DateTime;
     slug: Schema.Attribute.UID<'name'>;
     startDate: Schema.Attribute.Date;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
+export interface ApiBatteryProductBatteryProduct
+  extends Struct.CollectionTypeSchema {
+  collectionName: 'battery_products';
+  info: {
+    description: 'Battery products with specific battery types for vehicles';
+    displayName: 'BatteryProduct';
+    pluralName: 'battery-products';
+    singularName: 'battery-product';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  attributes: {
+    batteryBrand: Schema.Attribute.String &
+      Schema.Attribute.DefaultTo<'Fulmen Endurance'>;
+    brand: Schema.Attribute.String & Schema.Attribute.Required;
+    brandSlug: Schema.Attribute.String & Schema.Attribute.Required;
+    category: Schema.Attribute.String & Schema.Attribute.DefaultTo<'battery'>;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    img: Schema.Attribute.Media<'images' | 'files' | 'videos' | 'audios'>;
+    isActive: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<true>;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::battery-product.battery-product'
+    > &
+      Schema.Attribute.Private;
+    modelName: Schema.Attribute.String & Schema.Attribute.Required;
+    modelSlug: Schema.Attribute.String & Schema.Attribute.Required;
+    motorisations: Schema.Attribute.JSON;
+    name: Schema.Attribute.String & Schema.Attribute.Required;
+    publishedAt: Schema.Attribute.DateTime;
+    slug: Schema.Attribute.UID<'name'> & Schema.Attribute.Required;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
+export interface ApiBrandBrand extends Struct.CollectionTypeSchema {
+  collectionName: 'brands';
+  info: {
+    displayName: 'Brand';
+    pluralName: 'brands';
+    singularName: 'brand';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    isActive: Schema.Attribute.Boolean;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<'oneToMany', 'api::brand.brand'> &
+      Schema.Attribute.Private;
+    models: Schema.Attribute.Relation<'oneToMany', 'api::model.model'>;
+    name: Schema.Attribute.String;
+    publishedAt: Schema.Attribute.DateTime;
+    slug: Schema.Attribute.UID;
     updatedAt: Schema.Attribute.DateTime;
     updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
@@ -505,6 +614,40 @@ export interface ApiCompatibilityCompatibility
   };
 }
 
+export interface ApiLightDataLightData extends Struct.CollectionTypeSchema {
+  collectionName: 'lights_data';
+  info: {
+    displayName: 'LightData';
+    pluralName: 'lights-data';
+    singularName: 'light-data';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  attributes: {
+    brand: Schema.Attribute.String;
+    brandImg: Schema.Attribute.Media<'images' | 'files' | 'videos' | 'audios'>;
+    category: Schema.Attribute.String;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    description: Schema.Attribute.Text;
+    img: Schema.Attribute.Media<'images' | 'files' | 'videos' | 'audios'>;
+    isActive: Schema.Attribute.Boolean;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::light-data.light-data'
+    > &
+      Schema.Attribute.Private;
+    publishedAt: Schema.Attribute.DateTime;
+    ref: Schema.Attribute.String;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
 export interface ApiLightPositionDataLightPositionData
   extends Struct.CollectionTypeSchema {
   collectionName: 'light_position_data';
@@ -545,80 +688,6 @@ export interface ApiLightPositionDataLightPositionData
   };
 }
 
-export interface ApiLightsBrandLightsBrand extends Struct.CollectionTypeSchema {
-  collectionName: 'lights_brands';
-  info: {
-    displayName: 'LightsBrand';
-    pluralName: 'lights-brands';
-    singularName: 'lights-brand';
-  };
-  options: {
-    draftAndPublish: true;
-  };
-  attributes: {
-    createdAt: Schema.Attribute.DateTime;
-    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
-      Schema.Attribute.Private;
-    isActive: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<true>;
-    locale: Schema.Attribute.String & Schema.Attribute.Private;
-    localizations: Schema.Attribute.Relation<
-      'oneToMany',
-      'api::lights-brand.lights-brand'
-    > &
-      Schema.Attribute.Private;
-    models: Schema.Attribute.Relation<
-      'oneToMany',
-      'api::lights-model.lights-model'
-    >;
-    name: Schema.Attribute.String & Schema.Attribute.Required;
-    publishedAt: Schema.Attribute.DateTime;
-    slug: Schema.Attribute.UID<'name'>;
-    updatedAt: Schema.Attribute.DateTime;
-    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
-      Schema.Attribute.Private;
-  };
-}
-
-export interface ApiLightsModelLightsModel extends Struct.CollectionTypeSchema {
-  collectionName: 'lights_models';
-  info: {
-    displayName: 'LightsModel';
-    pluralName: 'lights-models';
-    singularName: 'lights-model';
-  };
-  options: {
-    draftAndPublish: true;
-  };
-  attributes: {
-    constructionYearEnd: Schema.Attribute.String;
-    constructionYearStart: Schema.Attribute.String;
-    createdAt: Schema.Attribute.DateTime;
-    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
-      Schema.Attribute.Private;
-    isActive: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<true>;
-    lightsBrand: Schema.Attribute.Relation<
-      'manyToOne',
-      'api::lights-brand.lights-brand'
-    >;
-    lightsPositions: Schema.Attribute.Relation<
-      'manyToMany',
-      'api::lights-position.lights-position'
-    >;
-    locale: Schema.Attribute.String & Schema.Attribute.Private;
-    localizations: Schema.Attribute.Relation<
-      'oneToMany',
-      'api::lights-model.lights-model'
-    > &
-      Schema.Attribute.Private;
-    name: Schema.Attribute.String & Schema.Attribute.Required;
-    publishedAt: Schema.Attribute.DateTime;
-    slug: Schema.Attribute.UID<'name'>;
-    updatedAt: Schema.Attribute.DateTime;
-    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
-      Schema.Attribute.Private;
-  };
-}
-
 export interface ApiLightsPositionLightsPosition
   extends Struct.CollectionTypeSchema {
   collectionName: 'lights_positions';
@@ -631,14 +700,12 @@ export interface ApiLightsPositionLightsPosition
     draftAndPublish: true;
   };
   attributes: {
+    category: Schema.Attribute.String;
     createdAt: Schema.Attribute.DateTime;
     createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
+    description: Schema.Attribute.Text;
     isActive: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<true>;
-    lightsModels: Schema.Attribute.Relation<
-      'manyToMany',
-      'api::lights-model.lights-model'
-    >;
     locale: Schema.Attribute.String & Schema.Attribute.Private;
     localizations: Schema.Attribute.Relation<
       'oneToMany',
@@ -646,6 +713,114 @@ export interface ApiLightsPositionLightsPosition
     > &
       Schema.Attribute.Private;
     name: Schema.Attribute.String & Schema.Attribute.Required;
+    publishedAt: Schema.Attribute.DateTime;
+    ref: Schema.Attribute.String;
+    slug: Schema.Attribute.UID<'name'>;
+    sort: Schema.Attribute.Integer;
+    sortOrder: Schema.Attribute.Integer;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    usageCount: Schema.Attribute.Integer;
+  };
+}
+
+export interface ApiLightsProductLightsProduct
+  extends Struct.CollectionTypeSchema {
+  collectionName: 'lights_products';
+  info: {
+    displayName: 'LightsProduct';
+    pluralName: 'lights-products';
+    singularName: 'lights-product';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  attributes: {
+    brand: Schema.Attribute.Relation<'manyToOne', 'api::brand.brand'>;
+    category: Schema.Attribute.String;
+    constructionYearEnd: Schema.Attribute.String;
+    constructionYearStart: Schema.Attribute.String;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    description: Schema.Attribute.Text;
+    isActive: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<true>;
+    lightPositions: Schema.Attribute.JSON;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::lights-product.lights-product'
+    > &
+      Schema.Attribute.Private;
+    model: Schema.Attribute.Relation<'manyToOne', 'api::model.model'>;
+    name: Schema.Attribute.String & Schema.Attribute.Required;
+    notes: Schema.Attribute.Text;
+    partNumber: Schema.Attribute.String;
+    publishedAt: Schema.Attribute.DateTime;
+    ref: Schema.Attribute.String & Schema.Attribute.Required;
+    slug: Schema.Attribute.UID<'name'>;
+    source: Schema.Attribute.String;
+    typeConception: Schema.Attribute.String;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
+export interface ApiModelModel extends Struct.CollectionTypeSchema {
+  collectionName: 'models';
+  info: {
+    displayName: 'Model';
+    pluralName: 'models';
+    singularName: 'model';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  attributes: {
+    brand: Schema.Attribute.Relation<'manyToOne', 'api::brand.brand'>;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    isActive: Schema.Attribute.Boolean;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<'oneToMany', 'api::model.model'> &
+      Schema.Attribute.Private;
+    name: Schema.Attribute.String;
+    publishedAt: Schema.Attribute.DateTime;
+    slug: Schema.Attribute.UID<''>;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
+export interface ApiMotorisationMotorisation
+  extends Struct.CollectionTypeSchema {
+  collectionName: 'motorisations';
+  info: {
+    description: 'Types de motorisation des v\u00E9hicules';
+    displayName: 'Motorisation';
+    pluralName: 'motorisations';
+    singularName: 'motorisation';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::motorisation.motorisation'
+    > &
+      Schema.Attribute.Private;
+    name: Schema.Attribute.String &
+      Schema.Attribute.Required &
+      Schema.Attribute.Unique;
     publishedAt: Schema.Attribute.DateTime;
     slug: Schema.Attribute.UID<'name'>;
     updatedAt: Schema.Attribute.DateTime;
@@ -719,6 +894,37 @@ export interface ApiSpecificQuestionSpecificQuestion
     updatedAt: Schema.Attribute.DateTime;
     updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
+  };
+}
+
+export interface ApiSyncSync extends Struct.CollectionTypeSchema {
+  collectionName: 'syncs';
+  info: {
+    description: 'Synchronisation des donn\u00E9es pour les tablettes offline';
+    displayName: 'Sync';
+    pluralName: 'syncs';
+    singularName: 'sync';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    data: Schema.Attribute.JSON;
+    lastSync: Schema.Attribute.DateTime;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<'oneToMany', 'api::sync.sync'> &
+      Schema.Attribute.Private;
+    publishedAt: Schema.Attribute.DateTime;
+    tabletId: Schema.Attribute.String &
+      Schema.Attribute.Required &
+      Schema.Attribute.Unique;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    version: Schema.Attribute.String & Schema.Attribute.Required;
   };
 }
 
@@ -809,6 +1015,61 @@ export interface ApiVehicleVehicle extends Struct.CollectionTypeSchema {
       'api::vehicle-type.vehicle-type'
     >;
     year: Schema.Attribute.Integer;
+  };
+}
+
+export interface ApiWiperDataWiperData extends Struct.CollectionTypeSchema {
+  collectionName: 'wipers_data';
+  info: {
+    displayName: 'WiperData';
+    pluralName: 'wipers-data';
+    singularName: 'wiper-data';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::wiper-data.wiper-data'
+    > &
+      Schema.Attribute.Private;
+    publishedAt: Schema.Attribute.DateTime;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
+export interface ApiWiperProductWiperProduct
+  extends Struct.CollectionTypeSchema {
+  collectionName: 'wiper_products';
+  info: {
+    displayName: 'WiperProduct';
+    pluralName: 'wiper-products';
+    singularName: 'wiper-product';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::wiper-product.wiper-product'
+    > &
+      Schema.Attribute.Private;
+    publishedAt: Schema.Attribute.DateTime;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
   };
 }
 
@@ -1322,18 +1583,26 @@ declare module '@strapi/strapi' {
       'admin::transfer-token-permission': AdminTransferTokenPermission;
       'admin::user': AdminUser;
       'api::battery-brand.battery-brand': ApiBatteryBrandBatteryBrand;
+      'api::battery-data.battery-data': ApiBatteryDataBatteryData;
       'api::battery-model.battery-model': ApiBatteryModelBatteryModel;
+      'api::battery-product.battery-product': ApiBatteryProductBatteryProduct;
+      'api::brand.brand': ApiBrandBrand;
       'api::category.category': ApiCategoryCategory;
       'api::compatibility.compatibility': ApiCompatibilityCompatibility;
+      'api::light-data.light-data': ApiLightDataLightData;
       'api::light-position-data.light-position-data': ApiLightPositionDataLightPositionData;
-      'api::lights-brand.lights-brand': ApiLightsBrandLightsBrand;
-      'api::lights-model.lights-model': ApiLightsModelLightsModel;
       'api::lights-position.lights-position': ApiLightsPositionLightsPosition;
+      'api::lights-product.lights-product': ApiLightsProductLightsProduct;
+      'api::model.model': ApiModelModel;
+      'api::motorisation.motorisation': ApiMotorisationMotorisation;
       'api::product.product': ApiProductProduct;
       'api::specific-question.specific-question': ApiSpecificQuestionSpecificQuestion;
+      'api::sync.sync': ApiSyncSync;
       'api::tablet.tablet': ApiTabletTablet;
       'api::vehicle-type.vehicle-type': ApiVehicleTypeVehicleType;
       'api::vehicle.vehicle': ApiVehicleVehicle;
+      'api::wiper-data.wiper-data': ApiWiperDataWiperData;
+      'api::wiper-product.wiper-product': ApiWiperProductWiperProduct;
       'plugin::content-releases.release': PluginContentReleasesRelease;
       'plugin::content-releases.release-action': PluginContentReleasesReleaseAction;
       'plugin::i18n.locale': PluginI18NLocale;

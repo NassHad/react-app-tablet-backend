@@ -1,9 +1,15 @@
 export default [
-  'strapi::logger',
   'strapi::errors',
   'strapi::security',
-  'strapi::cors',
+  {
+    name: 'strapi::cors',
+    config: {
+      headers: '*',
+      origin: ['http://localhost:5174', 'http://localhost:5175', 'http://localhost:3000', 'http://localhost:4173']
+    }
+  },
   'strapi::poweredBy',
+  'strapi::logger',
   'strapi::query',
   'strapi::body',
   'strapi::session',
