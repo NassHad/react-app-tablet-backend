@@ -1,0 +1,590 @@
+[
+  {
+    "brand": "ABARTH",
+    "originalCount": 14,
+    "newCount": 3,
+    "saved": 11,
+    "consolidationRatio": "78.6%"
+  },
+  {
+    "brand": "AIXAM",
+    "originalCount": 7,
+    "newCount": 3,
+    "saved": 4,
+    "consolidationRatio": "57.1%"
+  },
+  {
+    "brand": "ALFA ROMEO",
+    "originalCount": 46,
+    "newCount": 18,
+    "saved": 28,
+    "consolidationRatio": "60.9%"
+  },
+  {
+    "brand": "ASTON MARTIN",
+    "originalCount": 4,
+    "newCount": 3,
+    "saved": 1,
+    "consolidationRatio": "25.0%"
+  },
+  {
+    "brand": "AUDI",
+    "originalCount": 165,
+    "newCount": 38,
+    "saved": 127,
+    "consolidationRatio": "77.0%"
+  },
+  {
+    "brand": "AUSTIN ROVER",
+    "originalCount": 6,
+    "newCount": 3,
+    "saved": 3,
+    "consolidationRatio": "50.0%"
+  },
+  {
+    "brand": "BMW",
+    "originalCount": 219,
+    "newCount": 38,
+    "saved": 181,
+    "consolidationRatio": "82.6%"
+  },
+  {
+    "brand": "CADILLAC",
+    "originalCount": 12,
+    "newCount": 9,
+    "saved": 3,
+    "consolidationRatio": "25.0%"
+  },
+  {
+    "brand": "CASALINI",
+    "originalCount": 4,
+    "newCount": 1,
+    "saved": 3,
+    "consolidationRatio": "75.0%"
+  },
+  {
+    "brand": "CHEVROLET",
+    "originalCount": 44,
+    "newCount": 23,
+    "saved": 21,
+    "consolidationRatio": "47.7%"
+  },
+  {
+    "brand": "CHRYSLER",
+    "originalCount": 24,
+    "newCount": 16,
+    "saved": 8,
+    "consolidationRatio": "33.3%"
+  },
+  {
+    "brand": "CITROËN",
+    "originalCount": 145,
+    "newCount": 61,
+    "saved": 84,
+    "consolidationRatio": "57.9%"
+  },
+  {
+    "brand": "CUPRA",
+    "originalCount": 12,
+    "newCount": 4,
+    "saved": 8,
+    "consolidationRatio": "66.7%"
+  },
+  {
+    "brand": "DACIA",
+    "originalCount": 40,
+    "newCount": 14,
+    "saved": 26,
+    "consolidationRatio": "65.0%"
+  },
+  {
+    "brand": "DAEWOO",
+    "originalCount": 19,
+    "newCount": 14,
+    "saved": 5,
+    "consolidationRatio": "26.3%"
+  },
+  {
+    "brand": "DAIHATSU",
+    "originalCount": 21,
+    "newCount": 18,
+    "saved": 3,
+    "consolidationRatio": "14.3%"
+  },
+  {
+    "brand": "DATSUN",
+    "originalCount": 2,
+    "newCount": 1,
+    "saved": 1,
+    "consolidationRatio": "50.0%"
+  },
+  {
+    "brand": "DFSK (SERES)",
+    "originalCount": 2,
+    "newCount": 1,
+    "saved": 1,
+    "consolidationRatio": "50.0%"
+  },
+  {
+    "brand": "DODGE",
+    "originalCount": 10,
+    "newCount": 8,
+    "saved": 2,
+    "consolidationRatio": "20.0%"
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "originalCount": 20,
+    "newCount": 7,
+    "saved": 13,
+    "consolidationRatio": "65.0%"
+  },
+  {
+    "brand": "FERRARI",
+    "originalCount": 3,
+    "newCount": 2,
+    "saved": 1,
+    "consolidationRatio": "33.3%"
+  },
+  {
+    "brand": "FIAT",
+    "originalCount": 125,
+    "newCount": 41,
+    "saved": 84,
+    "consolidationRatio": "67.2%"
+  },
+  {
+    "brand": "FORD",
+    "originalCount": 203,
+    "newCount": 61,
+    "saved": 142,
+    "consolidationRatio": "70.0%"
+  },
+  {
+    "brand": "FORTHING (Dongfeng)",
+    "originalCount": 4,
+    "newCount": 3,
+    "saved": 1,
+    "consolidationRatio": "25.0%"
+  },
+  {
+    "brand": "GAZ",
+    "originalCount": 13,
+    "newCount": 1,
+    "saved": 12,
+    "consolidationRatio": "92.3%"
+  },
+  {
+    "brand": "GMC",
+    "originalCount": 2,
+    "newCount": 1,
+    "saved": 1,
+    "consolidationRatio": "50.0%"
+  },
+  {
+    "brand": "HONDA",
+    "originalCount": 85,
+    "newCount": 38,
+    "saved": 47,
+    "consolidationRatio": "55.3%"
+  },
+  {
+    "brand": "HUMMER",
+    "originalCount": 3,
+    "newCount": 1,
+    "saved": 2,
+    "consolidationRatio": "66.7%"
+  },
+  {
+    "brand": "HYUNDAI",
+    "originalCount": 111,
+    "newCount": 40,
+    "saved": 71,
+    "consolidationRatio": "64.0%"
+  },
+  {
+    "brand": "INFINITI",
+    "originalCount": 12,
+    "newCount": 4,
+    "saved": 8,
+    "consolidationRatio": "66.7%"
+  },
+  {
+    "brand": "ISUZU",
+    "originalCount": 14,
+    "newCount": 11,
+    "saved": 3,
+    "consolidationRatio": "21.4%"
+  },
+  {
+    "brand": "IVECO",
+    "originalCount": 3,
+    "newCount": 2,
+    "saved": 1,
+    "consolidationRatio": "33.3%"
+  },
+  {
+    "brand": "JAGUAR",
+    "originalCount": 32,
+    "newCount": 10,
+    "saved": 22,
+    "consolidationRatio": "68.8%"
+  },
+  {
+    "brand": "JEEP",
+    "originalCount": 27,
+    "newCount": 17,
+    "saved": 10,
+    "consolidationRatio": "37.0%"
+  },
+  {
+    "brand": "KIA",
+    "originalCount": 86,
+    "newCount": 34,
+    "saved": 52,
+    "consolidationRatio": "60.5%"
+  },
+  {
+    "brand": "LADA",
+    "originalCount": 20,
+    "newCount": 8,
+    "saved": 12,
+    "consolidationRatio": "60.0%"
+  },
+  {
+    "brand": "LAMBORGHINI",
+    "originalCount": 2,
+    "newCount": 1,
+    "saved": 1,
+    "consolidationRatio": "50.0%"
+  },
+  {
+    "brand": "LANCIA",
+    "originalCount": 34,
+    "newCount": 20,
+    "saved": 14,
+    "consolidationRatio": "41.2%"
+  },
+  {
+    "brand": "LAND ROVER",
+    "originalCount": 33,
+    "newCount": 14,
+    "saved": 19,
+    "consolidationRatio": "57.6%"
+  },
+  {
+    "brand": "LEXUS",
+    "originalCount": 32,
+    "newCount": 16,
+    "saved": 16,
+    "consolidationRatio": "50.0%"
+  },
+  {
+    "brand": "LIGIER",
+    "originalCount": 6,
+    "newCount": 4,
+    "saved": 2,
+    "consolidationRatio": "33.3%"
+  },
+  {
+    "brand": "LOTUS",
+    "originalCount": 4,
+    "newCount": 2,
+    "saved": 2,
+    "consolidationRatio": "50.0%"
+  },
+  {
+    "brand": "LYNK & CO",
+    "originalCount": 2,
+    "newCount": 1,
+    "saved": 1,
+    "consolidationRatio": "50.0%"
+  },
+  {
+    "brand": "MAN",
+    "originalCount": 2,
+    "newCount": 1,
+    "saved": 1,
+    "consolidationRatio": "50.0%"
+  },
+  {
+    "brand": "MASERATI",
+    "originalCount": 5,
+    "newCount": 1,
+    "saved": 4,
+    "consolidationRatio": "80.0%"
+  },
+  {
+    "brand": "MAXUS",
+    "originalCount": 8,
+    "newCount": 3,
+    "saved": 5,
+    "consolidationRatio": "62.5%"
+  },
+  {
+    "brand": "MAZDA",
+    "originalCount": 107,
+    "newCount": 39,
+    "saved": 68,
+    "consolidationRatio": "63.6%"
+  },
+  {
+    "brand": "MEGA",
+    "originalCount": 6,
+    "newCount": 5,
+    "saved": 1,
+    "consolidationRatio": "16.7%"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "originalCount": 239,
+    "newCount": 42,
+    "saved": 197,
+    "consolidationRatio": "82.4%"
+  },
+  {
+    "brand": "MG",
+    "originalCount": 8,
+    "newCount": 3,
+    "saved": 5,
+    "consolidationRatio": "62.5%"
+  },
+  {
+    "brand": "MICROCAR",
+    "originalCount": 7,
+    "newCount": 5,
+    "saved": 2,
+    "consolidationRatio": "28.6%"
+  },
+  {
+    "brand": "MINAUTO",
+    "originalCount": 3,
+    "newCount": 1,
+    "saved": 2,
+    "consolidationRatio": "66.7%"
+  },
+  {
+    "brand": "MINI",
+    "originalCount": 33,
+    "newCount": 11,
+    "saved": 22,
+    "consolidationRatio": "66.7%"
+  },
+  {
+    "brand": "MITSUBISHI",
+    "originalCount": 81,
+    "newCount": 39,
+    "saved": 42,
+    "consolidationRatio": "51.9%"
+  },
+  {
+    "brand": "MOSKVITCH",
+    "originalCount": 2,
+    "newCount": 1,
+    "saved": 1,
+    "consolidationRatio": "50.0%"
+  },
+  {
+    "brand": "NISSAN",
+    "originalCount": 157,
+    "newCount": 71,
+    "saved": 86,
+    "consolidationRatio": "54.8%"
+  },
+  {
+    "brand": "OPEL",
+    "originalCount": 121,
+    "newCount": 49,
+    "saved": 72,
+    "consolidationRatio": "59.5%"
+  },
+  {
+    "brand": "PEUGEOT",
+    "originalCount": 149,
+    "newCount": 58,
+    "saved": 91,
+    "consolidationRatio": "61.1%"
+  },
+  {
+    "brand": "PGO",
+    "originalCount": 2,
+    "newCount": 1,
+    "saved": 1,
+    "consolidationRatio": "50.0%"
+  },
+  {
+    "brand": "PORSCHE",
+    "originalCount": 37,
+    "newCount": 14,
+    "saved": 23,
+    "consolidationRatio": "62.2%"
+  },
+  {
+    "brand": "PROTON",
+    "originalCount": 6,
+    "newCount": 4,
+    "saved": 2,
+    "consolidationRatio": "33.3%"
+  },
+  {
+    "brand": "RENAULT",
+    "originalCount": 225,
+    "newCount": 74,
+    "saved": 151,
+    "consolidationRatio": "67.1%"
+  },
+  {
+    "brand": "ROVER",
+    "originalCount": 22,
+    "newCount": 12,
+    "saved": 10,
+    "consolidationRatio": "45.5%"
+  },
+  {
+    "brand": "ROVER / MG",
+    "originalCount": 7,
+    "newCount": 5,
+    "saved": 2,
+    "consolidationRatio": "28.6%"
+  },
+  {
+    "brand": "SAAB",
+    "originalCount": 22,
+    "newCount": 9,
+    "saved": 13,
+    "consolidationRatio": "59.1%"
+  },
+  {
+    "brand": "SANTANA",
+    "originalCount": 5,
+    "newCount": 4,
+    "saved": 1,
+    "consolidationRatio": "20.0%"
+  },
+  {
+    "brand": "SEAT",
+    "originalCount": 77,
+    "newCount": 24,
+    "saved": 53,
+    "consolidationRatio": "68.8%"
+  },
+  {
+    "brand": "SERES",
+    "originalCount": 3,
+    "newCount": 2,
+    "saved": 1,
+    "consolidationRatio": "33.3%"
+  },
+  {
+    "brand": "SKODA",
+    "originalCount": 94,
+    "newCount": 25,
+    "saved": 69,
+    "consolidationRatio": "73.4%"
+  },
+  {
+    "brand": "SMART",
+    "originalCount": 12,
+    "newCount": 8,
+    "saved": 4,
+    "consolidationRatio": "33.3%"
+  },
+  {
+    "brand": "SSANG-YONG",
+    "originalCount": 19,
+    "newCount": 12,
+    "saved": 7,
+    "consolidationRatio": "36.8%"
+  },
+  {
+    "brand": "SUBARU",
+    "originalCount": 58,
+    "newCount": 28,
+    "saved": 30,
+    "consolidationRatio": "51.7%"
+  },
+  {
+    "brand": "SUZUKI",
+    "originalCount": 55,
+    "newCount": 30,
+    "saved": 25,
+    "consolidationRatio": "45.5%"
+  },
+  {
+    "brand": "TALBOT",
+    "originalCount": 8,
+    "newCount": 4,
+    "saved": 4,
+    "consolidationRatio": "50.0%"
+  },
+  {
+    "brand": "TATA",
+    "originalCount": 18,
+    "newCount": 10,
+    "saved": 8,
+    "consolidationRatio": "44.4%"
+  },
+  {
+    "brand": "TEILHOL",
+    "originalCount": 4,
+    "newCount": 3,
+    "saved": 1,
+    "consolidationRatio": "25.0%"
+  },
+  {
+    "brand": "TESLA",
+    "originalCount": 8,
+    "newCount": 3,
+    "saved": 5,
+    "consolidationRatio": "62.5%"
+  },
+  {
+    "brand": "TOYOTA",
+    "originalCount": 138,
+    "newCount": 58,
+    "saved": 80,
+    "consolidationRatio": "58.0%"
+  },
+  {
+    "brand": "TVR",
+    "originalCount": 4,
+    "newCount": 2,
+    "saved": 2,
+    "consolidationRatio": "50.0%"
+  },
+  {
+    "brand": "VAUXHALL",
+    "originalCount": 118,
+    "newCount": 46,
+    "saved": 72,
+    "consolidationRatio": "61.0%"
+  },
+  {
+    "brand": "VAZ",
+    "originalCount": 6,
+    "newCount": 1,
+    "saved": 5,
+    "consolidationRatio": "83.3%"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "originalCount": 286,
+    "newCount": 63,
+    "saved": 223,
+    "consolidationRatio": "78.0%"
+  },
+  {
+    "brand": "VOLVO",
+    "originalCount": 109,
+    "newCount": 24,
+    "saved": 85,
+    "consolidationRatio": "78.0%"
+  },
+  {
+    "brand": "ZASTAVA",
+    "originalCount": 4,
+    "newCount": 3,
+    "saved": 1,
+    "consolidationRatio": "25.0%"
+  }
+]

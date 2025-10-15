@@ -218,6 +218,46 @@ async function createTables(db) {
       FOREIGN KEY (lights_product_id) REFERENCES lights_products(id)
     );
 
+    -- Wipers Products
+    CREATE TABLE IF NOT EXISTS wipers_products (
+      id INTEGER PRIMARY KEY,
+      name TEXT NOT NULL,
+      slug TEXT UNIQUE,
+      ref TEXT,
+      description TEXT,
+      brand_id INTEGER,
+      model_id INTEGER,
+      wipers_positions TEXT,
+      construction_year_start TEXT,
+      construction_year_end TEXT,
+      direction TEXT,
+      part_number TEXT,
+      notes TEXT,
+      source TEXT,
+      category TEXT,
+      is_active BOOLEAN,
+      created_at TEXT,
+      updated_at TEXT,
+      FOREIGN KEY (brand_id) REFERENCES brands(id),
+      FOREIGN KEY (model_id) REFERENCES models(id)
+    );
+
+    -- Wipers Positions
+    CREATE TABLE IF NOT EXISTS wipers_positions (
+      id INTEGER PRIMARY KEY,
+      name TEXT NOT NULL,
+      slug TEXT UNIQUE,
+      description TEXT,
+      category TEXT,
+      ref TEXT,
+      sort_order INTEGER,
+      sort INTEGER,
+      usage_count INTEGER,
+      is_active BOOLEAN,
+      created_at TEXT,
+      updated_at TEXT
+    );
+
     -- Compatibilities
     CREATE TABLE IF NOT EXISTS compatibilities (
       id INTEGER PRIMARY KEY,
@@ -273,6 +313,9 @@ async function createTables(db) {
     CREATE INDEX IF NOT EXISTS idx_lights_position_data_product_id ON lights_position_data(lights_product_id);
     CREATE INDEX IF NOT EXISTS idx_light_data_vehicle_id ON light_data(vehicle_id);
     CREATE INDEX IF NOT EXISTS idx_light_data_product_id ON light_data(lights_product_id);
+    CREATE INDEX IF NOT EXISTS idx_wipers_products_brand_id ON wipers_products(brand_id);
+    CREATE INDEX IF NOT EXISTS idx_wipers_products_model_id ON wipers_products(model_id);
+    CREATE INDEX IF NOT EXISTS idx_wipers_positions_category ON wipers_positions(category);
     CREATE INDEX IF NOT EXISTS idx_compatibilities_vehicle_id ON compatibilities(vehicle_id);
     CREATE INDEX IF NOT EXISTS idx_compatibilities_product_id ON compatibilities(product_id);
     CREATE INDEX IF NOT EXISTS idx_specific_questions_vehicle_id ON specific_questions(vehicle_id);

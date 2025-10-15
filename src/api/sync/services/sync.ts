@@ -23,6 +23,8 @@ export default ({ strapi }) => ({
         lightsPositions,
         lightsPositionData,
         lightData,
+        wipersProducts,
+        wipersPositions,
         compatibilities,
         specificQuestions,
         motorisations
@@ -83,6 +85,14 @@ export default ({ strapi }) => ({
           populate: '*',
           sort: 'id:asc'
         }),
+        strapi.entityService.findMany('api::wipers-product.wipers-product', {
+          populate: '*',
+          sort: 'id:asc'
+        }),
+        strapi.entityService.findMany('api::wipers-position.wipers-position', {
+          populate: '*',
+          sort: 'id:asc'
+        }),
         strapi.entityService.findMany('api::compatibility.compatibility', {
           populate: '*',
           sort: 'id:asc'
@@ -112,6 +122,8 @@ export default ({ strapi }) => ({
         lightsPositions,
         lightsPositionData,
         lightData,
+        wipersProducts,
+        wipersPositions,
         compatibilities,
         specificQuestions,
         motorisations
@@ -293,6 +305,46 @@ export default ({ strapi }) => ({
           updated_at TEXT,
           FOREIGN KEY (vehicle_id) REFERENCES vehicles(id),
           FOREIGN KEY (lights_product_id) REFERENCES lights_products(id)
+        );
+
+        -- Wipers Products
+        CREATE TABLE IF NOT EXISTS wipers_products (
+          id INTEGER PRIMARY KEY,
+          name TEXT NOT NULL,
+          slug TEXT UNIQUE,
+          ref TEXT,
+          description TEXT,
+          brand_id INTEGER,
+          model_id INTEGER,
+          wipers_positions TEXT,
+          construction_year_start TEXT,
+          construction_year_end TEXT,
+          direction TEXT,
+          part_number TEXT,
+          notes TEXT,
+          source TEXT,
+          category TEXT,
+          is_active BOOLEAN,
+          created_at TEXT,
+          updated_at TEXT,
+          FOREIGN KEY (brand_id) REFERENCES brands(id),
+          FOREIGN KEY (model_id) REFERENCES models(id)
+        );
+
+        -- Wipers Positions
+        CREATE TABLE IF NOT EXISTS wipers_positions (
+          id INTEGER PRIMARY KEY,
+          name TEXT NOT NULL,
+          slug TEXT UNIQUE,
+          description TEXT,
+          category TEXT,
+          ref TEXT,
+          sort_order INTEGER,
+          sort INTEGER,
+          usage_count INTEGER,
+          is_active BOOLEAN,
+          created_at TEXT,
+          updated_at TEXT
         );
 
         -- Compatibilities

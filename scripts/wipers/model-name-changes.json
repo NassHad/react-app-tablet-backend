@@ -1,0 +1,8787 @@
+[
+  {
+    "brand": "ABARTH",
+    "original": "500 Abarth 595 (All models)",
+    "cleaned": "500 Abarth 595"
+  },
+  {
+    "brand": "ABARTH",
+    "original": "500 Abarth 595 (All models)",
+    "cleaned": "500 Abarth 595"
+  },
+  {
+    "brand": "ABARTH",
+    "original": "500 Abarth 595C (All models)",
+    "cleaned": "500 Abarth 595C"
+  },
+  {
+    "brand": "ABARTH",
+    "original": "500 Abarth 595C (All models)",
+    "cleaned": "500 Abarth 595C"
+  },
+  {
+    "brand": "ABARTH",
+    "original": "500 Abarth 695 (All models)",
+    "cleaned": "500 Abarth 695"
+  },
+  {
+    "brand": "ABARTH",
+    "original": "500 Abarth 695 (All models)",
+    "cleaned": "500 Abarth 695"
+  },
+  {
+    "brand": "ABARTH",
+    "original": "500 Abarth 695C (All models)",
+    "cleaned": "500 Abarth 695C"
+  },
+  {
+    "brand": "ABARTH",
+    "original": "500 Abarth 695C (All models)",
+    "cleaned": "500 Abarth 695C"
+  },
+  {
+    "brand": "ABARTH",
+    "original": "500e Abarth (All models)",
+    "cleaned": "500e Abarth"
+  },
+  {
+    "brand": "ABARTH",
+    "original": "500e Abarth (All models)",
+    "cleaned": "500e Abarth"
+  },
+  {
+    "brand": "ABARTH",
+    "original": "500e C Abarth (All models)",
+    "cleaned": "500e C Abarth"
+  },
+  {
+    "brand": "ABARTH",
+    "original": "500e C Abarth (All models)",
+    "cleaned": "500e C Abarth"
+  },
+  {
+    "brand": "AUDI",
+    "original": "A3 (Typ 8P)",
+    "cleaned": "A3"
+  },
+  {
+    "brand": "AUDI",
+    "original": "A3 (Typ 8P)",
+    "cleaned": "A3"
+  },
+  {
+    "brand": "AUDI",
+    "original": "A3 (Typ 8P)",
+    "cleaned": "A3"
+  },
+  {
+    "brand": "AUDI",
+    "original": "A3 (Typ 8P)",
+    "cleaned": "A3"
+  },
+  {
+    "brand": "AUDI",
+    "original": "A3 Sportback (Typ 8P)",
+    "cleaned": "A3 Sportback"
+  },
+  {
+    "brand": "AUDI",
+    "original": "A3 Sportback (Typ 8P)",
+    "cleaned": "A3 Sportback"
+  },
+  {
+    "brand": "AUDI",
+    "original": "A3 (Typ 8P)",
+    "cleaned": "A3"
+  },
+  {
+    "brand": "AUDI",
+    "original": "A3 (Typ 8P)",
+    "cleaned": "A3"
+  },
+  {
+    "brand": "AUDI",
+    "original": "A3 (Typ 8V)",
+    "cleaned": "A3"
+  },
+  {
+    "brand": "AUDI",
+    "original": "A3 (Typ 8V)",
+    "cleaned": "A3"
+  },
+  {
+    "brand": "AUDI",
+    "original": "A3 (Typ 8V)",
+    "cleaned": "A3"
+  },
+  {
+    "brand": "AUDI",
+    "original": "A3 (Typ 8V)",
+    "cleaned": "A3"
+  },
+  {
+    "brand": "AUDI",
+    "original": "A3 Sportback (Typ 8V)",
+    "cleaned": "A3 Sportback"
+  },
+  {
+    "brand": "AUDI",
+    "original": "A3 Sportback (Typ 8V)",
+    "cleaned": "A3 Sportback"
+  },
+  {
+    "brand": "AUDI",
+    "original": "A3 (Typ 8V)",
+    "cleaned": "A3"
+  },
+  {
+    "brand": "AUDI",
+    "original": "A3 (Typ 8V)",
+    "cleaned": "A3"
+  },
+  {
+    "brand": "AUDI",
+    "original": "A3 Sportback (Typ 8Y)",
+    "cleaned": "A3 Sportback"
+  },
+  {
+    "brand": "AUDI",
+    "original": "A3 Sportback (Typ 8Y)",
+    "cleaned": "A3 Sportback"
+  },
+  {
+    "brand": "AUDI",
+    "original": "Q3 / RSQ3 (8U)",
+    "cleaned": "Q3 / RSQ3"
+  },
+  {
+    "brand": "AUDI",
+    "original": "Q3 / RSQ3 (8U)",
+    "cleaned": "Q3 / RSQ3"
+  },
+  {
+    "brand": "AUDI",
+    "original": "Q3 / RSQ3 (F3)",
+    "cleaned": "Q3 / RSQ3"
+  },
+  {
+    "brand": "AUDI",
+    "original": "Q3 / RSQ3 (F3)",
+    "cleaned": "Q3 / RSQ3"
+  },
+  {
+    "brand": "AUDI",
+    "original": "Q3 Sportback (F3)",
+    "cleaned": "Q3 Sportback"
+  },
+  {
+    "brand": "AUDI",
+    "original": "Q3 Sportback (F3)",
+    "cleaned": "Q3 Sportback"
+  },
+  {
+    "brand": "AUDI",
+    "original": "Q5 / RSQ5 (B8)",
+    "cleaned": "Q5 / RSQ5"
+  },
+  {
+    "brand": "AUDI",
+    "original": "Q5 / RSQ5 (B8)",
+    "cleaned": "Q5 / RSQ5"
+  },
+  {
+    "brand": "AUDI",
+    "original": "Q5 / SQ5 (B9)",
+    "cleaned": "Q5 / SQ5"
+  },
+  {
+    "brand": "AUDI",
+    "original": "Q5 / SQ5 (B9)",
+    "cleaned": "Q5 / SQ5"
+  },
+  {
+    "brand": "AUDI",
+    "original": "Q5 Sportback (B9)",
+    "cleaned": "Q5 Sportback"
+  },
+  {
+    "brand": "AUDI",
+    "original": "Q5 Sportback (B9)",
+    "cleaned": "Q5 Sportback"
+  },
+  {
+    "brand": "BMW",
+    "original": "1-Series (E81)",
+    "cleaned": "1-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "1-Series (E81)",
+    "cleaned": "1-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "1-Series (E87)",
+    "cleaned": "1-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "1-Series (E87)",
+    "cleaned": "1-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "1-Series (E82)",
+    "cleaned": "1-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "1-Series (E82)",
+    "cleaned": "1-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "1-Series (E88)",
+    "cleaned": "1-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "1-Series (E88)",
+    "cleaned": "1-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "1-Series (F20)",
+    "cleaned": "1-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "1-Series (F20)",
+    "cleaned": "1-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "1-Series (F21)",
+    "cleaned": "1-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "1-Series (F21)",
+    "cleaned": "1-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "1-Series (F40)",
+    "cleaned": "1-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "1-Series (F40)",
+    "cleaned": "1-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "1-Series (F70)",
+    "cleaned": "1-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "1-Series (F70)",
+    "cleaned": "1-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "2-Series (F22)",
+    "cleaned": "2-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "2-Series (F22)",
+    "cleaned": "2-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "2-Series M2 (F22)/(F87)",
+    "cleaned": "2-Series M2 /"
+  },
+  {
+    "brand": "BMW",
+    "original": "2-Series M2 (F22)/(F87)",
+    "cleaned": "2-Series M2 /"
+  },
+  {
+    "brand": "BMW",
+    "original": "2-Series (G42)",
+    "cleaned": "2-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "2-Series (G42)",
+    "cleaned": "2-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "2-Series (F23)",
+    "cleaned": "2-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "2-Series (F23)",
+    "cleaned": "2-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "2-Series Active Tourer (F45)",
+    "cleaned": "2-Series Active Tourer"
+  },
+  {
+    "brand": "BMW",
+    "original": "2-Series Active Tourer (F45)",
+    "cleaned": "2-Series Active Tourer"
+  },
+  {
+    "brand": "BMW",
+    "original": "2-Series Active Tourer (U06)",
+    "cleaned": "2-Series Active Tourer"
+  },
+  {
+    "brand": "BMW",
+    "original": "2-Series Active Tourer (U06)",
+    "cleaned": "2-Series Active Tourer"
+  },
+  {
+    "brand": "BMW",
+    "original": "2-Series Gran Tourer (F46)",
+    "cleaned": "2-Series Gran Tourer"
+  },
+  {
+    "brand": "BMW",
+    "original": "2-Series Gran Tourer (F46)",
+    "cleaned": "2-Series Gran Tourer"
+  },
+  {
+    "brand": "BMW",
+    "original": "2-Series M2 (G42)/(G87)",
+    "cleaned": "2-Series M2 /"
+  },
+  {
+    "brand": "BMW",
+    "original": "2-Series M2 (G42)/(G87)",
+    "cleaned": "2-Series M2 /"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series (E21)",
+    "cleaned": "3-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series (E30)",
+    "cleaned": "3-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series (E30)",
+    "cleaned": "3-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series Touring (E30)",
+    "cleaned": "3-Series Touring"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series (E36)",
+    "cleaned": "3-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series Touring (E36)",
+    "cleaned": "3-Series Touring"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series M3 (E30)",
+    "cleaned": "3-Series M3"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series Compact (E36)",
+    "cleaned": "3-Series Compact"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series Compact (E36)",
+    "cleaned": "3-Series Compact"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series (E36)",
+    "cleaned": "3-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series (E36)",
+    "cleaned": "3-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series (E36)",
+    "cleaned": "3-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series M3 (E36)",
+    "cleaned": "3-Series M3"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series (E46)",
+    "cleaned": "3-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series Touring (E46)",
+    "cleaned": "3-Series Touring"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series Compact (E46)",
+    "cleaned": "3-Series Compact"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series (E46)",
+    "cleaned": "3-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series (E46)",
+    "cleaned": "3-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series (E90)",
+    "cleaned": "3-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series (E90)",
+    "cleaned": "3-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series (E90)",
+    "cleaned": "3-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series (E90)",
+    "cleaned": "3-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series Touring (E91)",
+    "cleaned": "3-Series Touring"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series Touring (E91)",
+    "cleaned": "3-Series Touring"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series Touring (E91)",
+    "cleaned": "3-Series Touring"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series Touring (E91)",
+    "cleaned": "3-Series Touring"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series (E92)",
+    "cleaned": "3-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series (E92)",
+    "cleaned": "3-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series (E92)/(E93)",
+    "cleaned": "3-Series /"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series (E92)/(E93)",
+    "cleaned": "3-Series /"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series (E93)",
+    "cleaned": "3-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series (E93)",
+    "cleaned": "3-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series M3 (E90)",
+    "cleaned": "3-Series M3"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series M3 (E90)",
+    "cleaned": "3-Series M3"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series M3 (E90)",
+    "cleaned": "3-Series M3"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series M3 (E90)",
+    "cleaned": "3-Series M3"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series M3 (E92)",
+    "cleaned": "3-Series M3"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series M3 (E92)",
+    "cleaned": "3-Series M3"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series M3 (E92)/(E93)",
+    "cleaned": "3-Series M3 /"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series M3 (E92)/(E93)",
+    "cleaned": "3-Series M3 /"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series (F30)",
+    "cleaned": "3-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series (F30)",
+    "cleaned": "3-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series Touring (F31)",
+    "cleaned": "3-Series Touring"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series Touring (F31)",
+    "cleaned": "3-Series Touring"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series GT (F34)",
+    "cleaned": "3-Series GT"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series GT (F34)",
+    "cleaned": "3-Series GT"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series M3 (F80)",
+    "cleaned": "3-Series M3"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series M3 (F80)",
+    "cleaned": "3-Series M3"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series (G20)",
+    "cleaned": "3-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series (G20)",
+    "cleaned": "3-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series Touring (G21)",
+    "cleaned": "3-Series Touring"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series Touring (G21)",
+    "cleaned": "3-Series Touring"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series M3 (G80)",
+    "cleaned": "3-Series M3"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series M3 (G80)",
+    "cleaned": "3-Series M3"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series M3 Touring (G81)",
+    "cleaned": "3-Series M3 Touring"
+  },
+  {
+    "brand": "BMW",
+    "original": "3-Series M3 Touring (G81)",
+    "cleaned": "3-Series M3 Touring"
+  },
+  {
+    "brand": "BMW",
+    "original": "4-Series (F32)",
+    "cleaned": "4-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "4-Series (F32)",
+    "cleaned": "4-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "4-Series (F33)",
+    "cleaned": "4-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "4-Series (F33)",
+    "cleaned": "4-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "4-Series Gran Coupé (F36)",
+    "cleaned": "4-Series Gran Coupé"
+  },
+  {
+    "brand": "BMW",
+    "original": "4-Series Gran Coupé (F36)",
+    "cleaned": "4-Series Gran Coupé"
+  },
+  {
+    "brand": "BMW",
+    "original": "4-Series M4 (F82)",
+    "cleaned": "4-Series M4"
+  },
+  {
+    "brand": "BMW",
+    "original": "4-Series M4 (F82)",
+    "cleaned": "4-Series M4"
+  },
+  {
+    "brand": "BMW",
+    "original": "4-Series M4 (F83)",
+    "cleaned": "4-Series M4"
+  },
+  {
+    "brand": "BMW",
+    "original": "4-Series M4 (F83)",
+    "cleaned": "4-Series M4"
+  },
+  {
+    "brand": "BMW",
+    "original": "4-Series (G22)",
+    "cleaned": "4-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "4-Series (G22)",
+    "cleaned": "4-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "4-Series (G23)",
+    "cleaned": "4-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "4-Series (G23)",
+    "cleaned": "4-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "4-Series Gran Coupé (G26)",
+    "cleaned": "4-Series Gran Coupé"
+  },
+  {
+    "brand": "BMW",
+    "original": "4-Series Gran Coupé (G26)",
+    "cleaned": "4-Series Gran Coupé"
+  },
+  {
+    "brand": "BMW",
+    "original": "4-Series M4 (G82)",
+    "cleaned": "4-Series M4"
+  },
+  {
+    "brand": "BMW",
+    "original": "4-Series M4 (G82)",
+    "cleaned": "4-Series M4"
+  },
+  {
+    "brand": "BMW",
+    "original": "4-Series M4 (G83)",
+    "cleaned": "4-Series M4"
+  },
+  {
+    "brand": "BMW",
+    "original": "4-Series M4 (G83)",
+    "cleaned": "4-Series M4"
+  },
+  {
+    "brand": "BMW",
+    "original": "5-Series (E12)",
+    "cleaned": "5-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "5-Series (E12)",
+    "cleaned": "5-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "5-Series M535i (E12)",
+    "cleaned": "5-Series M535i"
+  },
+  {
+    "brand": "BMW",
+    "original": "5-Series (E28)",
+    "cleaned": "5-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "5-Series M535i (E28)",
+    "cleaned": "5-Series M535i"
+  },
+  {
+    "brand": "BMW",
+    "original": "5-Series Touring (E34)",
+    "cleaned": "5-Series Touring"
+  },
+  {
+    "brand": "BMW",
+    "original": "5-Series (E60)",
+    "cleaned": "5-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "5-Series (E60)",
+    "cleaned": "5-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "5-Series Touring (E61)",
+    "cleaned": "5-Series Touring"
+  },
+  {
+    "brand": "BMW",
+    "original": "5-Series Touring (E61)",
+    "cleaned": "5-Series Touring"
+  },
+  {
+    "brand": "BMW",
+    "original": "5-Series M5 (E60)",
+    "cleaned": "5-Series M5"
+  },
+  {
+    "brand": "BMW",
+    "original": "5-Series M5 (E60)",
+    "cleaned": "5-Series M5"
+  },
+  {
+    "brand": "BMW",
+    "original": "5 GT-Series (F07)",
+    "cleaned": "5 GT-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "5 GT-Series (F07)",
+    "cleaned": "5 GT-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "5-Series (F10)",
+    "cleaned": "5-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "5-Series (F10)",
+    "cleaned": "5-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "5-Series Touring (F11)",
+    "cleaned": "5-Series Touring"
+  },
+  {
+    "brand": "BMW",
+    "original": "5-Series Touring (F11)",
+    "cleaned": "5-Series Touring"
+  },
+  {
+    "brand": "BMW",
+    "original": "5-Series M5 (F10)",
+    "cleaned": "5-Series M5"
+  },
+  {
+    "brand": "BMW",
+    "original": "5-Series M5 (F10)",
+    "cleaned": "5-Series M5"
+  },
+  {
+    "brand": "BMW",
+    "original": "5-Series (G30)",
+    "cleaned": "5-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "5-Series (G30)",
+    "cleaned": "5-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "5-Series Touring (G31)",
+    "cleaned": "5-Series Touring"
+  },
+  {
+    "brand": "BMW",
+    "original": "5-Series Touring (G31)",
+    "cleaned": "5-Series Touring"
+  },
+  {
+    "brand": "BMW",
+    "original": "5-Series (G60)",
+    "cleaned": "5-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "5-Series (G60)",
+    "cleaned": "5-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "5-Series Touring (G61)",
+    "cleaned": "5-Series Touring"
+  },
+  {
+    "brand": "BMW",
+    "original": "5-Series Touring (G61)",
+    "cleaned": "5-Series Touring"
+  },
+  {
+    "brand": "BMW",
+    "original": "6-Series (E24)",
+    "cleaned": "6-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "6-Series M635 Csi (E24)",
+    "cleaned": "6-Series M635 Csi"
+  },
+  {
+    "brand": "BMW",
+    "original": "6-Series (E63) / M6",
+    "cleaned": "6-Series / M6"
+  },
+  {
+    "brand": "BMW",
+    "original": "6-Series (E63) / M6",
+    "cleaned": "6-Series / M6"
+  },
+  {
+    "brand": "BMW",
+    "original": "6-Series (E64) / M6",
+    "cleaned": "6-Series / M6"
+  },
+  {
+    "brand": "BMW",
+    "original": "6-Series (F12) / M6",
+    "cleaned": "6-Series / M6"
+  },
+  {
+    "brand": "BMW",
+    "original": "6-Series (F12) / M6",
+    "cleaned": "6-Series / M6"
+  },
+  {
+    "brand": "BMW",
+    "original": "6-Series (F13) / M6",
+    "cleaned": "6-Series / M6"
+  },
+  {
+    "brand": "BMW",
+    "original": "6-Series (F13) / M6",
+    "cleaned": "6-Series / M6"
+  },
+  {
+    "brand": "BMW",
+    "original": "6-Series Gran Coupé (F06) / M6",
+    "cleaned": "6-Series Gran Coupé / M6"
+  },
+  {
+    "brand": "BMW",
+    "original": "6-Series Gran Coupé (F06) / M6",
+    "cleaned": "6-Series Gran Coupé / M6"
+  },
+  {
+    "brand": "BMW",
+    "original": "6-Series GT (G32)",
+    "cleaned": "6-Series GT"
+  },
+  {
+    "brand": "BMW",
+    "original": "6-Series GT (G32)",
+    "cleaned": "6-Series GT"
+  },
+  {
+    "brand": "BMW",
+    "original": "7-Series (E23)",
+    "cleaned": "7-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "7-Series (F01/ F02)",
+    "cleaned": "7-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "7-Series (F01/ F02)",
+    "cleaned": "7-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "7-Series (G11/ G12)",
+    "cleaned": "7-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "7-Series (G11/ G12)",
+    "cleaned": "7-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "7-Series (G70/ G71)",
+    "cleaned": "7-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "7-Series (G70/ G71)",
+    "cleaned": "7-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "8-Series (G15)",
+    "cleaned": "8-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "8-Series (G15)",
+    "cleaned": "8-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "8-Series (G14)",
+    "cleaned": "8-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "8-Series (G14)",
+    "cleaned": "8-Series"
+  },
+  {
+    "brand": "BMW",
+    "original": "8-Series Gran Coupé (G16)",
+    "cleaned": "8-Series Gran Coupé"
+  },
+  {
+    "brand": "BMW",
+    "original": "8-Series Gran Coupé (G16)",
+    "cleaned": "8-Series Gran Coupé"
+  },
+  {
+    "brand": "BMW",
+    "original": "i3 (I01)",
+    "cleaned": "i3"
+  },
+  {
+    "brand": "BMW",
+    "original": "i3 (I01)",
+    "cleaned": "i3"
+  },
+  {
+    "brand": "BMW",
+    "original": "i4 (G26) / i4 M50",
+    "cleaned": "i4 / i4 M50"
+  },
+  {
+    "brand": "BMW",
+    "original": "i4 (G26) / i4 M50",
+    "cleaned": "i4 / i4 M50"
+  },
+  {
+    "brand": "BMW",
+    "original": "i5 (G60) / i5 M60",
+    "cleaned": "i5 / i5 M60"
+  },
+  {
+    "brand": "BMW",
+    "original": "i5 (G60) / i5 M60",
+    "cleaned": "i5 / i5 M60"
+  },
+  {
+    "brand": "BMW",
+    "original": "i5 Touring (G61)",
+    "cleaned": "i5 Touring"
+  },
+  {
+    "brand": "BMW",
+    "original": "i5 Touring (G61)",
+    "cleaned": "i5 Touring"
+  },
+  {
+    "brand": "BMW",
+    "original": "i7 (G70 / G71)",
+    "cleaned": "i7"
+  },
+  {
+    "brand": "BMW",
+    "original": "i7 (G70 / G71)",
+    "cleaned": "i7"
+  },
+  {
+    "brand": "BMW",
+    "original": "iX1 (U11)",
+    "cleaned": "iX1"
+  },
+  {
+    "brand": "BMW",
+    "original": "iX1 (U11)",
+    "cleaned": "iX1"
+  },
+  {
+    "brand": "BMW",
+    "original": "iX2 (U10)",
+    "cleaned": "iX2"
+  },
+  {
+    "brand": "BMW",
+    "original": "iX2 (U10)",
+    "cleaned": "iX2"
+  },
+  {
+    "brand": "BMW",
+    "original": "X1 (E84)",
+    "cleaned": "X1"
+  },
+  {
+    "brand": "BMW",
+    "original": "X1 (E84)",
+    "cleaned": "X1"
+  },
+  {
+    "brand": "BMW",
+    "original": "X1 (F48)",
+    "cleaned": "X1"
+  },
+  {
+    "brand": "BMW",
+    "original": "X1 (F48)",
+    "cleaned": "X1"
+  },
+  {
+    "brand": "BMW",
+    "original": "X1 (U11)",
+    "cleaned": "X1"
+  },
+  {
+    "brand": "BMW",
+    "original": "X1 (U11)",
+    "cleaned": "X1"
+  },
+  {
+    "brand": "BMW",
+    "original": "X2 (F39)",
+    "cleaned": "X2"
+  },
+  {
+    "brand": "BMW",
+    "original": "X2 (F39)",
+    "cleaned": "X2"
+  },
+  {
+    "brand": "BMW",
+    "original": "X2 (U10)",
+    "cleaned": "X2"
+  },
+  {
+    "brand": "BMW",
+    "original": "X2 (U10)",
+    "cleaned": "X2"
+  },
+  {
+    "brand": "BMW",
+    "original": "X3 (E83)",
+    "cleaned": "X3"
+  },
+  {
+    "brand": "BMW",
+    "original": "X3 (F25)",
+    "cleaned": "X3"
+  },
+  {
+    "brand": "BMW",
+    "original": "X3 (F25)",
+    "cleaned": "X3"
+  },
+  {
+    "brand": "BMW",
+    "original": "X3 (G01) / iX3 (G08)",
+    "cleaned": "X3 / iX3"
+  },
+  {
+    "brand": "BMW",
+    "original": "X3 (G01) / iX3 (G08)",
+    "cleaned": "X3 / iX3"
+  },
+  {
+    "brand": "BMW",
+    "original": "X4 (F26)",
+    "cleaned": "X4"
+  },
+  {
+    "brand": "BMW",
+    "original": "X4 (F26)",
+    "cleaned": "X4"
+  },
+  {
+    "brand": "BMW",
+    "original": "X5 (E53)",
+    "cleaned": "X5"
+  },
+  {
+    "brand": "BMW",
+    "original": "X5 (E70)",
+    "cleaned": "X5"
+  },
+  {
+    "brand": "BMW",
+    "original": "X5 (E70)",
+    "cleaned": "X5"
+  },
+  {
+    "brand": "BMW",
+    "original": "X5 (E70)",
+    "cleaned": "X5"
+  },
+  {
+    "brand": "BMW",
+    "original": "X5 (E70)",
+    "cleaned": "X5"
+  },
+  {
+    "brand": "BMW",
+    "original": "X5 (F15)",
+    "cleaned": "X5"
+  },
+  {
+    "brand": "BMW",
+    "original": "X5 (F15)",
+    "cleaned": "X5"
+  },
+  {
+    "brand": "BMW",
+    "original": "X5 (G05)",
+    "cleaned": "X5"
+  },
+  {
+    "brand": "BMW",
+    "original": "X5 (G05)",
+    "cleaned": "X5"
+  },
+  {
+    "brand": "BMW",
+    "original": "X6 (E71)",
+    "cleaned": "X6"
+  },
+  {
+    "brand": "BMW",
+    "original": "X6 (E71)",
+    "cleaned": "X6"
+  },
+  {
+    "brand": "BMW",
+    "original": "X6 (E71)",
+    "cleaned": "X6"
+  },
+  {
+    "brand": "BMW",
+    "original": "X6 (E71)",
+    "cleaned": "X6"
+  },
+  {
+    "brand": "BMW",
+    "original": "X6 (F16)",
+    "cleaned": "X6"
+  },
+  {
+    "brand": "BMW",
+    "original": "X6 (F16)",
+    "cleaned": "X6"
+  },
+  {
+    "brand": "BMW",
+    "original": "X6 (G06)",
+    "cleaned": "X6"
+  },
+  {
+    "brand": "BMW",
+    "original": "X6 (G06)",
+    "cleaned": "X6"
+  },
+  {
+    "brand": "BMW",
+    "original": "X7 (G07)",
+    "cleaned": "X7"
+  },
+  {
+    "brand": "BMW",
+    "original": "X7 (G07)",
+    "cleaned": "X7"
+  },
+  {
+    "brand": "BMW",
+    "original": "XM (G09)",
+    "cleaned": "XM"
+  },
+  {
+    "brand": "BMW",
+    "original": "XM (G09)",
+    "cleaned": "XM"
+  },
+  {
+    "brand": "BMW",
+    "original": "Z1 (E30)",
+    "cleaned": "Z1"
+  },
+  {
+    "brand": "BMW",
+    "original": "Z4 (E85)",
+    "cleaned": "Z4"
+  },
+  {
+    "brand": "BMW",
+    "original": "Z4 (E89)",
+    "cleaned": "Z4"
+  },
+  {
+    "brand": "BMW",
+    "original": "Z4 (G29)",
+    "cleaned": "Z4"
+  },
+  {
+    "brand": "BMW",
+    "original": "Z4 (G29)",
+    "cleaned": "Z4"
+  },
+  {
+    "brand": "CHEVROLET",
+    "original": "Aveo (1)",
+    "cleaned": "Aveo"
+  },
+  {
+    "brand": "CHEVROLET",
+    "original": "Aveo (1)",
+    "cleaned": "Aveo"
+  },
+  {
+    "brand": "CHEVROLET",
+    "original": "Aveo (1)",
+    "cleaned": "Aveo"
+  },
+  {
+    "brand": "CHEVROLET",
+    "original": "Aveo (2)",
+    "cleaned": "Aveo"
+  },
+  {
+    "brand": "CHEVROLET",
+    "original": "Aveo (2)",
+    "cleaned": "Aveo"
+  },
+  {
+    "brand": "CHEVROLET",
+    "original": "Aveo (2)",
+    "cleaned": "Aveo"
+  },
+  {
+    "brand": "CHEVROLET",
+    "original": "Aveo (2)",
+    "cleaned": "Aveo"
+  },
+  {
+    "brand": "CHEVROLET",
+    "original": "Camaro (5)",
+    "cleaned": "Camaro"
+  },
+  {
+    "brand": "CHEVROLET",
+    "original": "Camaro (5)",
+    "cleaned": "Camaro"
+  },
+  {
+    "brand": "CHEVROLET",
+    "original": "Camaro (5)",
+    "cleaned": "Camaro"
+  },
+  {
+    "brand": "CHEVROLET",
+    "original": "Camaro (5)",
+    "cleaned": "Camaro"
+  },
+  {
+    "brand": "CHEVROLET",
+    "original": "Camaro (6)",
+    "cleaned": "Camaro"
+  },
+  {
+    "brand": "CHEVROLET",
+    "original": "Camaro (6)",
+    "cleaned": "Camaro"
+  },
+  {
+    "brand": "CHEVROLET",
+    "original": "Tracker (2)",
+    "cleaned": "Tracker"
+  },
+  {
+    "brand": "CHEVROLET",
+    "original": "Tracker (3)",
+    "cleaned": "Tracker"
+  },
+  {
+    "brand": "CHRYSLER",
+    "original": "Voyager (2)",
+    "cleaned": "Voyager"
+  },
+  {
+    "brand": "CHRYSLER",
+    "original": "Voyager (3)",
+    "cleaned": "Voyager"
+  },
+  {
+    "brand": "CHRYSLER",
+    "original": "Voyager (3)",
+    "cleaned": "Voyager"
+  },
+  {
+    "brand": "CHRYSLER",
+    "original": "Voyager / Grand Voyager (4)",
+    "cleaned": "Voyager / Grand Voyager"
+  },
+  {
+    "brand": "CHRYSLER",
+    "original": "Voyager / Grand Voyager (4)",
+    "cleaned": "Voyager / Grand Voyager"
+  },
+  {
+    "brand": "CHRYSLER",
+    "original": "Voyager / Grand Voyager (5)",
+    "cleaned": "Voyager / Grand Voyager"
+  },
+  {
+    "brand": "CITROËN",
+    "original": "Berlingo (2)",
+    "cleaned": "Berlingo"
+  },
+  {
+    "brand": "CITROËN",
+    "original": "Berlingo (2)",
+    "cleaned": "Berlingo"
+  },
+  {
+    "brand": "CITROËN",
+    "original": "Berlingo / ë-Berlingo (3)",
+    "cleaned": "Berlingo / ë-Berlingo"
+  },
+  {
+    "brand": "CITROËN",
+    "original": "Berlingo / ë-Berlingo (3)",
+    "cleaned": "Berlingo / ë-Berlingo"
+  },
+  {
+    "brand": "CUPRA",
+    "original": "Leon ST (Sportstourer)",
+    "cleaned": "Leon ST"
+  },
+  {
+    "brand": "CUPRA",
+    "original": "Leon ST (Sportstourer)",
+    "cleaned": "Leon ST"
+  },
+  {
+    "brand": "DACIA",
+    "original": "Duster (1)",
+    "cleaned": "Duster"
+  },
+  {
+    "brand": "DACIA",
+    "original": "Duster (1)",
+    "cleaned": "Duster"
+  },
+  {
+    "brand": "DACIA",
+    "original": "Duster (1)",
+    "cleaned": "Duster"
+  },
+  {
+    "brand": "DACIA",
+    "original": "Duster (1)",
+    "cleaned": "Duster"
+  },
+  {
+    "brand": "DACIA",
+    "original": "Duster (1)",
+    "cleaned": "Duster"
+  },
+  {
+    "brand": "DACIA",
+    "original": "Duster (2)",
+    "cleaned": "Duster"
+  },
+  {
+    "brand": "DACIA",
+    "original": "Duster (2)",
+    "cleaned": "Duster"
+  },
+  {
+    "brand": "DACIA",
+    "original": "Duster (2)",
+    "cleaned": "Duster"
+  },
+  {
+    "brand": "DACIA",
+    "original": "Duster (3)",
+    "cleaned": "Duster"
+  },
+  {
+    "brand": "DACIA",
+    "original": "Logan (1)",
+    "cleaned": "Logan"
+  },
+  {
+    "brand": "DACIA",
+    "original": "Logan (1) MCV",
+    "cleaned": "Logan MCV"
+  },
+  {
+    "brand": "DACIA",
+    "original": "Logan (2)",
+    "cleaned": "Logan"
+  },
+  {
+    "brand": "DACIA",
+    "original": "Logan (2)",
+    "cleaned": "Logan"
+  },
+  {
+    "brand": "DACIA",
+    "original": "Logan (2)",
+    "cleaned": "Logan"
+  },
+  {
+    "brand": "DACIA",
+    "original": "Logan (2) MCV",
+    "cleaned": "Logan MCV"
+  },
+  {
+    "brand": "DACIA",
+    "original": "Logan (2) MCV / Stepway",
+    "cleaned": "Logan MCV / Stepway"
+  },
+  {
+    "brand": "DACIA",
+    "original": "Logan (2) MCV / Stepway",
+    "cleaned": "Logan MCV / Stepway"
+  },
+  {
+    "brand": "DACIA",
+    "original": "Sandero (1) / Stepway",
+    "cleaned": "Sandero / Stepway"
+  },
+  {
+    "brand": "DACIA",
+    "original": "Sandero (2) / Stepway",
+    "cleaned": "Sandero / Stepway"
+  },
+  {
+    "brand": "DACIA",
+    "original": "Sandero (2) / Stepway",
+    "cleaned": "Sandero / Stepway"
+  },
+  {
+    "brand": "DACIA",
+    "original": "Sandero (2) / Stepway",
+    "cleaned": "Sandero / Stepway"
+  },
+  {
+    "brand": "DACIA",
+    "original": "Sandero (3) / Stepway",
+    "cleaned": "Sandero / Stepway"
+  },
+  {
+    "brand": "DACIA",
+    "original": "Sandero (3) / Stepway",
+    "cleaned": "Sandero / Stepway"
+  },
+  {
+    "brand": "DAEWOO",
+    "original": "Nubira (1) / (2)",
+    "cleaned": "Nubira /"
+  },
+  {
+    "brand": "DAEWOO",
+    "original": "Nubira (1) / (2)",
+    "cleaned": "Nubira /"
+  },
+  {
+    "brand": "DAEWOO",
+    "original": "Nubira (1) / (2)",
+    "cleaned": "Nubira /"
+  },
+  {
+    "brand": "DAEWOO",
+    "original": "Nubira (3)",
+    "cleaned": "Nubira"
+  },
+  {
+    "brand": "DAEWOO",
+    "original": "Nubira (3) SW",
+    "cleaned": "Nubira SW"
+  },
+  {
+    "brand": "DAIHATSU",
+    "original": "Cuore (L201)",
+    "cleaned": "Cuore"
+  },
+  {
+    "brand": "DAIHATSU",
+    "original": "Cuore (L201)",
+    "cleaned": "Cuore"
+  },
+  {
+    "brand": "DATSUN",
+    "original": "on-Do (BD0)",
+    "cleaned": "on-Do"
+  },
+  {
+    "brand": "DATSUN",
+    "original": "mi-Do (BD0)",
+    "cleaned": "mi-Do"
+  },
+  {
+    "brand": "DODGE",
+    "original": "Charger (2)",
+    "cleaned": "Charger"
+  },
+  {
+    "brand": "FIAT",
+    "original": "500 / Abarth (typ 312)",
+    "cleaned": "500 / Abarth"
+  },
+  {
+    "brand": "FIAT",
+    "original": "500 / Abarth (typ 312)",
+    "cleaned": "500 / Abarth"
+  },
+  {
+    "brand": "FIAT",
+    "original": "500 C (typ 312)",
+    "cleaned": "500 C"
+  },
+  {
+    "brand": "FIAT",
+    "original": "500 C (typ 312)",
+    "cleaned": "500 C"
+  },
+  {
+    "brand": "FIAT",
+    "original": "500e (Electric)",
+    "cleaned": "500e"
+  },
+  {
+    "brand": "FIAT",
+    "original": "500e (Electric)",
+    "cleaned": "500e"
+  },
+  {
+    "brand": "FIAT",
+    "original": "500e C (Electric)",
+    "cleaned": "500e C"
+  },
+  {
+    "brand": "FIAT",
+    "original": "500e C (Electric)",
+    "cleaned": "500e C"
+  },
+  {
+    "brand": "FIAT",
+    "original": "500 (3+1) / 500e 3+1",
+    "cleaned": "500 / 500e 3+1"
+  },
+  {
+    "brand": "FIAT",
+    "original": "500 X (typ 334)",
+    "cleaned": "500 X"
+  },
+  {
+    "brand": "FIAT",
+    "original": "500 X (typ 334)",
+    "cleaned": "500 X"
+  },
+  {
+    "brand": "FIAT",
+    "original": "600 / 600e (F364)",
+    "cleaned": "600 / 600e"
+  },
+  {
+    "brand": "FIAT",
+    "original": "600 / 600e (F364)",
+    "cleaned": "600 / 600e"
+  },
+  {
+    "brand": "FIAT",
+    "original": "AEgea / Egea (356)",
+    "cleaned": "AEgea / Egea"
+  },
+  {
+    "brand": "FIAT",
+    "original": "AEgea / Egea / Cross (357)",
+    "cleaned": "AEgea / Egea / Cross"
+  },
+  {
+    "brand": "FIAT",
+    "original": "AEgea / Egea / Cross (358)",
+    "cleaned": "AEgea / Egea / Cross"
+  },
+  {
+    "brand": "FIAT",
+    "original": "Croma (2)",
+    "cleaned": "Croma"
+  },
+  {
+    "brand": "FIAT",
+    "original": "Croma (2)",
+    "cleaned": "Croma"
+  },
+  {
+    "brand": "FIAT",
+    "original": "Doblo 1 (223)",
+    "cleaned": "Doblo 1"
+  },
+  {
+    "brand": "FIAT",
+    "original": "Doblo 2 (223)",
+    "cleaned": "Doblo 2"
+  },
+  {
+    "brand": "FIAT",
+    "original": "Doblo 3 / Doblo Cargo (263)",
+    "cleaned": "Doblo 3 / Doblo Cargo"
+  },
+  {
+    "brand": "FIAT",
+    "original": "Doblo 3 / Doblo Cargo (263)",
+    "cleaned": "Doblo 3 / Doblo Cargo"
+  },
+  {
+    "brand": "FIAT",
+    "original": "Punto (1)",
+    "cleaned": "Punto"
+  },
+  {
+    "brand": "FIAT",
+    "original": "Punto (2)",
+    "cleaned": "Punto"
+  },
+  {
+    "brand": "FIAT",
+    "original": "Punto (2) HGT",
+    "cleaned": "Punto HGT"
+  },
+  {
+    "brand": "FIAT",
+    "original": "Grande Punto (3)",
+    "cleaned": "Grande Punto"
+  },
+  {
+    "brand": "FIAT",
+    "original": "Grande Punto (3)",
+    "cleaned": "Grande Punto"
+  },
+  {
+    "brand": "FIAT",
+    "original": "Tipo (356)",
+    "cleaned": "Tipo"
+  },
+  {
+    "brand": "FIAT",
+    "original": "Tipo / Tipo Cross (357)",
+    "cleaned": "Tipo / Tipo Cross"
+  },
+  {
+    "brand": "FIAT",
+    "original": "Tipo / Tipo Cross (357)",
+    "cleaned": "Tipo / Tipo Cross"
+  },
+  {
+    "brand": "FIAT",
+    "original": "Tipo / Tipo Cross (358)",
+    "cleaned": "Tipo / Tipo Cross"
+  },
+  {
+    "brand": "FIAT",
+    "original": "Tipo / Tipo Cross (358)",
+    "cleaned": "Tipo / Tipo Cross"
+  },
+  {
+    "brand": "FORD",
+    "original": "Ecosport (1)",
+    "cleaned": "Ecosport"
+  },
+  {
+    "brand": "FORD",
+    "original": "Ecosport (1)",
+    "cleaned": "Ecosport"
+  },
+  {
+    "brand": "FORD",
+    "original": "Ecosport (2)",
+    "cleaned": "Ecosport"
+  },
+  {
+    "brand": "FORD",
+    "original": "Ecosport (2)",
+    "cleaned": "Ecosport"
+  },
+  {
+    "brand": "FORD",
+    "original": "Escort (3)",
+    "cleaned": "Escort"
+  },
+  {
+    "brand": "FORD",
+    "original": "Escort (3)",
+    "cleaned": "Escort"
+  },
+  {
+    "brand": "FORD",
+    "original": "Escort (3) / (4) Van",
+    "cleaned": "Escort / Van"
+  },
+  {
+    "brand": "FORD",
+    "original": "Escort (4)",
+    "cleaned": "Escort"
+  },
+  {
+    "brand": "FORD",
+    "original": "Escort (4) Clipper",
+    "cleaned": "Escort Clipper"
+  },
+  {
+    "brand": "FORD",
+    "original": "Escort (4)",
+    "cleaned": "Escort"
+  },
+  {
+    "brand": "FORD",
+    "original": "Escort (5)",
+    "cleaned": "Escort"
+  },
+  {
+    "brand": "FORD",
+    "original": "Escort (5) Clipper",
+    "cleaned": "Escort Clipper"
+  },
+  {
+    "brand": "FORD",
+    "original": "Escort (5)",
+    "cleaned": "Escort"
+  },
+  {
+    "brand": "FORD",
+    "original": "Escort (5) Van",
+    "cleaned": "Escort Van"
+  },
+  {
+    "brand": "FORD",
+    "original": "Everest (U375)",
+    "cleaned": "Everest"
+  },
+  {
+    "brand": "FORD",
+    "original": "Explorer (U502)",
+    "cleaned": "Explorer"
+  },
+  {
+    "brand": "FORD",
+    "original": "Explorer (U625)",
+    "cleaned": "Explorer"
+  },
+  {
+    "brand": "FORD",
+    "original": "Explorer (electric)",
+    "cleaned": "Explorer"
+  },
+  {
+    "brand": "FORD",
+    "original": "Explorer (electric)",
+    "cleaned": "Explorer"
+  },
+  {
+    "brand": "FORD",
+    "original": "Fiesta (3)",
+    "cleaned": "Fiesta"
+  },
+  {
+    "brand": "FORD",
+    "original": "Fiesta (3) / (4) Van",
+    "cleaned": "Fiesta / Van"
+  },
+  {
+    "brand": "FORD",
+    "original": "Fiesta (4)",
+    "cleaned": "Fiesta"
+  },
+  {
+    "brand": "FORD",
+    "original": "Fiesta (4)",
+    "cleaned": "Fiesta"
+  },
+  {
+    "brand": "FORD",
+    "original": "Fiesta (4) Van",
+    "cleaned": "Fiesta Van"
+  },
+  {
+    "brand": "FORD",
+    "original": "Fiesta (5)",
+    "cleaned": "Fiesta"
+  },
+  {
+    "brand": "FORD",
+    "original": "Fiesta (6)",
+    "cleaned": "Fiesta"
+  },
+  {
+    "brand": "FORD",
+    "original": "Fiesta (6)",
+    "cleaned": "Fiesta"
+  },
+  {
+    "brand": "FORD",
+    "original": "Fiesta (6)",
+    "cleaned": "Fiesta"
+  },
+  {
+    "brand": "FORD",
+    "original": "Fiesta (6)",
+    "cleaned": "Fiesta"
+  },
+  {
+    "brand": "FORD",
+    "original": "Fiesta (7) / Fiesta Active",
+    "cleaned": "Fiesta / Fiesta Active"
+  },
+  {
+    "brand": "FORD",
+    "original": "Fiesta (7) / Fiesta Active",
+    "cleaned": "Fiesta / Fiesta Active"
+  },
+  {
+    "brand": "FORD",
+    "original": "Focus (1)",
+    "cleaned": "Focus"
+  },
+  {
+    "brand": "FORD",
+    "original": "Focus (1)",
+    "cleaned": "Focus"
+  },
+  {
+    "brand": "FORD",
+    "original": "Focus (1)",
+    "cleaned": "Focus"
+  },
+  {
+    "brand": "FORD",
+    "original": "Focus (2)",
+    "cleaned": "Focus"
+  },
+  {
+    "brand": "FORD",
+    "original": "Focus (2)",
+    "cleaned": "Focus"
+  },
+  {
+    "brand": "FORD",
+    "original": "Focus (2)",
+    "cleaned": "Focus"
+  },
+  {
+    "brand": "FORD",
+    "original": "Focus (2)",
+    "cleaned": "Focus"
+  },
+  {
+    "brand": "FORD",
+    "original": "Focus (2)",
+    "cleaned": "Focus"
+  },
+  {
+    "brand": "FORD",
+    "original": "Focus (2)",
+    "cleaned": "Focus"
+  },
+  {
+    "brand": "FORD",
+    "original": "Focus (2)",
+    "cleaned": "Focus"
+  },
+  {
+    "brand": "FORD",
+    "original": "Focus (2)",
+    "cleaned": "Focus"
+  },
+  {
+    "brand": "FORD",
+    "original": "Focus (2)",
+    "cleaned": "Focus"
+  },
+  {
+    "brand": "FORD",
+    "original": "Focus (2)",
+    "cleaned": "Focus"
+  },
+  {
+    "brand": "FORD",
+    "original": "Focus (2)",
+    "cleaned": "Focus"
+  },
+  {
+    "brand": "FORD",
+    "original": "Focus (2)",
+    "cleaned": "Focus"
+  },
+  {
+    "brand": "FORD",
+    "original": "Focus (2)",
+    "cleaned": "Focus"
+  },
+  {
+    "brand": "FORD",
+    "original": "Focus (2)",
+    "cleaned": "Focus"
+  },
+  {
+    "brand": "FORD",
+    "original": "Focus (3)",
+    "cleaned": "Focus"
+  },
+  {
+    "brand": "FORD",
+    "original": "Focus (3)",
+    "cleaned": "Focus"
+  },
+  {
+    "brand": "FORD",
+    "original": "Focus (4) / Focus Active",
+    "cleaned": "Focus / Focus Active"
+  },
+  {
+    "brand": "FORD",
+    "original": "Focus (4) / Focus Active",
+    "cleaned": "Focus / Focus Active"
+  },
+  {
+    "brand": "FORD",
+    "original": "Focus (4) / Focus Active",
+    "cleaned": "Focus / Focus Active"
+  },
+  {
+    "brand": "FORD",
+    "original": "Focus (4) / Focus Active",
+    "cleaned": "Focus / Focus Active"
+  },
+  {
+    "brand": "FORD",
+    "original": "Focus C-Max / C-Max (DM2)",
+    "cleaned": "Focus C-Max / C-Max"
+  },
+  {
+    "brand": "FORD",
+    "original": "Focus C-Max / C-Max (DM2)",
+    "cleaned": "Focus C-Max / C-Max"
+  },
+  {
+    "brand": "FORD",
+    "original": "Galaxy (1)",
+    "cleaned": "Galaxy"
+  },
+  {
+    "brand": "FORD",
+    "original": "Galaxy (1)",
+    "cleaned": "Galaxy"
+  },
+  {
+    "brand": "FORD",
+    "original": "Galaxy (1)",
+    "cleaned": "Galaxy"
+  },
+  {
+    "brand": "FORD",
+    "original": "Galaxy (2)",
+    "cleaned": "Galaxy"
+  },
+  {
+    "brand": "FORD",
+    "original": "Galaxy (2)",
+    "cleaned": "Galaxy"
+  },
+  {
+    "brand": "FORD",
+    "original": "Galaxy (2)",
+    "cleaned": "Galaxy"
+  },
+  {
+    "brand": "FORD",
+    "original": "Galaxy (2)",
+    "cleaned": "Galaxy"
+  },
+  {
+    "brand": "FORD",
+    "original": "Galaxy (3)",
+    "cleaned": "Galaxy"
+  },
+  {
+    "brand": "FORD",
+    "original": "Galaxy (3)",
+    "cleaned": "Galaxy"
+  },
+  {
+    "brand": "FORD",
+    "original": "Galaxy (3)",
+    "cleaned": "Galaxy"
+  },
+  {
+    "brand": "FORD",
+    "original": "Galaxy (3)",
+    "cleaned": "Galaxy"
+  },
+  {
+    "brand": "FORD",
+    "original": "Kuga (1)",
+    "cleaned": "Kuga"
+  },
+  {
+    "brand": "FORD",
+    "original": "Kuga (1)",
+    "cleaned": "Kuga"
+  },
+  {
+    "brand": "FORD",
+    "original": "Kuga (2)",
+    "cleaned": "Kuga"
+  },
+  {
+    "brand": "FORD",
+    "original": "Kuga (2)",
+    "cleaned": "Kuga"
+  },
+  {
+    "brand": "FORD",
+    "original": "Kuga (3)",
+    "cleaned": "Kuga"
+  },
+  {
+    "brand": "FORD",
+    "original": "Kuga (3)",
+    "cleaned": "Kuga"
+  },
+  {
+    "brand": "FORD",
+    "original": "Mondeo (1)",
+    "cleaned": "Mondeo"
+  },
+  {
+    "brand": "FORD",
+    "original": "Mondeo (1)",
+    "cleaned": "Mondeo"
+  },
+  {
+    "brand": "FORD",
+    "original": "Mondeo (1)",
+    "cleaned": "Mondeo"
+  },
+  {
+    "brand": "FORD",
+    "original": "Mondeo (1) Clipper",
+    "cleaned": "Mondeo Clipper"
+  },
+  {
+    "brand": "FORD",
+    "original": "Mondeo (1) Clipper",
+    "cleaned": "Mondeo Clipper"
+  },
+  {
+    "brand": "FORD",
+    "original": "Mondeo (2)",
+    "cleaned": "Mondeo"
+  },
+  {
+    "brand": "FORD",
+    "original": "Mondeo (2)",
+    "cleaned": "Mondeo"
+  },
+  {
+    "brand": "FORD",
+    "original": "Mondeo (2) Clipper",
+    "cleaned": "Mondeo Clipper"
+  },
+  {
+    "brand": "FORD",
+    "original": "Mondeo (3)",
+    "cleaned": "Mondeo"
+  },
+  {
+    "brand": "FORD",
+    "original": "Mondeo (3)",
+    "cleaned": "Mondeo"
+  },
+  {
+    "brand": "FORD",
+    "original": "Mondeo (3)",
+    "cleaned": "Mondeo"
+  },
+  {
+    "brand": "FORD",
+    "original": "Mondeo (3)",
+    "cleaned": "Mondeo"
+  },
+  {
+    "brand": "FORD",
+    "original": "Mondeo (3) SW",
+    "cleaned": "Mondeo SW"
+  },
+  {
+    "brand": "FORD",
+    "original": "Mondeo (3) SW",
+    "cleaned": "Mondeo SW"
+  },
+  {
+    "brand": "FORD",
+    "original": "Mondeo (4)",
+    "cleaned": "Mondeo"
+  },
+  {
+    "brand": "FORD",
+    "original": "Mondeo (4) SW",
+    "cleaned": "Mondeo SW"
+  },
+  {
+    "brand": "FORD",
+    "original": "Mustang (5)",
+    "cleaned": "Mustang"
+  },
+  {
+    "brand": "FORD",
+    "original": "Mustang (6)",
+    "cleaned": "Mustang"
+  },
+  {
+    "brand": "FORD",
+    "original": "Mustang (6)",
+    "cleaned": "Mustang"
+  },
+  {
+    "brand": "FORD",
+    "original": "Orion (1)",
+    "cleaned": "Orion"
+  },
+  {
+    "brand": "FORD",
+    "original": "Orion (2)",
+    "cleaned": "Orion"
+  },
+  {
+    "brand": "FORD",
+    "original": "Ranger (1) / Wildtrak",
+    "cleaned": "Ranger / Wildtrak"
+  },
+  {
+    "brand": "FORD",
+    "original": "Ranger (1) / Wildtrak",
+    "cleaned": "Ranger / Wildtrak"
+  },
+  {
+    "brand": "FORD",
+    "original": "Ranger (1) / Wildtrak",
+    "cleaned": "Ranger / Wildtrak"
+  },
+  {
+    "brand": "FORD",
+    "original": "Ranger (2) / Wildtrak / Raptor",
+    "cleaned": "Ranger / Wildtrak / Raptor"
+  },
+  {
+    "brand": "FORD",
+    "original": "Ranger (2) / Wildtrak / Raptor",
+    "cleaned": "Ranger / Wildtrak / Raptor"
+  },
+  {
+    "brand": "FORD",
+    "original": "S-Max (1)",
+    "cleaned": "S-Max"
+  },
+  {
+    "brand": "FORD",
+    "original": "S-Max (1)",
+    "cleaned": "S-Max"
+  },
+  {
+    "brand": "FORD",
+    "original": "S-Max (1)",
+    "cleaned": "S-Max"
+  },
+  {
+    "brand": "FORD",
+    "original": "S-Max (1)",
+    "cleaned": "S-Max"
+  },
+  {
+    "brand": "FORD",
+    "original": "S-Max (2)",
+    "cleaned": "S-Max"
+  },
+  {
+    "brand": "FORD",
+    "original": "S-Max (2)",
+    "cleaned": "S-Max"
+  },
+  {
+    "brand": "FORD",
+    "original": "S-Max (2)",
+    "cleaned": "S-Max"
+  },
+  {
+    "brand": "FORD",
+    "original": "S-Max (2)",
+    "cleaned": "S-Max"
+  },
+  {
+    "brand": "FORD",
+    "original": "Transit (2)",
+    "cleaned": "Transit"
+  },
+  {
+    "brand": "FORD",
+    "original": "Transit (3) / (4) / (5)",
+    "cleaned": "Transit / /"
+  },
+  {
+    "brand": "FORD",
+    "original": "Transit (Fourgon 2T) / E-Transit",
+    "cleaned": "Transit / E-Transit"
+  },
+  {
+    "brand": "FORD",
+    "original": "Transit (Fourgon 2T) / E-Transit",
+    "cleaned": "Transit / E-Transit"
+  },
+  {
+    "brand": "GAZ",
+    "original": "Volga (all Models)",
+    "cleaned": "Volga"
+  },
+  {
+    "brand": "HONDA",
+    "original": "Insight (1)",
+    "cleaned": "Insight"
+  },
+  {
+    "brand": "HONDA",
+    "original": "Insight (2)",
+    "cleaned": "Insight"
+  },
+  {
+    "brand": "HYUNDAI",
+    "original": "Kona (1)",
+    "cleaned": "Kona"
+  },
+  {
+    "brand": "HYUNDAI",
+    "original": "Kona (1)",
+    "cleaned": "Kona"
+  },
+  {
+    "brand": "HYUNDAI",
+    "original": "Kona (2)",
+    "cleaned": "Kona"
+  },
+  {
+    "brand": "HYUNDAI",
+    "original": "Kona (2)",
+    "cleaned": "Kona"
+  },
+  {
+    "brand": "HYUNDAI",
+    "original": "Lantra (1)",
+    "cleaned": "Lantra"
+  },
+  {
+    "brand": "HYUNDAI",
+    "original": "Lantra (2)",
+    "cleaned": "Lantra"
+  },
+  {
+    "brand": "HYUNDAI",
+    "original": "Lantra (2)",
+    "cleaned": "Lantra"
+  },
+  {
+    "brand": "HYUNDAI",
+    "original": "Santa Fe (1)",
+    "cleaned": "Santa Fe"
+  },
+  {
+    "brand": "HYUNDAI",
+    "original": "Santa Fe (2)",
+    "cleaned": "Santa Fe"
+  },
+  {
+    "brand": "HYUNDAI",
+    "original": "Santa Fe (3)",
+    "cleaned": "Santa Fe"
+  },
+  {
+    "brand": "HYUNDAI",
+    "original": "Santa Fe (3)",
+    "cleaned": "Santa Fe"
+  },
+  {
+    "brand": "HYUNDAI",
+    "original": "Grand Santa Fe (3)",
+    "cleaned": "Grand Santa Fe"
+  },
+  {
+    "brand": "HYUNDAI",
+    "original": "Grand Santa Fe (3)",
+    "cleaned": "Grand Santa Fe"
+  },
+  {
+    "brand": "HYUNDAI",
+    "original": "Santa Fe (4)",
+    "cleaned": "Santa Fe"
+  },
+  {
+    "brand": "HYUNDAI",
+    "original": "Santa Fe (4)",
+    "cleaned": "Santa Fe"
+  },
+  {
+    "brand": "HYUNDAI",
+    "original": "Santa Fe (4) Hybrid",
+    "cleaned": "Santa Fe Hybrid"
+  },
+  {
+    "brand": "HYUNDAI",
+    "original": "Santa Fe (4) Hybrid",
+    "cleaned": "Santa Fe Hybrid"
+  },
+  {
+    "brand": "HYUNDAI",
+    "original": "Santa Fe (5)",
+    "cleaned": "Santa Fe"
+  },
+  {
+    "brand": "HYUNDAI",
+    "original": "Santa Fe (5)",
+    "cleaned": "Santa Fe"
+  },
+  {
+    "brand": "HYUNDAI",
+    "original": "Solaris (1)",
+    "cleaned": "Solaris"
+  },
+  {
+    "brand": "HYUNDAI",
+    "original": "Solaris (1)",
+    "cleaned": "Solaris"
+  },
+  {
+    "brand": "HYUNDAI",
+    "original": "Solaris (2)",
+    "cleaned": "Solaris"
+  },
+  {
+    "brand": "HYUNDAI",
+    "original": "Sonata (1)",
+    "cleaned": "Sonata"
+  },
+  {
+    "brand": "HYUNDAI",
+    "original": "Sonata (2)",
+    "cleaned": "Sonata"
+  },
+  {
+    "brand": "HYUNDAI",
+    "original": "Sonata (3)",
+    "cleaned": "Sonata"
+  },
+  {
+    "brand": "HYUNDAI",
+    "original": "Sonata (4)",
+    "cleaned": "Sonata"
+  },
+  {
+    "brand": "HYUNDAI",
+    "original": "Tucson (Typ JM)",
+    "cleaned": "Tucson"
+  },
+  {
+    "brand": "HYUNDAI",
+    "original": "Tucson (Typ TLE)",
+    "cleaned": "Tucson"
+  },
+  {
+    "brand": "HYUNDAI",
+    "original": "Tucson (Typ TLE)",
+    "cleaned": "Tucson"
+  },
+  {
+    "brand": "HYUNDAI",
+    "original": "Tucson (Typ NX4E)",
+    "cleaned": "Tucson"
+  },
+  {
+    "brand": "HYUNDAI",
+    "original": "Tucson (Typ NX4E)",
+    "cleaned": "Tucson"
+  },
+  {
+    "brand": "JEEP",
+    "original": "Cherokee (XJ)",
+    "cleaned": "Cherokee"
+  },
+  {
+    "brand": "JEEP",
+    "original": "Cherokee (KJ)",
+    "cleaned": "Cherokee"
+  },
+  {
+    "brand": "JEEP",
+    "original": "Cherokee (KK)",
+    "cleaned": "Cherokee"
+  },
+  {
+    "brand": "JEEP",
+    "original": "Cherokee (KL)",
+    "cleaned": "Cherokee"
+  },
+  {
+    "brand": "JEEP",
+    "original": "Cherokee (KL)",
+    "cleaned": "Cherokee"
+  },
+  {
+    "brand": "JEEP",
+    "original": "Wrangler (JK) / Unlimited",
+    "cleaned": "Wrangler / Unlimited"
+  },
+  {
+    "brand": "JEEP",
+    "original": "Wrangler (JL) / Wrangler 4xe",
+    "cleaned": "Wrangler / Wrangler 4xe"
+  },
+  {
+    "brand": "JEEP",
+    "original": "Wrangler (JL)",
+    "cleaned": "Wrangler"
+  },
+  {
+    "brand": "KIA",
+    "original": "Niro (1)",
+    "cleaned": "Niro"
+  },
+  {
+    "brand": "KIA",
+    "original": "Niro (1)",
+    "cleaned": "Niro"
+  },
+  {
+    "brand": "KIA",
+    "original": "Niro / Niro EV (2)",
+    "cleaned": "Niro / Niro EV"
+  },
+  {
+    "brand": "KIA",
+    "original": "Niro / Niro EV (2)",
+    "cleaned": "Niro / Niro EV"
+  },
+  {
+    "brand": "KIA",
+    "original": "Picanto (1)",
+    "cleaned": "Picanto"
+  },
+  {
+    "brand": "KIA",
+    "original": "Picanto (2)",
+    "cleaned": "Picanto"
+  },
+  {
+    "brand": "KIA",
+    "original": "Picanto (3) ph1 / Ph2 2024>",
+    "cleaned": "Picanto ph1 / Ph2 2024>"
+  },
+  {
+    "brand": "KIA",
+    "original": "Sorento (1) (typ JC)",
+    "cleaned": "Sorento"
+  },
+  {
+    "brand": "KIA",
+    "original": "Sorento (2) (typ XM)",
+    "cleaned": "Sorento"
+  },
+  {
+    "brand": "KIA",
+    "original": "Sorento (2) (typ XM)",
+    "cleaned": "Sorento"
+  },
+  {
+    "brand": "KIA",
+    "original": "Sorento (3) (typ UM)",
+    "cleaned": "Sorento"
+  },
+  {
+    "brand": "KIA",
+    "original": "Sorento (3) (typ UM)",
+    "cleaned": "Sorento"
+  },
+  {
+    "brand": "KIA",
+    "original": "Sorento (4)",
+    "cleaned": "Sorento"
+  },
+  {
+    "brand": "KIA",
+    "original": "Sorento (4)",
+    "cleaned": "Sorento"
+  },
+  {
+    "brand": "KIA",
+    "original": "Sportage (1)",
+    "cleaned": "Sportage"
+  },
+  {
+    "brand": "KIA",
+    "original": "Sportage (2)",
+    "cleaned": "Sportage"
+  },
+  {
+    "brand": "KIA",
+    "original": "Sportage (3)",
+    "cleaned": "Sportage"
+  },
+  {
+    "brand": "KIA",
+    "original": "Sportage (4)",
+    "cleaned": "Sportage"
+  },
+  {
+    "brand": "KIA",
+    "original": "Sportage (4)",
+    "cleaned": "Sportage"
+  },
+  {
+    "brand": "KIA",
+    "original": "Sportage (5)",
+    "cleaned": "Sportage"
+  },
+  {
+    "brand": "KIA",
+    "original": "Sportage (5)",
+    "cleaned": "Sportage"
+  },
+  {
+    "brand": "LADA",
+    "original": "Largus (R90)",
+    "cleaned": "Largus"
+  },
+  {
+    "brand": "LANCIA",
+    "original": "Y (Ipsilon)",
+    "cleaned": "Y"
+  },
+  {
+    "brand": "LAND ROVER",
+    "original": "Defender 90 / 110 (LE)",
+    "cleaned": "Defender 90 / 110"
+  },
+  {
+    "brand": "LAND ROVER",
+    "original": "Defender 90 / 110 (LE)",
+    "cleaned": "Defender 90 / 110"
+  },
+  {
+    "brand": "LAND ROVER",
+    "original": "Defender 90 / 110 / 130 (LE)",
+    "cleaned": "Defender 90 / 110 / 130"
+  },
+  {
+    "brand": "LAND ROVER",
+    "original": "Defender 90 / 110 / 130 (LE)",
+    "cleaned": "Defender 90 / 110 / 130"
+  },
+  {
+    "brand": "LAND ROVER",
+    "original": "Discovery (1)",
+    "cleaned": "Discovery"
+  },
+  {
+    "brand": "LAND ROVER",
+    "original": "Discovery (2)",
+    "cleaned": "Discovery"
+  },
+  {
+    "brand": "LAND ROVER",
+    "original": "Discovery (3) / (4)",
+    "cleaned": "Discovery /"
+  },
+  {
+    "brand": "LAND ROVER",
+    "original": "Discovery (5) / SV",
+    "cleaned": "Discovery / SV"
+  },
+  {
+    "brand": "LAND ROVER",
+    "original": "Discovery (5) / SV",
+    "cleaned": "Discovery / SV"
+  },
+  {
+    "brand": "LAND ROVER",
+    "original": "Freelander (1)",
+    "cleaned": "Freelander"
+  },
+  {
+    "brand": "LAND ROVER",
+    "original": "Freelander (2)",
+    "cleaned": "Freelander"
+  },
+  {
+    "brand": "LAND ROVER",
+    "original": "Freelander (2)",
+    "cleaned": "Freelander"
+  },
+  {
+    "brand": "LAND ROVER",
+    "original": "Range Rover Evoque (1) (L538)",
+    "cleaned": "Range Rover Evoque"
+  },
+  {
+    "brand": "LAND ROVER",
+    "original": "Range Rover Evoque (1) (L538)",
+    "cleaned": "Range Rover Evoque"
+  },
+  {
+    "brand": "LAND ROVER",
+    "original": "Range Rover Evoque (1)",
+    "cleaned": "Range Rover Evoque"
+  },
+  {
+    "brand": "LAND ROVER",
+    "original": "Range Rover Evoque (1)",
+    "cleaned": "Range Rover Evoque"
+  },
+  {
+    "brand": "LAND ROVER",
+    "original": "Range Rover Evoque (2) (L551)",
+    "cleaned": "Range Rover Evoque"
+  },
+  {
+    "brand": "LAND ROVER",
+    "original": "Range Rover Evoque (2) (L551)",
+    "cleaned": "Range Rover Evoque"
+  },
+  {
+    "brand": "LAND ROVER",
+    "original": "Range Rover Sport (1)",
+    "cleaned": "Range Rover Sport"
+  },
+  {
+    "brand": "LAND ROVER",
+    "original": "Range Rover Sport (2)",
+    "cleaned": "Range Rover Sport"
+  },
+  {
+    "brand": "LAND ROVER",
+    "original": "Range Rover Sport (2)",
+    "cleaned": "Range Rover Sport"
+  },
+  {
+    "brand": "LAND ROVER",
+    "original": "Range Rover Sport (2)",
+    "cleaned": "Range Rover Sport"
+  },
+  {
+    "brand": "LAND ROVER",
+    "original": "Range Rover Sport (2)",
+    "cleaned": "Range Rover Sport"
+  },
+  {
+    "brand": "LEXUS",
+    "original": "ES 300h (200/.../350)",
+    "cleaned": "ES 300h"
+  },
+  {
+    "brand": "LEXUS",
+    "original": "ES 300h (200/.../350)",
+    "cleaned": "ES 300h"
+  },
+  {
+    "brand": "LEXUS",
+    "original": "IS 200 (Altezza)",
+    "cleaned": "IS 200"
+  },
+  {
+    "brand": "LEXUS",
+    "original": "LS 500h (F5)",
+    "cleaned": "LS 500h"
+  },
+  {
+    "brand": "LEXUS",
+    "original": "LS 500h (F5)",
+    "cleaned": "LS 500h"
+  },
+  {
+    "brand": "MAZDA",
+    "original": " 626",
+    "cleaned": "626"
+  },
+  {
+    "brand": "MAZDA",
+    "original": " 626",
+    "cleaned": "626"
+  },
+  {
+    "brand": "MAZDA",
+    "original": " 626",
+    "cleaned": "626"
+  },
+  {
+    "brand": "MAZDA",
+    "original": " 626",
+    "cleaned": "626"
+  },
+  {
+    "brand": "MAZDA",
+    "original": " 626",
+    "cleaned": "626"
+  },
+  {
+    "brand": "MAZDA",
+    "original": " 626",
+    "cleaned": "626"
+  },
+  {
+    "brand": "MAZDA",
+    "original": " 626",
+    "cleaned": "626"
+  },
+  {
+    "brand": "MAZDA",
+    "original": " 626",
+    "cleaned": "626"
+  },
+  {
+    "brand": "MAZDA",
+    "original": " 929",
+    "cleaned": "929"
+  },
+  {
+    "brand": "MAZDA",
+    "original": " 929",
+    "cleaned": "929"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "190 E/ D (W201)",
+    "cleaned": "190 E/ D"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "200/ 300 E/ D (123)",
+    "cleaned": "200/ 300 E/ D"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "200/ 300 C/ CE (123)",
+    "cleaned": "200/ 300 C/ CE"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "200/ 300 TE/ TD (T123)",
+    "cleaned": "200/ 300 TE/ TD"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "A-Class (W168)",
+    "cleaned": "A-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "A-Class (W168)",
+    "cleaned": "A-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "A-Class (W169)",
+    "cleaned": "A-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "A-Class (W169)",
+    "cleaned": "A-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "A-Class (W176)",
+    "cleaned": "A-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "A-Class (W176)",
+    "cleaned": "A-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "A-Class (W176)",
+    "cleaned": "A-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "A-Class (W176)",
+    "cleaned": "A-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "A-Class (W177)",
+    "cleaned": "A-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "A-Class (W177)",
+    "cleaned": "A-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "A-Class (W177)",
+    "cleaned": "A-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "A-Class (W177)",
+    "cleaned": "A-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "B-Class (W245)",
+    "cleaned": "B-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "B-Class (W245)",
+    "cleaned": "B-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "B-Class (W246)",
+    "cleaned": "B-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "B-Class (W246)",
+    "cleaned": "B-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "B-Class (W246)",
+    "cleaned": "B-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "B-Class (W246)",
+    "cleaned": "B-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "B-Class (W247)",
+    "cleaned": "B-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "B-Class (W247)",
+    "cleaned": "B-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "B-Class (W247)",
+    "cleaned": "B-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "B-Class (W247)",
+    "cleaned": "B-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "C-Class E/ D (W202)",
+    "cleaned": "C-Class E/ D"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "C-Class (W203)",
+    "cleaned": "C-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "C-Class (W203)",
+    "cleaned": "C-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "C-Class (W204)",
+    "cleaned": "C-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "C-Class (W204)",
+    "cleaned": "C-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "C-Class (W204)",
+    "cleaned": "C-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "C-Class (W204)",
+    "cleaned": "C-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "C-Class (W204)",
+    "cleaned": "C-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "C-Class (W204)",
+    "cleaned": "C-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "C-Class (W204)",
+    "cleaned": "C-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "C-Class (W204)",
+    "cleaned": "C-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "C-Class Coupé (204)",
+    "cleaned": "C-Class Coupé"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "C-Class Coupé (204)",
+    "cleaned": "C-Class Coupé"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "C-Class (W204)",
+    "cleaned": "C-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "C-Class (W204)",
+    "cleaned": "C-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "C-Class (W204)",
+    "cleaned": "C-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "C-Class (W204)",
+    "cleaned": "C-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "C-Class Coupé (204)",
+    "cleaned": "C-Class Coupé"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "C-Class Coupé (204)",
+    "cleaned": "C-Class Coupé"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "C-Class (W205)",
+    "cleaned": "C-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "C-Class (W205)",
+    "cleaned": "C-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "C-Class (W205)",
+    "cleaned": "C-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "C-Class (W205)",
+    "cleaned": "C-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "C-Class (W205)",
+    "cleaned": "C-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "C-Class (W205)",
+    "cleaned": "C-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "C-Class (W206)",
+    "cleaned": "C-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "C-Class (W206)",
+    "cleaned": "C-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "Citan (W415) / Combi",
+    "cleaned": "Citan / Combi"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "Citan (W415) / Combi",
+    "cleaned": "Citan / Combi"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "Citan (W415) / Combi",
+    "cleaned": "Citan / Combi"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "Citan (W415) / Combi",
+    "cleaned": "Citan / Combi"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "Citan (W415) / Combi",
+    "cleaned": "Citan / Combi"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "Citan (W415) / Combi",
+    "cleaned": "Citan / Combi"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "Citan (W420) / Citan Van",
+    "cleaned": "Citan / Citan Van"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "Citan (W420) / Citan Van",
+    "cleaned": "Citan / Citan Van"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "Citan (W420) / Citan Van",
+    "cleaned": "Citan / Citan Van"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "Citan (W420) / Citan Van",
+    "cleaned": "Citan / Citan Van"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "CLA-Class (117)",
+    "cleaned": "CLA-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "CLA-Class (117)",
+    "cleaned": "CLA-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "CLA-Class Shooting Brake (X117)",
+    "cleaned": "CLA-Class Shooting Brake"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "CLA-Class Shooting Brake (X117)",
+    "cleaned": "CLA-Class Shooting Brake"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "CLA-Class Shooting Brake (X117)",
+    "cleaned": "CLA-Class Shooting Brake"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "CLA-Class Shooting Brake (X117)",
+    "cleaned": "CLA-Class Shooting Brake"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "CLA-Class Shooting Brake (X118)",
+    "cleaned": "CLA-Class Shooting Brake"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "CLA-Class Shooting Brake (X118)",
+    "cleaned": "CLA-Class Shooting Brake"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "CLA-Class Shooting Brake (X118)",
+    "cleaned": "CLA-Class Shooting Brake"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "CLA-Class Shooting Brake (X118)",
+    "cleaned": "CLA-Class Shooting Brake"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "CL-Class 500/ 600 (C215)",
+    "cleaned": "CL-Class 500/ 600"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "CL-Class 500/ 600 (C215)",
+    "cleaned": "CL-Class 500/ 600"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "CL-Class (C216)",
+    "cleaned": "CL-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "CL-Class (C216)",
+    "cleaned": "CL-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "CLS-Class (C219)",
+    "cleaned": "CLS-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "CLS-Class (C219)",
+    "cleaned": "CLS-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "CLS-Class (C218)",
+    "cleaned": "CLS-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "CLS-Class (C218)",
+    "cleaned": "CLS-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "CLS-Class (C218)",
+    "cleaned": "CLS-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "CLS-Class (C218)",
+    "cleaned": "CLS-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "CLS-Class Shooting Brake (X218)",
+    "cleaned": "CLS-Class Shooting Brake"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "CLS-Class Shooting Brake (X218)",
+    "cleaned": "CLS-Class Shooting Brake"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "CLS-Class Shooting Brake (X218)",
+    "cleaned": "CLS-Class Shooting Brake"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "CLS-Class Shooting Brake (X218)",
+    "cleaned": "CLS-Class Shooting Brake"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "E-Class TE/ TD (S124)",
+    "cleaned": "E-Class TE/ TD"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "E-Class TE/ TD (S210)",
+    "cleaned": "E-Class TE/ TD"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "E-Class (W211)",
+    "cleaned": "E-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "E-Class (W211)",
+    "cleaned": "E-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "E-Class (W211)",
+    "cleaned": "E-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "E-Class (W211)",
+    "cleaned": "E-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "E-Class (W212)",
+    "cleaned": "E-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "E-Class (W212)",
+    "cleaned": "E-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "E-Class (W212)",
+    "cleaned": "E-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "E-Class (W212)",
+    "cleaned": "E-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "E-Class (W212)",
+    "cleaned": "E-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "E-Class (W212)",
+    "cleaned": "E-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "E-Class (W212)",
+    "cleaned": "E-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "E-Class (W212)",
+    "cleaned": "E-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "E-Class (C207)",
+    "cleaned": "E-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "E-Class (C207)",
+    "cleaned": "E-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "E-Class (C207)",
+    "cleaned": "E-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "E-Class (C207)",
+    "cleaned": "E-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "E-Class (W213)",
+    "cleaned": "E-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "E-Class (W213)",
+    "cleaned": "E-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "E-Class (W213)",
+    "cleaned": "E-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "E-Class (W213)",
+    "cleaned": "E-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "E-Class (W213)",
+    "cleaned": "E-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "E-Class (W213)",
+    "cleaned": "E-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "E-Class  All-Terrain (W213)",
+    "cleaned": "E-Class All-Terrain"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "E-Class  All-Terrain (W213)",
+    "cleaned": "E-Class All-Terrain"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "E-Class  All-Terrain (W213)",
+    "cleaned": "E-Class All-Terrain"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "E-Class  All-Terrain (W213)",
+    "cleaned": "E-Class All-Terrain"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "E-Class  All-Terrain (W213)",
+    "cleaned": "E-Class All-Terrain"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "E-Class  All-Terrain (W213)",
+    "cleaned": "E-Class All-Terrain"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "E-Class / All-Terrain (W214)",
+    "cleaned": "E-Class / All-Terrain"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "E-Class / All-Terrain (W214)",
+    "cleaned": "E-Class / All-Terrain"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "EQA (H243)",
+    "cleaned": "EQA"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "EQA (H243)",
+    "cleaned": "EQA"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "EQA (H243)",
+    "cleaned": "EQA"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "EQA (H243)",
+    "cleaned": "EQA"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "EQB (X243)",
+    "cleaned": "EQB"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "EQB (X243)",
+    "cleaned": "EQB"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "EQC (W293)",
+    "cleaned": "EQC"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "EQC (W293)",
+    "cleaned": "EQC"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "EQC (W293)",
+    "cleaned": "EQC"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "EQC (W293)",
+    "cleaned": "EQC"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "EQE SUV (X294)",
+    "cleaned": "EQE SUV"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "EQE SUV (X294)",
+    "cleaned": "EQE SUV"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "EQS SUV (X296)",
+    "cleaned": "EQS SUV"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "EQS SUV (X296)",
+    "cleaned": "EQS SUV"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "EQT (W420)",
+    "cleaned": "EQT"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "EQT (W420)",
+    "cleaned": "EQT"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "G-Class G / GE / GD (M460)",
+    "cleaned": "G-Class G / GE / GD"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "G-Class GE/ GD/GD Turbo (M463)",
+    "cleaned": "G-Class GE/ GD/GD Turbo"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GL-Class (X164)",
+    "cleaned": "GL-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GL-Class (X164)",
+    "cleaned": "GL-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GL-Class (X166)",
+    "cleaned": "GL-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GL-Class (X166)",
+    "cleaned": "GL-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLA-Class (X156)",
+    "cleaned": "GLA-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLA-Class (X156)",
+    "cleaned": "GLA-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLA-Class (X156)",
+    "cleaned": "GLA-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLA-Class (X156)",
+    "cleaned": "GLA-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLA-Class (X156)",
+    "cleaned": "GLA-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLA-Class (X156)",
+    "cleaned": "GLA-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLA-Class (H247)",
+    "cleaned": "GLA-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLA-Class (H247)",
+    "cleaned": "GLA-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLA-Class (H247)",
+    "cleaned": "GLA-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLA-Class (H247)",
+    "cleaned": "GLA-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLB-Class (X247)",
+    "cleaned": "GLB-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLB-Class (X247)",
+    "cleaned": "GLB-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLB-Class (X247)",
+    "cleaned": "GLB-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLB-Class (X247)",
+    "cleaned": "GLB-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLC-Class (X253)",
+    "cleaned": "GLC-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLC-Class (X253)",
+    "cleaned": "GLC-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLC-Class (X253)",
+    "cleaned": "GLC-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLC-Class (X253)",
+    "cleaned": "GLC-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLC-Class (X253)",
+    "cleaned": "GLC-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLC-Class (X253)",
+    "cleaned": "GLC-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLC-Class (X254)",
+    "cleaned": "GLC-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLC-Class (X254)",
+    "cleaned": "GLC-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLE-Class (C292)",
+    "cleaned": "GLE-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLE-Class (C292)",
+    "cleaned": "GLE-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLE-Class (X166)",
+    "cleaned": "GLE-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLE-Class (X166)",
+    "cleaned": "GLE-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLE-Class (X167)",
+    "cleaned": "GLE-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLE-Class (X167)",
+    "cleaned": "GLE-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLE-Class (X167)",
+    "cleaned": "GLE-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLE-Class (X167)",
+    "cleaned": "GLE-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLE-Class (X167)",
+    "cleaned": "GLE-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLE-Class (X167)",
+    "cleaned": "GLE-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLK-Class (X204)",
+    "cleaned": "GLK-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLK-Class (X204)",
+    "cleaned": "GLK-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLK-Class (X204)",
+    "cleaned": "GLK-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLK-Class (X204)",
+    "cleaned": "GLK-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLS-Class (X166)",
+    "cleaned": "GLS-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLS-Class (X166)",
+    "cleaned": "GLS-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLS-Class (X167)",
+    "cleaned": "GLS-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLS-Class (X167)",
+    "cleaned": "GLS-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLS-Class (X167)",
+    "cleaned": "GLS-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLS-Class (X167)",
+    "cleaned": "GLS-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLS-Class (X167) / Maybach",
+    "cleaned": "GLS-Class / Maybach"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "GLS-Class (X167) / Maybach",
+    "cleaned": "GLS-Class / Maybach"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "ML-Class (W163)",
+    "cleaned": "ML-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "ML-Class (W164)",
+    "cleaned": "ML-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "ML-Class (W164)",
+    "cleaned": "ML-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "ML-Class (W166)",
+    "cleaned": "ML-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "ML-Class (W166)",
+    "cleaned": "ML-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "R-Class (W251)",
+    "cleaned": "R-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "R-Class (W251)",
+    "cleaned": "R-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "S-Class SE/ SEL (116)",
+    "cleaned": "S-Class SE/ SEL"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "S-Class SE/ SEL (126)",
+    "cleaned": "S-Class SE/ SEL"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "SEC-Class (126)",
+    "cleaned": "SEC-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "S-Class (W220)",
+    "cleaned": "S-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "S-Class (W220)",
+    "cleaned": "S-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "S-Class (W221)",
+    "cleaned": "S-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "S-Class (W221)",
+    "cleaned": "S-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "S-Class (W222)",
+    "cleaned": "S-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "S-Class (W222)",
+    "cleaned": "S-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "SL/ SLC-Class (C107)",
+    "cleaned": "SL/ SLC-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "SL-Class (R107)",
+    "cleaned": "SL-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "SL-Class (R230)",
+    "cleaned": "SL-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "SL-Class (R230)",
+    "cleaned": "SL-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "SLC-Class (R173)",
+    "cleaned": "SLC-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "SLC-Class (R173)",
+    "cleaned": "SLC-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "SLK-Class (R170)",
+    "cleaned": "SLK-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "SLK-Class (R171)",
+    "cleaned": "SLK-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "SLK-Class (R171)",
+    "cleaned": "SLK-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "SLK-Class (R172)",
+    "cleaned": "SLK-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "SLK-Class (R172)",
+    "cleaned": "SLK-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "Sprinter (903)",
+    "cleaned": "Sprinter"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "Sprinter (903)",
+    "cleaned": "Sprinter"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "Sprinter (906)",
+    "cleaned": "Sprinter"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "Sprinter (906)",
+    "cleaned": "Sprinter"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "T-Class (W420)",
+    "cleaned": "T-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "T-Class (W420)",
+    "cleaned": "T-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "Vaneo (W414)",
+    "cleaned": "Vaneo"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "Vaneo (W414)",
+    "cleaned": "Vaneo"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "Vaneo (W414)",
+    "cleaned": "Vaneo"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "Vaneo (W414)",
+    "cleaned": "Vaneo"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "Viano (639)",
+    "cleaned": "Viano"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "Viano (639)",
+    "cleaned": "Viano"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "Viano (639)",
+    "cleaned": "Viano"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "Viano (639)",
+    "cleaned": "Viano"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "X-Class (470)",
+    "cleaned": "X-Class"
+  },
+  {
+    "brand": "MERCEDES-BENZ",
+    "original": "X-Class (470)",
+    "cleaned": "X-Class"
+  },
+  {
+    "brand": "MG",
+    "original": "MG5 SW (EV)",
+    "cleaned": "MG5 SW"
+  },
+  {
+    "brand": "MG",
+    "original": "MG5 SW (EV)",
+    "cleaned": "MG5 SW"
+  },
+  {
+    "brand": "MICROCAR",
+    "original": "Sherpa / (Bellier Docker)",
+    "cleaned": "Sherpa /"
+  },
+  {
+    "brand": "MINAUTO",
+    "original": "400 / City (Aixam)",
+    "cleaned": "400 / City"
+  },
+  {
+    "brand": "MINI",
+    "original": "Mini (Thermal version) (F66)",
+    "cleaned": "Mini"
+  },
+  {
+    "brand": "MINI",
+    "original": "Mini (Thermal version) (F66)",
+    "cleaned": "Mini"
+  },
+  {
+    "brand": "MINI",
+    "original": "Mini EV (Electric Version) (J01)",
+    "cleaned": "Mini EV"
+  },
+  {
+    "brand": "MINI",
+    "original": "Mini EV (Electric Version) (J01)",
+    "cleaned": "Mini EV"
+  },
+  {
+    "brand": "MINI",
+    "original": "Mini Clubman (1)",
+    "cleaned": "Mini Clubman"
+  },
+  {
+    "brand": "MINI",
+    "original": "Mini Clubman (1)",
+    "cleaned": "Mini Clubman"
+  },
+  {
+    "brand": "MINI",
+    "original": "Mini Clubman (1)",
+    "cleaned": "Mini Clubman"
+  },
+  {
+    "brand": "MINI",
+    "original": "Mini Clubman (2)",
+    "cleaned": "Mini Clubman"
+  },
+  {
+    "brand": "MINI",
+    "original": "Mini Clubman (2)",
+    "cleaned": "Mini Clubman"
+  },
+  {
+    "brand": "MINI",
+    "original": "Mini Clubvan (1)",
+    "cleaned": "Mini Clubvan"
+  },
+  {
+    "brand": "MINI",
+    "original": "Mini Clubvan (1)",
+    "cleaned": "Mini Clubvan"
+  },
+  {
+    "brand": "MINI",
+    "original": "Mini Countryman / All 4 (1)",
+    "cleaned": "Mini Countryman / All 4"
+  },
+  {
+    "brand": "MINI",
+    "original": "Mini Countryman / All 4 (1)",
+    "cleaned": "Mini Countryman / All 4"
+  },
+  {
+    "brand": "MINI",
+    "original": "Mini Countryman / All 4 (2)",
+    "cleaned": "Mini Countryman / All 4"
+  },
+  {
+    "brand": "MINI",
+    "original": "Mini Countryman / All 4 (2)",
+    "cleaned": "Mini Countryman / All 4"
+  },
+  {
+    "brand": "MINI",
+    "original": "Mini Countryman / Electric (3)",
+    "cleaned": "Mini Countryman / Electric"
+  },
+  {
+    "brand": "MINI",
+    "original": "Mini Countryman / Electric (3)",
+    "cleaned": "Mini Countryman / Electric"
+  },
+  {
+    "brand": "MITSUBISHI",
+    "original": "ASX (1)",
+    "cleaned": "ASX"
+  },
+  {
+    "brand": "MITSUBISHI",
+    "original": "ASX (1)",
+    "cleaned": "ASX"
+  },
+  {
+    "brand": "MITSUBISHI",
+    "original": "ASX (2)",
+    "cleaned": "ASX"
+  },
+  {
+    "brand": "MITSUBISHI",
+    "original": "Colt (3)",
+    "cleaned": "Colt"
+  },
+  {
+    "brand": "MITSUBISHI",
+    "original": "Colt (4)",
+    "cleaned": "Colt"
+  },
+  {
+    "brand": "MITSUBISHI",
+    "original": "Colt (5)",
+    "cleaned": "Colt"
+  },
+  {
+    "brand": "MITSUBISHI",
+    "original": "Colt (6) / CZ3/ CZT/ CZC",
+    "cleaned": "Colt / CZ3/ CZT/ CZC"
+  },
+  {
+    "brand": "MITSUBISHI",
+    "original": "Colt (6) / Ralliart",
+    "cleaned": "Colt / Ralliart"
+  },
+  {
+    "brand": "MITSUBISHI",
+    "original": "Colt (6) / Ralliart",
+    "cleaned": "Colt / Ralliart"
+  },
+  {
+    "brand": "MITSUBISHI",
+    "original": "Colt HEV (7)",
+    "cleaned": "Colt HEV"
+  },
+  {
+    "brand": "MITSUBISHI",
+    "original": "Pajero (2)",
+    "cleaned": "Pajero"
+  },
+  {
+    "brand": "MITSUBISHI",
+    "original": "Pajero (2)",
+    "cleaned": "Pajero"
+  },
+  {
+    "brand": "MITSUBISHI",
+    "original": "Pajero (3) / Grand Pajero",
+    "cleaned": "Pajero / Grand Pajero"
+  },
+  {
+    "brand": "MITSUBISHI",
+    "original": "Pajero (4)",
+    "cleaned": "Pajero"
+  },
+  {
+    "brand": "MITSUBISHI",
+    "original": "Shogun (2)",
+    "cleaned": "Shogun"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "300 ZX (Z31)",
+    "cleaned": "300 ZX"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "300 ZX V6 (Z32)",
+    "cleaned": "300 ZX V6"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Bluebird (910)",
+    "cleaned": "Bluebird"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Bluebird (910)",
+    "cleaned": "Bluebird"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Bluebird Coupe (910)",
+    "cleaned": "Bluebird Coupe"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Bluebird (U11)",
+    "cleaned": "Bluebird"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Bluebird (U11)",
+    "cleaned": "Bluebird"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Bluebird (T12)",
+    "cleaned": "Bluebird"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Bluebird (T72)",
+    "cleaned": "Bluebird"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Cherry (N12)",
+    "cleaned": "Cherry"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Cube (Z12)",
+    "cleaned": "Cube"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Fairlady Z (Z32)",
+    "cleaned": "Fairlady Z"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Juke (1)",
+    "cleaned": "Juke"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Juke (1)",
+    "cleaned": "Juke"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Juke (1)",
+    "cleaned": "Juke"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Juke (1)",
+    "cleaned": "Juke"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Juke (2)",
+    "cleaned": "Juke"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Juke (2)",
+    "cleaned": "Juke"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Laurel (C32)",
+    "cleaned": "Laurel"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Leaf (1)",
+    "cleaned": "Leaf"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Leaf (2) / Leaf 2.Zero",
+    "cleaned": "Leaf / Leaf 2.Zero"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Leaf (2) / Leaf 2.Zero",
+    "cleaned": "Leaf / Leaf 2.Zero"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Navara (D40)",
+    "cleaned": "Navara"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Navara (D40)",
+    "cleaned": "Navara"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Navara NP300 (D23)",
+    "cleaned": "Navara NP300"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Navara NP300 (D23)",
+    "cleaned": "Navara NP300"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Note (1)",
+    "cleaned": "Note"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Note (2)",
+    "cleaned": "Note"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Note (2)",
+    "cleaned": "Note"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Patrol GR (Y60)",
+    "cleaned": "Patrol GR"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Patrol GR (Y61)",
+    "cleaned": "Patrol GR"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Pick-up (D21)",
+    "cleaned": "Pick-up"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Pick-up / NP300 (D22)",
+    "cleaned": "Pick-up / NP300"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Primera (2)",
+    "cleaned": "Primera"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Primera (2)",
+    "cleaned": "Primera"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Primera (2)",
+    "cleaned": "Primera"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Primera (2)",
+    "cleaned": "Primera"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Pulsar (N13)",
+    "cleaned": "Pulsar"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Pulsar (C13)",
+    "cleaned": "Pulsar"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Pulsar (C13)",
+    "cleaned": "Pulsar"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Qashqai (1)",
+    "cleaned": "Qashqai"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Qashqai (1)",
+    "cleaned": "Qashqai"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Qashqai (2)",
+    "cleaned": "Qashqai"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Qashqai (2)",
+    "cleaned": "Qashqai"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Qashqai (3)",
+    "cleaned": "Qashqai"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Qashqai (3)",
+    "cleaned": "Qashqai"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Sunny (B11)",
+    "cleaned": "Sunny"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Sunny (B11)",
+    "cleaned": "Sunny"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Sunny (B12)",
+    "cleaned": "Sunny"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Sunny Coupe (B12)",
+    "cleaned": "Sunny Coupe"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Sunny (B12)",
+    "cleaned": "Sunny"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Sunny (B12/ N13)",
+    "cleaned": "Sunny"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Sunny (N14)",
+    "cleaned": "Sunny"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Sunny (N14)",
+    "cleaned": "Sunny"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Sunny (Y10)",
+    "cleaned": "Sunny"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Terrano (1)",
+    "cleaned": "Terrano"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Terrano (2)",
+    "cleaned": "Terrano"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Terrano (2)",
+    "cleaned": "Terrano"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Terrano (3)",
+    "cleaned": "Terrano"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Tiida (1)",
+    "cleaned": "Tiida"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "Tiida (2)",
+    "cleaned": "Tiida"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "X-Trail (1)",
+    "cleaned": "X-Trail"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "X-Trail (2)",
+    "cleaned": "X-Trail"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "X-Trail (3)",
+    "cleaned": "X-Trail"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "X-Trail (3)",
+    "cleaned": "X-Trail"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "X-Trail (4)",
+    "cleaned": "X-Trail"
+  },
+  {
+    "brand": "NISSAN",
+    "original": "X-Trail (4)",
+    "cleaned": "X-Trail"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Ascona (A)",
+    "cleaned": "Ascona"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Ascona (A)",
+    "cleaned": "Ascona"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Ascona (B)",
+    "cleaned": "Ascona"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Ascona (C)",
+    "cleaned": "Ascona"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Ascona (C)",
+    "cleaned": "Ascona"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Astra (F)",
+    "cleaned": "Astra"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Astra (F)",
+    "cleaned": "Astra"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Astra (F)",
+    "cleaned": "Astra"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Astra (F)",
+    "cleaned": "Astra"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Astra (F)",
+    "cleaned": "Astra"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Astra (G)",
+    "cleaned": "Astra"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Astra (G)",
+    "cleaned": "Astra"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Astra (G)",
+    "cleaned": "Astra"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Astra (G)",
+    "cleaned": "Astra"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Astra (G)",
+    "cleaned": "Astra"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Astra (H) GTC",
+    "cleaned": "Astra GTC"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Astra (H)",
+    "cleaned": "Astra"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Astra (H)",
+    "cleaned": "Astra"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Astra (H) Twin Top",
+    "cleaned": "Astra Twin Top"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Astra (H) Delvan",
+    "cleaned": "Astra Delvan"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Astra (H) Classic",
+    "cleaned": "Astra Classic"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Astra (J) GTC",
+    "cleaned": "Astra GTC"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Astra (J)",
+    "cleaned": "Astra"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Astra (J) Sports Tourer",
+    "cleaned": "Astra Sports Tourer"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Astra (K)",
+    "cleaned": "Astra"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Astra (K) Sports Tourer",
+    "cleaned": "Astra Sports Tourer"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Astra (K)",
+    "cleaned": "Astra"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Astra (K) Sports Tourer",
+    "cleaned": "Astra Sports Tourer"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Astra (L)",
+    "cleaned": "Astra"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Astra (L) Sports Tourer",
+    "cleaned": "Astra Sports Tourer"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Combo (A)",
+    "cleaned": "Combo"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Combo (B)",
+    "cleaned": "Combo"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Combo (B)",
+    "cleaned": "Combo"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Combo (D) / Combo Tour",
+    "cleaned": "Combo / Combo Tour"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Combo (D) / Combo Tour",
+    "cleaned": "Combo / Combo Tour"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Combo Life (C) / Combo / Combo-e Cargo",
+    "cleaned": "Combo Life / Combo / Combo-e Cargo"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Corsa (A)",
+    "cleaned": "Corsa"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Corsa (B)",
+    "cleaned": "Corsa"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Corsa (B)",
+    "cleaned": "Corsa"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Corsa (C)",
+    "cleaned": "Corsa"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Corsa (D)",
+    "cleaned": "Corsa"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Corsa (E)",
+    "cleaned": "Corsa"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Corsa (F)",
+    "cleaned": "Corsa"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Crossland X / Crossland (A)",
+    "cleaned": "Crossland X / Crossland"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Grandland X (A)",
+    "cleaned": "Grandland X"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Grandland / X (A)",
+    "cleaned": "Grandland / X"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Insignia (A)",
+    "cleaned": "Insignia"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Insignia (A)",
+    "cleaned": "Insignia"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Insignia (A) Sports Tourer",
+    "cleaned": "Insignia Sports Tourer"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Insignia (B) Grand Sport",
+    "cleaned": "Insignia Grand Sport"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Insignia (B) Country Tourer",
+    "cleaned": "Insignia Country Tourer"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Insignia (B) Sports Tourer",
+    "cleaned": "Insignia Sports Tourer"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Kadett (D)",
+    "cleaned": "Kadett"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Kadett (D)",
+    "cleaned": "Kadett"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Kadett (E)",
+    "cleaned": "Kadett"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Kadett (E) GSI",
+    "cleaned": "Kadett GSI"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Kadett (E)",
+    "cleaned": "Kadett"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Kadett (E)",
+    "cleaned": "Kadett"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Karl (A) / Karl Rocks (A)",
+    "cleaned": "Karl / Karl Rocks"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Meriva (A)",
+    "cleaned": "Meriva"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Meriva (B)",
+    "cleaned": "Meriva"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Mokka (A) / Mokka X (A)",
+    "cleaned": "Mokka / Mokka X"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Mokka (B) / Mokka-e (B)",
+    "cleaned": "Mokka / Mokka-e"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Omega (A)",
+    "cleaned": "Omega"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Omega (A)",
+    "cleaned": "Omega"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Omega (B)",
+    "cleaned": "Omega"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Omega (B)",
+    "cleaned": "Omega"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Vectra (B)",
+    "cleaned": "Vectra"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Vectra (B)",
+    "cleaned": "Vectra"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Vectra (B)",
+    "cleaned": "Vectra"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Vectra (C)",
+    "cleaned": "Vectra"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Vectra (C)",
+    "cleaned": "Vectra"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Vectra (C)",
+    "cleaned": "Vectra"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Vectra (C)",
+    "cleaned": "Vectra"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Vivaro (A)",
+    "cleaned": "Vivaro"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Vivaro (A)",
+    "cleaned": "Vivaro"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Vivaro (A)",
+    "cleaned": "Vivaro"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Vivaro (B)",
+    "cleaned": "Vivaro"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Vivaro (B)",
+    "cleaned": "Vivaro"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Vivaro (C) / Vivaro-e",
+    "cleaned": "Vivaro / Vivaro-e"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Vivaro (C) / Vivaro-e",
+    "cleaned": "Vivaro / Vivaro-e"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Zafira (A)",
+    "cleaned": "Zafira"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Zafira (B)",
+    "cleaned": "Zafira"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Zafira (C) / Zafira Tourer",
+    "cleaned": "Zafira / Zafira Tourer"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Zafira Life (D) / Zafira-e Life",
+    "cleaned": "Zafira Life / Zafira-e Life"
+  },
+  {
+    "brand": "OPEL",
+    "original": "Zafira Life (D) / Zafira-e Life",
+    "cleaned": "Zafira Life / Zafira-e Life"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "208 (1)",
+    "cleaned": "208"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "208 (1)",
+    "cleaned": "208"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "208 / e-208 (2)",
+    "cleaned": "208 / e-208"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "208 / e-208 (2)",
+    "cleaned": "208 / e-208"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "308 (1)",
+    "cleaned": "308"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "308 (1)",
+    "cleaned": "308"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "308 SW (1)",
+    "cleaned": "308 SW"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "308 SW (1)",
+    "cleaned": "308 SW"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "308 SW (1)",
+    "cleaned": "308 SW"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "308 SW (1)",
+    "cleaned": "308 SW"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "308 CC (1)",
+    "cleaned": "308 CC"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "308 CC (1)",
+    "cleaned": "308 CC"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "308 (2)",
+    "cleaned": "308"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "308 (2)",
+    "cleaned": "308"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "308 SW (2)",
+    "cleaned": "308 SW"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "308 SW (2)",
+    "cleaned": "308 SW"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "308 / e-308 (3)",
+    "cleaned": "308 / e-308"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "308 / e-308 (3)",
+    "cleaned": "308 / e-308"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "308 SW / e-308 SW (3)",
+    "cleaned": "308 SW / e-308 SW"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "308 SW / e-308 SW (3)",
+    "cleaned": "308 SW / e-308 SW"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "408 (Russia)",
+    "cleaned": "408"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "508 (1)",
+    "cleaned": "508"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "508 (1)",
+    "cleaned": "508"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "508 SW / RXH (1)",
+    "cleaned": "508 SW / RXH"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "508 SW / RXH (1)",
+    "cleaned": "508 SW / RXH"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "508 (2)",
+    "cleaned": "508"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "508 Fastback (2)",
+    "cleaned": "508 Fastback"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "508 SW (2)",
+    "cleaned": "508 SW"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "508 SW (2)",
+    "cleaned": "508 SW"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "2008 (1)",
+    "cleaned": "2008"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "2008 (1)",
+    "cleaned": "2008"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "2008 / e-2008 (2)",
+    "cleaned": "2008 / e-2008"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "2008 / e-2008 (2)",
+    "cleaned": "2008 / e-2008"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "3008 / Hybrid 4 (1)",
+    "cleaned": "3008 / Hybrid 4"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "3008 / Hybrid 4 (1)",
+    "cleaned": "3008 / Hybrid 4"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "3008 / 3008 Hybrid (2)",
+    "cleaned": "3008 / 3008 Hybrid"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "3008 / 3008 Hybrid (2)",
+    "cleaned": "3008 / 3008 Hybrid"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "5008 (1)",
+    "cleaned": "5008"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "5008 (1)",
+    "cleaned": "5008"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "5008 (2)",
+    "cleaned": "5008"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "5008 (2)",
+    "cleaned": "5008"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "Partner (1) / Partner Origin",
+    "cleaned": "Partner / Partner Origin"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "Partner (1)",
+    "cleaned": "Partner"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "Partner (1) / Partner Origin",
+    "cleaned": "Partner / Partner Origin"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "Partner (2) / Tepee",
+    "cleaned": "Partner / Tepee"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "Partner (2) / Tepee",
+    "cleaned": "Partner / Tepee"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "Partner (3) / e-Partner (K9)",
+    "cleaned": "Partner / e-Partner"
+  },
+  {
+    "brand": "PEUGEOT",
+    "original": "Partner (3) / e-Partner (K9)",
+    "cleaned": "Partner / e-Partner"
+  },
+  {
+    "brand": "PORSCHE",
+    "original": "911 (996 Series)",
+    "cleaned": "911"
+  },
+  {
+    "brand": "PORSCHE",
+    "original": "911 (997 Series)",
+    "cleaned": "911"
+  },
+  {
+    "brand": "PORSCHE",
+    "original": "911 Carrera S (997 Series)",
+    "cleaned": "911 Carrera S"
+  },
+  {
+    "brand": "PORSCHE",
+    "original": "911 (991 Series)",
+    "cleaned": "911"
+  },
+  {
+    "brand": "PORSCHE",
+    "original": "911 Carrera (991 Series)",
+    "cleaned": "911 Carrera"
+  },
+  {
+    "brand": "PORSCHE",
+    "original": "Boxster (986 series)",
+    "cleaned": "Boxster"
+  },
+  {
+    "brand": "PORSCHE",
+    "original": "Boxster (987 series)",
+    "cleaned": "Boxster"
+  },
+  {
+    "brand": "PORSCHE",
+    "original": "Cayenne (1) (955 series)",
+    "cleaned": "Cayenne"
+  },
+  {
+    "brand": "PORSCHE",
+    "original": "Cayenne (1) (955 series)",
+    "cleaned": "Cayenne"
+  },
+  {
+    "brand": "PORSCHE",
+    "original": "Cayenne (1) (957 series)",
+    "cleaned": "Cayenne"
+  },
+  {
+    "brand": "PORSCHE",
+    "original": "Cayenne (1) (957 series)",
+    "cleaned": "Cayenne"
+  },
+  {
+    "brand": "PORSCHE",
+    "original": "Cayenne (2) (958 series)",
+    "cleaned": "Cayenne"
+  },
+  {
+    "brand": "PORSCHE",
+    "original": "Cayenne (2) (958 series)",
+    "cleaned": "Cayenne"
+  },
+  {
+    "brand": "PORSCHE",
+    "original": "Cayenne (3) (PO536 series)",
+    "cleaned": "Cayenne"
+  },
+  {
+    "brand": "PORSCHE",
+    "original": "Cayenne (3) (PO536 series)",
+    "cleaned": "Cayenne"
+  },
+  {
+    "brand": "PORSCHE",
+    "original": "Cayenne (3) Coupé",
+    "cleaned": "Cayenne Coupé"
+  },
+  {
+    "brand": "PORSCHE",
+    "original": "Cayenne (3) Coupé",
+    "cleaned": "Cayenne Coupé"
+  },
+  {
+    "brand": "PORSCHE",
+    "original": "Cayman (987 series)",
+    "cleaned": "Cayman"
+  },
+  {
+    "brand": "PORSCHE",
+    "original": "Macan (95b series)",
+    "cleaned": "Macan"
+  },
+  {
+    "brand": "PORSCHE",
+    "original": "Macan (95b series)",
+    "cleaned": "Macan"
+  },
+  {
+    "brand": "PORSCHE",
+    "original": "Panamera V6 / S / 4S / Turbo (970 series)",
+    "cleaned": "Panamera V6 / S / 4S / Turbo"
+  },
+  {
+    "brand": "PORSCHE",
+    "original": "Panamera V6 / S / 4S / Turbo (970 series)",
+    "cleaned": "Panamera V6 / S / 4S / Turbo"
+  },
+  {
+    "brand": "PORSCHE",
+    "original": "Panamera S / 4S / Turbo (971 series)",
+    "cleaned": "Panamera S / 4S / Turbo"
+  },
+  {
+    "brand": "PORSCHE",
+    "original": "Panamera S / 4S / Turbo (971 series)",
+    "cleaned": "Panamera S / 4S / Turbo"
+  },
+  {
+    "brand": "PORSCHE",
+    "original": "Panamera Sport Turismo (971 series)",
+    "cleaned": "Panamera Sport Turismo"
+  },
+  {
+    "brand": "PORSCHE",
+    "original": "Panamera Sport Turismo (971 series)",
+    "cleaned": "Panamera Sport Turismo"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Arkana (Europe) / E-Tech",
+    "cleaned": "Arkana / E-Tech"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Arkana (UK)",
+    "cleaned": "Arkana"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Austral (1) / Austral E-Tech",
+    "cleaned": "Austral / Austral E-Tech"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Austral (1) / Austral E-Tech",
+    "cleaned": "Austral / Austral E-Tech"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Captur (1)",
+    "cleaned": "Captur"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Captur (1)",
+    "cleaned": "Captur"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Captur (1)",
+    "cleaned": "Captur"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Captur (1)",
+    "cleaned": "Captur"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Captur (2) / Captur E-Tech",
+    "cleaned": "Captur / Captur E-Tech"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Captur (2) / Captur E-Tech",
+    "cleaned": "Captur / Captur E-Tech"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Clio (1)",
+    "cleaned": "Clio"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Clio (1)",
+    "cleaned": "Clio"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Clio (2) / Clio (2) Campus",
+    "cleaned": "Clio / Clio Campus"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Clio (2) / Clio (2) Campus",
+    "cleaned": "Clio / Clio Campus"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Clio (2) RS 2.0 / Clio Sport",
+    "cleaned": "Clio RS 2.0 / Clio Sport"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Clio (2) Campus",
+    "cleaned": "Clio Campus"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Clio (2) Campus",
+    "cleaned": "Clio Campus"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Clio (3) / Clio (3) collection",
+    "cleaned": "Clio / Clio collection"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Clio (3)",
+    "cleaned": "Clio"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Clio (3) Estate",
+    "cleaned": "Clio Estate"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Clio (3) Estate",
+    "cleaned": "Clio Estate"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Clio (4)",
+    "cleaned": "Clio"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Clio (4)",
+    "cleaned": "Clio"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Clio (4) Estate",
+    "cleaned": "Clio Estate"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Clio (4) Estate",
+    "cleaned": "Clio Estate"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Clio (5) / Clio E-Tech",
+    "cleaned": "Clio / Clio E-Tech"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Dokker / Dokker Van (FE / KE)",
+    "cleaned": "Dokker / Dokker Van"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Dokker / Dokker Van (FE / KE)",
+    "cleaned": "Dokker / Dokker Van"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Dokker / Dokker Van (FE / KE)",
+    "cleaned": "Dokker / Dokker Van"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Duster (1) (HS)",
+    "cleaned": "Duster"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Duster (1) (HS)",
+    "cleaned": "Duster"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Duster (1) (HS)",
+    "cleaned": "Duster"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Duster (1) (HS)",
+    "cleaned": "Duster"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Duster (2) (HM)",
+    "cleaned": "Duster"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Espace (1)",
+    "cleaned": "Espace"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Espace (1)",
+    "cleaned": "Espace"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Espace (2)",
+    "cleaned": "Espace"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Espace (3)",
+    "cleaned": "Espace"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Espace (4)",
+    "cleaned": "Espace"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Espace (5)",
+    "cleaned": "Espace"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Espace (6) / Espace E-Tech",
+    "cleaned": "Espace / Espace E-Tech"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Kadjar (1)",
+    "cleaned": "Kadjar"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Kadjar (1)",
+    "cleaned": "Kadjar"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Kadjar (1)",
+    "cleaned": "Kadjar"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Kadjar (1)",
+    "cleaned": "Kadjar"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Kangoo (1)",
+    "cleaned": "Kangoo"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Kangoo (1)",
+    "cleaned": "Kangoo"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Kangoo (1)",
+    "cleaned": "Kangoo"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Kangoo (1)",
+    "cleaned": "Kangoo"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Kangoo (1) Express",
+    "cleaned": "Kangoo Express"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Kangoo (1) Express",
+    "cleaned": "Kangoo Express"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Kangoo (1) Express",
+    "cleaned": "Kangoo Express"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Kangoo (1) Express",
+    "cleaned": "Kangoo Express"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Kangoo (2)",
+    "cleaned": "Kangoo"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Kangoo (2)",
+    "cleaned": "Kangoo"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Kangoo (2)",
+    "cleaned": "Kangoo"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Kangoo (2)",
+    "cleaned": "Kangoo"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Kangoo (2)",
+    "cleaned": "Kangoo"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Kangoo (2)",
+    "cleaned": "Kangoo"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Kangoo (2) Express / Compact",
+    "cleaned": "Kangoo Express / Compact"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Kangoo (2) Express / Compact",
+    "cleaned": "Kangoo Express / Compact"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Kangoo (2) Be Bop",
+    "cleaned": "Kangoo Be Bop"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Kangoo (3) / Kangoo Van / E-Tech",
+    "cleaned": "Kangoo / Kangoo Van / E-Tech"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Kangoo (3) / Kangoo Van / E-Tech",
+    "cleaned": "Kangoo / Kangoo Van / E-Tech"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Kangoo (3) / Kangoo Van / E-Tech",
+    "cleaned": "Kangoo / Kangoo Van / E-Tech"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Kangoo (3) / Kangoo Van / E-Tech",
+    "cleaned": "Kangoo / Kangoo Van / E-Tech"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Koleos (1)",
+    "cleaned": "Koleos"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Koleos (1)",
+    "cleaned": "Koleos"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Koleos (2)",
+    "cleaned": "Koleos"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Koleos (2)",
+    "cleaned": "Koleos"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Koleos (2)",
+    "cleaned": "Koleos"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Laguna (1)",
+    "cleaned": "Laguna"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Laguna (1)",
+    "cleaned": "Laguna"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Laguna (1) Nevada",
+    "cleaned": "Laguna Nevada"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Laguna (2)",
+    "cleaned": "Laguna"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Laguna (2) Estate",
+    "cleaned": "Laguna Estate"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Laguna (3)",
+    "cleaned": "Laguna"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Laguna (3)",
+    "cleaned": "Laguna"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Laguna (3) Estate",
+    "cleaned": "Laguna Estate"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Laguna (3) Estate",
+    "cleaned": "Laguna Estate"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Laguna (3) Coupe",
+    "cleaned": "Laguna Coupe"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Laguna (3) Coupe",
+    "cleaned": "Laguna Coupe"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Logan (1) (LS)",
+    "cleaned": "Logan"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Logan (1) MCV (KS / FS)",
+    "cleaned": "Logan MCV"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Logan (2) (L8)",
+    "cleaned": "Logan"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Logan (2) / Stepway (L8)",
+    "cleaned": "Logan / Stepway"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Logan (2) MCV (K8)",
+    "cleaned": "Logan MCV"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Logan (2) MCV / Stepway (K8)",
+    "cleaned": "Logan MCV / Stepway"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Master (1)",
+    "cleaned": "Master"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Master (3) / Master E-Tech",
+    "cleaned": "Master / Master E-Tech"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Master (4) / Master E-Tech",
+    "cleaned": "Master / Master E-Tech"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Master (4) / Master E-Tech",
+    "cleaned": "Master / Master E-Tech"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Megane (1)",
+    "cleaned": "Megane"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Megane (1) Classic",
+    "cleaned": "Megane Classic"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Megane (1)",
+    "cleaned": "Megane"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Megane (1)",
+    "cleaned": "Megane"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Megane (1) Coupé/ Coach",
+    "cleaned": "Megane Coupé/ Coach"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Megane (1)",
+    "cleaned": "Megane"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Megane (2)",
+    "cleaned": "Megane"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Megane (2)",
+    "cleaned": "Megane"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Megane (2)",
+    "cleaned": "Megane"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Megane (2) Coupé-Cabriolet",
+    "cleaned": "Megane Coupé-Cabriolet"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Megane (2)",
+    "cleaned": "Megane"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Megane (2)",
+    "cleaned": "Megane"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Megane (2)",
+    "cleaned": "Megane"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Megane (2)",
+    "cleaned": "Megane"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Megane (2)",
+    "cleaned": "Megane"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Megane (2)",
+    "cleaned": "Megane"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Megane (2)",
+    "cleaned": "Megane"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Megane (2)",
+    "cleaned": "Megane"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Megane (3)",
+    "cleaned": "Megane"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Megane (3)",
+    "cleaned": "Megane"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Megane (3) Coupé / RS",
+    "cleaned": "Megane Coupé / RS"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Megane (3) Coupé / RS",
+    "cleaned": "Megane Coupé / RS"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Megane (3) CC",
+    "cleaned": "Megane CC"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Megane (3) CC",
+    "cleaned": "Megane CC"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Megane (3) Estate",
+    "cleaned": "Megane Estate"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Megane (3) Estate",
+    "cleaned": "Megane Estate"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Megane (4)",
+    "cleaned": "Megane"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Megane (4)",
+    "cleaned": "Megane"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Megane (4)",
+    "cleaned": "Megane"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Megane (4)",
+    "cleaned": "Megane"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Megane (4)",
+    "cleaned": "Megane"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Megane (4) Estate",
+    "cleaned": "Megane Estate"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Megane (4) Estate",
+    "cleaned": "Megane Estate"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Megane (4) Estate",
+    "cleaned": "Megane Estate"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Megane (4) Estate",
+    "cleaned": "Megane Estate"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Megane E-Tech (5)",
+    "cleaned": "Megane E-Tech"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Megane E-Tech (5)",
+    "cleaned": "Megane E-Tech"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Sandero (1) (BS)",
+    "cleaned": "Sandero"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Sandero (2) / Sandero Stepway (B8)",
+    "cleaned": "Sandero / Sandero Stepway"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Sandero (2) / Sandero Stepway (B8)",
+    "cleaned": "Sandero / Sandero Stepway"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Megane Scenic (1)",
+    "cleaned": "Megane Scenic"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Megane Scenic (1) RX4",
+    "cleaned": "Megane Scenic RX4"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Scenic (2)",
+    "cleaned": "Scenic"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Scenic (2)",
+    "cleaned": "Scenic"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Scenic (2)",
+    "cleaned": "Scenic"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Scenic (3)",
+    "cleaned": "Scenic"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Scenic (3)",
+    "cleaned": "Scenic"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Scenic (3) XMOD",
+    "cleaned": "Scenic XMOD"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Scenic (3) XMOD",
+    "cleaned": "Scenic XMOD"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Scenic (4) (court)",
+    "cleaned": "Scenic"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Scenic (4) (court)",
+    "cleaned": "Scenic"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Grand Scenic (4)",
+    "cleaned": "Grand Scenic"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Grand Scenic (4)",
+    "cleaned": "Grand Scenic"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Scenic E-Tech (5)",
+    "cleaned": "Scenic E-Tech"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Scenic E-Tech (5)",
+    "cleaned": "Scenic E-Tech"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Super 5 ",
+    "cleaned": "Super 5"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Super 5 ",
+    "cleaned": "Super 5"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Symbioz E-Tech (1)",
+    "cleaned": "Symbioz E-Tech"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Symbioz E-Tech (1)",
+    "cleaned": "Symbioz E-Tech"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Symbol (1) / Thalia (Clio)",
+    "cleaned": "Symbol / Thalia"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Symbol (3)",
+    "cleaned": "Symbol"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Symbol (3)",
+    "cleaned": "Symbol"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Symbol (3)",
+    "cleaned": "Symbol"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Trafic (1)",
+    "cleaned": "Trafic"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Trafic (2)",
+    "cleaned": "Trafic"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Trafic (2)",
+    "cleaned": "Trafic"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Trafic (2)",
+    "cleaned": "Trafic"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Trafic (3)",
+    "cleaned": "Trafic"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Trafic (3)",
+    "cleaned": "Trafic"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Trafic (3)",
+    "cleaned": "Trafic"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Trafic (3)",
+    "cleaned": "Trafic"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Twingo (1)",
+    "cleaned": "Twingo"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Twingo (2)",
+    "cleaned": "Twingo"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Twingo (2)",
+    "cleaned": "Twingo"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Twingo (3)",
+    "cleaned": "Twingo"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Twingo (3)",
+    "cleaned": "Twingo"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Twingo (3) / Twingo E-Tech",
+    "cleaned": "Twingo / Twingo E-Tech"
+  },
+  {
+    "brand": "RENAULT",
+    "original": "Twingo (3) / Twingo E-Tech",
+    "cleaned": "Twingo / Twingo E-Tech"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Alhambra (1)",
+    "cleaned": "Alhambra"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Alhambra (1)",
+    "cleaned": "Alhambra"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Alhambra (1)",
+    "cleaned": "Alhambra"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Alhambra (2)",
+    "cleaned": "Alhambra"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Alhambra (2)",
+    "cleaned": "Alhambra"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Cordoba (1) / (2)",
+    "cleaned": "Cordoba /"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Cordoba (2) Vario",
+    "cleaned": "Cordoba Vario"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Cordoba (3)",
+    "cleaned": "Cordoba"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Cordoba (3) Vario",
+    "cleaned": "Cordoba Vario"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Cordoba (4)",
+    "cleaned": "Cordoba"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Cordoba (5)",
+    "cleaned": "Cordoba"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Cordoba (5)",
+    "cleaned": "Cordoba"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Ibiza (1)",
+    "cleaned": "Ibiza"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Ibiza (1)",
+    "cleaned": "Ibiza"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Ibiza (2)",
+    "cleaned": "Ibiza"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Ibiza (2)",
+    "cleaned": "Ibiza"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Ibiza (3)",
+    "cleaned": "Ibiza"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Ibiza (3)",
+    "cleaned": "Ibiza"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Ibiza (3)",
+    "cleaned": "Ibiza"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Ibiza Collector (3)",
+    "cleaned": "Ibiza Collector"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Ibiza Collector (3)",
+    "cleaned": "Ibiza Collector"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Ibiza / Ibiza SC (4)",
+    "cleaned": "Ibiza / Ibiza SC"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Ibiza / Ibiza SC (4)",
+    "cleaned": "Ibiza / Ibiza SC"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Ibiza / Ibiza SC (4)",
+    "cleaned": "Ibiza / Ibiza SC"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Ibiza / Ibiza SC (4)",
+    "cleaned": "Ibiza / Ibiza SC"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Ibiza ST (4)",
+    "cleaned": "Ibiza ST"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Ibiza ST (4)",
+    "cleaned": "Ibiza ST"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Ibiza ST (4)",
+    "cleaned": "Ibiza ST"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Ibiza ST (4)",
+    "cleaned": "Ibiza ST"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Ibiza (5)",
+    "cleaned": "Ibiza"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Ibiza (5)",
+    "cleaned": "Ibiza"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Leon (1)",
+    "cleaned": "Leon"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Leon (2)",
+    "cleaned": "Leon"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Leon (2)",
+    "cleaned": "Leon"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Leon (2)",
+    "cleaned": "Leon"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Leon (2)",
+    "cleaned": "Leon"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Leon (3)",
+    "cleaned": "Leon"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Leon (3)",
+    "cleaned": "Leon"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Leon (3) SC",
+    "cleaned": "Leon SC"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Leon (3) SC",
+    "cleaned": "Leon SC"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Leon (3) ST",
+    "cleaned": "Leon ST"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Leon (3) ST",
+    "cleaned": "Leon ST"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Leon (3) ST X-Perience",
+    "cleaned": "Leon ST X-Perience"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Leon (3) ST X-Perience",
+    "cleaned": "Leon ST X-Perience"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Leon (4) (Typ KL)",
+    "cleaned": "Leon"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Leon (4) (Typ KL)",
+    "cleaned": "Leon"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Leon (4) ST (Typ KL)",
+    "cleaned": "Leon ST"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Leon (4) ST (Typ KL)",
+    "cleaned": "Leon ST"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Toledo (1)",
+    "cleaned": "Toledo"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Toledo (2)",
+    "cleaned": "Toledo"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Toledo (4)",
+    "cleaned": "Toledo"
+  },
+  {
+    "brand": "SEAT",
+    "original": "Toledo (4)",
+    "cleaned": "Toledo"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Fabia (1)",
+    "cleaned": "Fabia"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Fabia (1) Sedan",
+    "cleaned": "Fabia Sedan"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Fabia (1) Combi",
+    "cleaned": "Fabia Combi"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Fabia (2)",
+    "cleaned": "Fabia"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Fabia (2)",
+    "cleaned": "Fabia"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Fabia (2)",
+    "cleaned": "Fabia"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Fabia (2)",
+    "cleaned": "Fabia"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Fabia (2) Combi / Scout",
+    "cleaned": "Fabia Combi / Scout"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Fabia (2) Combi / Scout",
+    "cleaned": "Fabia Combi / Scout"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Fabia (3)",
+    "cleaned": "Fabia"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Fabia (3)",
+    "cleaned": "Fabia"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Fabia (3) Combi",
+    "cleaned": "Fabia Combi"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Fabia (3) Combi",
+    "cleaned": "Fabia Combi"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Fabia (4)",
+    "cleaned": "Fabia"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Fabia (4)",
+    "cleaned": "Fabia"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Favorit (781)",
+    "cleaned": "Favorit"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Favorit Combi (785)",
+    "cleaned": "Favorit Combi"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Felicia (6U1)",
+    "cleaned": "Felicia"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Felicia Combi (6U5)",
+    "cleaned": "Felicia Combi"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Felicia Fun (6UF, 6U7)",
+    "cleaned": "Felicia Fun"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Felicia Cube Van (6U5)",
+    "cleaned": "Felicia Cube Van"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Forman (785)",
+    "cleaned": "Forman"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Kodiaq (1)",
+    "cleaned": "Kodiaq"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Kodiaq (1)",
+    "cleaned": "Kodiaq"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Kodiaq (1)",
+    "cleaned": "Kodiaq"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Kodiaq (1)",
+    "cleaned": "Kodiaq"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Kodiaq (2)",
+    "cleaned": "Kodiaq"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Kodiaq (2)",
+    "cleaned": "Kodiaq"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Octavia (1)",
+    "cleaned": "Octavia"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Octavia (1)",
+    "cleaned": "Octavia"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Octavia (1) Combi",
+    "cleaned": "Octavia Combi"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Octavia (1) Combi",
+    "cleaned": "Octavia Combi"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Octavia (2)",
+    "cleaned": "Octavia"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Octavia (2)",
+    "cleaned": "Octavia"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Octavia (2) Combi / Scout",
+    "cleaned": "Octavia Combi / Scout"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Octavia (2) Combi / Scout",
+    "cleaned": "Octavia Combi / Scout"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Octavia (3)",
+    "cleaned": "Octavia"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Octavia (3)",
+    "cleaned": "Octavia"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Octavia (3) Combi / Scout",
+    "cleaned": "Octavia Combi / Scout"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Octavia (3) Combi / Scout",
+    "cleaned": "Octavia Combi / Scout"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Octavia (4)",
+    "cleaned": "Octavia"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Octavia (4)",
+    "cleaned": "Octavia"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Octavia (4) Combi / Scout",
+    "cleaned": "Octavia Combi / Scout"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Octavia (4) Combi / Scout",
+    "cleaned": "Octavia Combi / Scout"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Octavia (4) Combi / Scout",
+    "cleaned": "Octavia Combi / Scout"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Octavia (4) Combi / Scout",
+    "cleaned": "Octavia Combi / Scout"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Pick-up (787)",
+    "cleaned": "Pick-up"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Pick-up (6UF / 6U7)",
+    "cleaned": "Pick-up"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Superb (1)",
+    "cleaned": "Superb"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Superb (1)",
+    "cleaned": "Superb"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Superb (1)",
+    "cleaned": "Superb"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Superb (2)",
+    "cleaned": "Superb"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Superb (2)",
+    "cleaned": "Superb"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Superb (2) Combi",
+    "cleaned": "Superb Combi"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Superb (2) Combi",
+    "cleaned": "Superb Combi"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Superb (3)",
+    "cleaned": "Superb"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Superb (3)",
+    "cleaned": "Superb"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Superb (3) Combi",
+    "cleaned": "Superb Combi"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Superb (3) Combi",
+    "cleaned": "Superb Combi"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Superb (3) Combi",
+    "cleaned": "Superb Combi"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Superb (3) Combi",
+    "cleaned": "Superb Combi"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Superb (4)",
+    "cleaned": "Superb"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Superb (4)",
+    "cleaned": "Superb"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Superb (4) Combi",
+    "cleaned": "Superb Combi"
+  },
+  {
+    "brand": "SKODA",
+    "original": "Superb (4) Combi",
+    "cleaned": "Superb Combi"
+  },
+  {
+    "brand": "SSANG-YONG",
+    "original": "Korando (2)",
+    "cleaned": "Korando"
+  },
+  {
+    "brand": "SSANG-YONG",
+    "original": "Korando (3)",
+    "cleaned": "Korando"
+  },
+  {
+    "brand": "SSANG-YONG",
+    "original": "Korando (4)",
+    "cleaned": "Korando"
+  },
+  {
+    "brand": "SSANG-YONG",
+    "original": "Korando (4)",
+    "cleaned": "Korando"
+  },
+  {
+    "brand": "SSANG-YONG",
+    "original": "Kyron M200 (1)",
+    "cleaned": "Kyron M200"
+  },
+  {
+    "brand": "SSANG-YONG",
+    "original": "Kyron (2)",
+    "cleaned": "Kyron"
+  },
+  {
+    "brand": "SSANG-YONG",
+    "original": "Rexton (1) & (2) / RX200/ RX290",
+    "cleaned": "Rexton & / RX200/ RX290"
+  },
+  {
+    "brand": "SSANG-YONG",
+    "original": "Rodius (2) / Korando Turismo / Stavic",
+    "cleaned": "Rodius / Korando Turismo / Stavic"
+  },
+  {
+    "brand": "SSANG-YONG",
+    "original": "Rodius (2) / Korando Turismo / Stavic",
+    "cleaned": "Rodius / Korando Turismo / Stavic"
+  },
+  {
+    "brand": "SUBARU",
+    "original": "Forester (1)",
+    "cleaned": "Forester"
+  },
+  {
+    "brand": "SUBARU",
+    "original": "Forester (2)",
+    "cleaned": "Forester"
+  },
+  {
+    "brand": "SUBARU",
+    "original": "Forester (2)",
+    "cleaned": "Forester"
+  },
+  {
+    "brand": "SUBARU",
+    "original": "Forester (3)",
+    "cleaned": "Forester"
+  },
+  {
+    "brand": "SUBARU",
+    "original": "Forester (3)",
+    "cleaned": "Forester"
+  },
+  {
+    "brand": "SUBARU",
+    "original": "Forester (4)",
+    "cleaned": "Forester"
+  },
+  {
+    "brand": "SUBARU",
+    "original": "Forester (4)",
+    "cleaned": "Forester"
+  },
+  {
+    "brand": "SUBARU",
+    "original": "Legacy (1)",
+    "cleaned": "Legacy"
+  },
+  {
+    "brand": "SUBARU",
+    "original": "Legacy (1)",
+    "cleaned": "Legacy"
+  },
+  {
+    "brand": "SUBARU",
+    "original": "Legacy (2)",
+    "cleaned": "Legacy"
+  },
+  {
+    "brand": "SUBARU",
+    "original": "Legacy (2)",
+    "cleaned": "Legacy"
+  },
+  {
+    "brand": "SUBARU",
+    "original": "Legacy Outback (1)",
+    "cleaned": "Legacy Outback"
+  },
+  {
+    "brand": "SUBARU",
+    "original": "Legacy (3)",
+    "cleaned": "Legacy"
+  },
+  {
+    "brand": "SUBARU",
+    "original": "Legacy (3)",
+    "cleaned": "Legacy"
+  },
+  {
+    "brand": "SUBARU",
+    "original": "Legacy (4)",
+    "cleaned": "Legacy"
+  },
+  {
+    "brand": "SUBARU",
+    "original": "Legacy (4) / Outback (3)",
+    "cleaned": "Legacy / Outback"
+  },
+  {
+    "brand": "SUBARU",
+    "original": "Legacy (5)",
+    "cleaned": "Legacy"
+  },
+  {
+    "brand": "SUBARU",
+    "original": "Legacy (5)",
+    "cleaned": "Legacy"
+  },
+  {
+    "brand": "SUBARU",
+    "original": "Legacy (5) / Outback (4)",
+    "cleaned": "Legacy / Outback"
+  },
+  {
+    "brand": "SUBARU",
+    "original": "Legacy (5) / Outback (4)",
+    "cleaned": "Legacy / Outback"
+  },
+  {
+    "brand": "SUBARU",
+    "original": "Outback (2)",
+    "cleaned": "Outback"
+  },
+  {
+    "brand": "SUBARU",
+    "original": "Outback (5)",
+    "cleaned": "Outback"
+  },
+  {
+    "brand": "SUBARU",
+    "original": "Outback (5)",
+    "cleaned": "Outback"
+  },
+  {
+    "brand": "SUBARU",
+    "original": "XV (1) (typ GP)",
+    "cleaned": "XV"
+  },
+  {
+    "brand": "SUBARU",
+    "original": "XV (1) (typ GP)",
+    "cleaned": "XV"
+  },
+  {
+    "brand": "SUZUKI",
+    "original": "Vitara (1)",
+    "cleaned": "Vitara"
+  },
+  {
+    "brand": "SUZUKI",
+    "original": "Vitara (2)",
+    "cleaned": "Vitara"
+  },
+  {
+    "brand": "SUZUKI",
+    "original": "Vitara (2)",
+    "cleaned": "Vitara"
+  },
+  {
+    "brand": "SUZUKI",
+    "original": "Vitara (4) / Vitara S",
+    "cleaned": "Vitara / Vitara S"
+  },
+  {
+    "brand": "SUZUKI",
+    "original": "Vitara (4) / Vitara S",
+    "cleaned": "Vitara / Vitara S"
+  },
+  {
+    "brand": "SUZUKI",
+    "original": "Grand Vitara (1) /  XL7",
+    "cleaned": "Grand Vitara / XL7"
+  },
+  {
+    "brand": "SUZUKI",
+    "original": "Grand Vitara (2) / (3)",
+    "cleaned": "Grand Vitara /"
+  },
+  {
+    "brand": "TESLA",
+    "original": "Model S (ph1 & ph2)",
+    "cleaned": "Model S"
+  },
+  {
+    "brand": "TESLA",
+    "original": "Model S (ph1 & ph2)",
+    "cleaned": "Model S"
+  },
+  {
+    "brand": "TESLA",
+    "original": "Model X (ph2)",
+    "cleaned": "Model X"
+  },
+  {
+    "brand": "TESLA",
+    "original": "Model X (ph2)",
+    "cleaned": "Model X"
+  },
+  {
+    "brand": "TOYOTA",
+    "original": "Auris (1)",
+    "cleaned": "Auris"
+  },
+  {
+    "brand": "TOYOTA",
+    "original": "Auris (1)",
+    "cleaned": "Auris"
+  },
+  {
+    "brand": "TOYOTA",
+    "original": "Auris (2)",
+    "cleaned": "Auris"
+  },
+  {
+    "brand": "TOYOTA",
+    "original": "Auris (2)",
+    "cleaned": "Auris"
+  },
+  {
+    "brand": "TOYOTA",
+    "original": "Auris (2) Touring Sports",
+    "cleaned": "Auris Touring Sports"
+  },
+  {
+    "brand": "TOYOTA",
+    "original": "Auris (2) Touring Sports",
+    "cleaned": "Auris Touring Sports"
+  },
+  {
+    "brand": "TOYOTA",
+    "original": "C-HR (2)",
+    "cleaned": "C-HR"
+  },
+  {
+    "brand": "TOYOTA",
+    "original": "C-HR (2)",
+    "cleaned": "C-HR"
+  },
+  {
+    "brand": "TOYOTA",
+    "original": "Corolla (Made in Europe)",
+    "cleaned": "Corolla"
+  },
+  {
+    "brand": "TOYOTA",
+    "original": "Corolla (Made in Europe)",
+    "cleaned": "Corolla"
+  },
+  {
+    "brand": "TOYOTA",
+    "original": "Corolla / Corolla X (E140 / E150)",
+    "cleaned": "Corolla / Corolla X"
+  },
+  {
+    "brand": "TOYOTA",
+    "original": "Land-Cruiser 90 (J9)",
+    "cleaned": "Land-Cruiser 90"
+  },
+  {
+    "brand": "TOYOTA",
+    "original": "Land-Cruiser (120 VXE)",
+    "cleaned": "Land-Cruiser"
+  },
+  {
+    "brand": "TOYOTA",
+    "original": "Land-Cruiser (120/125)",
+    "cleaned": "Land-Cruiser"
+  },
+  {
+    "brand": "TOYOTA",
+    "original": "Land-Cruiser 150 (KD,GR)",
+    "cleaned": "Land-Cruiser 150"
+  },
+  {
+    "brand": "TOYOTA",
+    "original": "Land-Cruiser 150 (KD,GR)",
+    "cleaned": "Land-Cruiser 150"
+  },
+  {
+    "brand": "TOYOTA",
+    "original": "Land-Cruiser SW (HDJ80)",
+    "cleaned": "Land-Cruiser SW"
+  },
+  {
+    "brand": "TOYOTA",
+    "original": "Land-Cruiser SW (HDJ100)",
+    "cleaned": "Land-Cruiser SW"
+  },
+  {
+    "brand": "TOYOTA",
+    "original": "Land-Cruiser SW V8 (HDJ200)",
+    "cleaned": "Land-Cruiser SW V8"
+  },
+  {
+    "brand": "TOYOTA",
+    "original": "Mirai (2)",
+    "cleaned": "Mirai"
+  },
+  {
+    "brand": "TOYOTA",
+    "original": "Prius (1)",
+    "cleaned": "Prius"
+  },
+  {
+    "brand": "TOYOTA",
+    "original": "Prius (2)",
+    "cleaned": "Prius"
+  },
+  {
+    "brand": "TOYOTA",
+    "original": "Prius (3)",
+    "cleaned": "Prius"
+  },
+  {
+    "brand": "TOYOTA",
+    "original": "Prius (3)",
+    "cleaned": "Prius"
+  },
+  {
+    "brand": "TOYOTA",
+    "original": "Prius (5) Plug in Hybrid / PHEV",
+    "cleaned": "Prius Plug in Hybrid / PHEV"
+  },
+  {
+    "brand": "TOYOTA",
+    "original": "Prius (5) Plug in Hybrid / PHEV",
+    "cleaned": "Prius Plug in Hybrid / PHEV"
+  },
+  {
+    "brand": "TOYOTA",
+    "original": "Proace (1)",
+    "cleaned": "Proace"
+  },
+  {
+    "brand": "TOYOTA",
+    "original": "Proace (1)",
+    "cleaned": "Proace"
+  },
+  {
+    "brand": "TOYOTA",
+    "original": "Proace (2) / Proace Verso",
+    "cleaned": "Proace / Proace Verso"
+  },
+  {
+    "brand": "TOYOTA",
+    "original": "Proace (2) / Proace Verso",
+    "cleaned": "Proace / Proace Verso"
+  },
+  {
+    "brand": "TOYOTA",
+    "original": "Proace (2) / Proace Verso",
+    "cleaned": "Proace / Proace Verso"
+  },
+  {
+    "brand": "TOYOTA",
+    "original": "Proace (2) / Proace Verso",
+    "cleaned": "Proace / Proace Verso"
+  },
+  {
+    "brand": "TOYOTA",
+    "original": "Proace City / City Verso (Typ E)",
+    "cleaned": "Proace City / City Verso"
+  },
+  {
+    "brand": "TOYOTA",
+    "original": "Proace City / City Verso (Typ E)",
+    "cleaned": "Proace City / City Verso"
+  },
+  {
+    "brand": "TOYOTA",
+    "original": "Sprinter Carib (AE11)",
+    "cleaned": "Sprinter Carib"
+  },
+  {
+    "brand": "TOYOTA",
+    "original": "Yaris (1) (Made in Japan)",
+    "cleaned": "Yaris"
+  },
+  {
+    "brand": "TOYOTA",
+    "original": "Yaris (1) (Made in France)",
+    "cleaned": "Yaris"
+  },
+  {
+    "brand": "TOYOTA",
+    "original": "Yaris (2)",
+    "cleaned": "Yaris"
+  },
+  {
+    "brand": "TOYOTA",
+    "original": "Yaris (2)",
+    "cleaned": "Yaris"
+  },
+  {
+    "brand": "TOYOTA",
+    "original": "Yaris (4) / GR Yaris",
+    "cleaned": "Yaris / GR Yaris"
+  },
+  {
+    "brand": "TOYOTA",
+    "original": "Yaris (4) / GR Yaris",
+    "cleaned": "Yaris / GR Yaris"
+  },
+  {
+    "brand": "UAZ",
+    "original": "2206 / 31512 / (All Models)",
+    "cleaned": "2206 / 31512 /"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Agila (A)",
+    "cleaned": "Agila"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Agila (B)",
+    "cleaned": "Agila"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Astra (D)",
+    "cleaned": "Astra"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Astra (D)",
+    "cleaned": "Astra"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Astra Van (D)",
+    "cleaned": "Astra Van"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Astra (E) / Belmont",
+    "cleaned": "Astra / Belmont"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Astra GTE (E)",
+    "cleaned": "Astra GTE"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Astra (E)",
+    "cleaned": "Astra"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Astra (E)",
+    "cleaned": "Astra"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Astra Van (E)",
+    "cleaned": "Astra Van"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Astra (F)",
+    "cleaned": "Astra"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Astra (F)",
+    "cleaned": "Astra"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Astra (F)",
+    "cleaned": "Astra"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Astra (F)",
+    "cleaned": "Astra"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Astra (F)",
+    "cleaned": "Astra"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Astra Van (F)",
+    "cleaned": "Astra Van"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Astra (G)",
+    "cleaned": "Astra"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Astra (G)",
+    "cleaned": "Astra"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Astra (G)",
+    "cleaned": "Astra"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Astra (G)",
+    "cleaned": "Astra"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Astra (H)",
+    "cleaned": "Astra"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Astra (H) GTC",
+    "cleaned": "Astra GTC"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Astra (H)",
+    "cleaned": "Astra"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Astra (H) Twin Top",
+    "cleaned": "Astra Twin Top"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Astra Van (H)",
+    "cleaned": "Astra Van"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Astra (J) GTC",
+    "cleaned": "Astra GTC"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Astra (J)",
+    "cleaned": "Astra"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Astra (J) Sports Tourer",
+    "cleaned": "Astra Sports Tourer"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Astra (K)",
+    "cleaned": "Astra"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Astra (K)",
+    "cleaned": "Astra"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Astra (K) Sports Tourer",
+    "cleaned": "Astra Sports Tourer"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Astra (K) Sports Tourer",
+    "cleaned": "Astra Sports Tourer"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Astra (L)",
+    "cleaned": "Astra"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Astra (L) Sports Tourer",
+    "cleaned": "Astra Sports Tourer"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Carlton (1) / Viceroy",
+    "cleaned": "Carlton / Viceroy"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Carlton (1)",
+    "cleaned": "Carlton"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Carlton (2)",
+    "cleaned": "Carlton"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Carlton (2)",
+    "cleaned": "Carlton"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Cavalier (1)",
+    "cleaned": "Cavalier"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Cavalier (2)",
+    "cleaned": "Cavalier"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Cavalier (2)",
+    "cleaned": "Cavalier"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Cavalier (3)",
+    "cleaned": "Cavalier"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Cavalier (3)",
+    "cleaned": "Cavalier"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Corsa (B)",
+    "cleaned": "Corsa"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Corsa (B)",
+    "cleaned": "Corsa"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Corsa Van (B)",
+    "cleaned": "Corsa Van"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Corsa (C)",
+    "cleaned": "Corsa"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Corsa (D)",
+    "cleaned": "Corsa"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Corsa (E)",
+    "cleaned": "Corsa"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Corsa (F)",
+    "cleaned": "Corsa"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Crossland X / Crossland (A)",
+    "cleaned": "Crossland X / Crossland"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Grandland X (A)",
+    "cleaned": "Grandland X"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Grandland / X (A)",
+    "cleaned": "Grandland / X"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Insignia (A)",
+    "cleaned": "Insignia"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Insignia (A)",
+    "cleaned": "Insignia"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Insignia Sports Tourer (A)",
+    "cleaned": "Insignia Sports Tourer"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Insignia Grand Sport (B)",
+    "cleaned": "Insignia Grand Sport"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Insignia Country Tourer (B)",
+    "cleaned": "Insignia Country Tourer"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Insignia Sports Tourer (B)",
+    "cleaned": "Insignia Sports Tourer"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Meriva (A)",
+    "cleaned": "Meriva"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Meriva (B)",
+    "cleaned": "Meriva"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Mokka (A) / Mokka X (A)",
+    "cleaned": "Mokka / Mokka X"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Mokka (B) / Mokka-e (B)",
+    "cleaned": "Mokka / Mokka-e"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Vectra (B)",
+    "cleaned": "Vectra"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Vectra (B)",
+    "cleaned": "Vectra"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Vectra (B)",
+    "cleaned": "Vectra"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Vectra (C)",
+    "cleaned": "Vectra"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Vectra (C)",
+    "cleaned": "Vectra"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Vectra (C)",
+    "cleaned": "Vectra"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Vectra (C)",
+    "cleaned": "Vectra"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Viva (A) / Karl (A)",
+    "cleaned": "Viva / Karl"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Vivaro (A)",
+    "cleaned": "Vivaro"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Vivaro (A)",
+    "cleaned": "Vivaro"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Vivaro (A)",
+    "cleaned": "Vivaro"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Vivaro (B)",
+    "cleaned": "Vivaro"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Vivaro (B)",
+    "cleaned": "Vivaro"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Vivaro (C)",
+    "cleaned": "Vivaro"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Vivaro (C)",
+    "cleaned": "Vivaro"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Vivaro Life (C) / Vivaro-e Life",
+    "cleaned": "Vivaro Life / Vivaro-e Life"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Vivaro Life (C) / Vivaro-e Life",
+    "cleaned": "Vivaro Life / Vivaro-e Life"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Zafira (A)",
+    "cleaned": "Zafira"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Zafira (B)",
+    "cleaned": "Zafira"
+  },
+  {
+    "brand": "VAUXHALL",
+    "original": "Zafira (C) / Zafira Tourer",
+    "cleaned": "Zafira / Zafira Tourer"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Amarok (1)",
+    "cleaned": "Amarok"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Amarok (1)",
+    "cleaned": "Amarok"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Amarok (1)",
+    "cleaned": "Amarok"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Amarok (2)",
+    "cleaned": "Amarok"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Amarok (2)",
+    "cleaned": "Amarok"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Beetle (2) / New Beetle (2)",
+    "cleaned": "Beetle / New Beetle"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Beetle (2) / New Beetle (2)",
+    "cleaned": "Beetle / New Beetle"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Beetle (2) / New Beetle (2)",
+    "cleaned": "Beetle / New Beetle"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Beetle (2) / New Beetle (2)",
+    "cleaned": "Beetle / New Beetle"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Caddy (1)",
+    "cleaned": "Caddy"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Caddy (2)",
+    "cleaned": "Caddy"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Caddy (2) Pick-Up",
+    "cleaned": "Caddy Pick-Up"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Crafter (1)",
+    "cleaned": "Crafter"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Crafter (1)",
+    "cleaned": "Crafter"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Crafter (2)",
+    "cleaned": "Crafter"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Crafter (2)",
+    "cleaned": "Crafter"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Golf (1)",
+    "cleaned": "Golf"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Golf (1)",
+    "cleaned": "Golf"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Golf (2) C/ CL/ GL",
+    "cleaned": "Golf C/ CL/ GL"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Golf (2) GT/ GTD/ GTI/ GLX",
+    "cleaned": "Golf GT/ GTD/ GTI/ GLX"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Golf (3)",
+    "cleaned": "Golf"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Golf (3)",
+    "cleaned": "Golf"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Golf (3)",
+    "cleaned": "Golf"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Golf (3)",
+    "cleaned": "Golf"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Golf (3)",
+    "cleaned": "Golf"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Golf (3)",
+    "cleaned": "Golf"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Golf (4)",
+    "cleaned": "Golf"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Golf (4)",
+    "cleaned": "Golf"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Golf (4)",
+    "cleaned": "Golf"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Golf (4)",
+    "cleaned": "Golf"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Golf (4)",
+    "cleaned": "Golf"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Golf (4)",
+    "cleaned": "Golf"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Golf (5)",
+    "cleaned": "Golf"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Golf (5)",
+    "cleaned": "Golf"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Golf (5)",
+    "cleaned": "Golf"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Golf (5)",
+    "cleaned": "Golf"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Golf (5) GT",
+    "cleaned": "Golf GT"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Golf (5) GT",
+    "cleaned": "Golf GT"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Golf (5) SW",
+    "cleaned": "Golf SW"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Golf (5) SW",
+    "cleaned": "Golf SW"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Golf (6)",
+    "cleaned": "Golf"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Golf (6)",
+    "cleaned": "Golf"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Golf (6) SW",
+    "cleaned": "Golf SW"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Golf (6) SW",
+    "cleaned": "Golf SW"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Golf (6)",
+    "cleaned": "Golf"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Golf (6)",
+    "cleaned": "Golf"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Golf (7)",
+    "cleaned": "Golf"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Golf (7)",
+    "cleaned": "Golf"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Golf (7) GTI / GTD / GTE / R / e-Golf",
+    "cleaned": "Golf GTI / GTD / GTE / R / e-Golf"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Golf (7) GTI / GTD / GTE / R / e-Golf",
+    "cleaned": "Golf GTI / GTD / GTE / R / e-Golf"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Golf (7) Alltrack",
+    "cleaned": "Golf Alltrack"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Golf (7) Alltrack",
+    "cleaned": "Golf Alltrack"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Golf (7) Variant / SW",
+    "cleaned": "Golf Variant / SW"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Golf (7) Variant / SW",
+    "cleaned": "Golf Variant / SW"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Golf (8)",
+    "cleaned": "Golf"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Golf (8)",
+    "cleaned": "Golf"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Golf (8) Variant / SW",
+    "cleaned": "Golf Variant / SW"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Golf (8) Variant / SW",
+    "cleaned": "Golf Variant / SW"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "ID.3 / ID.3 GTX (Typ E1)",
+    "cleaned": "ID.3 / ID.3 GTX"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "ID.3 / ID.3 GTX (Typ E1)",
+    "cleaned": "ID.3 / ID.3 GTX"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Jetta (1) / (2)",
+    "cleaned": "Jetta /"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Jetta (1) / (2) GT/ TD",
+    "cleaned": "Jetta / GT/ TD"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Jetta (Russia)",
+    "cleaned": "Jetta"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Passat (1)",
+    "cleaned": "Passat"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Passat (1) Variant",
+    "cleaned": "Passat Variant"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Passat (2)",
+    "cleaned": "Passat"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Passat (2) Variant",
+    "cleaned": "Passat Variant"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Passat (3) / (4)",
+    "cleaned": "Passat /"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Passat (3) / (4) Variant",
+    "cleaned": "Passat / Variant"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Passat (5)",
+    "cleaned": "Passat"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Passat (5) Variant",
+    "cleaned": "Passat Variant"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Passat (5)",
+    "cleaned": "Passat"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Passat (5)",
+    "cleaned": "Passat"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Passat (5)  W8",
+    "cleaned": "Passat W8"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Passat (5)  W8",
+    "cleaned": "Passat W8"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Passat (5) Variant",
+    "cleaned": "Passat Variant"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Passat (5) Variant",
+    "cleaned": "Passat Variant"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Passat (6)",
+    "cleaned": "Passat"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Passat (6)",
+    "cleaned": "Passat"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Passat (6) Variant/ SW",
+    "cleaned": "Passat Variant/ SW"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Passat (6) Variant/ SW",
+    "cleaned": "Passat Variant/ SW"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Passat (7)",
+    "cleaned": "Passat"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Passat (7)",
+    "cleaned": "Passat"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Passat (7) Variant / SW",
+    "cleaned": "Passat Variant / SW"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Passat (7) Variant / SW",
+    "cleaned": "Passat Variant / SW"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Passat (7)",
+    "cleaned": "Passat"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Passat (7)",
+    "cleaned": "Passat"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Passat (7) Alltrack",
+    "cleaned": "Passat Alltrack"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Passat (7) Alltrack",
+    "cleaned": "Passat Alltrack"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Passat (7) Variant / SW",
+    "cleaned": "Passat Variant / SW"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Passat (7) Variant / SW",
+    "cleaned": "Passat Variant / SW"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Passat (8)",
+    "cleaned": "Passat"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Passat (8)",
+    "cleaned": "Passat"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Passat (8) Alltrack",
+    "cleaned": "Passat Alltrack"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Passat (8) Alltrack",
+    "cleaned": "Passat Alltrack"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Passat (8) Variant/ SW",
+    "cleaned": "Passat Variant/ SW"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Passat (8) Variant/ SW",
+    "cleaned": "Passat Variant/ SW"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Passat (9) SW / Variant",
+    "cleaned": "Passat SW / Variant"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Passat (9) SW / Variant",
+    "cleaned": "Passat SW / Variant"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Polo (1)",
+    "cleaned": "Polo"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Polo (2)",
+    "cleaned": "Polo"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Polo (2)",
+    "cleaned": "Polo"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Polo (2)",
+    "cleaned": "Polo"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Polo (3)",
+    "cleaned": "Polo"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Polo (3) Flight/ Classic",
+    "cleaned": "Polo Flight/ Classic"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Polo (3) Flight/ Classic",
+    "cleaned": "Polo Flight/ Classic"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Polo (3) Variant",
+    "cleaned": "Polo Variant"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Polo (3) Variant",
+    "cleaned": "Polo Variant"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Polo (4)",
+    "cleaned": "Polo"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Polo (4)",
+    "cleaned": "Polo"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Polo (4)",
+    "cleaned": "Polo"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Polo (4)",
+    "cleaned": "Polo"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Polo (5) / Cross Polo",
+    "cleaned": "Polo / Cross Polo"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Polo (5) / Cross Polo",
+    "cleaned": "Polo / Cross Polo"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Polo (5) TDI /GTI Limited Edition",
+    "cleaned": "Polo TDI /GTI Limited Edition"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Polo (5) TDI /GTI Limited Edition",
+    "cleaned": "Polo TDI /GTI Limited Edition"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Polo (6) / Cross Polo",
+    "cleaned": "Polo / Cross Polo"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Polo (6) / Cross Polo",
+    "cleaned": "Polo / Cross Polo"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Polo (7)",
+    "cleaned": "Polo"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Polo (7)",
+    "cleaned": "Polo"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Scirocco (1)",
+    "cleaned": "Scirocco"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Scirocco (2)",
+    "cleaned": "Scirocco"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Scirocco (3)",
+    "cleaned": "Scirocco"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Scirocco (3)",
+    "cleaned": "Scirocco"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Sharan (1)",
+    "cleaned": "Sharan"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Sharan (1)",
+    "cleaned": "Sharan"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Sharan (1)",
+    "cleaned": "Sharan"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Sharan (2)",
+    "cleaned": "Sharan"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Sharan (2)",
+    "cleaned": "Sharan"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Taos (Russia)",
+    "cleaned": "Taos"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Teramont (Russia) / Atlas (USA)",
+    "cleaned": "Teramont / Atlas"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Tiguan (1)",
+    "cleaned": "Tiguan"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Tiguan (1)",
+    "cleaned": "Tiguan"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Tiguan (2)",
+    "cleaned": "Tiguan"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Tiguan (2)",
+    "cleaned": "Tiguan"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Tiguan (2) Allspace",
+    "cleaned": "Tiguan Allspace"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Tiguan (2) Allspace",
+    "cleaned": "Tiguan Allspace"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Tiguan (2)",
+    "cleaned": "Tiguan"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Tiguan (2)",
+    "cleaned": "Tiguan"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Tiguan (2) Allspace",
+    "cleaned": "Tiguan Allspace"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Tiguan (2) Allspace",
+    "cleaned": "Tiguan Allspace"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Tiguan (3)",
+    "cleaned": "Tiguan"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Tiguan (3)",
+    "cleaned": "Tiguan"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Touareg (1)",
+    "cleaned": "Touareg"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Touareg (1)",
+    "cleaned": "Touareg"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Touareg (1)",
+    "cleaned": "Touareg"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Touareg (1)",
+    "cleaned": "Touareg"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Touareg (2)",
+    "cleaned": "Touareg"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Touareg (2)",
+    "cleaned": "Touareg"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Touareg (3)",
+    "cleaned": "Touareg"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Touareg (3)",
+    "cleaned": "Touareg"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Touran (1)",
+    "cleaned": "Touran"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Touran (1)",
+    "cleaned": "Touran"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Touran (1)",
+    "cleaned": "Touran"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Touran (1)",
+    "cleaned": "Touran"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Touran (1)",
+    "cleaned": "Touran"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Touran (1)",
+    "cleaned": "Touran"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Touran (1) / CrossTouran (1)",
+    "cleaned": "Touran / CrossTouran"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Touran (1) / CrossTouran (1)",
+    "cleaned": "Touran / CrossTouran"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Touran (2) / CrossTouran (2)",
+    "cleaned": "Touran / CrossTouran"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Touran (2) / CrossTouran (2)",
+    "cleaned": "Touran / CrossTouran"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Touran (3)",
+    "cleaned": "Touran"
+  },
+  {
+    "brand": "VOLKSWAGEN",
+    "original": "Touran (3)",
+    "cleaned": "Touran"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "C30 (1)",
+    "cleaned": "C30"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "C30 (1)",
+    "cleaned": "C30"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "C30 (1)",
+    "cleaned": "C30"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "C30 (1)",
+    "cleaned": "C30"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "C30 E (environnemental)",
+    "cleaned": "C30 E"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "C30 E (environnemental)",
+    "cleaned": "C30 E"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "C40 (1)",
+    "cleaned": "C40"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "C40 (1)",
+    "cleaned": "C40"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "C70 (1)",
+    "cleaned": "C70"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "C70 (1)",
+    "cleaned": "C70"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "C70 (2)",
+    "cleaned": "C70"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "C70 (2)",
+    "cleaned": "C70"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "S40 (1)",
+    "cleaned": "S40"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "S40 (2)",
+    "cleaned": "S40"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "S40 (2)",
+    "cleaned": "S40"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "S40 (2)",
+    "cleaned": "S40"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "S40 (2)",
+    "cleaned": "S40"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "S60 (1)",
+    "cleaned": "S60"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "S60 (1)",
+    "cleaned": "S60"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "S60 (1)",
+    "cleaned": "S60"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "S60 (2)",
+    "cleaned": "S60"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "S60 (2)",
+    "cleaned": "S60"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "S80 (1)",
+    "cleaned": "S80"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "S80 (1)",
+    "cleaned": "S80"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "S80 (1)",
+    "cleaned": "S80"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "S80 (2)",
+    "cleaned": "S80"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "S80 (2)",
+    "cleaned": "S80"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "S90 (1)",
+    "cleaned": "S90"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "S90 (1)",
+    "cleaned": "S90"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "V40 (1)",
+    "cleaned": "V40"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "V40 (2)",
+    "cleaned": "V40"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "V40 (2)",
+    "cleaned": "V40"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "V40 Cross Country (2)",
+    "cleaned": "V40 Cross Country"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "V40 Cross Country (2)",
+    "cleaned": "V40 Cross Country"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "V50 (1)",
+    "cleaned": "V50"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "V50 (1)",
+    "cleaned": "V50"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "V50 (1)",
+    "cleaned": "V50"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "V50 (1)",
+    "cleaned": "V50"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "V60 (1)",
+    "cleaned": "V60"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "V60 (1)",
+    "cleaned": "V60"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "V60 (1)",
+    "cleaned": "V60"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "V60 (1)",
+    "cleaned": "V60"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "V60 Cross Country (1)",
+    "cleaned": "V60 Cross Country"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "V60 Cross Country (1)",
+    "cleaned": "V60 Cross Country"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "V60 Cross Country (1)",
+    "cleaned": "V60 Cross Country"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "V60 Cross Country (1)",
+    "cleaned": "V60 Cross Country"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "V70 (1)",
+    "cleaned": "V70"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "V70 (1)",
+    "cleaned": "V70"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "V70 (1)",
+    "cleaned": "V70"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "V70 (2)",
+    "cleaned": "V70"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "V70 (2)",
+    "cleaned": "V70"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "V70XC (1)",
+    "cleaned": "V70XC"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "V90 (1)",
+    "cleaned": "V90"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "V90 (1)",
+    "cleaned": "V90"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "V90 Cross Country (1)",
+    "cleaned": "V90 Cross Country"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "V90 Cross Country (1)",
+    "cleaned": "V90 Cross Country"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "XC40 (1)",
+    "cleaned": "XC40"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "XC60 (1)",
+    "cleaned": "XC60"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "XC40 (1)",
+    "cleaned": "XC40"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "XC60 (1)",
+    "cleaned": "XC60"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "XC60 (1)",
+    "cleaned": "XC60"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "XC60 (1)",
+    "cleaned": "XC60"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "XC60 (2)",
+    "cleaned": "XC60"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "XC60 (2)",
+    "cleaned": "XC60"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "XC60 (2)",
+    "cleaned": "XC60"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "XC60 (2)",
+    "cleaned": "XC60"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "XC70 (1)",
+    "cleaned": "XC70"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "XC70 (1)",
+    "cleaned": "XC70"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "XC70 (2)",
+    "cleaned": "XC70"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "XC70 (2)",
+    "cleaned": "XC70"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "XC90 (1)",
+    "cleaned": "XC90"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "XC90 (1)",
+    "cleaned": "XC90"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "XC90 (1)",
+    "cleaned": "XC90"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "XC90 (1)",
+    "cleaned": "XC90"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "XC90 (1)",
+    "cleaned": "XC90"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "XC90 (1)",
+    "cleaned": "XC90"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "XC90 (1)",
+    "cleaned": "XC90"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "XC90 (2)",
+    "cleaned": "XC90"
+  },
+  {
+    "brand": "VOLVO",
+    "original": "XC90 (2)",
+    "cleaned": "XC90"
+  }
+]
