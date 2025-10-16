@@ -1045,31 +1045,82 @@ export interface ApiWiperDataWiperData extends Struct.CollectionTypeSchema {
   };
 }
 
-export interface ApiWiperProductWiperProduct
+export interface ApiWipersPositionWipersPosition
   extends Struct.CollectionTypeSchema {
-  collectionName: 'wiper_products';
+  collectionName: 'wipers_positions';
   info: {
-    displayName: 'WiperProduct';
-    pluralName: 'wiper-products';
-    singularName: 'wiper-product';
+    displayName: 'WipersPosition';
+    pluralName: 'wipers-positions';
+    singularName: 'wipers-position';
   };
   options: {
     draftAndPublish: true;
   };
   attributes: {
+    category: Schema.Attribute.String;
     createdAt: Schema.Attribute.DateTime;
     createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
+    description: Schema.Attribute.Text;
+    isActive: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<true>;
     locale: Schema.Attribute.String & Schema.Attribute.Private;
     localizations: Schema.Attribute.Relation<
       'oneToMany',
-      'api::wiper-product.wiper-product'
+      'api::wipers-position.wipers-position'
     > &
       Schema.Attribute.Private;
+    name: Schema.Attribute.String & Schema.Attribute.Required;
     publishedAt: Schema.Attribute.DateTime;
+    ref: Schema.Attribute.String;
+    slug: Schema.Attribute.UID<'name'>;
+    sort: Schema.Attribute.Integer;
+    sortOrder: Schema.Attribute.Integer;
     updatedAt: Schema.Attribute.DateTime;
     updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
+    usageCount: Schema.Attribute.Integer;
+  };
+}
+
+export interface ApiWipersProductWipersProduct
+  extends Struct.CollectionTypeSchema {
+  collectionName: 'wipers_products';
+  info: {
+    displayName: 'WipersProduct';
+    pluralName: 'wipers-products';
+    singularName: 'wipers-product';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  attributes: {
+    brand: Schema.Attribute.Relation<'manyToOne', 'api::brand.brand'>;
+    category: Schema.Attribute.String;
+    constructionYearEnd: Schema.Attribute.String;
+    constructionYearStart: Schema.Attribute.String;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    description: Schema.Attribute.Text;
+    direction: Schema.Attribute.String;
+    isActive: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<true>;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::wipers-product.wipers-product'
+    > &
+      Schema.Attribute.Private;
+    model: Schema.Attribute.Relation<'manyToOne', 'api::model.model'>;
+    name: Schema.Attribute.String & Schema.Attribute.Required;
+    publishedAt: Schema.Attribute.DateTime;
+    ref: Schema.Attribute.String & Schema.Attribute.Required;
+    slug: Schema.Attribute.UID<'name'>;
+    source: Schema.Attribute.String;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    wiperBrand: Schema.Attribute.String;
+    wipersPositions: Schema.Attribute.JSON;
   };
 }
 
@@ -1602,7 +1653,8 @@ declare module '@strapi/strapi' {
       'api::vehicle-type.vehicle-type': ApiVehicleTypeVehicleType;
       'api::vehicle.vehicle': ApiVehicleVehicle;
       'api::wiper-data.wiper-data': ApiWiperDataWiperData;
-      'api::wiper-product.wiper-product': ApiWiperProductWiperProduct;
+      'api::wipers-position.wipers-position': ApiWipersPositionWipersPosition;
+      'api::wipers-product.wipers-product': ApiWipersProductWipersProduct;
       'plugin::content-releases.release': PluginContentReleasesRelease;
       'plugin::content-releases.release-action': PluginContentReleasesReleaseAction;
       'plugin::i18n.locale': PluginI18NLocale;

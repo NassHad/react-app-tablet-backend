@@ -18,12 +18,10 @@
     "modelCleanupAt": "2025-10-14T08:24:51.748Z",
     "modelCleanupChanges": 7,
     "totalModelsProcessed": 1443,
-    "totalModelsChanged": 122,
+    "totalModelsChanged": 30,
     "specificModelFixesAt": "2025-10-14T08:26:29.011Z",
     "specificModelFixesCount": 1,
-    "totalModelsFixed": 9,
-    "focusedCleanupAt": "2025-10-14T08:42:49.136Z",
-    "focusedCleanupChanges": 43
+    "totalModelsFixed": 9
   },
   "brands": {
     "ABARTH": [
@@ -83,7 +81,7 @@
             "cotePassager": null
           },
           "arriere": "VS 06",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS06 290MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS06 500MM"
         },
         "notes": "Consolidated from 6 entries: LHD, RHD, LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -200,7 +198,7 @@
             "monoBalaisDescription": "VALEO BALAI E.G. VS 36"
           },
           "arriere": "VS 09",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS09 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS09 650MM"
         },
         "notes": "Consolidated from 2 entries: LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -240,7 +238,7 @@
       },
       {
         "id": "4980",
-        "model": "33",
+        "model": "33 Q4",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -362,7 +360,7 @@
       },
       {
         "id": "4975",
-        "model": "155",
+        "model": "155 Q4",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -503,7 +501,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 34",
-          "arriereDescription": "VALEO BALAI E.G. STD VS34 510MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS34 1200MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -620,7 +618,7 @@
             "cotePassager": null
           },
           "arriere": "VS 11",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS11 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS11 750MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -679,7 +677,7 @@
             "cotePassager": null
           },
           "arriere": "VS 09",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS09 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS09 650MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -854,7 +852,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 31"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "notes": "Consolidated from 3 entries: LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -1006,7 +1004,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 35"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "notes": "Consolidated from 5 entries: LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -1036,7 +1034,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -1098,7 +1096,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 36"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -1127,7 +1125,7 @@
             "cotePassager": null
           },
           "arriere": "VS 10",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS10 335MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS10 700MM"
         },
         "notes": "Consolidated from 4 entries: LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -1157,7 +1155,7 @@
             "cotePassager": null
           },
           "arriere": "VS 05",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS05 280MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS05 450MM"
         },
         "notes": "Consolidated from 8 entries: LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -1304,7 +1302,7 @@
             "cotePassager": null
           },
           "arriere": "VS 05",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS05 280MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS05 450MM"
         },
         "notes": "Consolidated from 9 entries: LHD, RHD, LHD/RHD, LHD, RHD, LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -1607,7 +1605,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 35"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "notes": "Consolidated from 3 entries: LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -1668,7 +1666,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -1697,7 +1695,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 36"
           },
           "arriere": "VS 35",
-          "arriereDescription": "VALEO BALAI E.G. STD VS35 530MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS35 1250MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -1726,7 +1724,7 @@
             "cotePassager": null
           },
           "arriere": "VS 10",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS10 335MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS10 700MM"
         },
         "notes": "Consolidated from 4 entries: LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -1756,7 +1754,7 @@
             "cotePassager": null
           },
           "arriere": "VS 05",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS05 280MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS05 450MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -1786,7 +1784,7 @@
             "cotePassager": null
           },
           "arriere": "VS 10",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS10 335MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS10 700MM"
         },
         "notes": "Consolidated from 8 entries: LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -1816,7 +1814,7 @@
             "cotePassager": null
           },
           "arriere": "VS 10",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS10 335MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS10 700MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -1996,7 +1994,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 34",
-          "arriereDescription": "VALEO BALAI E.G. STD VS34 510MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS34 1200MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -2027,7 +2025,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 31"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -2149,7 +2147,7 @@
             "cotePassager": null
           },
           "arriere": "VS 05",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS05 280MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS05 450MM"
         },
         "notes": "Consolidated from 4 entries: LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -2235,7 +2233,7 @@
             "cotePassager": null
           },
           "arriere": "VS 10",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS10 335MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS10 700MM"
         },
         "notes": "Consolidated from 7 entries: LHD, RHD, LHD/RHD, LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -2265,7 +2263,7 @@
             "cotePassager": null
           },
           "arriere": "VS 10",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS10 335MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS10 700MM"
         },
         "notes": "Consolidated from 8 entries: LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -2301,7 +2299,7 @@
       },
       {
         "id": "8342",
-        "model": "2-Series Active",
+        "model": "2-Series Active Tourer",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -2330,7 +2328,7 @@
       },
       {
         "id": "9668",
-        "model": "2-Series Active",
+        "model": "2-Series Active Tourer",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -2358,7 +2356,7 @@
       },
       {
         "id": "8417",
-        "model": "2-Series Gran",
+        "model": "2-Series Gran Tourer",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -2381,7 +2379,7 @@
             "cotePassager": null
           },
           "arriere": "VS 05",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS05 280MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS05 450MM"
         },
         "notes": "Consolidated from 4 entries: LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -2444,7 +2442,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "notes": "Consolidated from 3 entries: LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -2625,7 +2623,7 @@
             "cotePassager": null
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -2912,7 +2910,7 @@
             "cotePassager": null
           },
           "arriere": "VS 06",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS06 290MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS06 500MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -2942,7 +2940,7 @@
             "cotePassager": null
           },
           "arriere": "VS 10",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS10 335MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS10 700MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -2972,7 +2970,7 @@
             "cotePassager": null
           },
           "arriere": "VS 10",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS10 335MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS10 700MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -3004,7 +3002,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 12",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS12 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS12 800MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -3033,7 +3031,7 @@
             "cotePassager": null
           },
           "arriere": "VS 10",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS10 335MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS10 700MM"
         },
         "notes": "Consolidated from 4 entries: LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -3092,7 +3090,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 36"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -3242,7 +3240,7 @@
     "CADILLAC": [
       {
         "id": "8499",
-        "model": "ATS / ATS",
+        "model": "ATS / ATS Coupé",
         "picto1": "",
         "picto2": "",
         "direction": "LHD",
@@ -3298,7 +3296,7 @@
       },
       {
         "id": "6966",
-        "model": "CTS / CTS",
+        "model": "CTS / CTS Coupé",
         "picto1": "",
         "picto2": "(Hook connection)",
         "direction": "LHD/RHD",
@@ -3327,7 +3325,7 @@
       },
       {
         "id": "7354",
-        "model": "CTS / CTS",
+        "model": "CTS / CTS Coupé",
         "picto1": "",
         "picto2": "(Hook connection)",
         "direction": "LHD/RHD",
@@ -3643,7 +3641,7 @@
             "cotePassager": null
           },
           "arriere": "VS 09",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS09 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS09 650MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -3907,7 +3905,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 33"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -4212,7 +4210,7 @@
     "CHRYSLER": [
       {
         "id": "5913",
-        "model": "300",
+        "model": "300 M",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -4242,7 +4240,7 @@
       },
       {
         "id": "6515",
-        "model": "300",
+        "model": "300 C",
         "picto1": "4 Doors",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -4324,7 +4322,7 @@
             "cotePassager": null
           },
           "arriere": "VS 06",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS06 290MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS06 500MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -4566,7 +4564,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 38"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -4655,7 +4653,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 17",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS17 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS17 950MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -4684,7 +4682,7 @@
             "cotePassager": null
           },
           "arriere": "VS 01",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS01 240MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS01 300MM"
         },
         "wiperBrand": "Valeo"
       }
@@ -4770,7 +4768,7 @@
             "monoBalaisDescription": "VALEO BALAI E.G. VS 36"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "notes": "Consolidated from 3 entries: LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -4800,7 +4798,7 @@
             "monoBalaisDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -4892,7 +4890,7 @@
             "cotePassager": null
           },
           "arriere": "VS 11",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS11 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS11 750MM"
         },
         "notes": "Consolidated from 4 entries: LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -4922,7 +4920,7 @@
             "cotePassager": null
           },
           "arriere": "VS 11",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS11 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS11 750MM"
         },
         "notes": "Consolidated from 10 entries: LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -4952,7 +4950,7 @@
             "monoBalaisDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 33",
-          "arriereDescription": "VALEO BALAI E.G. STD VS33 480MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS33 1150MM"
         },
         "notes": "Consolidated from 3 entries: LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -4981,7 +4979,7 @@
             "monoBalaisDescription": "VALEO BALAI E.G. VS 38"
           },
           "arriere": "VS 08",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS08 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS08 600MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -5040,7 +5038,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 06",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS06 290MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS06 500MM"
         },
         "notes": "Consolidated from 3 entries: LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -5183,7 +5181,7 @@
             "cotePassager": null
           },
           "arriere": "VS 07",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS07 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS07 550MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -5212,7 +5210,7 @@
             "cotePassager": null
           },
           "arriere": "VS 07",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS07 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS07 550MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -5241,7 +5239,7 @@
             "cotePassager": null
           },
           "arriere": "VS 06",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS06 290MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS06 500MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -5270,7 +5268,7 @@
             "cotePassager": null
           },
           "arriere": "VS 06",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS06 290MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS06 500MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -5390,7 +5388,7 @@
             "cotePassager": null
           },
           "arriere": "VS 12",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS12 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS12 800MM"
         },
         "notes": "Consolidated from 8 entries: LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -5420,7 +5418,7 @@
             "cotePassager": null
           },
           "arriere": "VS 12",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS12 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS12 800MM"
         },
         "notes": "Consolidated from 4 entries: LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -5482,7 +5480,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 06",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS06 290MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS06 500MM"
         },
         "notes": "Consolidated from 2 entries: LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -5512,7 +5510,7 @@
             "cotePassager": null
           },
           "arriere": "VS 17",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS17 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS17 950MM"
         },
         "notes": "Consolidated from 4 entries: LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -5577,7 +5575,7 @@
       },
       {
         "id": "7332",
-        "model": "C5 Tourer / Cross",
+        "model": "C5 Tourer / Cross Tourer",
         "picto1": "Estate",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -5600,7 +5598,7 @@
             "cotePassager": null
           },
           "arriere": "VS 02",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS02 240MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS02 350MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -5686,7 +5684,7 @@
             "cotePassager": null
           },
           "arriere": "VS 11",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS11 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS11 750MM"
         },
         "notes": "Consolidated from 2 entries: LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -5716,7 +5714,7 @@
             "monoBalaisDescription": "VALEO BALAI E.G. VS 33"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -5804,7 +5802,7 @@
             "monoBalaisDescription": "VALEO BALAI E.G. VS 37"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -5890,7 +5888,7 @@
             "cotePassager": null
           },
           "arriere": "VS 11",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS11 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS11 750MM"
         },
         "notes": "Consolidated from 8 entries: RHD, RHD, LHD, LHD, LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -6007,7 +6005,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "notes": "Consolidated from 3 entries: LHD, LHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -6037,7 +6035,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 31"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "notes": "Consolidated from 4 entries: LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -6213,7 +6211,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "notes": "Consolidated from 2 entries: LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -6243,13 +6241,13 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
       {
         "id": "4095",
-        "model": "Visa/ Visa",
+        "model": "Visa/ Visa 2",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -6271,7 +6269,7 @@
             "monoBalaisDescription": "VALEO BALAI E.G. VS 33"
           },
           "arriere": "VS 33",
-          "arriereDescription": "VALEO BALAI E.G. STD VS33 480MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS33 1150MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -6332,7 +6330,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -6393,7 +6391,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 33"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "notes": "Consolidated from 2 entries: LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -6425,7 +6423,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "notes": "Consolidated from 3 entries: LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -6457,7 +6455,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 37"
           },
           "arriere": "VS 17",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS17 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS17 950MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -6486,7 +6484,7 @@
             "cotePassager": null
           },
           "arriere": "VS 17",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS17 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS17 950MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -6518,7 +6516,7 @@
             "cotePassager": null
           },
           "arriere": "VS 05",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS05 280MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS05 450MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -6606,7 +6604,7 @@
             "cotePassager": null
           },
           "arriere": "VS 05",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS05 280MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS05 450MM"
         },
         "notes": "Consolidated from 6 entries: LHD, RHD, LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -6669,7 +6667,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 31"
           },
           "arriere": "VS 03",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS03 260MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS03 400MM"
         },
         "notes": "Consolidated from 5 entries: LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -6697,7 +6695,7 @@
             "cotePassager": null
           },
           "arriere": "VS 06",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS06 290MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS06 500MM"
         },
         "notes": "Consolidated from 6 entries: LHD, LHD, LHD, LHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -6759,7 +6757,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 09",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS09 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS09 650MM"
         },
         "notes": "Consolidated from 4 entries: LHD/RHD, LHD, RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -6791,7 +6789,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 11",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS11 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS11 750MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -6820,7 +6818,7 @@
             "cotePassager": null
           },
           "arriere": "VS 06",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS06 290MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS06 500MM"
         },
         "notes": "Consolidated from 7 entries: LHD, RHD, LHD, LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -6907,7 +6905,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 11",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS11 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS11 750MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -6997,7 +6995,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 06",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS06 290MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS06 500MM"
         },
         "notes": "Consolidated from 2 entries: LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -7182,7 +7180,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 33"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -7213,7 +7211,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 33"
           },
           "arriere": "VS 33",
-          "arriereDescription": "VALEO BALAI E.G. STD VS33 480MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS33 1150MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -7336,13 +7334,13 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "wiperBrand": "Valeo"
       },
       {
         "id": "5769",
-        "model": "Nubira",
+        "model": "Nubira /",
         "picto1": "4 Doors",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -7373,7 +7371,7 @@
       },
       {
         "id": "5770",
-        "model": "Nubira",
+        "model": "Nubira /",
         "picto1": "5 Doors",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -7398,7 +7396,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -8299,7 +8297,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 33"
           },
           "arriere": "VS 08",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS08 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS08 600MM"
         },
         "wiperBrand": "Valeo"
       }
@@ -8330,14 +8328,14 @@
             "cotePassager": null
           },
           "arriere": "VS 06",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS06 290MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS06 500MM"
         },
         "notes": "Consolidated from 4 entries: LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
       },
       {
         "id": "8470",
-        "model": "3",
+        "model": "3 Cabrio",
         "picto1": "Convertible",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -8424,7 +8422,7 @@
       },
       {
         "id": "8986",
-        "model": "7 Crossback / DS",
+        "model": "7 Crossback / DS 7",
         "picto1": "",
         "picto2": "",
         "direction": "LHD",
@@ -8448,13 +8446,13 @@
             "cotePassager": null
           },
           "arriere": "VS 14",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS14 280MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS14 900MM"
         },
         "wiperBrand": "Valeo"
       },
       {
         "id": "8987",
-        "model": "7 Crossback / DS",
+        "model": "7 Crossback / DS 7",
         "picto1": "",
         "picto2": "",
         "direction": "RHD",
@@ -8477,7 +8475,7 @@
             "cotePassager": null
           },
           "arriere": "VS 14",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS14 280MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS14 900MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -8541,7 +8539,7 @@
       },
       {
         "id": "8212",
-        "model": "Dué",
+        "model": "Dué 2",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -8713,14 +8711,14 @@
             "cotePassager": null
           },
           "arriere": "VS 06",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS06 290MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS06 500MM"
         },
         "notes": "Consolidated from 9 entries: LHD, RHD, LHD, RHD, LHD, LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
       },
       {
         "id": "7470",
-        "model": "500",
+        "model": "500 C",
         "picto1": "Convertible",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -8772,14 +8770,14 @@
             "cotePassager": null
           },
           "arriere": "VS 06",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS06 290MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS06 500MM"
         },
         "notes": "Consolidated from 8 entries: LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
       },
       {
         "id": "8116",
-        "model": "500 L Living",
+        "model": "500 L Living / Wagon",
         "picto1": "5 Doors",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -8831,7 +8829,7 @@
             "cotePassager": null
           },
           "arriere": "VS 05",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS05 280MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS05 450MM"
         },
         "notes": "Consolidated from 6 entries: LHD, RHD, LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -9042,7 +9040,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 33"
           },
           "arriere": "VS 34",
-          "arriereDescription": "VALEO BALAI E.G. STD VS34 510MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS34 1200MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -9073,7 +9071,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -9578,7 +9576,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 11",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS11 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS11 750MM"
         },
         "notes": "Consolidated from 4 entries: LHD/RHD, LHD, RHD, LHD",
         "wiperBrand": "Valeo"
@@ -9608,7 +9606,7 @@
             "cotePassager": null
           },
           "arriere": "VS 11",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS11 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS11 750MM"
         },
         "notes": "Consolidated from 8 entries: LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -9729,7 +9727,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 11",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS11 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS11 750MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -9758,7 +9756,7 @@
             "cotePassager": null
           },
           "arriere": "VS 11",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS11 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS11 750MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -9788,7 +9786,7 @@
             "cotePassager": null
           },
           "arriere": "VS 71",
-          "arriereDescription": "VALEO BALAI E.G. PLAT ORIGINE VS71 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS71 1350MM"
         },
         "notes": "Consolidated from 4 entries: LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -9820,7 +9818,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 33"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -9874,7 +9872,7 @@
             "cotePassager": null
           },
           "arriere": "VS 11",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS11 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS11 750MM"
         },
         "notes": "Consolidated from 2 entries: LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -9906,7 +9904,7 @@
             "cotePassager": null
           },
           "arriere": "VS 09",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS09 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS09 650MM"
         },
         "notes": "Consolidated from 6 entries: LHD, RHD, LHD, LHD, LHD, LHD",
         "wiperBrand": "Valeo"
@@ -9964,7 +9962,7 @@
             "cotePassager": null
           },
           "arriere": "VS 09",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS09 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS09 650MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -10142,7 +10140,7 @@
             "cotePassager": null
           },
           "arriere": "VS 05",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS05 280MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS05 450MM"
         },
         "notes": "Consolidated from 4 entries: LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -10205,7 +10203,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 34",
-          "arriereDescription": "VALEO BALAI E.G. STD VS34 510MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS34 1200MM"
         },
         "notes": "Consolidated from 4 entries: LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -10237,7 +10235,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 34",
-          "arriereDescription": "VALEO BALAI E.G. STD VS34 510MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS34 1200MM"
         },
         "notes": "Consolidated from 4 entries: LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -10298,7 +10296,7 @@
             "cotePassager": null
           },
           "arriere": "VS 09",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS09 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS09 650MM"
         },
         "notes": "Consolidated from 3 entries: LHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -10359,7 +10357,7 @@
             "cotePassager": null
           },
           "arriere": "VS 05",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS05 280MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS05 450MM"
         },
         "notes": "Consolidated from 2 entries: LHD, LHD",
         "wiperBrand": "Valeo"
@@ -10390,7 +10388,7 @@
             "cotePassager": null
           },
           "arriere": "VS 02",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS02 240MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS02 350MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -10419,7 +10417,7 @@
             "cotePassager": null
           },
           "arriere": "VS 02",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS02 240MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS02 350MM"
         },
         "notes": "Consolidated from 11 entries: RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -10457,7 +10455,7 @@
       },
       {
         "id": "5625",
-        "model": "Fiesta",
+        "model": "Fiesta / Van",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -10509,7 +10507,7 @@
             "cotePassager": null
           },
           "arriere": "VS 07",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS07 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS07 550MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -10539,7 +10537,7 @@
             "cotePassager": null
           },
           "arriere": "VS 05",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS05 280MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS05 450MM"
         },
         "notes": "Consolidated from 6 entries: LHD, RHD, LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -10658,7 +10656,7 @@
             "cotePassager": null
           },
           "arriere": "VS 07",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS07 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS07 550MM"
         },
         "notes": "Consolidated from 9 entries: LHD/RHD, LHD/RHD, LHD/RHD, LHD, RHD, LHD/RHD, LHD/RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -10688,7 +10686,7 @@
             "cotePassager": null
           },
           "arriere": "VS 05",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS05 280MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS05 450MM"
         },
         "notes": "Consolidated from 6 entries: LHD, RHD, LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -10747,7 +10745,7 @@
             "cotePassager": null
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "notes": "Consolidated from 4 entries: LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -10777,7 +10775,7 @@
             "cotePassager": null
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "notes": "Consolidated from 4 entries: RHD, RHD, RHD, RHD",
         "wiperBrand": "Valeo"
@@ -10807,7 +10805,7 @@
             "cotePassager": null
           },
           "arriere": "VS 10",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS10 335MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS10 700MM"
         },
         "notes": "Consolidated from 12 entries: LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -10866,7 +10864,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 34",
-          "arriereDescription": "VALEO BALAI E.G. STD VS34 510MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS34 1200MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -10925,7 +10923,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -10955,7 +10953,7 @@
             "coteConducteurDescription": "VALEO BALAI E.G. VS 37"
           },
           "arriere": "VS 06",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS06 290MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS06 500MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -10984,7 +10982,7 @@
             "cotePassager": null
           },
           "arriere": "VS 06",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS06 290MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS06 500MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -11046,7 +11044,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 36",
-          "arriereDescription": "VALEO BALAI E.G. STD VS36 550MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS36 1300MM"
         },
         "notes": "Consolidated from 2 entries: LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -11109,14 +11107,14 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 33",
-          "arriereDescription": "VALEO BALAI E.G. STD VS33 480MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS33 1150MM"
         },
         "notes": "Consolidated from 3 entries: LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
       },
       {
         "id": "7160",
-        "model": "Mondeo",
+        "model": "Mondeo SW",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -11139,7 +11137,7 @@
             "cotePassager": null
           },
           "arriere": "VS 07",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS07 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS07 550MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -11255,7 +11253,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 33"
           },
           "arriere": "VS 33",
-          "arriereDescription": "VALEO BALAI E.G. STD VS33 480MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS33 1150MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -11544,7 +11542,7 @@
             "cotePassager": null
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "notes": "Consolidated from 6 entries: LHD, RHD, LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -11663,7 +11661,7 @@
             "cotePassager": null
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -11693,7 +11691,7 @@
             "cotePassager": null
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       }
@@ -11843,7 +11841,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 34",
-          "arriereDescription": "VALEO BALAI E.G. STD VS34 510MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS34 1200MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -12208,7 +12206,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "notes": "Consolidated from 3 entries: LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -12270,7 +12268,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 33"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -12364,14 +12362,14 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 30"
           },
           "arriere": "VS 09",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS09 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS09 650MM"
         },
         "notes": "Consolidated from 2 entries: LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
       },
       {
         "id": "7352",
-        "model": "Civic",
+        "model": "Civic Hybrid",
         "picto1": "4 Doors",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -12488,7 +12486,7 @@
             "cotePassager": null
           },
           "arriere": "VS 05",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS05 280MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS05 450MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -12905,7 +12903,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 33"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -12964,7 +12962,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 31"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -13149,7 +13147,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 34",
-          "arriereDescription": "VALEO BALAI E.G. STD VS34 510MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS34 1200MM"
         },
         "notes": "Consolidated from 6 entries: LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -13270,7 +13268,7 @@
             "cotePassager": null
           },
           "arriere": "VS 09",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS09 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS09 650MM"
         },
         "notes": "Consolidated from 4 entries: LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -13332,7 +13330,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 34",
-          "arriereDescription": "VALEO BALAI E.G. STD VS34 510MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS34 1200MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -13509,7 +13507,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "notes": "Consolidated from 3 entries: LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -13657,7 +13655,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 31"
           },
           "arriere": "VS 09",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS09 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS09 650MM"
         },
         "notes": "Consolidated from 6 entries: LHD, RHD, LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -13817,7 +13815,7 @@
       },
       {
         "id": "9616",
-        "model": "Ioniq",
+        "model": "Ioniq 5",
         "picto1": "5 Doors",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -13870,7 +13868,7 @@
             "cotePassager": null
           },
           "arriere": "VS 09",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS09 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS09 650MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -14110,7 +14108,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "notes": "Consolidated from 2 entries: LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -14230,7 +14228,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -14259,7 +14257,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 36"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -14378,7 +14376,7 @@
             "cotePassager": null
           },
           "arriere": "VS 05",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS05 280MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS05 450MM"
         },
         "notes": "Consolidated from 4 entries: LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -14658,7 +14656,7 @@
       },
       {
         "id": "9547",
-        "model": "D-Max N60",
+        "model": "D-Max N60 F",
         "picto1": "(Except N60 B / BB)",
         "picto2": "(TopLock connection)",
         "direction": "LHD/RHD",
@@ -14768,7 +14766,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -15011,7 +15009,7 @@
       },
       {
         "id": "8367",
-        "model": "XE / XE",
+        "model": "XE / XE R",
         "picto1": "4 Doors",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -15040,7 +15038,7 @@
       },
       {
         "id": "7299",
-        "model": "XF / XF",
+        "model": "XF / XF R",
         "picto1": "4 Doors",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -15092,7 +15090,7 @@
             "cotePassager": null
           },
           "arriere": "VS 09",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS09 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS09 650MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -15126,7 +15124,7 @@
       },
       {
         "id": "5471",
-        "model": "XK",
+        "model": "XK 8",
         "picto1": "Coupé",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -15211,7 +15209,7 @@
             "cotePassager": null
           },
           "arriere": "VS 02",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS02 240MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS02 350MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -15657,7 +15655,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 30"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -15688,7 +15686,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 30"
           },
           "arriere": "VS 09",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS09 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS09 650MM"
         },
         "wiperBrand": "Valeo"
       }
@@ -15873,7 +15871,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 37"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -16208,7 +16206,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -16244,7 +16242,7 @@
       },
       {
         "id": "9712",
-        "model": "Niro / Niro",
+        "model": "Niro / Niro EV",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -16330,7 +16328,7 @@
       },
       {
         "id": "8704",
-        "model": "Optima",
+        "model": "Optima SW",
         "picto1": "Estate",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -16419,7 +16417,7 @@
       },
       {
         "id": "8983",
-        "model": "Picanto ph1 / Ph2 2024",
+        "model": "Picanto ph1 / Ph2 2024>",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -16474,7 +16472,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -16604,7 +16602,7 @@
       },
       {
         "id": "7413",
-        "model": "Soul / Soul",
+        "model": "Soul / Soul EV",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -16658,7 +16656,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -16716,7 +16714,7 @@
             "cotePassager": null
           },
           "arriere": "VS 09",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS09 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS09 650MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -16870,7 +16868,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 11",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS11 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS11 750MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -17078,7 +17076,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -17109,7 +17107,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 33"
           },
           "arriere": "VS 34",
-          "arriereDescription": "VALEO BALAI E.G. STD VS34 510MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS34 1200MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -17169,7 +17167,7 @@
             "cotePassager": null
           },
           "arriere": "VS 06",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS06 290MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS06 500MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -17315,7 +17313,7 @@
             "cotePassager": null
           },
           "arriere": "VS 11",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS11 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS11 750MM"
         },
         "notes": "Consolidated from 2 entries: LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -17552,7 +17550,7 @@
             "cotePassager": null
           },
           "arriere": "VS 01",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS01 240MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS01 300MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -17584,7 +17582,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "notes": "Consolidated from 3 entries: LHD, RHD, LHD",
         "wiperBrand": "Valeo"
@@ -17616,7 +17614,7 @@
             "cotePassager": null
           },
           "arriere": "VS 05",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS05 280MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS05 450MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -17683,7 +17681,7 @@
       },
       {
         "id": "7367",
-        "model": "Discovery",
+        "model": "Discovery /",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -17733,7 +17731,7 @@
             "cotePassager": null
           },
           "arriere": "VS 10",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS10 335MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS10 700MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -17855,7 +17853,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -18001,7 +17999,7 @@
             "cotePassager": null
           },
           "arriere": "VS 10",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS10 335MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS10 700MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -18157,7 +18155,7 @@
       },
       {
         "id": "7896",
-        "model": "GS 300h/450h/GS",
+        "model": "GS 300h/450h/GS F",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -18658,7 +18656,7 @@
     "LINCOLN": [
       {
         "id": "4201",
-        "model": "Mark",
+        "model": "Mark 8",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -18900,7 +18898,7 @@
     "MAXUS": [
       {
         "id": "10156",
-        "model": "eDeliver",
+        "model": "eDeliver 3",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -18929,7 +18927,7 @@
       },
       {
         "id": "9883",
-        "model": "Deliver",
+        "model": "Deliver 9",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -18958,7 +18956,7 @@
       },
       {
         "id": "10154",
-        "model": "T90 / T90",
+        "model": "T90 / T90 EV",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -19109,7 +19107,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "notes": "Consolidated from 2 entries: LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -19172,7 +19170,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 34",
-          "arriereDescription": "VALEO BALAI E.G. STD VS34 510MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS34 1200MM"
         },
         "notes": "Consolidated from 3 entries: LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -19204,7 +19202,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -19235,7 +19233,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 33"
           },
           "arriere": "VS 33",
-          "arriereDescription": "VALEO BALAI E.G. STD VS33 480MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS33 1150MM"
         },
         "notes": "Consolidated from 3 entries: LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -19267,7 +19265,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -19304,7 +19302,7 @@
       },
       {
         "id": "5983",
-        "model": "323",
+        "model": "323 F",
         "picto1": "5 Doors",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -19388,7 +19386,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 33"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "notes": "Consolidated from 6 entries: LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -19479,7 +19477,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 34",
-          "arriereDescription": "VALEO BALAI E.G. STD VS34 510MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS34 1200MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -19632,7 +19630,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 31"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -19663,7 +19661,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 34",
-          "arriereDescription": "VALEO BALAI E.G. STD VS34 510MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS34 1200MM"
         },
         "notes": "Consolidated from 2 entries: LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -19846,7 +19844,7 @@
             "cotePassager": null
           },
           "arriere": "VS 12",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS12 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS12 800MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -19937,7 +19935,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 34",
-          "arriereDescription": "VALEO BALAI E.G. STD VS34 510MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS34 1200MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -19968,7 +19966,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 31"
           },
           "arriere": "VS 34",
-          "arriereDescription": "VALEO BALAI E.G. STD VS34 510MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS34 1200MM"
         },
         "notes": "Consolidated from 3 entries: LHD, RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -20000,7 +19998,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -20031,7 +20029,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 37"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -20118,7 +20116,7 @@
             "cotePassager": null
           },
           "arriere": "VS 36",
-          "arriereDescription": "VALEO BALAI E.G. STD VS36 550MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS36 1300MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -20147,7 +20145,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -20208,7 +20206,7 @@
             "monoBalaisDescription": "VALEO BALAI E.G. VS 36"
           },
           "arriere": "VS 09",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS09 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS09 650MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -20327,7 +20325,7 @@
     "MERCEDES-BENZ": [
       {
         "id": "5433",
-        "model": "190 E",
+        "model": "190 E/ D",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -20354,7 +20352,7 @@
       },
       {
         "id": "5435",
-        "model": "200/ 300 E",
+        "model": "200/ 300 E/ D",
         "picto1": "4 Doors",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -20438,7 +20436,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -20531,7 +20529,7 @@
             "cotePassager": null
           },
           "arriere": "VS 09",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS09 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS09 650MM"
         },
         "notes": "Consolidated from 2 entries: LHD, LHD",
         "wiperBrand": "Valeo"
@@ -20561,7 +20559,7 @@
             "cotePassager": null
           },
           "arriere": "VS 09",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS09 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS09 650MM"
         },
         "notes": "Consolidated from 2 entries: RHD, RHD",
         "wiperBrand": "Valeo"
@@ -20591,7 +20589,7 @@
             "cotePassager": null
           },
           "arriere": "VS 02",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS02 240MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS02 350MM"
         },
         "notes": "Consolidated from 6 entries: LHD, RHD, LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -20619,14 +20617,14 @@
             "cotePassager": null
           },
           "arriere": "VS 02",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS02 240MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS02 350MM"
         },
         "notes": "Consolidated from 90 entries: LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD/RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD/RHD, LHD/RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
       },
       {
         "id": "8394",
-        "model": "AMG-GT / GT S / GT",
+        "model": "AMG-GT / GT S / GT R",
         "picto1": "Coupé/Convertible",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -20678,7 +20676,7 @@
             "cotePassager": null
           },
           "arriere": "VS 06",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS06 290MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS06 500MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -20738,7 +20736,7 @@
             "coteConducteurDescription": "VALEO BALAI E.G. VS 37"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -20796,7 +20794,7 @@
             "cotePassager": null
           },
           "arriere": "VS 06",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS06 290MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS06 500MM"
         },
         "notes": "Consolidated from 12 entries: LHD, LHD, RHD, LHD, RHD, LHD, LHD, RHD, LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -20832,7 +20830,7 @@
       },
       {
         "id": "7960",
-        "model": "Citan",
+        "model": "Citan / Combi",
         "picto1": "(Rear: Liftgate)",
         "picto2": "(Hook connection)",
         "direction": "LHD/RHD",
@@ -20855,14 +20853,14 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 36"
           },
           "arriere": "VS 12",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS12 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS12 800MM"
         },
         "notes": "Consolidated from 3 entries: LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
       },
       {
         "id": "7962",
-        "model": "Citan",
+        "model": "Citan / Combi",
         "picto1": "(Rear: Liftgate)",
         "picto2": "(Gen2D connection)",
         "direction": "LHD/RHD",
@@ -20885,14 +20883,14 @@
             "cotePassager": null
           },
           "arriere": "VS 12",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS12 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS12 800MM"
         },
         "notes": "Consolidated from 4 entries: LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
       },
       {
         "id": "9661",
-        "model": "Citan / Citan",
+        "model": "Citan / Citan Van",
         "picto1": "(Rear: Liftgate)",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -20915,7 +20913,7 @@
             "cotePassager": null
           },
           "arriere": "VS 10",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS10 335MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS10 700MM"
         },
         "notes": "Consolidated from 8 entries: LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -21003,7 +21001,7 @@
             "cotePassager": null
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -21035,7 +21033,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 31"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "notes": "Consolidated from 2 entries: LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -21065,7 +21063,7 @@
             "cotePassager": null
           },
           "arriere": "VS 09",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS09 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS09 650MM"
         },
         "notes": "Consolidated from 6 entries: LHD, RHD, LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -21095,7 +21093,7 @@
             "cotePassager": null
           },
           "arriere": "VS 09",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS09 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS09 650MM"
         },
         "notes": "Consolidated from 9 entries: LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD",
         "wiperBrand": "Valeo"
@@ -21154,7 +21152,7 @@
             "cotePassager": null
           },
           "arriere": "VS 09",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS09 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS09 650MM"
         },
         "notes": "Consolidated from 4 entries: LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -21417,7 +21415,7 @@
             "cotePassager": null
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -21601,7 +21599,7 @@
       },
       {
         "id": "9570",
-        "model": "Marvel",
+        "model": "Marvel R",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -21630,7 +21628,7 @@
       },
       {
         "id": "9766",
-        "model": "MG5",
+        "model": "MG5 SW",
         "picto1": "Estate",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -21745,7 +21743,7 @@
       },
       {
         "id": "7384",
-        "model": "Sherpa",
+        "model": "Sherpa /",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -21832,7 +21830,7 @@
     "MINI": [
       {
         "id": "6291",
-        "model": "One/ Cooper/ Cooper",
+        "model": "One/ Cooper/ Cooper S",
         "picto1": "3 Doors",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -21861,7 +21859,7 @@
       },
       {
         "id": "6888",
-        "model": "One/ Cooper/ Cooper",
+        "model": "One/ Cooper/ Cooper S",
         "picto1": "3 Doors",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -21884,14 +21882,14 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 33"
           },
           "arriere": "VS 06",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS06 290MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS06 500MM"
         },
         "notes": "Consolidated from 3 entries: LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
       },
       {
         "id": "7925",
-        "model": "One/ Cooper/ Cooper",
+        "model": "One/ Cooper/ Cooper S",
         "picto1": "3 Doors",
         "picto2": "(Gen2D connection)",
         "direction": "LHD/RHD",
@@ -21914,7 +21912,7 @@
             "cotePassager": null
           },
           "arriere": "VS 06",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS06 290MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS06 500MM"
         },
         "notes": "Consolidated from 6 entries: LHD, RHD, LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -21973,7 +21971,7 @@
             "cotePassager": null
           },
           "arriere": "VS 02",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS02 240MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS02 350MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -22038,7 +22036,7 @@
       },
       {
         "id": "7565",
-        "model": "Countryman",
+        "model": "Countryman / All 4",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -22067,7 +22065,7 @@
       },
       {
         "id": "8949",
-        "model": "Countryman",
+        "model": "Countryman / All 4",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -22088,14 +22086,14 @@
             "cotePassager": null
           },
           "arriere": "VS 02",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS02 240MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS02 350MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
       },
       {
         "id": "9811",
-        "model": "Countryman",
+        "model": "Countryman / Electric",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -22147,7 +22145,7 @@
             "cotePassager": null
           },
           "arriere": "VS 05",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS05 280MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS05 450MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -22394,7 +22392,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 34",
-          "arriereDescription": "VALEO BALAI E.G. STD VS34 510MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS34 1200MM"
         },
         "notes": "Consolidated from 2 entries: LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -22542,7 +22540,7 @@
             "coteConducteurDescription": "VALEO BALAI E.G. VS 38"
           },
           "arriere": "VS 12",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS12 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS12 800MM"
         },
         "notes": "Consolidated from 2 entries: LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -22629,7 +22627,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "notes": "Consolidated from 2 entries: LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -22657,7 +22655,7 @@
             "cotePassager": null
           },
           "arriere": "VS 33",
-          "arriereDescription": "VALEO BALAI E.G. STD VS33 480MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS33 1150MM"
         },
         "notes": "Consolidated from 5 entries: LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -22687,14 +22685,14 @@
             "cotePassager": null
           },
           "arriere": "VS 71",
-          "arriereDescription": "VALEO BALAI E.G. PLAT ORIGINE VS71 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS71 1350MM"
         },
         "notes": "Consolidated from 4 entries: LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
       },
       {
         "id": "5055",
-        "model": "Galant",
+        "model": "Galant Hatchback",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -22725,7 +22723,7 @@
       },
       {
         "id": "6186",
-        "model": "Galant",
+        "model": "Galant Hatchback",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -22750,7 +22748,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 33"
           },
           "arriere": "VS 35",
-          "arriereDescription": "VALEO BALAI E.G. STD VS35 530MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS35 1250MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -22843,7 +22841,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "notes": "Consolidated from 3 entries: LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -22900,7 +22898,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 36",
-          "arriereDescription": "VALEO BALAI E.G. STD VS36 550MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS36 1300MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -23046,14 +23044,14 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "notes": "Consolidated from 2 entries: LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
       },
       {
         "id": "6612",
-        "model": "Lancer Evolution 8",
+        "model": "Lancer Evolution 8 / 9",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -23084,7 +23082,7 @@
       },
       {
         "id": "7253",
-        "model": "Lancer / Evolution",
+        "model": "Lancer / Evolution X",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -23177,7 +23175,7 @@
       },
       {
         "id": "7978",
-        "model": "Outlander",
+        "model": "Outlander / PHEV",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -23300,7 +23298,7 @@
       },
       {
         "id": "4321",
-        "model": "Space",
+        "model": "Space Wagon",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -23447,7 +23445,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "notes": "Consolidated from 3 entries: LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -23541,13 +23539,13 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 35"
           },
           "arriere": "VS 33",
-          "arriereDescription": "VALEO BALAI E.G. STD VS33 480MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS33 1150MM"
         },
         "wiperBrand": "Valeo"
       },
       {
         "id": "6652",
-        "model": "350",
+        "model": "350 Z",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -23697,7 +23695,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 34",
-          "arriereDescription": "VALEO BALAI E.G. STD VS34 510MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS34 1200MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -23786,7 +23784,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "notes": "Consolidated from 5 entries: LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -23940,7 +23938,7 @@
       },
       {
         "id": "4342",
-        "model": "Ebro Furgon F",
+        "model": "Ebro Furgon F/ E",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -23968,7 +23966,7 @@
       },
       {
         "id": "4348",
-        "model": "Fairlady",
+        "model": "Fairlady Z",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -23991,7 +23989,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 35"
           },
           "arriere": "VS 33",
-          "arriereDescription": "VALEO BALAI E.G. STD VS33 480MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS33 1150MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -24052,7 +24050,7 @@
             "coteConducteurDescription": "VALEO BALAI E.G. VS 37"
           },
           "arriere": "VS 09",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS09 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS09 650MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -24082,7 +24080,7 @@
             "cotePassager": null
           },
           "arriere": "VS 09",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS09 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS09 650MM"
         },
         "notes": "Consolidated from 4 entries: LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -24173,7 +24171,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -24265,7 +24263,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 17",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS17 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS17 950MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -24296,7 +24294,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 09",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS09 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS09 650MM"
         },
         "notes": "Consolidated from 2 entries: LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -24359,7 +24357,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 30"
           },
           "arriere": "VS 01",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS01 240MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS01 300MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -24595,7 +24593,7 @@
             "cotePassager": null
           },
           "arriere": "VS 12",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS12 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS12 800MM"
         },
         "notes": "Consolidated from 4 entries: LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -24625,7 +24623,7 @@
             "cotePassager": null
           },
           "arriere": "VS 71",
-          "arriereDescription": "VALEO BALAI E.G. PLAT ORIGINE VS71 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS71 1350MM"
         },
         "notes": "Consolidated from 8 entries: LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -24803,7 +24801,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 36"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -24834,7 +24832,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 35"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "notes": "Consolidated from 2 entries: LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -24896,7 +24894,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 33"
           },
           "arriere": "VS 35",
-          "arriereDescription": "VALEO BALAI E.G. STD VS35 530MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS35 1250MM"
         },
         "notes": "Consolidated from 3 entries: LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -25021,7 +25019,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 33"
           },
           "arriere": "VS 17",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS17 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS17 950MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -25078,7 +25076,7 @@
             "cotePassager": null
           },
           "arriere": "VS 09",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS09 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS09 650MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -25108,7 +25106,7 @@
             "cotePassager": null
           },
           "arriere": "VS 07",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS07 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS07 550MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -25140,7 +25138,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 31"
           },
           "arriere": "VS 09",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS09 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS09 650MM"
         },
         "notes": "Consolidated from 4 entries: LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -25170,7 +25168,7 @@
             "cotePassager": null
           },
           "arriere": "VS 09",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS09 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS09 650MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -25202,7 +25200,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 37"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -25233,7 +25231,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "notes": "Consolidated from 4 entries: LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -25265,7 +25263,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 31"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -25292,7 +25290,7 @@
             "cotePassager": null
           },
           "arriere": "VS 11",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS11 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS11 750MM"
         },
         "notes": "Consolidated from 2 entries: LHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -25324,7 +25322,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 30"
           },
           "arriere": "VS 11",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS11 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS11 750MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -25354,13 +25352,13 @@
             "coteConducteurDescription": "VALEO BALAI E.G. VS 38"
           },
           "arriere": "VS 09",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS09 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS09 650MM"
         },
         "wiperBrand": "Valeo"
       },
       {
         "id": "9692",
-        "model": "Townstar / Townstar",
+        "model": "Townstar / Townstar Combi",
         "picto1": "(Rear: Liftgate)",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -25383,7 +25381,7 @@
             "cotePassager": null
           },
           "arriere": "VS 10",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS10 335MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS10 700MM"
         },
         "notes": "Consolidated from 4 entries: LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -25413,7 +25411,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -25473,7 +25471,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 31"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -25532,7 +25530,7 @@
             "cotePassager": null
           },
           "arriere": "VS 09",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS09 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS09 650MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -25564,7 +25562,7 @@
             "cotePassager": null
           },
           "arriere": "VS 12",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS12 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS12 800MM"
         },
         "notes": "Consolidated from 6 entries: LHD, LHD, LHD, LHD, LHD, LHD",
         "wiperBrand": "Valeo"
@@ -25602,7 +25600,7 @@
       },
       {
         "id": "6242",
-        "model": "Agila",
+        "model": "Agila A",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -25634,7 +25632,7 @@
       },
       {
         "id": "7214",
-        "model": "Agila",
+        "model": "Agila B",
         "picto1": "",
         "picto2": "",
         "direction": "LHD",
@@ -25834,7 +25832,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 34",
-          "arriereDescription": "VALEO BALAI E.G. STD VS34 510MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS34 1200MM"
         },
         "notes": "Consolidated from 12 entries: LHD, LHD, LHD, LHD, LHD, LHD, LHD, LHD, LHD, LHD, LHD, LHD",
         "wiperBrand": "Valeo"
@@ -25866,7 +25864,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 33"
           },
           "arriere": "VS 17",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS17 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS17 950MM"
         },
         "notes": "Consolidated from 3 entries: LHD, LHD, LHD",
         "wiperBrand": "Valeo"
@@ -25927,7 +25925,7 @@
             "cotePassager": null
           },
           "arriere": "VS 01",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS01 240MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS01 300MM"
         },
         "notes": "Consolidated from 4 entries: LHD, LHD, LHD, LHD",
         "wiperBrand": "Valeo"
@@ -26044,7 +26042,7 @@
             "cotePassager": null
           },
           "arriere": "VS 02",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS02 240MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS02 350MM"
         },
         "notes": "Consolidated from 6 entries: LHD, LHD, LHD, LHD, LHD, LHD",
         "wiperBrand": "Valeo"
@@ -26076,7 +26074,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 33"
           },
           "arriere": "VS 33",
-          "arriereDescription": "VALEO BALAI E.G. STD VS33 480MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS33 1150MM"
         },
         "notes": "Consolidated from 4 entries: LHD, LHD, LHD, LHD",
         "wiperBrand": "Valeo"
@@ -26196,13 +26194,13 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 31"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
       {
         "id": "4359",
-        "model": "Corsa",
+        "model": "Corsa Van",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -26287,7 +26285,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -26316,13 +26314,13 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 31"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
       {
         "id": "10130",
-        "model": "Grandland",
+        "model": "Grandland / X",
         "picto1": "",
         "picto2": "(Front : With Wet arm)",
         "direction": "LHD",
@@ -26346,7 +26344,7 @@
             "cotePassager": null
           },
           "arriere": "VS 14",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS14 280MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS14 900MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -26413,7 +26411,7 @@
       },
       {
         "id": "7433",
-        "model": "Insignia Sports",
+        "model": "Insignia Sports Tourer",
         "picto1": "Estate",
         "picto2": "",
         "direction": "LHD",
@@ -26438,7 +26436,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 09",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS09 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS09 650MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -26469,13 +26467,13 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 74",
-          "arriereDescription": "VALEO BALAI E.G. PLAT ORIGINE VS74 500MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS74 1400MM"
         },
         "wiperBrand": "Valeo"
       },
       {
         "id": "8962",
-        "model": "Insignia Country",
+        "model": "Insignia Country Tourer",
         "picto1": "Estate",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -26556,7 +26554,7 @@
             "cotePassager": null
           },
           "arriere": "VS 17",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS17 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS17 950MM"
         },
         "notes": "Consolidated from 2 entries: LHD, LHD",
         "wiperBrand": "Valeo"
@@ -26586,13 +26584,13 @@
             "cotePassager": null
           },
           "arriere": "VS 17",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS17 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS17 950MM"
         },
         "wiperBrand": "Valeo"
       },
       {
         "id": "7877",
-        "model": "Mokka / Mokka",
+        "model": "Mokka / Mokka X",
         "picto1": "",
         "picto2": "",
         "direction": "LHD",
@@ -26620,7 +26618,7 @@
       },
       {
         "id": "4706",
-        "model": "Monterey",
+        "model": "Monterey 1",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -26652,7 +26650,7 @@
       },
       {
         "id": "7569",
-        "model": "Movano",
+        "model": "Movano B",
         "picto1": "",
         "picto2": "",
         "direction": "LHD",
@@ -26825,7 +26823,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 37"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -26886,7 +26884,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 35"
           },
           "arriere": "VS 17",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS17 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS17 950MM"
         },
         "notes": "Consolidated from 3 entries: LHD, LHD, LHD",
         "wiperBrand": "Valeo"
@@ -26916,7 +26914,7 @@
             "cotePassager": null
           },
           "arriere": "VS 71",
-          "arriereDescription": "VALEO BALAI E.G. PLAT ORIGINE VS71 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS71 1350MM"
         },
         "notes": "Consolidated from 2 entries: LHD, LHD",
         "wiperBrand": "Valeo"
@@ -26946,7 +26944,7 @@
             "cotePassager": null
           },
           "arriere": "VS 11",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS11 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS11 750MM"
         },
         "notes": "Consolidated from 4 entries: LHD, LHD, LHD, LHD",
         "wiperBrand": "Valeo"
@@ -26976,13 +26974,13 @@
             "cotePassager": null
           },
           "arriere": "VS 11",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS11 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS11 750MM"
         },
         "wiperBrand": "Valeo"
       },
       {
         "id": "7761",
-        "model": "Zafira / Zafira",
+        "model": "Zafira / Zafira Tourer",
         "picto1": "",
         "picto2": "(TopLock connection)",
         "direction": "LHD",
@@ -27064,7 +27062,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "notes": "Consolidated from 2 entries: LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -27093,7 +27091,7 @@
             "monoBalaisDescription": "VALEO BALAI E.G. VS 38"
           },
           "arriere": "VS 08",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS08 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS08 600MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -27152,7 +27150,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "notes": "Consolidated from 3 entries: LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -27214,7 +27212,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 31"
           },
           "arriere": "VS 11",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS11 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS11 750MM"
         },
         "notes": "Consolidated from 3 entries: LHD, LHD, LHD",
         "wiperBrand": "Valeo"
@@ -27244,7 +27242,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 38"
           },
           "arriere": "VS 11",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS11 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS11 750MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -27273,7 +27271,7 @@
             "cotePassager": null
           },
           "arriere": "VS 11",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS11 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS11 750MM"
         },
         "notes": "Consolidated from 2 entries: RHD, RHD",
         "wiperBrand": "Valeo"
@@ -27362,7 +27360,7 @@
             "cotePassager": null
           },
           "arriere": "VS 13",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS13 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS13 850MM"
         },
         "notes": "Consolidated from 13 entries: LHD, RHD, LHD, LHD, RHD, LHD, RHD, LHD, RHD, RHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -27421,7 +27419,7 @@
             "cotePassager": null
           },
           "arriere": "VS 11",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS11 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS11 750MM"
         },
         "notes": "Consolidated from 14 entries: LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -27480,7 +27478,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 31"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -27511,7 +27509,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 34",
-          "arriereDescription": "VALEO BALAI E.G. STD VS34 510MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS34 1200MM"
         },
         "notes": "Consolidated from 3 entries: LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -27574,7 +27572,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 38"
           },
           "arriere": "VS 11",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS11 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS11 750MM"
         },
         "notes": "Consolidated from 2 entries: LHD, LHD",
         "wiperBrand": "Valeo"
@@ -27632,7 +27630,7 @@
             "cotePassager": null
           },
           "arriere": "VS 11",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS11 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS11 750MM"
         },
         "notes": "Consolidated from 2 entries: LHD, LHD",
         "wiperBrand": "Valeo"
@@ -27662,7 +27660,7 @@
             "cotePassager": null
           },
           "arriere": "VS 11",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS11 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS11 750MM"
         },
         "notes": "Consolidated from 2 entries: RHD, RHD",
         "wiperBrand": "Valeo"
@@ -27804,7 +27802,7 @@
             "cotePassager": null
           },
           "arriere": "VS 09",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS09 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS09 650MM"
         },
         "notes": "Consolidated from 3 entries: LHD, LHD, LHD",
         "wiperBrand": "Valeo"
@@ -27834,7 +27832,7 @@
             "cotePassager": null
           },
           "arriere": "VS 09",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS09 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS09 650MM"
         },
         "notes": "Consolidated from 3 entries: RHD, RHD, RHD",
         "wiperBrand": "Valeo"
@@ -27921,7 +27919,7 @@
             "cotePassager": null
           },
           "arriere": "VS 01",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS01 240MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS01 300MM"
         },
         "notes": "Consolidated from 4 entries: LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -27979,7 +27977,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 36"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "notes": "Consolidated from 2 entries: LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -28042,7 +28040,7 @@
       },
       {
         "id": "6503",
-        "model": "407",
+        "model": "407 SW",
         "picto1": "Estate",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -28065,7 +28063,7 @@
             "cotePassager": null
           },
           "arriere": "VS 06",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS06 290MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS06 500MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -28124,7 +28122,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -28182,7 +28180,7 @@
             "cotePassager": null
           },
           "arriere": "VS 09",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS09 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS09 650MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -28242,7 +28240,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "notes": "Consolidated from 3 entries: LHD, LHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -28272,7 +28270,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -28303,7 +28301,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 09",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS09 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS09 650MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -28332,13 +28330,13 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 09",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS09 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS09 650MM"
         },
         "wiperBrand": "Valeo"
       },
       {
         "id": "7461",
-        "model": "3008 / Hybrid",
+        "model": "3008 / Hybrid 4",
         "picto1": "(Butterfly system)",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -28361,14 +28359,14 @@
             "cotePassager": null
           },
           "arriere": "VS 09",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS09 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS09 650MM"
         },
         "notes": "Consolidated from 4 entries: LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
       },
       {
         "id": "8685",
-        "model": "3008 / 3008",
+        "model": "3008 / 3008 Hybrid",
         "picto1": "(Parallel system)",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -28392,7 +28390,7 @@
             "cotePassager": null
           },
           "arriere": "VS 14",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS14 280MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS14 900MM"
         },
         "notes": "Consolidated from 2 entries: LHD, LHD",
         "wiperBrand": "Valeo"
@@ -28630,7 +28628,7 @@
             "cotePassager": null
           },
           "arriere": "VS 11",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS11 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS11 750MM"
         },
         "notes": "Consolidated from 8 entries: LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -28844,7 +28842,7 @@
             "cotePassager": null
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "notes": "Consolidated from 6 entries: LHD/RHD, LHD/RHD, LHD, LHD, LHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -28932,7 +28930,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -29050,7 +29048,7 @@
             "cotePassager": null
           },
           "arriere": "VS 10",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS10 335MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS10 700MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -29080,14 +29078,14 @@
             "cotePassager": null
           },
           "arriere": "VS 10",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS10 335MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS10 700MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
       },
       {
         "id": "9305",
-        "model": "Cayenne",
+        "model": "Cayenne Coupé",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -29145,7 +29143,7 @@
       },
       {
         "id": "8723",
-        "model": "Panamera S / 4S",
+        "model": "Panamera S / 4S / Turbo",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -29197,7 +29195,7 @@
             "cotePassager": null
           },
           "arriere": "VS 10",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS10 335MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS10 700MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -29380,7 +29378,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -29474,7 +29472,7 @@
       },
       {
         "id": "9564",
-        "model": "Arkana",
+        "model": "Arkana / E-Tech",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -29503,7 +29501,7 @@
       },
       {
         "id": "9657",
-        "model": "Austral / Austral",
+        "model": "Austral / Austral E-Tech",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -29526,7 +29524,7 @@
             "cotePassager": null
           },
           "arriere": "VS 02",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS02 240MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS02 350MM"
         },
         "notes": "Consolidated from 6 entries: LHD, RHD, LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -29554,7 +29552,7 @@
             "cotePassager": null
           },
           "arriere": "VS 09",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS09 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS09 650MM"
         },
         "notes": "Consolidated from 10 entries: LHD/RHD, RHD, LHD, LHD, LHD/RHD, LHD/RHD, LHD/RHD, LHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -29585,7 +29583,7 @@
             "cotePassager": null
           },
           "arriere": "VS 06",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS06 290MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS06 500MM"
         },
         "notes": "Consolidated from 3 entries: LHD, LHD, LHD",
         "wiperBrand": "Valeo"
@@ -29615,7 +29613,7 @@
             "cotePassager": null
           },
           "arriere": "VS 06",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS06 290MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS06 500MM"
         },
         "notes": "Consolidated from 3 entries: RHD, RHD, RHD",
         "wiperBrand": "Valeo"
@@ -29644,13 +29642,13 @@
             "cotePassager": null
           },
           "arriere": "VS 06",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS06 290MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS06 500MM"
         },
         "wiperBrand": "Valeo"
       },
       {
         "id": "9392",
-        "model": "Captur / Captur",
+        "model": "Captur / Captur E-Tech",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -29735,7 +29733,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 17",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS17 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS17 950MM"
         },
         "notes": "Consolidated from 15 entries: LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD, LHD, LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -29767,7 +29765,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 09",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS09 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS09 650MM"
         },
         "notes": "Consolidated from 2 entries: LHD, LHD",
         "wiperBrand": "Valeo"
@@ -29799,7 +29797,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 35"
           },
           "arriere": "VS 09",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS09 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS09 650MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -29828,7 +29826,7 @@
             "cotePassager": null
           },
           "arriere": "VS 09",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS09 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS09 650MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -29859,7 +29857,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 09",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS09 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS09 650MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -29888,14 +29886,14 @@
             "cotePassager": null
           },
           "arriere": "VS 11",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS11 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS11 750MM"
         },
         "notes": "Consolidated from 11 entries: LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD",
         "wiperBrand": "Valeo"
       },
       {
         "id": "9280",
-        "model": "Clio / Clio",
+        "model": "Clio / Clio E-Tech",
         "picto1": "5 Doors",
         "picto2": "",
         "direction": "LHD",
@@ -29922,7 +29920,7 @@
       },
       {
         "id": "9350",
-        "model": "Dokker / Dokker",
+        "model": "Dokker / Dokker Van",
         "picto1": "",
         "picto2": "(Hook connection)",
         "direction": "LHD/RHD",
@@ -29947,7 +29945,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 31"
           },
           "arriere": "VS 03",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS03 260MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS03 400MM"
         },
         "notes": "Consolidated from 2 entries: LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -29977,7 +29975,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 11",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS11 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS11 750MM"
         },
         "notes": "Consolidated from 3 entries: LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -30007,7 +30005,7 @@
             "cotePassager": null
           },
           "arriere": "VS 06",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS06 290MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS06 500MM"
         },
         "notes": "Consolidated from 3 entries: LHD, LHD, LHD",
         "wiperBrand": "Valeo"
@@ -30067,14 +30065,14 @@
             "cotePassager": null
           },
           "arriere": "VS 14",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS14 280MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS14 900MM"
         },
         "notes": "Consolidated from 5 entries: LHD, LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
       },
       {
         "id": "9982",
-        "model": "Espace / Espace",
+        "model": "Espace / Espace E-Tech",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -30156,7 +30154,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "notes": "Consolidated from 3 entries: LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -30215,7 +30213,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 33"
           },
           "arriere": "VS 33",
-          "arriereDescription": "VALEO BALAI E.G. STD VS33 480MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS33 1150MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -30246,7 +30244,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 31"
           },
           "arriere": "VS 01",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS01 240MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS01 300MM"
         },
         "notes": "Consolidated from 4 entries: LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -30278,7 +30276,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 33"
           },
           "arriere": "VS 01",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS01 240MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS01 300MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -30308,7 +30306,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 36"
           },
           "arriere": "VS 12",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS12 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS12 800MM"
         },
         "notes": "Consolidated from 5 entries: LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -30338,14 +30336,14 @@
             "cotePassager": null
           },
           "arriere": "VS 12",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS12 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS12 800MM"
         },
         "notes": "Consolidated from 4 entries: LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
       },
       {
         "id": "9534",
-        "model": "Kangoo / Kangoo Van",
+        "model": "Kangoo / Kangoo Van / E-Tech",
         "picto1": "(Rear: Liftgate)",
         "picto2": "(TopLock connection)",
         "direction": "LHD/RHD",
@@ -30368,7 +30366,7 @@
             "cotePassager": null
           },
           "arriere": "VS 10",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS10 335MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS10 700MM"
         },
         "notes": "Consolidated from 4 entries: LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -30429,7 +30427,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 01",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS01 240MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS01 300MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -30492,7 +30490,7 @@
       },
       {
         "id": "6281",
-        "model": "Laguna",
+        "model": "Laguna Estate",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -30516,7 +30514,7 @@
             "coteConducteurDescription": "VALEO BALAI E.G. VS 37"
           },
           "arriere": "VS 11",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS11 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS11 750MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -30551,7 +30549,7 @@
       },
       {
         "id": "7219",
-        "model": "Laguna",
+        "model": "Laguna Estate",
         "picto1": "Estate",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -30574,7 +30572,7 @@
             "cotePassager": null
           },
           "arriere": "VS 12",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS12 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS12 800MM"
         },
         "notes": "Consolidated from 4 entries: LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -30727,7 +30725,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 06",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS06 290MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS06 500MM"
         },
         "notes": "Consolidated from 5 entries: LHD, LHD/RHD, LHD/RHD, LHD/RHD, LHD",
         "wiperBrand": "Valeo"
@@ -30764,7 +30762,7 @@
       },
       {
         "id": "7567",
-        "model": "Master / Master",
+        "model": "Master / Master E-Tech",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -30794,7 +30792,7 @@
       },
       {
         "id": "9980",
-        "model": "Master / Master",
+        "model": "Master / Master E-Tech",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -30847,7 +30845,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 01",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS01 240MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS01 300MM"
         },
         "notes": "Consolidated from 2 entries: LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -30908,7 +30906,7 @@
             "cotePassager": null
           },
           "arriere": "VS 01",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS01 240MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS01 300MM"
         },
         "notes": "Consolidated from 14 entries: LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, LHD",
         "wiperBrand": "Valeo"
@@ -30967,7 +30965,7 @@
             "cotePassager": null
           },
           "arriere": "VS 03",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS03 260MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS03 400MM"
         },
         "notes": "Consolidated from 3 entries: LHD, LHD, LHD",
         "wiperBrand": "Valeo"
@@ -30997,14 +30995,14 @@
             "cotePassager": null
           },
           "arriere": "VS 03",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS03 260MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS03 400MM"
         },
         "notes": "Consolidated from 3 entries: RHD, RHD, RHD",
         "wiperBrand": "Valeo"
       },
       {
         "id": "4419",
-        "model": "R",
+        "model": "R 5",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -31032,7 +31030,7 @@
       },
       {
         "id": "4425",
-        "model": "R",
+        "model": "R 9",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -31084,7 +31082,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 31"
           },
           "arriere": "VS 33",
-          "arriereDescription": "VALEO BALAI E.G. STD VS33 480MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS33 1150MM"
         },
         "notes": "Consolidated from 3 entries: LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -31114,7 +31112,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 33",
-          "arriereDescription": "VALEO BALAI E.G. STD VS33 480MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS33 1150MM"
         },
         "notes": "Consolidated from 2 entries: LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -31144,7 +31142,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "notes": "Consolidated from 3 entries: LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -31204,7 +31202,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 36"
           },
           "arriere": "VS 36",
-          "arriereDescription": "VALEO BALAI E.G. STD VS36 550MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS36 1300MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -31232,7 +31230,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 37"
           },
           "arriere": "VS 36",
-          "arriereDescription": "VALEO BALAI E.G. STD VS36 550MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS36 1300MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -31263,7 +31261,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 37"
           },
           "arriere": "VS 36",
-          "arriereDescription": "VALEO BALAI E.G. STD VS36 550MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS36 1300MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -31294,7 +31292,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 31"
           },
           "arriere": "VS 17",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS17 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS17 950MM"
         },
         "notes": "Consolidated from 2 entries: LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -31324,7 +31322,7 @@
             "cotePassager": null
           },
           "arriere": "VS 03",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS03 260MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS03 400MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -31353,7 +31351,7 @@
             "cotePassager": null
           },
           "arriere": "VS 03",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS03 260MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS03 400MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -31381,7 +31379,7 @@
             "cotePassager": null
           },
           "arriere": "VS 07",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS07 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS07 550MM"
         },
         "notes": "Consolidated from 4 entries: LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -31471,7 +31469,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 35"
           },
           "arriere": "VS 17",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS17 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS17 950MM"
         },
         "notes": "Consolidated from 3 entries: LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -31501,7 +31499,7 @@
             "monoBalaisDescription": "VALEO BALAI E.G. VS 38"
           },
           "arriere": "VS 08",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS08 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS08 600MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -31530,7 +31528,7 @@
             "cotePassager": null
           },
           "arriere": "VS 09",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS09 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS09 650MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -31559,7 +31557,7 @@
             "cotePassager": null
           },
           "arriere": "VS 07",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS07 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS07 550MM"
         },
         "notes": "Consolidated from 4 entries: LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -31594,7 +31592,7 @@
       },
       {
         "id": "7847",
-        "model": "Zoé / Zoé",
+        "model": "Zoé / Zoé E-Tech",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -31617,7 +31615,7 @@
             "cotePassager": null
           },
           "arriere": "VS 06",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS06 290MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS06 500MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -31679,7 +31677,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "notes": "Consolidated from 6 entries: LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -31711,7 +31709,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "notes": "Consolidated from 2 entries: LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -31746,7 +31744,7 @@
       },
       {
         "id": "6354",
-        "model": "75",
+        "model": "75 Tourer",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -31769,7 +31767,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 36"
           },
           "arriere": "VS 12",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS12 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS12 800MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -31949,7 +31947,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 33"
           },
           "arriere": "VS 33",
-          "arriereDescription": "VALEO BALAI E.G. STD VS33 480MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS33 1150MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -32042,7 +32040,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "notes": "Consolidated from 2 entries: LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -32130,7 +32128,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 36"
           },
           "arriere": "VS 12",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS12 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS12 800MM"
         },
         "wiperBrand": "Valeo"
       }
@@ -32192,7 +32190,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 35"
           },
           "arriere": "VS 34",
-          "arriereDescription": "VALEO BALAI E.G. STD VS34 510MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS34 1200MM"
         },
         "notes": "Consolidated from 3 entries: LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -32258,7 +32256,7 @@
       },
       {
         "id": "6769",
-        "model": "9.3 Sport",
+        "model": "9.3 Sport Combi",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -32281,7 +32279,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 36"
           },
           "arriere": "VS 07",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS07 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS07 550MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -32308,14 +32306,14 @@
             "cotePassager": null
           },
           "arriere": "VS 07",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS07 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS07 550MM"
         },
         "notes": "Consolidated from 4 entries: LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
       },
       {
         "id": "7708",
-        "model": "9.4",
+        "model": "9.4 X",
         "picto1": "",
         "picto2": "",
         "direction": "LHD",
@@ -32576,7 +32574,7 @@
             "cotePassager": null
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "notes": "Consolidated from 5 entries: LHD/RHD, LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -32606,7 +32604,7 @@
             "cotePassager": null
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -32636,7 +32634,7 @@
             "cotePassager": null
           },
           "arriere": "VS 10",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS10 335MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS10 700MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -32666,7 +32664,7 @@
             "cotePassager": null
           },
           "arriere": "VS 05",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS05 280MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS05 450MM"
         },
         "notes": "Consolidated from 12 entries: LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -32757,7 +32755,7 @@
             "cotePassager": null
           },
           "arriere": "VS 05",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS05 280MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS05 450MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -32845,7 +32843,7 @@
             "monoBalaisDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -32874,7 +32872,7 @@
             "monoBalaisDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 33",
-          "arriereDescription": "VALEO BALAI E.G. STD VS33 480MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS33 1150MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -32964,7 +32962,7 @@
             "cotePassager": null
           },
           "arriere": "VS 10",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS10 335MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS10 700MM"
         },
         "notes": "Consolidated from 6 entries: LHD, RHD, LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -33023,7 +33021,7 @@
             "cotePassager": null
           },
           "arriere": "VS 05",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS05 280MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS05 450MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -33053,7 +33051,7 @@
             "cotePassager": null
           },
           "arriere": "VS 10",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS10 335MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS10 700MM"
         },
         "notes": "Consolidated from 4 entries: LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -33170,7 +33168,7 @@
             "cotePassager": null
           },
           "arriere": "VS 10",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS10 335MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS10 700MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -33346,7 +33344,7 @@
             "cotePassager": null
           },
           "arriere": "VS 02",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS02 240MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS02 350MM"
         },
         "notes": "Consolidated from 4 entries: LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -33407,7 +33405,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "notes": "Consolidated from 3 entries: LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -33468,7 +33466,7 @@
             "cotePassager": null
           },
           "arriere": "VS 05",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS05 280MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS05 450MM"
         },
         "notes": "Consolidated from 10 entries: LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -33504,7 +33502,7 @@
       },
       {
         "id": "8353",
-        "model": "Fabia",
+        "model": "Fabia Combi",
         "picto1": "Estate",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -33587,7 +33585,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "notes": "Consolidated from 3 entries: LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -33648,7 +33646,7 @@
             "cotePassager": null
           },
           "arriere": "VS 10",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS10 335MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS10 700MM"
         },
         "notes": "Consolidated from 4 entries: LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -33678,7 +33676,7 @@
             "cotePassager": null
           },
           "arriere": "VS 10",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS10 335MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS10 700MM"
         },
         "notes": "Consolidated from 4 entries: LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -33737,7 +33735,7 @@
             "cotePassager": null
           },
           "arriere": "VS 10",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS10 335MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS10 700MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -33915,7 +33913,7 @@
             "cotePassager": null
           },
           "arriere": "VS 10",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS10 335MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS10 700MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -34064,7 +34062,7 @@
             "cotePassager": null
           },
           "arriere": "VS 05",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS05 280MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS05 450MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -34073,7 +34071,7 @@
     "SMART": [
       {
         "id": "10140",
-        "model": "3",
+        "model": "#3",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -34180,7 +34178,7 @@
             "cotePassager": null
           },
           "arriere": "VS 03",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS03 260MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS03 400MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -34241,7 +34239,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 12",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS12 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS12 800MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -34270,7 +34268,7 @@
             "cotePassager": null
           },
           "arriere": "VS 01",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS01 240MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS01 300MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -34390,7 +34388,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "notes": "Consolidated from 2 entries: LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -34688,7 +34686,7 @@
             "cotePassager": null
           },
           "arriere": "VS 34",
-          "arriereDescription": "VALEO BALAI E.G. STD VS34 510MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS34 1200MM"
         },
         "notes": "Consolidated from 4 entries: LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -34749,7 +34747,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 31"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -35058,7 +35056,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 31"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -35120,7 +35118,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 31"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -35241,7 +35239,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -35480,7 +35478,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 31"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -35544,7 +35542,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 31"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -36306,7 +36304,7 @@
       },
       {
         "id": "8365",
-        "model": "Vitara / Vitara",
+        "model": "Vitara / Vitara S",
         "picto1": "5 Doors",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -36368,7 +36366,7 @@
       },
       {
         "id": "5820",
-        "model": "Wagon R",
+        "model": "Wagon R+",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -36451,7 +36449,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 31"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "notes": "Consolidated from 4 entries: LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -36479,7 +36477,7 @@
             "cotePassager": null
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -36718,7 +36716,7 @@
       },
       {
         "id": "6947",
-        "model": "Indigo",
+        "model": "Indigo SW",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -36747,7 +36745,7 @@
       },
       {
         "id": "6948",
-        "model": "Indigo",
+        "model": "Indigo SW",
         "picto1": "",
         "picto2": "",
         "direction": "RHD",
@@ -36924,7 +36922,7 @@
     "TESLA": [
       {
         "id": "8603",
-        "model": "Model",
+        "model": "Model 3",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -36953,7 +36951,7 @@
       },
       {
         "id": "8211",
-        "model": "Model",
+        "model": "Model S",
         "picto1": "5 Doors",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -36982,7 +36980,7 @@
       },
       {
         "id": "8748",
-        "model": "Model",
+        "model": "Model X",
         "picto1": "",
         "picto2": "(TopLock connection)",
         "direction": "LHD/RHD",
@@ -37157,7 +37155,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 34",
-          "arriereDescription": "VALEO BALAI E.G. STD VS34 510MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS34 1200MM"
         },
         "notes": "Consolidated from 4 entries: LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -37220,7 +37218,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 31"
           },
           "arriere": "VS 31+",
-          "arriereDescription": "VALEO BALAI E.G. PLAT RETROFIT VS31+ 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31+ 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -37277,7 +37275,7 @@
             "monoBalaisDescription": "VALEO BALAI E.G. VS 38"
           },
           "arriere": "VS 08",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS08 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS08 600MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -37451,7 +37449,7 @@
             "cotePassager": null
           },
           "arriere": "VS 34",
-          "arriereDescription": "VALEO BALAI E.G. STD VS34 510MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS34 1200MM"
         },
         "notes": "Consolidated from 6 entries: LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -37483,7 +37481,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 35",
-          "arriereDescription": "VALEO BALAI E.G. STD VS35 530MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS35 1250MM"
         },
         "notes": "Consolidated from 7 entries: LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -37515,7 +37513,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 33"
           },
           "arriere": "VS 34",
-          "arriereDescription": "VALEO BALAI E.G. STD VS34 510MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS34 1200MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -37543,7 +37541,7 @@
             "coteConducteurDescription": "VALEO BALAI E.G. VS 38"
           },
           "arriere": "VS 34",
-          "arriereDescription": "VALEO BALAI E.G. STD VS34 510MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS34 1200MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -37640,7 +37638,7 @@
       },
       {
         "id": "9855",
-        "model": "Corolla / Corolla",
+        "model": "Corolla / Corolla X",
         "picto1": "4 Doors",
         "picto2": "",
         "direction": "LHD",
@@ -37698,7 +37696,7 @@
       },
       {
         "id": "6590",
-        "model": "Corolla Verso",
+        "model": "Corolla Verso 2",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -37902,7 +37900,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "notes": "Consolidated from 2 entries: LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -37995,7 +37993,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 35"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -38031,7 +38029,7 @@
       },
       {
         "id": "5916",
-        "model": "Land-Cruiser",
+        "model": "Land-Cruiser SW",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -38056,7 +38054,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -38117,7 +38115,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 36"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -38263,14 +38261,14 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 31"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "notes": "Consolidated from 3 entries: LHD/RHD, LHD, RHD",
         "wiperBrand": "Valeo"
       },
       {
         "id": "9927",
-        "model": "Prius Plug in Hybrid",
+        "model": "Prius Plug in Hybrid / PHEV",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -38299,7 +38297,7 @@
       },
       {
         "id": "7777",
-        "model": "Prius",
+        "model": "Prius +",
         "picto1": "5 Doors",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -38351,7 +38349,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 11",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS11 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS11 750MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -38380,7 +38378,7 @@
             "cotePassager": null
           },
           "arriere": "VS 11",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS11 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS11 750MM"
         },
         "notes": "Consolidated from 4 entries: LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -38410,14 +38408,14 @@
             "cotePassager": null
           },
           "arriere": "VS 11",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS11 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS11 750MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
       },
       {
         "id": "6260",
-        "model": "Rav",
+        "model": "Rav 4",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -38447,7 +38445,7 @@
       },
       {
         "id": "8067",
-        "model": "Rav",
+        "model": "Rav 4",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -38528,7 +38526,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -38559,7 +38557,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -38680,7 +38678,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 30"
           },
           "arriere": "VS 08",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS08 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS08 600MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -38711,7 +38709,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 30"
           },
           "arriere": "VS 07",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS07 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS07 550MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -38742,7 +38740,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 31"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       }
@@ -38810,7 +38808,7 @@
     "UAZ": [
       {
         "id": "9848",
-        "model": "2206 / 31512",
+        "model": "2206 / 31512 /",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -38863,7 +38861,7 @@
             "cotePassager": null
           },
           "arriere": "VS 12",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS12 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS12 800MM"
         },
         "notes": "Consolidated from 7 entries: RHD, RHD, RHD, RHD, RHD, RHD, RHD",
         "wiperBrand": "Valeo"
@@ -38984,7 +38982,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "notes": "Consolidated from 4 entries: RHD, RHD, RHD, RHD",
         "wiperBrand": "Valeo"
@@ -39078,7 +39076,7 @@
       },
       {
         "id": "4551",
-        "model": "Astra",
+        "model": "Astra Van",
         "picto1": "LCV",
         "picto2": "",
         "direction": "RHD",
@@ -39133,7 +39131,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "notes": "Consolidated from 12 entries: RHD, RHD, RHD, RHD, RHD, RHD, RHD, RHD, RHD, RHD, RHD, RHD",
         "wiperBrand": "Valeo"
@@ -39196,7 +39194,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 33"
           },
           "arriere": "VS 17",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS17 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS17 950MM"
         },
         "notes": "Consolidated from 2 entries: RHD, RHD",
         "wiperBrand": "Valeo"
@@ -39257,7 +39255,7 @@
             "cotePassager": null
           },
           "arriere": "VS 07",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS07 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS07 550MM"
         },
         "notes": "Consolidated from 3 entries: RHD, RHD, RHD",
         "wiperBrand": "Valeo"
@@ -39403,7 +39401,7 @@
             "cotePassager": null
           },
           "arriere": "VS 02",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS02 240MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS02 350MM"
         },
         "notes": "Consolidated from 6 entries: RHD, RHD, RHD, RHD, RHD, RHD",
         "wiperBrand": "Valeo"
@@ -39464,7 +39462,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 33"
           },
           "arriere": "VS 33",
-          "arriereDescription": "VALEO BALAI E.G. STD VS33 480MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS33 1150MM"
         },
         "notes": "Consolidated from 5 entries: RHD, RHD, RHD, RHD, RHD",
         "wiperBrand": "Valeo"
@@ -39527,7 +39525,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -39621,7 +39619,7 @@
       },
       {
         "id": "7436",
-        "model": "Insignia Sports",
+        "model": "Insignia Sports Tourer",
         "picto1": "Estate",
         "picto2": "",
         "direction": "RHD",
@@ -39646,7 +39644,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 09",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS09 300MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS09 650MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -39677,13 +39675,13 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 34"
           },
           "arriere": "VS 74",
-          "arriereDescription": "VALEO BALAI E.G. PLAT ORIGINE VS74 500MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS74 1400MM"
         },
         "wiperBrand": "Valeo"
       },
       {
         "id": "8959",
-        "model": "Insignia Country",
+        "model": "Insignia Country Tourer",
         "picto1": "Estate",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -39737,7 +39735,7 @@
             "cotePassager": null
           },
           "arriere": "VS 17",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS17 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS17 950MM"
         },
         "notes": "Consolidated from 2 entries: RHD, RHD",
         "wiperBrand": "Valeo"
@@ -39767,13 +39765,13 @@
             "cotePassager": null
           },
           "arriere": "VS 17",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS17 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS17 950MM"
         },
         "wiperBrand": "Valeo"
       },
       {
         "id": "7878",
-        "model": "Mokka / Mokka",
+        "model": "Mokka / Mokka X",
         "picto1": "",
         "picto2": "",
         "direction": "RHD",
@@ -39914,7 +39912,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 31"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "notes": "Consolidated from 2 entries: RHD, RHD",
         "wiperBrand": "Valeo"
@@ -40009,7 +40007,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 37"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -40097,7 +40095,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 35"
           },
           "arriere": "VS 17",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS17 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS17 950MM"
         },
         "notes": "Consolidated from 3 entries: RHD, RHD, RHD",
         "wiperBrand": "Valeo"
@@ -40127,7 +40125,7 @@
             "cotePassager": null
           },
           "arriere": "VS 71",
-          "arriereDescription": "VALEO BALAI E.G. PLAT ORIGINE VS71 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS71 1350MM"
         },
         "notes": "Consolidated from 2 entries: RHD, RHD",
         "wiperBrand": "Valeo"
@@ -40157,7 +40155,7 @@
             "cotePassager": null
           },
           "arriere": "VS 11",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS11 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS11 750MM"
         },
         "notes": "Consolidated from 4 entries: RHD, RHD, RHD, RHD",
         "wiperBrand": "Valeo"
@@ -40187,13 +40185,13 @@
             "cotePassager": null
           },
           "arriere": "VS 11",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS11 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS11 750MM"
         },
         "wiperBrand": "Valeo"
       },
       {
         "id": "7763",
-        "model": "Zafira / Zafira",
+        "model": "Zafira / Zafira Tourer",
         "picto1": "",
         "picto2": "(TopLock connection)",
         "direction": "RHD",
@@ -40254,7 +40252,7 @@
     "VINFAST": [
       {
         "id": "9890",
-        "model": "VF",
+        "model": "VF 8",
         "picto1": "",
         "picto2": "",
         "direction": "LHD",
@@ -40603,7 +40601,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -40662,7 +40660,7 @@
             "cotePassager": null
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "notes": "Consolidated from 20 entries: LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -40752,7 +40750,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 35"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "notes": "Consolidated from 4 entries: LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -40813,7 +40811,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 33"
           },
           "arriere": "VS 32",
-          "arriereDescription": "VALEO BALAI E.G. STD VS32 450MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS32 1100MM"
         },
         "notes": "Consolidated from 2 entries: LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -40962,7 +40960,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 31"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "notes": "Consolidated from 5 entries: LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -40994,7 +40992,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 32"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "notes": "Consolidated from 4 entries: LHD/RHD, LHD/RHD, LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -41087,7 +41085,7 @@
             "cotePassager": null
           },
           "arriere": "VS 10",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS10 335MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS10 700MM"
         },
         "notes": "Consolidated from 16 entries: LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -41117,7 +41115,7 @@
             "cotePassager": null
           },
           "arriere": "VS 05",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS05 280MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS05 450MM"
         },
         "notes": "Consolidated from 11 entries: LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD, LHD",
         "wiperBrand": "Valeo"
@@ -41147,7 +41145,7 @@
             "cotePassager": null
           },
           "arriere": "VS 10",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS10 335MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS10 700MM"
         },
         "notes": "Consolidated from 8 entries: LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -41177,7 +41175,7 @@
             "cotePassager": null
           },
           "arriere": "VS 05",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS05 280MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS05 450MM"
         },
         "notes": "Consolidated from 6 entries: LHD, RHD, LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -41450,7 +41448,7 @@
       },
       {
         "id": "6308",
-        "model": "Lupo",
+        "model": "Lupo GTI",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -41479,7 +41477,7 @@
       },
       {
         "id": "4816",
-        "model": "Passat",
+        "model": "Passat /",
         "picto1": "",
         "picto2": "",
         "direction": "LHD/RHD",
@@ -41681,7 +41679,7 @@
             "cotePassager": null
           },
           "arriere": "VS 10",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS10 335MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS10 700MM"
         },
         "notes": "Consolidated from 4 entries: LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -41795,7 +41793,7 @@
             "cotePassager": null
           },
           "arriere": "VS 10",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS10 335MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS10 700MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -41825,7 +41823,7 @@
             "cotePassager": null
           },
           "arriere": "VS 05",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS05 280MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS05 450MM"
         },
         "notes": "Consolidated from 4 entries: LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -41853,7 +41851,7 @@
             "cotePassager": null
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -41910,7 +41908,7 @@
             "cotePassager": null
           },
           "arriere": "VS 05",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS05 280MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS05 450MM"
         },
         "notes": "Consolidated from 3 entries: LHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -41940,7 +41938,7 @@
             "cotePassager": null
           },
           "arriere": "VS 10",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS10 335MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS10 700MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -41970,7 +41968,7 @@
             "cotePassager": null
           },
           "arriere": "VS 10",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS10 335MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS10 700MM"
         },
         "notes": "Consolidated from 4 entries: LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -42058,7 +42056,7 @@
             "cotePassager": null
           },
           "arriere": "VS 10",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS10 335MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS10 700MM"
         },
         "notes": "Consolidated from 6 entries: LHD, RHD, LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -42117,7 +42115,7 @@
             "cotePassager": null
           },
           "arriere": "VS 10",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS10 335MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS10 700MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -42298,7 +42296,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 35"
           },
           "arriere": "VS 34",
-          "arriereDescription": "VALEO BALAI E.G. STD VS34 510MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS34 1200MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -42357,7 +42355,7 @@
             "cotePassager": null
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -42512,7 +42510,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 35"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -42657,7 +42655,7 @@
             "cotePassager": null
           },
           "arriere": "VS 10",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS10 335MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS10 700MM"
         },
         "notes": "Consolidated from 8 entries: LHD, RHD, LHD, RHD, LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -42806,7 +42804,7 @@
             "cotePassager": null
           },
           "arriere": "VS 10",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS10 335MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS10 700MM"
         },
         "notes": "Consolidated from 4 entries: LHD, RHD, LHD, RHD",
         "wiperBrand": "Valeo"
@@ -42865,7 +42863,7 @@
             "cotePassager": null
           },
           "arriere": "VS 11",
-          "arriereDescription": "VALEO BALAI E.G. ARRIERE VS11 350MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS11 750MM"
         },
         "notes": "Consolidated from 2 entries: LHD, RHD",
         "wiperBrand": "Valeo"
@@ -42874,7 +42872,7 @@
     "XEV": [
       {
         "id": "9902",
-        "model": "Yoyo",
+        "model": "Yoyo EV",
         "picto1": "",
         "picto2": "",
         "direction": "LHD",
@@ -42926,7 +42924,7 @@
             "monoBalaisDescription": "VALEO BALAI E.G. VS 33"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -42955,7 +42953,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 33"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -42984,7 +42982,7 @@
             "monoBalaisDescription": "VALEO BALAI E.G. VS 33"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },
@@ -43043,7 +43041,7 @@
             "monoBalaisDescription": "VALEO BALAI E.G. VS 33"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "notes": "Consolidated from 2 entries: LHD/RHD, LHD/RHD",
         "wiperBrand": "Valeo"
@@ -43073,7 +43071,7 @@
             "cotePassagerDescription": "VALEO BALAI E.G. VS 33"
           },
           "arriere": "VS 31",
-          "arriereDescription": "VALEO BALAI E.G. STD VS31 400MM"
+          "arriereDescription": "VALEO BALAI ARRIERE VS31 1050MM"
         },
         "wiperBrand": "Valeo"
       },

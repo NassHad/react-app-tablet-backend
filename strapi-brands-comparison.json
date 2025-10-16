@@ -1,0 +1,3122 @@
+{
+  "metadata": {
+    "generatedAt": "2025-10-14T07:31:00.330Z",
+    "totalWipersBrands": 104,
+    "totalStrapiBrands": 69,
+    "totalExistingBrands": 53,
+    "totalMissingBrands": 51,
+    "totalWipersModels": 1443,
+    "totalExistingModels": 1249,
+    "totalMissingModels": 194
+  },
+  "summary": {
+    "existingBrands": 53,
+    "missingBrands": 51,
+    "totalWipersBrands": 104,
+    "coveragePercentage": 51,
+    "modelCoveragePercentage": 87
+  },
+  "existingBrands": [
+    {
+      "name": "RENAULT",
+      "modelCount": 74,
+      "modelsWithWipers": 74,
+      "strapiSlug": "renault",
+      "strapiId": 105
+    },
+    {
+      "name": "NISSAN",
+      "modelCount": 71,
+      "modelsWithWipers": 71,
+      "strapiSlug": "nissan",
+      "strapiId": 89
+    },
+    {
+      "name": "VOLKSWAGEN",
+      "modelCount": 63,
+      "modelsWithWipers": 63,
+      "strapiSlug": "volkswagen",
+      "strapiId": 135
+    },
+    {
+      "name": "FORD",
+      "modelCount": 61,
+      "modelsWithWipers": 61,
+      "strapiSlug": "ford",
+      "strapiId": 37
+    },
+    {
+      "name": "PEUGEOT",
+      "modelCount": 58,
+      "modelsWithWipers": 58,
+      "strapiSlug": "peugeot",
+      "strapiId": 93
+    },
+    {
+      "name": "TOYOTA",
+      "modelCount": 58,
+      "modelsWithWipers": 58,
+      "strapiSlug": "toyota",
+      "strapiId": 129
+    },
+    {
+      "name": "OPEL",
+      "modelCount": 49,
+      "modelsWithWipers": 49,
+      "strapiSlug": "opel",
+      "strapiId": 91
+    },
+    {
+      "name": "VAUXHALL",
+      "modelCount": 46,
+      "modelsWithWipers": 46,
+      "strapiSlug": "vauxhall",
+      "strapiId": 133
+    },
+    {
+      "name": "MERCEDES-BENZ",
+      "modelCount": 42,
+      "modelsWithWipers": 42,
+      "strapiSlug": "mercedes-benz",
+      "strapiId": 81
+    },
+    {
+      "name": "FIAT",
+      "modelCount": 41,
+      "modelsWithWipers": 41,
+      "strapiSlug": "fiat",
+      "strapiId": 35
+    },
+    {
+      "name": "HYUNDAI",
+      "modelCount": 40,
+      "modelsWithWipers": 40,
+      "strapiSlug": "hyundai",
+      "strapiId": 43
+    },
+    {
+      "name": "MAZDA",
+      "modelCount": 39,
+      "modelsWithWipers": 39,
+      "strapiSlug": "mazda",
+      "strapiId": 77
+    },
+    {
+      "name": "MITSUBISHI",
+      "modelCount": 39,
+      "modelsWithWipers": 39,
+      "strapiSlug": "mitsubishi",
+      "strapiId": 87
+    },
+    {
+      "name": "AUDI",
+      "modelCount": 38,
+      "modelsWithWipers": 38,
+      "strapiSlug": "audi",
+      "strapiId": 9
+    },
+    {
+      "name": "BMW",
+      "modelCount": 38,
+      "modelsWithWipers": 38,
+      "strapiSlug": "bmw",
+      "strapiId": 13
+    },
+    {
+      "name": "HONDA",
+      "modelCount": 38,
+      "modelsWithWipers": 38,
+      "strapiSlug": "honda",
+      "strapiId": 41
+    },
+    {
+      "name": "KIA",
+      "modelCount": 34,
+      "modelsWithWipers": 34,
+      "strapiSlug": "kia",
+      "strapiId": 57
+    },
+    {
+      "name": "SUZUKI",
+      "modelCount": 30,
+      "modelsWithWipers": 30,
+      "strapiSlug": "suzuki",
+      "strapiId": 125
+    },
+    {
+      "name": "SUBARU",
+      "modelCount": 28,
+      "modelsWithWipers": 28,
+      "strapiSlug": "subaru",
+      "strapiId": 123
+    },
+    {
+      "name": "SKODA",
+      "modelCount": 25,
+      "modelsWithWipers": 25,
+      "strapiSlug": "skoda",
+      "strapiId": 117
+    },
+    {
+      "name": "SEAT",
+      "modelCount": 24,
+      "modelsWithWipers": 24,
+      "strapiSlug": "seat",
+      "strapiId": 115
+    },
+    {
+      "name": "VOLVO",
+      "modelCount": 24,
+      "modelsWithWipers": 24,
+      "strapiSlug": "volvo",
+      "strapiId": 137
+    },
+    {
+      "name": "CHEVROLET",
+      "modelCount": 23,
+      "modelsWithWipers": 23,
+      "strapiSlug": "chevrolet",
+      "strapiId": 17
+    },
+    {
+      "name": "LANCIA",
+      "modelCount": 20,
+      "modelsWithWipers": 20,
+      "strapiSlug": "lancia",
+      "strapiId": 61
+    },
+    {
+      "name": "ALFA ROMEO",
+      "modelCount": 18,
+      "modelsWithWipers": 18,
+      "strapiSlug": "alfa-romeo",
+      "strapiId": 3
+    },
+    {
+      "name": "DAIHATSU",
+      "modelCount": 18,
+      "modelsWithWipers": 18,
+      "strapiSlug": "daihatsu",
+      "strapiId": 29
+    },
+    {
+      "name": "JEEP",
+      "modelCount": 17,
+      "modelsWithWipers": 17,
+      "strapiSlug": "jeep",
+      "strapiId": 55
+    },
+    {
+      "name": "CHRYSLER",
+      "modelCount": 16,
+      "modelsWithWipers": 16,
+      "strapiSlug": "chrysler",
+      "strapiId": 19
+    },
+    {
+      "name": "LEXUS",
+      "modelCount": 16,
+      "modelsWithWipers": 16,
+      "strapiSlug": "lexus",
+      "strapiId": 65
+    },
+    {
+      "name": "DACIA",
+      "modelCount": 14,
+      "modelsWithWipers": 14,
+      "strapiSlug": "dacia",
+      "strapiId": 25
+    },
+    {
+      "name": "DAEWOO",
+      "modelCount": 14,
+      "modelsWithWipers": 14,
+      "strapiSlug": "daewoo",
+      "strapiId": 27
+    },
+    {
+      "name": "LAND ROVER",
+      "modelCount": 14,
+      "modelsWithWipers": 14,
+      "strapiSlug": "land-rover",
+      "strapiId": 63
+    },
+    {
+      "name": "PORSCHE",
+      "modelCount": 14,
+      "modelsWithWipers": 14,
+      "strapiSlug": "porsche",
+      "strapiId": 99
+    },
+    {
+      "name": "ROVER",
+      "modelCount": 12,
+      "modelsWithWipers": 12,
+      "strapiSlug": "rover",
+      "strapiId": 111
+    },
+    {
+      "name": "ISUZU",
+      "modelCount": 11,
+      "modelsWithWipers": 11,
+      "strapiSlug": "isuzu",
+      "strapiId": 49
+    },
+    {
+      "name": "MINI",
+      "modelCount": 11,
+      "modelsWithWipers": 11,
+      "strapiSlug": "mini",
+      "strapiId": 85
+    },
+    {
+      "name": "JAGUAR",
+      "modelCount": 10,
+      "modelsWithWipers": 10,
+      "strapiSlug": "jaguar",
+      "strapiId": 53
+    },
+    {
+      "name": "CADILLAC",
+      "modelCount": 9,
+      "modelsWithWipers": 9,
+      "strapiSlug": "cadillac",
+      "strapiId": 15
+    },
+    {
+      "name": "SAAB",
+      "modelCount": 9,
+      "modelsWithWipers": 9,
+      "strapiSlug": "saab",
+      "strapiId": 113
+    },
+    {
+      "name": "LADA",
+      "modelCount": 8,
+      "modelsWithWipers": 8,
+      "strapiSlug": "lada",
+      "strapiId": 59
+    },
+    {
+      "name": "SMART",
+      "modelCount": 8,
+      "modelsWithWipers": 8,
+      "strapiSlug": "smart",
+      "strapiId": 119
+    },
+    {
+      "name": "CUPRA",
+      "modelCount": 4,
+      "modelsWithWipers": 4,
+      "strapiSlug": "cupra",
+      "strapiId": 23
+    },
+    {
+      "name": "INFINITI",
+      "modelCount": 4,
+      "modelsWithWipers": 4,
+      "strapiSlug": "infiniti",
+      "strapiId": 45
+    },
+    {
+      "name": "PROTON",
+      "modelCount": 4,
+      "modelsWithWipers": 4,
+      "strapiSlug": "proton",
+      "strapiId": 101
+    },
+    {
+      "name": "ABARTH",
+      "modelCount": 3,
+      "modelsWithWipers": 3,
+      "strapiSlug": "abarth",
+      "strapiId": 1
+    },
+    {
+      "name": "MG",
+      "modelCount": 3,
+      "modelsWithWipers": 3,
+      "strapiSlug": "mg",
+      "strapiId": 83
+    },
+    {
+      "name": "IVECO",
+      "modelCount": 2,
+      "modelsWithWipers": 2,
+      "strapiSlug": "iveco",
+      "strapiId": 51
+    },
+    {
+      "name": "LOTUS",
+      "modelCount": 2,
+      "modelsWithWipers": 2,
+      "strapiSlug": "lotus",
+      "strapiId": 69
+    },
+    {
+      "name": "AUTOBIANCHI",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "strapiSlug": "autobianchi",
+      "strapiId": 11
+    },
+    {
+      "name": "LINCOLN",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "strapiSlug": "lincoln",
+      "strapiId": 67
+    },
+    {
+      "name": "MAN",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "strapiSlug": "man",
+      "strapiId": 71
+    },
+    {
+      "name": "MASERATI",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "strapiSlug": "maserati",
+      "strapiId": 73
+    },
+    {
+      "name": "UAZ",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "strapiSlug": "uaz",
+      "strapiId": 131
+    }
+  ],
+  "missingBrands": [
+    {
+      "name": "CITROËN",
+      "modelCount": 61,
+      "modelsWithWipers": 61,
+      "sampleModels": [
+        "Ami / Ami Buggy",
+        "Ami 8 / Ami Super",
+        "AX",
+        "Axel",
+        "Berlingo / Berlingo First"
+      ],
+      "allModels": [
+        "Ami / Ami Buggy",
+        "Ami 8 / Ami Super",
+        "AX",
+        "Axel",
+        "Berlingo / Berlingo First",
+        "Berlingo",
+        "Berlingo",
+        "Berlingo / ë-Berlingo",
+        "BX",
+        "C1",
+        "C1",
+        "C2",
+        "C3 Aircross",
+        "C3 Pluriel",
+        "C4",
+        "C4",
+        "C4",
+        "C4",
+        "C4",
+        "C4",
+        "C4 / ë-C4",
+        "C4 Aircross",
+        "C4 Aircross",
+        "C4 Picasso",
+        "C4 SpaceTourer",
+        "C5",
+        "C5",
+        "C5",
+        "C5",
+        "C5",
+        "C5 Tourer / Cross Tourer",
+        "C5 Aircross",
+        "C6",
+        "C8",
+        "C15",
+        "C22/ C25/ C32/ C35",
+        "CX",
+        "CX",
+        "C-Zero",
+        "Dispatch",
+        "Dispatch / ë-Dispatch",
+        "DS4",
+        "DS4",
+        "E-Mehari",
+        "Evasion",
+        "GS",
+        "Jumper",
+        "Jumper / ë-Jumper",
+        "Jumpy",
+        "LN/ LNA",
+        "Relay",
+        "Saxo",
+        "Synergie",
+        "Visa/ Visa 2",
+        "Xantia",
+        "Xantia",
+        "Xantia",
+        "Xantia",
+        "Xsara",
+        "Xsara Picasso",
+        "Xsara Picasso"
+      ]
+    },
+    {
+      "name": "SSANG-YONG",
+      "modelCount": 12,
+      "modelsWithWipers": 12,
+      "sampleModels": [
+        "Actyon / Pick Up Sport / SUT-1",
+        "Family",
+        "Instance",
+        "Korando",
+        "Korando"
+      ],
+      "allModels": [
+        "Actyon / Pick Up Sport / SUT-1",
+        "Family",
+        "Instance",
+        "Korando",
+        "Korando",
+        "Korando",
+        "Kyron M200",
+        "Kyron",
+        "Musso",
+        "Musso",
+        "Rodius / Korando Turismo / Stavic",
+        "Tivoli"
+      ]
+    },
+    {
+      "name": "TATA",
+      "modelCount": 10,
+      "modelsWithWipers": 10,
+      "sampleModels": [
+        "Bolt",
+        "Harrier / Buzzard Sport",
+        "Hexa",
+        "Indica",
+        "Indica"
+      ],
+      "allModels": [
+        "Bolt",
+        "Harrier / Buzzard Sport",
+        "Hexa",
+        "Indica",
+        "Indica",
+        "Indica",
+        "Indigo SW",
+        "Indigo SW",
+        "Safari / Safari Storme",
+        "Tiago / Tiago NRG"
+      ]
+    },
+    {
+      "name": "DODGE",
+      "modelCount": 8,
+      "modelsWithWipers": 8,
+      "sampleModels": [
+        "Avenger",
+        "Caliber",
+        "Caravan",
+        "Challenger",
+        "Charger"
+      ],
+      "allModels": [
+        "Avenger",
+        "Caliber",
+        "Caravan",
+        "Challenger",
+        "Charger",
+        "Durango / Citadel",
+        "Journey",
+        "Nitro"
+      ]
+    },
+    {
+      "name": "DS AUTOMOBILES",
+      "modelCount": 7,
+      "modelsWithWipers": 7,
+      "sampleModels": [
+        "DS 3",
+        "DS 3 Cabrio",
+        "DS 4",
+        "DS 4",
+        "DS 7 Crossback / DS 7"
+      ],
+      "allModels": [
+        "DS 3",
+        "DS 3 Cabrio",
+        "DS 4",
+        "DS 4",
+        "DS 7 Crossback / DS 7",
+        "DS 7 Crossback / DS 7",
+        "DS 9"
+      ]
+    },
+    {
+      "name": "MEGA",
+      "modelCount": 5,
+      "modelsWithWipers": 5,
+      "sampleModels": [
+        "e-City",
+        "e-Scouty",
+        "GTO / City",
+        "Mega Club",
+        "Multitruck / Worker"
+      ],
+      "allModels": [
+        "e-City",
+        "e-Scouty",
+        "GTO / City",
+        "Mega Club",
+        "Multitruck / Worker"
+      ]
+    },
+    {
+      "name": "MICROCAR",
+      "modelCount": 5,
+      "modelsWithWipers": 5,
+      "sampleModels": [
+        "Dué",
+        "Lyra / Galaxie / Kanella",
+        "MC1 / MC2",
+        "Sherpa /",
+        "Virgo"
+      ],
+      "allModels": [
+        "Dué",
+        "Lyra / Galaxie / Kanella",
+        "MC1 / MC2",
+        "Sherpa /",
+        "Virgo"
+      ]
+    },
+    {
+      "name": "ROVER / MG",
+      "modelCount": 5,
+      "modelsWithWipers": 5,
+      "sampleModels": [
+        "MG",
+        "ZR",
+        "ZS",
+        "ZT",
+        "ZT-Tourer"
+      ],
+      "allModels": [
+        "MG",
+        "ZR",
+        "ZS",
+        "ZT",
+        "ZT-Tourer"
+      ]
+    },
+    {
+      "name": "LIGIER",
+      "modelCount": 4,
+      "modelsWithWipers": 4,
+      "sampleModels": [
+        "Flex L3",
+        "ixo",
+        "JS 50 / JS 50L / JS RC",
+        "X-TOO 2 / Max"
+      ],
+      "allModels": [
+        "Flex L3",
+        "ixo",
+        "JS 50 / JS 50L / JS RC",
+        "X-TOO 2 / Max"
+      ]
+    },
+    {
+      "name": "SANTANA",
+      "modelCount": 4,
+      "modelsWithWipers": 4,
+      "sampleModels": [
+        "PS 10",
+        "S 300 / S 350",
+        "Vitara",
+        "Vitara"
+      ],
+      "allModels": [
+        "PS 10",
+        "S 300 / S 350",
+        "Vitara",
+        "Vitara"
+      ]
+    },
+    {
+      "name": "TALBOT",
+      "modelCount": 4,
+      "modelsWithWipers": 4,
+      "sampleModels": [
+        "Horizon",
+        "Matra Rancho",
+        "Samba",
+        "Tagora"
+      ],
+      "allModels": [
+        "Horizon",
+        "Matra Rancho",
+        "Samba",
+        "Tagora"
+      ]
+    },
+    {
+      "name": "YUGO",
+      "modelCount": 4,
+      "modelsWithWipers": 4,
+      "sampleModels": [
+        "Florida",
+        "Miami",
+        "Sana",
+        "Tempo"
+      ],
+      "allModels": [
+        "Florida",
+        "Miami",
+        "Sana",
+        "Tempo"
+      ]
+    },
+    {
+      "name": "AIXAM",
+      "modelCount": 3,
+      "modelsWithWipers": 3,
+      "sampleModels": [
+        "A.721 / A.741 / A.751",
+        "City / Roadline / Crossline",
+        "Crossline"
+      ],
+      "allModels": [
+        "A.721 / A.741 / A.751",
+        "City / Roadline / Crossline",
+        "Crossline"
+      ]
+    },
+    {
+      "name": "ASTON MARTIN",
+      "modelCount": 3,
+      "modelsWithWipers": 3,
+      "sampleModels": [
+        "DB7",
+        "Vantage",
+        "Volante"
+      ],
+      "allModels": [
+        "DB7",
+        "Vantage",
+        "Volante"
+      ]
+    },
+    {
+      "name": "AUSTIN ROVER",
+      "modelCount": 3,
+      "modelsWithWipers": 3,
+      "sampleModels": [
+        "Maestro",
+        "Metro",
+        "Montego"
+      ],
+      "allModels": [
+        "Maestro",
+        "Metro",
+        "Montego"
+      ]
+    },
+    {
+      "name": "FORTHING (Dongfeng)",
+      "modelCount": 3,
+      "modelsWithWipers": 3,
+      "sampleModels": [
+        "T5 Evo",
+        "Friday",
+        "U-Tour / M4"
+      ],
+      "allModels": [
+        "T5 Evo",
+        "Friday",
+        "U-Tour / M4"
+      ]
+    },
+    {
+      "name": "FSO",
+      "modelCount": 3,
+      "modelsWithWipers": 3,
+      "sampleModels": [
+        "ATU",
+        "Caro",
+        "Truck"
+      ],
+      "allModels": [
+        "ATU",
+        "Caro",
+        "Truck"
+      ]
+    },
+    {
+      "name": "MAXUS",
+      "modelCount": 3,
+      "modelsWithWipers": 3,
+      "sampleModels": [
+        "eDeliver 3",
+        "Deliver 9",
+        "T90 / T90 EV"
+      ],
+      "allModels": [
+        "eDeliver 3",
+        "Deliver 9",
+        "T90 / T90 EV"
+      ]
+    },
+    {
+      "name": "TEILHOL",
+      "modelCount": 3,
+      "modelsWithWipers": 3,
+      "sampleModels": [
+        "Tangara",
+        "TD325/ TD400",
+        "Theva"
+      ],
+      "allModels": [
+        "Tangara",
+        "TD325/ TD400",
+        "Theva"
+      ]
+    },
+    {
+      "name": "TESLA",
+      "modelCount": 3,
+      "modelsWithWipers": 3,
+      "sampleModels": [
+        "Model 3",
+        "Model S",
+        "Model X"
+      ],
+      "allModels": [
+        "Model 3",
+        "Model S",
+        "Model X"
+      ]
+    },
+    {
+      "name": "ZASTAVA",
+      "modelCount": 3,
+      "modelsWithWipers": 3,
+      "sampleModels": [
+        "Florida",
+        "Miami",
+        "Tempo"
+      ],
+      "allModels": [
+        "Florida",
+        "Miami",
+        "Tempo"
+      ]
+    },
+    {
+      "name": "DUE",
+      "modelCount": 2,
+      "modelsWithWipers": 2,
+      "sampleModels": [
+        "Dué First",
+        "Dué 2"
+      ],
+      "allModels": [
+        "Dué First",
+        "Dué 2"
+      ]
+    },
+    {
+      "name": "FERRARI",
+      "modelCount": 2,
+      "modelsWithWipers": 2,
+      "sampleModels": [
+        "348 TB/ TS",
+        "Mondial"
+      ],
+      "allModels": [
+        "348 TB/ TS",
+        "Mondial"
+      ]
+    },
+    {
+      "name": "INNOCENTI",
+      "modelCount": 2,
+      "modelsWithWipers": 2,
+      "sampleModels": [
+        "Elba",
+        "Mini 900"
+      ],
+      "allModels": [
+        "Elba",
+        "Mini 900"
+      ]
+    },
+    {
+      "name": "MAHINDRA",
+      "modelCount": 2,
+      "modelsWithWipers": 2,
+      "sampleModels": [
+        "Bolero",
+        "Goa"
+      ],
+      "allModels": [
+        "Bolero",
+        "Goa"
+      ]
+    },
+    {
+      "name": "RELIANT",
+      "modelCount": 2,
+      "modelsWithWipers": 2,
+      "sampleModels": [
+        "Metrocab Taxi",
+        "Sabre"
+      ],
+      "allModels": [
+        "Metrocab Taxi",
+        "Sabre"
+      ]
+    },
+    {
+      "name": "SERES",
+      "modelCount": 2,
+      "modelsWithWipers": 2,
+      "sampleModels": [
+        "Seres 3",
+        "Seres 7"
+      ],
+      "allModels": [
+        "Seres 3",
+        "Seres 7"
+      ]
+    },
+    {
+      "name": "TVR",
+      "modelCount": 2,
+      "modelsWithWipers": 2,
+      "sampleModels": [
+        "400 Se",
+        "Chimaera"
+      ],
+      "allModels": [
+        "400 Se",
+        "Chimaera"
+      ]
+    },
+    {
+      "name": "ZAZ",
+      "modelCount": 2,
+      "modelsWithWipers": 2,
+      "sampleModels": [
+        "2102 Tawarija",
+        "Tavria"
+      ],
+      "allModels": [
+        "2102 Tawarija",
+        "Tavria"
+      ]
+    },
+    {
+      "name": "BENTLEY",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "Eight"
+      ],
+      "allModels": [
+        "Eight"
+      ]
+    },
+    {
+      "name": "CASALINI",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "Kerry"
+      ],
+      "allModels": [
+        "Kerry"
+      ]
+    },
+    {
+      "name": "DATSUN",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "on-Do"
+      ],
+      "allModels": [
+        "on-Do"
+      ]
+    },
+    {
+      "name": "DFSK (SERES)",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "EC35 / EC31 / C-Series"
+      ],
+      "allModels": [
+        "EC35 / EC31 / C-Series"
+      ]
+    },
+    {
+      "name": "ERAD",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "Agora"
+      ],
+      "allModels": [
+        "Agora"
+      ]
+    },
+    {
+      "name": "GAZ",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "2308 Ataman"
+      ],
+      "allModels": [
+        "2308 Ataman"
+      ]
+    },
+    {
+      "name": "GMC",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "Denali / Denali XL"
+      ],
+      "allModels": [
+        "Denali / Denali XL"
+      ]
+    },
+    {
+      "name": "HUMMER",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "H2"
+      ],
+      "allModels": [
+        "H2"
+      ]
+    },
+    {
+      "name": "LAMBORGHINI",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "Urus"
+      ],
+      "allModels": [
+        "Urus"
+      ]
+    },
+    {
+      "name": "LDV (LEYLAND DAF)",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "Convoy"
+      ],
+      "allModels": [
+        "Convoy"
+      ]
+    },
+    {
+      "name": "LEAPMOTOR",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "T03"
+      ],
+      "allModels": [
+        "T03"
+      ]
+    },
+    {
+      "name": "LYNK & CO",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "01"
+      ],
+      "allModels": [
+        "01"
+      ]
+    },
+    {
+      "name": "MINAUTO",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "400 / City"
+      ],
+      "allModels": [
+        "400 / City"
+      ]
+    },
+    {
+      "name": "MOSKVITCH",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "2141"
+      ],
+      "allModels": [
+        "2141"
+      ]
+    },
+    {
+      "name": "NIO",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "ET7"
+      ],
+      "allModels": [
+        "ET7"
+      ]
+    },
+    {
+      "name": "PGO",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "Cevennes"
+      ],
+      "allModels": [
+        "Cevennes"
+      ]
+    },
+    {
+      "name": "PIAGGIO",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "Porter / Tipper / Quargo"
+      ],
+      "allModels": [
+        "Porter / Tipper / Quargo"
+      ]
+    },
+    {
+      "name": "POLESTAR",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "Polestar 2"
+      ],
+      "allModels": [
+        "Polestar 2"
+      ]
+    },
+    {
+      "name": "SCIMITAR",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "Sabre"
+      ],
+      "allModels": [
+        "Sabre"
+      ]
+    },
+    {
+      "name": "VAZ",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "2101"
+      ],
+      "allModels": [
+        "2101"
+      ]
+    },
+    {
+      "name": "VINFAST",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "VF 8"
+      ],
+      "allModels": [
+        "VF 8"
+      ]
+    },
+    {
+      "name": "XEV",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "Yoyo EV"
+      ],
+      "allModels": [
+        "Yoyo EV"
+      ]
+    }
+  ],
+  "missingBrandNamesOnly": [
+    "CITROËN",
+    "SSANG-YONG",
+    "TATA",
+    "DODGE",
+    "DS AUTOMOBILES",
+    "MEGA",
+    "MICROCAR",
+    "ROVER / MG",
+    "LIGIER",
+    "SANTANA",
+    "TALBOT",
+    "YUGO",
+    "AIXAM",
+    "ASTON MARTIN",
+    "AUSTIN ROVER",
+    "FORTHING (Dongfeng)",
+    "FSO",
+    "MAXUS",
+    "TEILHOL",
+    "TESLA",
+    "ZASTAVA",
+    "DUE",
+    "FERRARI",
+    "INNOCENTI",
+    "MAHINDRA",
+    "RELIANT",
+    "SERES",
+    "TVR",
+    "ZAZ",
+    "BENTLEY",
+    "CASALINI",
+    "DATSUN",
+    "DFSK (SERES)",
+    "ERAD",
+    "GAZ",
+    "GMC",
+    "HUMMER",
+    "LAMBORGHINI",
+    "LDV (LEYLAND DAF)",
+    "LEAPMOTOR",
+    "LYNK & CO",
+    "MINAUTO",
+    "MOSKVITCH",
+    "NIO",
+    "PGO",
+    "PIAGGIO",
+    "POLESTAR",
+    "SCIMITAR",
+    "VAZ",
+    "VINFAST",
+    "XEV"
+  ],
+  "existingBrandNamesOnly": [
+    "RENAULT",
+    "NISSAN",
+    "VOLKSWAGEN",
+    "FORD",
+    "PEUGEOT",
+    "TOYOTA",
+    "OPEL",
+    "VAUXHALL",
+    "MERCEDES-BENZ",
+    "FIAT",
+    "HYUNDAI",
+    "MAZDA",
+    "MITSUBISHI",
+    "AUDI",
+    "BMW",
+    "HONDA",
+    "KIA",
+    "SUZUKI",
+    "SUBARU",
+    "SKODA",
+    "SEAT",
+    "VOLVO",
+    "CHEVROLET",
+    "LANCIA",
+    "ALFA ROMEO",
+    "DAIHATSU",
+    "JEEP",
+    "CHRYSLER",
+    "LEXUS",
+    "DACIA",
+    "DAEWOO",
+    "LAND ROVER",
+    "PORSCHE",
+    "ROVER",
+    "ISUZU",
+    "MINI",
+    "JAGUAR",
+    "CADILLAC",
+    "SAAB",
+    "LADA",
+    "SMART",
+    "CUPRA",
+    "INFINITI",
+    "PROTON",
+    "ABARTH",
+    "MG",
+    "IVECO",
+    "LOTUS",
+    "AUTOBIANCHI",
+    "LINCOLN",
+    "MAN",
+    "MASERATI",
+    "UAZ"
+  ],
+  "fullComparison": [
+    {
+      "wipersBrandName": "RENAULT",
+      "modelCount": 74,
+      "modelsWithWipers": 74,
+      "sampleModels": [
+        "Alaskan",
+        "Alpine V6",
+        "Arkana / E-Tech",
+        "Austral / Austral E-Tech",
+        "Avantime"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "RENAULT",
+      "strapiBrandSlug": "renault",
+      "strapiBrandId": 105
+    },
+    {
+      "wipersBrandName": "NISSAN",
+      "modelCount": 71,
+      "modelsWithWipers": 71,
+      "sampleModels": [
+        "100 NX",
+        "200 SX",
+        "200 SX",
+        "300 ZX",
+        "300 ZX V6"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "NISSAN",
+      "strapiBrandSlug": "nissan",
+      "strapiBrandId": 89
+    },
+    {
+      "wipersBrandName": "VOLKSWAGEN",
+      "modelCount": 63,
+      "modelsWithWipers": 63,
+      "sampleModels": [
+        "Amarok",
+        "Amarok",
+        "Amarok",
+        "Arteon",
+        "Beetle / New Beetle"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "VOLKSWAGEN",
+      "strapiBrandSlug": "volkswagen",
+      "strapiBrandId": 135
+    },
+    {
+      "wipersBrandName": "CITROËN",
+      "modelCount": 61,
+      "modelsWithWipers": 61,
+      "sampleModels": [
+        "Ami / Ami Buggy",
+        "Ami 8 / Ami Super",
+        "AX",
+        "Axel",
+        "Berlingo / Berlingo First"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "FORD",
+      "modelCount": 61,
+      "modelsWithWipers": 61,
+      "sampleModels": [
+        "B-Max",
+        "Bronco",
+        "C-Max",
+        "Grand C-Max",
+        "Cougar"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "FORD",
+      "strapiBrandSlug": "ford",
+      "strapiBrandId": 37
+    },
+    {
+      "wipersBrandName": "PEUGEOT",
+      "modelCount": 58,
+      "modelsWithWipers": 58,
+      "sampleModels": [
+        "104",
+        "106",
+        "107",
+        "108",
+        "205"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "PEUGEOT",
+      "strapiBrandSlug": "peugeot",
+      "strapiBrandId": 93
+    },
+    {
+      "wipersBrandName": "TOYOTA",
+      "modelCount": 58,
+      "modelsWithWipers": 58,
+      "sampleModels": [
+        "4-Runner",
+        "Auris",
+        "Auris",
+        "Avensis",
+        "Avensis"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "TOYOTA",
+      "strapiBrandSlug": "toyota",
+      "strapiBrandId": 129
+    },
+    {
+      "wipersBrandName": "OPEL",
+      "modelCount": 49,
+      "modelsWithWipers": 49,
+      "sampleModels": [
+        "Adam",
+        "Admiral",
+        "Agila A",
+        "Agila B",
+        "Ampera"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "OPEL",
+      "strapiBrandSlug": "opel",
+      "strapiBrandId": 91
+    },
+    {
+      "wipersBrandName": "VAUXHALL",
+      "modelCount": 46,
+      "modelsWithWipers": 46,
+      "sampleModels": [
+        "Adam",
+        "Agila",
+        "Agila",
+        "Ampera",
+        "Albany"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "VAUXHALL",
+      "strapiBrandSlug": "vauxhall",
+      "strapiBrandId": 133
+    },
+    {
+      "wipersBrandName": "MERCEDES-BENZ",
+      "modelCount": 42,
+      "modelsWithWipers": 42,
+      "sampleModels": [
+        "190 E/ D",
+        "200/ 300 E/ D",
+        "200/ 300 C/ CE",
+        "200/ 300 TE/ TD",
+        "A-Class"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "MERCEDES-BENZ",
+      "strapiBrandSlug": "mercedes-benz",
+      "strapiBrandId": 81
+    },
+    {
+      "wipersBrandName": "FIAT",
+      "modelCount": 41,
+      "modelsWithWipers": 41,
+      "sampleModels": [
+        "124 Spider",
+        "500 / Abarth",
+        "500 C",
+        "500 L / Trekking / Cross",
+        "500 L Living / Wagon"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "FIAT",
+      "strapiBrandSlug": "fiat",
+      "strapiBrandId": 35
+    },
+    {
+      "wipersBrandName": "HYUNDAI",
+      "modelCount": 40,
+      "modelsWithWipers": 40,
+      "sampleModels": [
+        "Accent",
+        "Accent",
+        "Accent",
+        "Atos",
+        "Bayon"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "HYUNDAI",
+      "strapiBrandSlug": "hyundai",
+      "strapiBrandId": 43
+    },
+    {
+      "wipersBrandName": "MAZDA",
+      "modelCount": 39,
+      "modelsWithWipers": 39,
+      "sampleModels": [
+        "121",
+        "121 L/ LX/ Canvas",
+        "121",
+        "323",
+        "323"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "MAZDA",
+      "strapiBrandSlug": "mazda",
+      "strapiBrandId": 77
+    },
+    {
+      "wipersBrandName": "MITSUBISHI",
+      "modelCount": 39,
+      "modelsWithWipers": 39,
+      "sampleModels": [
+        "3000 GT",
+        "ASX",
+        "ASX",
+        "ASX",
+        "Attrage / Mirage G4"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "MITSUBISHI",
+      "strapiBrandSlug": "mitsubishi",
+      "strapiBrandId": 87
+    },
+    {
+      "wipersBrandName": "AUDI",
+      "modelCount": 38,
+      "modelsWithWipers": 38,
+      "sampleModels": [
+        "50",
+        "80",
+        "80",
+        "80",
+        "80"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "AUDI",
+      "strapiBrandSlug": "audi",
+      "strapiBrandId": 9
+    },
+    {
+      "wipersBrandName": "BMW",
+      "modelCount": 38,
+      "modelsWithWipers": 38,
+      "sampleModels": [
+        "1-Series",
+        "1-Series",
+        "1-Series",
+        "1-Series",
+        "1-Series"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "BMW",
+      "strapiBrandSlug": "bmw",
+      "strapiBrandId": 13
+    },
+    {
+      "wipersBrandName": "HONDA",
+      "modelCount": 38,
+      "modelsWithWipers": 38,
+      "sampleModels": [
+        "Accord",
+        "Accord",
+        "Accord",
+        "Accord",
+        "Accord Aerodeck"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "HONDA",
+      "strapiBrandSlug": "honda",
+      "strapiBrandId": 41
+    },
+    {
+      "wipersBrandName": "KIA",
+      "modelCount": 34,
+      "modelsWithWipers": 34,
+      "sampleModels": [
+        "Besta",
+        "Carens",
+        "Carens",
+        "Carens",
+        "Carens"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "KIA",
+      "strapiBrandSlug": "kia",
+      "strapiBrandId": 57
+    },
+    {
+      "wipersBrandName": "SUZUKI",
+      "modelCount": 30,
+      "modelsWithWipers": 30,
+      "sampleModels": [
+        "1300",
+        "Across",
+        "Alto",
+        "Alto",
+        "Alto"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "SUZUKI",
+      "strapiBrandSlug": "suzuki",
+      "strapiBrandId": 125
+    },
+    {
+      "wipersBrandName": "SUBARU",
+      "modelCount": 28,
+      "modelsWithWipers": 28,
+      "sampleModels": [
+        "1800",
+        "BRZ",
+        "Domingo",
+        "E + Wagon/ Wagon SDX",
+        "Forester"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "SUBARU",
+      "strapiBrandSlug": "subaru",
+      "strapiBrandId": 123
+    },
+    {
+      "wipersBrandName": "SKODA",
+      "modelCount": 25,
+      "modelsWithWipers": 25,
+      "sampleModels": [
+        "Citigo",
+        "Enyaq iV",
+        "Exellent",
+        "Fabia",
+        "Fabia"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "SKODA",
+      "strapiBrandSlug": "skoda",
+      "strapiBrandId": 117
+    },
+    {
+      "wipersBrandName": "SEAT",
+      "modelCount": 24,
+      "modelsWithWipers": 24,
+      "sampleModels": [
+        "Alhambra",
+        "Alhambra",
+        "Alhambra",
+        "Arona",
+        "Arosa"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "SEAT",
+      "strapiBrandSlug": "seat",
+      "strapiBrandId": 115
+    },
+    {
+      "wipersBrandName": "VOLVO",
+      "modelCount": 24,
+      "modelsWithWipers": 24,
+      "sampleModels": [
+        "144/ 162/ 164/ 165",
+        "240",
+        "240",
+        "260",
+        "440"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "VOLVO",
+      "strapiBrandSlug": "volvo",
+      "strapiBrandId": 137
+    },
+    {
+      "wipersBrandName": "CHEVROLET",
+      "modelCount": 23,
+      "modelsWithWipers": 23,
+      "sampleModels": [
+        "Aveo",
+        "Aveo",
+        "Aveo",
+        "Aveo",
+        "Camaro"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "CHEVROLET",
+      "strapiBrandSlug": "chevrolet",
+      "strapiBrandId": 17
+    },
+    {
+      "wipersBrandName": "LANCIA",
+      "modelCount": 20,
+      "modelsWithWipers": 20,
+      "sampleModels": [
+        "Beta",
+        "Dedra",
+        "Delta",
+        "Delta",
+        "Delta HPE"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "LANCIA",
+      "strapiBrandSlug": "lancia",
+      "strapiBrandId": 61
+    },
+    {
+      "wipersBrandName": "ALFA ROMEO",
+      "modelCount": 18,
+      "modelsWithWipers": 18,
+      "sampleModels": [
+        "Alfa 6",
+        "Alfa 33 Q4",
+        "Alfa 33",
+        "Alfa 145",
+        "Alfa 147"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "ALFA ROMEO",
+      "strapiBrandSlug": "alfa-romeo",
+      "strapiBrandId": 3
+    },
+    {
+      "wipersBrandName": "DAIHATSU",
+      "modelCount": 18,
+      "modelsWithWipers": 18,
+      "sampleModels": [
+        "Charade",
+        "Charade",
+        "Copen",
+        "Cuore",
+        "Cuore"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "DAIHATSU",
+      "strapiBrandSlug": "daihatsu",
+      "strapiBrandId": 29
+    },
+    {
+      "wipersBrandName": "JEEP",
+      "modelCount": 17,
+      "modelsWithWipers": 17,
+      "sampleModels": [
+        "Avenger",
+        "Cherokee",
+        "Cherokee",
+        "Cherokee",
+        "Cherokee"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "JEEP",
+      "strapiBrandSlug": "jeep",
+      "strapiBrandId": 55
+    },
+    {
+      "wipersBrandName": "CHRYSLER",
+      "modelCount": 16,
+      "modelsWithWipers": 16,
+      "sampleModels": [
+        "300 M",
+        "300 C",
+        "Crossfire",
+        "Delta",
+        "Neon"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "CHRYSLER",
+      "strapiBrandSlug": "chrysler",
+      "strapiBrandId": 19
+    },
+    {
+      "wipersBrandName": "LEXUS",
+      "modelCount": 16,
+      "modelsWithWipers": 16,
+      "sampleModels": [
+        "CT 200h",
+        "ES 300h",
+        "GS 300/430",
+        "GS 300h/450h/GS F",
+        "IS 200"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "LEXUS",
+      "strapiBrandSlug": "lexus",
+      "strapiBrandId": 65
+    },
+    {
+      "wipersBrandName": "DACIA",
+      "modelCount": 14,
+      "modelsWithWipers": 14,
+      "sampleModels": [
+        "2000",
+        "Dokker / Dokker Stepway",
+        "Dokker / Dokker Stepway",
+        "Dokker Pick up",
+        "Duster"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "DACIA",
+      "strapiBrandSlug": "dacia",
+      "strapiBrandId": 25
+    },
+    {
+      "wipersBrandName": "DAEWOO",
+      "modelCount": 14,
+      "modelsWithWipers": 14,
+      "sampleModels": [
+        "Espero",
+        "Evanda",
+        "Kalos",
+        "Korando",
+        "Lacetti"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "DAEWOO",
+      "strapiBrandSlug": "daewoo",
+      "strapiBrandId": 27
+    },
+    {
+      "wipersBrandName": "LAND ROVER",
+      "modelCount": 14,
+      "modelsWithWipers": 14,
+      "sampleModels": [
+        "Defender 90 / 110",
+        "Defender 90 / 110 / 130",
+        "Discovery",
+        "Discovery /",
+        "Discovery / SV"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "LAND ROVER",
+      "strapiBrandSlug": "land-rover",
+      "strapiBrandId": 63
+    },
+    {
+      "wipersBrandName": "PORSCHE",
+      "modelCount": 14,
+      "modelsWithWipers": 14,
+      "sampleModels": [
+        "911",
+        "911",
+        "924",
+        "928/ 928S",
+        "928 S4"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "PORSCHE",
+      "strapiBrandSlug": "porsche",
+      "strapiBrandId": 99
+    },
+    {
+      "wipersBrandName": "ROVER",
+      "modelCount": 12,
+      "modelsWithWipers": 12,
+      "sampleModels": [
+        "3500Vit/ Vanden Plas",
+        "Rover 25",
+        "Rover 45",
+        "Rover 75",
+        "Rover 75 Tourer"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "ROVER",
+      "strapiBrandSlug": "rover",
+      "strapiBrandId": 111
+    },
+    {
+      "wipersBrandName": "SSANG-YONG",
+      "modelCount": 12,
+      "modelsWithWipers": 12,
+      "sampleModels": [
+        "Actyon / Pick Up Sport / SUT-1",
+        "Family",
+        "Instance",
+        "Korando",
+        "Korando"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "ISUZU",
+      "modelCount": 11,
+      "modelsWithWipers": 11,
+      "sampleModels": [
+        "Amigo",
+        "Campo",
+        "D-Max / Rodeo",
+        "D-Max / Rodeo / Satellite",
+        "D-Max N60 B / N60 BB"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "ISUZU",
+      "strapiBrandSlug": "isuzu",
+      "strapiBrandId": 49
+    },
+    {
+      "wipersBrandName": "MINI",
+      "modelCount": 11,
+      "modelsWithWipers": 11,
+      "sampleModels": [
+        "One/ Cooper/ Cooper S",
+        "One/ Cooper/ Cooper S",
+        "Mini One/ Cooper/ Cooper S",
+        "Mini",
+        "Mini"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "MINI",
+      "strapiBrandSlug": "mini",
+      "strapiBrandId": 85
+    },
+    {
+      "wipersBrandName": "JAGUAR",
+      "modelCount": 10,
+      "modelsWithWipers": 10,
+      "sampleModels": [
+        "F-Pace",
+        "I-Pace",
+        "F-Type",
+        "Sovereign",
+        "XE / XE R"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "JAGUAR",
+      "strapiBrandSlug": "jaguar",
+      "strapiBrandId": 53
+    },
+    {
+      "wipersBrandName": "TATA",
+      "modelCount": 10,
+      "modelsWithWipers": 10,
+      "sampleModels": [
+        "Bolt",
+        "Harrier / Buzzard Sport",
+        "Hexa",
+        "Indica",
+        "Indica"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "CADILLAC",
+      "modelCount": 9,
+      "modelsWithWipers": 9,
+      "sampleModels": [
+        "ATS / ATS Coupé",
+        "BLS",
+        "CTS / CTS Coupé",
+        "CTS / CTS Coupé",
+        "CTS"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "CADILLAC",
+      "strapiBrandSlug": "cadillac",
+      "strapiBrandId": 15
+    },
+    {
+      "wipersBrandName": "SAAB",
+      "modelCount": 9,
+      "modelsWithWipers": 9,
+      "sampleModels": [
+        "90",
+        "900/ 9.3",
+        "900/ 9.3",
+        "9.3, -Aero",
+        "9.3 Sport Combi"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "SAAB",
+      "strapiBrandSlug": "saab",
+      "strapiBrandId": 113
+    },
+    {
+      "wipersBrandName": "DODGE",
+      "modelCount": 8,
+      "modelsWithWipers": 8,
+      "sampleModels": [
+        "Avenger",
+        "Caliber",
+        "Caravan",
+        "Challenger",
+        "Charger"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "LADA",
+      "modelCount": 8,
+      "modelsWithWipers": 8,
+      "sampleModels": [
+        "110",
+        "Corda",
+        "Granta",
+        "Kalina 1117 / 2194",
+        "Largus"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "LADA",
+      "strapiBrandSlug": "lada",
+      "strapiBrandId": 59
+    },
+    {
+      "wipersBrandName": "SMART",
+      "modelCount": 8,
+      "modelsWithWipers": 8,
+      "sampleModels": [
+        "#3",
+        "Smart/ Fortwo",
+        "Smart/ Fortwo",
+        "Fortwo",
+        "Fortwo / EQ Fortwo"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "SMART",
+      "strapiBrandSlug": "smart",
+      "strapiBrandId": 119
+    },
+    {
+      "wipersBrandName": "DS AUTOMOBILES",
+      "modelCount": 7,
+      "modelsWithWipers": 7,
+      "sampleModels": [
+        "DS 3",
+        "DS 3 Cabrio",
+        "DS 4",
+        "DS 4",
+        "DS 7 Crossback / DS 7"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "MEGA",
+      "modelCount": 5,
+      "modelsWithWipers": 5,
+      "sampleModels": [
+        "e-City",
+        "e-Scouty",
+        "GTO / City",
+        "Mega Club",
+        "Multitruck / Worker"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "MICROCAR",
+      "modelCount": 5,
+      "modelsWithWipers": 5,
+      "sampleModels": [
+        "Dué",
+        "Lyra / Galaxie / Kanella",
+        "MC1 / MC2",
+        "Sherpa /",
+        "Virgo"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "ROVER / MG",
+      "modelCount": 5,
+      "modelsWithWipers": 5,
+      "sampleModels": [
+        "MG",
+        "ZR",
+        "ZS",
+        "ZT",
+        "ZT-Tourer"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "CUPRA",
+      "modelCount": 4,
+      "modelsWithWipers": 4,
+      "sampleModels": [
+        "Ateca",
+        "Ateca",
+        "Born",
+        "Formentor"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "CUPRA",
+      "strapiBrandSlug": "cupra",
+      "strapiBrandId": 23
+    },
+    {
+      "wipersBrandName": "INFINITI",
+      "modelCount": 4,
+      "modelsWithWipers": 4,
+      "sampleModels": [
+        "M 30 / 35h",
+        "Q 30",
+        "Q 50",
+        "Q 60"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "INFINITI",
+      "strapiBrandSlug": "infiniti",
+      "strapiBrandId": 45
+    },
+    {
+      "wipersBrandName": "LIGIER",
+      "modelCount": 4,
+      "modelsWithWipers": 4,
+      "sampleModels": [
+        "Flex L3",
+        "ixo",
+        "JS 50 / JS 50L / JS RC",
+        "X-TOO 2 / Max"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "PROTON",
+      "modelCount": 4,
+      "modelsWithWipers": 4,
+      "sampleModels": [
+        "313/ 315",
+        "413...420",
+        "Persona Compact",
+        "Persona"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "PROTON",
+      "strapiBrandSlug": "proton",
+      "strapiBrandId": 101
+    },
+    {
+      "wipersBrandName": "SANTANA",
+      "modelCount": 4,
+      "modelsWithWipers": 4,
+      "sampleModels": [
+        "PS 10",
+        "S 300 / S 350",
+        "Vitara",
+        "Vitara"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "TALBOT",
+      "modelCount": 4,
+      "modelsWithWipers": 4,
+      "sampleModels": [
+        "Horizon",
+        "Matra Rancho",
+        "Samba",
+        "Tagora"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "YUGO",
+      "modelCount": 4,
+      "modelsWithWipers": 4,
+      "sampleModels": [
+        "Florida",
+        "Miami",
+        "Sana",
+        "Tempo"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "ABARTH",
+      "modelCount": 3,
+      "modelsWithWipers": 3,
+      "sampleModels": [
+        "124 Spider",
+        "500 Abarth 595",
+        "500 Abarth 595C"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "ABARTH",
+      "strapiBrandSlug": "abarth",
+      "strapiBrandId": 1
+    },
+    {
+      "wipersBrandName": "AIXAM",
+      "modelCount": 3,
+      "modelsWithWipers": 3,
+      "sampleModels": [
+        "A.721 / A.741 / A.751",
+        "City / Roadline / Crossline",
+        "Crossline"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "ASTON MARTIN",
+      "modelCount": 3,
+      "modelsWithWipers": 3,
+      "sampleModels": [
+        "DB7",
+        "Vantage",
+        "Volante"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "AUSTIN ROVER",
+      "modelCount": 3,
+      "modelsWithWipers": 3,
+      "sampleModels": [
+        "Maestro",
+        "Metro",
+        "Montego"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "FORTHING (Dongfeng)",
+      "modelCount": 3,
+      "modelsWithWipers": 3,
+      "sampleModels": [
+        "T5 Evo",
+        "Friday",
+        "U-Tour / M4"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "FSO",
+      "modelCount": 3,
+      "modelsWithWipers": 3,
+      "sampleModels": [
+        "ATU",
+        "Caro",
+        "Truck"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "MAXUS",
+      "modelCount": 3,
+      "modelsWithWipers": 3,
+      "sampleModels": [
+        "eDeliver 3",
+        "Deliver 9",
+        "T90 / T90 EV"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "MG",
+      "modelCount": 3,
+      "modelsWithWipers": 3,
+      "sampleModels": [
+        "EHS / HS plug-in",
+        "Marvel R",
+        "MG5 SW"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "MG",
+      "strapiBrandSlug": "mg",
+      "strapiBrandId": 83
+    },
+    {
+      "wipersBrandName": "TEILHOL",
+      "modelCount": 3,
+      "modelsWithWipers": 3,
+      "sampleModels": [
+        "Tangara",
+        "TD325/ TD400",
+        "Theva"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "TESLA",
+      "modelCount": 3,
+      "modelsWithWipers": 3,
+      "sampleModels": [
+        "Model 3",
+        "Model S",
+        "Model X"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "ZASTAVA",
+      "modelCount": 3,
+      "modelsWithWipers": 3,
+      "sampleModels": [
+        "Florida",
+        "Miami",
+        "Tempo"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "DUE",
+      "modelCount": 2,
+      "modelsWithWipers": 2,
+      "sampleModels": [
+        "Dué First",
+        "Dué 2"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "FERRARI",
+      "modelCount": 2,
+      "modelsWithWipers": 2,
+      "sampleModels": [
+        "348 TB/ TS",
+        "Mondial"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "INNOCENTI",
+      "modelCount": 2,
+      "modelsWithWipers": 2,
+      "sampleModels": [
+        "Elba",
+        "Mini 900"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "IVECO",
+      "modelCount": 2,
+      "modelsWithWipers": 2,
+      "sampleModels": [
+        "Daily / eDaily",
+        "Massif / Pick-up / Campagnola"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "IVECO",
+      "strapiBrandSlug": "iveco",
+      "strapiBrandId": 51
+    },
+    {
+      "wipersBrandName": "LOTUS",
+      "modelCount": 2,
+      "modelsWithWipers": 2,
+      "sampleModels": [
+        "Elise /S/R/SC",
+        "Evora"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "LOTUS",
+      "strapiBrandSlug": "lotus",
+      "strapiBrandId": 69
+    },
+    {
+      "wipersBrandName": "MAHINDRA",
+      "modelCount": 2,
+      "modelsWithWipers": 2,
+      "sampleModels": [
+        "Bolero",
+        "Goa"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "RELIANT",
+      "modelCount": 2,
+      "modelsWithWipers": 2,
+      "sampleModels": [
+        "Metrocab Taxi",
+        "Sabre"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "SERES",
+      "modelCount": 2,
+      "modelsWithWipers": 2,
+      "sampleModels": [
+        "Seres 3",
+        "Seres 7"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "TVR",
+      "modelCount": 2,
+      "modelsWithWipers": 2,
+      "sampleModels": [
+        "400 Se",
+        "Chimaera"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "ZAZ",
+      "modelCount": 2,
+      "modelsWithWipers": 2,
+      "sampleModels": [
+        "2102 Tawarija",
+        "Tavria"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "AUTOBIANCHI",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "Y10"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "AUTOBIANCHI",
+      "strapiBrandSlug": "autobianchi",
+      "strapiBrandId": 11
+    },
+    {
+      "wipersBrandName": "BENTLEY",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "Eight"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "CASALINI",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "Kerry"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "DATSUN",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "on-Do"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "DFSK (SERES)",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "EC35 / EC31 / C-Series"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "ERAD",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "Agora"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "GAZ",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "2308 Ataman"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "GMC",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "Denali / Denali XL"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "HUMMER",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "H2"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "LAMBORGHINI",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "Urus"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "LDV (LEYLAND DAF)",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "Convoy"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "LEAPMOTOR",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "T03"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "LINCOLN",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "Mark 8"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "LINCOLN",
+      "strapiBrandSlug": "lincoln",
+      "strapiBrandId": 67
+    },
+    {
+      "wipersBrandName": "LYNK & CO",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "01"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "MAN",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "TGE"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "MAN",
+      "strapiBrandSlug": "man",
+      "strapiBrandId": 71
+    },
+    {
+      "wipersBrandName": "MASERATI",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "222 4V"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "MASERATI",
+      "strapiBrandSlug": "maserati",
+      "strapiBrandId": 73
+    },
+    {
+      "wipersBrandName": "MINAUTO",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "400 / City"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "MOSKVITCH",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "2141"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "NIO",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "ET7"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "PGO",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "Cevennes"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "PIAGGIO",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "Porter / Tipper / Quargo"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "POLESTAR",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "Polestar 2"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "SCIMITAR",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "Sabre"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "UAZ",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "2206 / 31512 /"
+      ],
+      "existsInStrapi": true,
+      "strapiBrandName": "UAZ",
+      "strapiBrandSlug": "uaz",
+      "strapiBrandId": 131
+    },
+    {
+      "wipersBrandName": "VAZ",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "2101"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "VINFAST",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "VF 8"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    },
+    {
+      "wipersBrandName": "XEV",
+      "modelCount": 1,
+      "modelsWithWipers": 1,
+      "sampleModels": [
+        "Yoyo EV"
+      ],
+      "existsInStrapi": false,
+      "strapiBrandName": null,
+      "strapiBrandSlug": null,
+      "strapiBrandId": null
+    }
+  ],
+  "strapiBrands": [
+    {
+      "id": 1,
+      "name": "ABARTH",
+      "slug": "abarth"
+    },
+    {
+      "id": 3,
+      "name": "ALFA ROMEO",
+      "slug": "alfa-romeo"
+    },
+    {
+      "id": 5,
+      "name": "ALPINA",
+      "slug": "alpina"
+    },
+    {
+      "id": 7,
+      "name": "ALPINE",
+      "slug": "alpine"
+    },
+    {
+      "id": 9,
+      "name": "AUDI",
+      "slug": "audi"
+    },
+    {
+      "id": 11,
+      "name": "AUTOBIANCHI",
+      "slug": "autobianchi"
+    },
+    {
+      "id": 13,
+      "name": "BMW",
+      "slug": "bmw"
+    },
+    {
+      "id": 15,
+      "name": "CADILLAC",
+      "slug": "cadillac"
+    },
+    {
+      "id": 17,
+      "name": "CHEVROLET",
+      "slug": "chevrolet"
+    },
+    {
+      "id": 19,
+      "name": "CHRYSLER",
+      "slug": "chrysler"
+    },
+    {
+      "id": 21,
+      "name": "CITROEN",
+      "slug": "citroen"
+    },
+    {
+      "id": 23,
+      "name": "CUPRA",
+      "slug": "cupra"
+    },
+    {
+      "id": 25,
+      "name": "DACIA",
+      "slug": "dacia"
+    },
+    {
+      "id": 27,
+      "name": "DAEWOO",
+      "slug": "daewoo"
+    },
+    {
+      "id": 29,
+      "name": "DAIHATSU",
+      "slug": "daihatsu"
+    },
+    {
+      "id": 31,
+      "name": "DAIMLER",
+      "slug": "daimler"
+    },
+    {
+      "id": 33,
+      "name": "DS",
+      "slug": "ds"
+    },
+    {
+      "id": 35,
+      "name": "FIAT",
+      "slug": "fiat"
+    },
+    {
+      "id": 37,
+      "name": "FORD",
+      "slug": "ford"
+    },
+    {
+      "id": 39,
+      "name": "FORD USA",
+      "slug": "ford-usa"
+    },
+    {
+      "id": 41,
+      "name": "HONDA",
+      "slug": "honda"
+    },
+    {
+      "id": 43,
+      "name": "HYUNDAI",
+      "slug": "hyundai"
+    },
+    {
+      "id": 45,
+      "name": "INFINITI",
+      "slug": "infiniti"
+    },
+    {
+      "id": 47,
+      "name": "IRMSCHER",
+      "slug": "irmscher"
+    },
+    {
+      "id": 49,
+      "name": "ISUZU",
+      "slug": "isuzu"
+    },
+    {
+      "id": 51,
+      "name": "IVECO",
+      "slug": "iveco"
+    },
+    {
+      "id": 53,
+      "name": "JAGUAR",
+      "slug": "jaguar"
+    },
+    {
+      "id": 55,
+      "name": "JEEP",
+      "slug": "jeep"
+    },
+    {
+      "id": 57,
+      "name": "KIA",
+      "slug": "kia"
+    },
+    {
+      "id": 59,
+      "name": "LADA",
+      "slug": "lada"
+    },
+    {
+      "id": 61,
+      "name": "LANCIA",
+      "slug": "lancia"
+    },
+    {
+      "id": 63,
+      "name": "LAND ROVER",
+      "slug": "land-rover"
+    },
+    {
+      "id": 65,
+      "name": "LEXUS",
+      "slug": "lexus"
+    },
+    {
+      "id": 67,
+      "name": "LINCOLN",
+      "slug": "lincoln"
+    },
+    {
+      "id": 69,
+      "name": "LOTUS",
+      "slug": "lotus"
+    },
+    {
+      "id": 71,
+      "name": "MAN",
+      "slug": "man"
+    },
+    {
+      "id": 73,
+      "name": "MASERATI",
+      "slug": "maserati"
+    },
+    {
+      "id": 75,
+      "name": "MAYBACH",
+      "slug": "maybach"
+    },
+    {
+      "id": 77,
+      "name": "MAZDA",
+      "slug": "mazda"
+    },
+    {
+      "id": 79,
+      "name": "MERCEDES",
+      "slug": "mercedes"
+    },
+    {
+      "id": 81,
+      "name": "MERCEDES-BENZ",
+      "slug": "mercedes-benz"
+    },
+    {
+      "id": 83,
+      "name": "MG",
+      "slug": "mg"
+    },
+    {
+      "id": 85,
+      "name": "MINI",
+      "slug": "mini"
+    },
+    {
+      "id": 87,
+      "name": "MITSUBISHI",
+      "slug": "mitsubishi"
+    },
+    {
+      "id": 89,
+      "name": "NISSAN",
+      "slug": "nissan"
+    },
+    {
+      "id": 91,
+      "name": "OPEL",
+      "slug": "opel"
+    },
+    {
+      "id": 93,
+      "name": "PEUGEOT",
+      "slug": "peugeot"
+    },
+    {
+      "id": 95,
+      "name": "PLYMOUTH",
+      "slug": "plymouth"
+    },
+    {
+      "id": 97,
+      "name": "PONTIAC",
+      "slug": "pontiac"
+    },
+    {
+      "id": 99,
+      "name": "PORSCHE",
+      "slug": "porsche"
+    },
+    {
+      "id": 101,
+      "name": "PROTON",
+      "slug": "proton"
+    },
+    {
+      "id": 103,
+      "name": "PUCH",
+      "slug": "puch"
+    },
+    {
+      "id": 105,
+      "name": "RENAULT",
+      "slug": "renault"
+    },
+    {
+      "id": 107,
+      "name": "RENAULT TRUCKS",
+      "slug": "renault-trucks"
+    },
+    {
+      "id": 109,
+      "name": "ROLLS ROYCE",
+      "slug": "rolls-royce"
+    },
+    {
+      "id": 111,
+      "name": "ROVER",
+      "slug": "rover"
+    },
+    {
+      "id": 113,
+      "name": "SAAB",
+      "slug": "saab"
+    },
+    {
+      "id": 115,
+      "name": "SEAT",
+      "slug": "seat"
+    },
+    {
+      "id": 117,
+      "name": "SKODA",
+      "slug": "skoda"
+    },
+    {
+      "id": 119,
+      "name": "SMART",
+      "slug": "smart"
+    },
+    {
+      "id": 121,
+      "name": "SSANGYONG",
+      "slug": "ssangyong"
+    },
+    {
+      "id": 123,
+      "name": "SUBARU",
+      "slug": "subaru"
+    },
+    {
+      "id": 125,
+      "name": "SUZUKI",
+      "slug": "suzuki"
+    },
+    {
+      "id": 127,
+      "name": "TAZZARI",
+      "slug": "tazzari"
+    },
+    {
+      "id": 129,
+      "name": "TOYOTA",
+      "slug": "toyota"
+    },
+    {
+      "id": 131,
+      "name": "UAZ",
+      "slug": "uaz"
+    },
+    {
+      "id": 133,
+      "name": "VAUXHALL",
+      "slug": "vauxhall"
+    },
+    {
+      "id": 135,
+      "name": "VOLKSWAGEN",
+      "slug": "volkswagen"
+    },
+    {
+      "id": 137,
+      "name": "VOLVO",
+      "slug": "volvo"
+    }
+  ]
+}
