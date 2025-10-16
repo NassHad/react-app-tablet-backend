@@ -1589,12 +1589,7 @@ declare module '@strapi/strapi' {
       'api::brand.brand': ApiBrandBrand;
       'api::category.category': ApiCategoryCategory;
       'api::compatibility.compatibility': ApiCompatibilityCompatibility;
-<<<<<<< HEAD
-      'api::light-brand.light-brand': ApiLightBrandLightBrand;
-      'api::light-model.light-model': ApiLightModelLightModel;
-=======
       'api::light-data.light-data': ApiLightDataLightData;
->>>>>>> b50a9ce02ea80db7999cc30f46a4b3f9b9b56334
       'api::light-position-data.light-position-data': ApiLightPositionDataLightPositionData;
       'api::lights-position.lights-position': ApiLightsPositionLightsPosition;
       'api::lights-product.lights-product': ApiLightsProductLightsProduct;
