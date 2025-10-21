@@ -1,0 +1,17 @@
+# === Cursor AI Context Rules ===
+# Guide d'assistance pour le projet tablette interactive
+
+rules:
+  - Cursor doit toujours se baser sur le contexte global du projet décrit dans PROJECT_CONTEXT.md
+  - Les réponses doivent être cohérentes avec les technologies utilisées : React + Capacitor + SQLite + Strapi
+  - Cursor doit privilégier des solutions offline-first
+  - Pour la base de données, utiliser uniquement SQLite côté client (jamais d’accès direct au Strapi sauf sync)
+  - Ne jamais proposer de dépendance inutile ou serveur supplémentaire
+  - Les fichiers front sont développés avec TypeScript et TailwindCSS
+  - Le design doit rester sobre, moderne et tactile (pas de hover)
+  - Les suggestions de code doivent rester compatibles avec Android build via Capacitor
+  - Si une requête implique des données, toujours lire/écrire dans SQLite via `databaseService`
+  - Ne pas utiliser `fetch()` vers Strapi directement depuis les pages, mais via un service `syncService`
+  - Pour tout développement lié à l’administration, utiliser Strapi comme source des données
+  - Les explications doivent être adaptées à un développeur confirmé mais seul sur le projet
+

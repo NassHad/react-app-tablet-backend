@@ -218,6 +218,7 @@ export default {
         slug: pos.position.toLowerCase().replace(/\s+/g, '-'),
         isActive: true,
         ref: pos.ref,
+        description: pos.description,
         category: pos.category
       }));
 
@@ -512,6 +513,7 @@ export default {
         slug: pos.position.toLowerCase().replace(/\s+/g, '-'),
         isActive: true,
         ref: pos.ref,
+        description: pos.description,
         category: pos.category
       }));
 
@@ -606,15 +608,50 @@ export default {
       if (positionSlug) {
         filteredProducts = wipersProducts.filter((product: any) => {
           const positions = (product as any).wipersPositions || [];
-          return positions.some((pos: any) => 
-            pos.position.toLowerCase().replace(/\s+/g, '-') === positionSlug
-          );
+          return positions.some((pos: any) => {
+            const positionName = pos.position.toLowerCase();
+            const normalizedSlug = positionSlug.toLowerCase();
+            
+            // Position mapping for French to English terms
+            const positionMapping = {
+              'driver': ['côté conducteur', 'conducteur', 'cote conducteur', 'driver'],
+              'passenger': ['côté passager', 'passager', 'cote passager', 'passenger'],
+              'back': ['arrière', 'arriere', 'back'],
+              'conducteur': ['côté conducteur', 'conducteur', 'cote conducteur', 'driver'],
+              'passager': ['côté passager', 'passager', 'cote passager', 'passenger'],
+              'arriere': ['arrière', 'arriere', 'back']
+            };
+            
+            // Check if the position matches any of the mapped terms
+            const mappedTerms = positionMapping[normalizedSlug] || [];
+            return mappedTerms.some(term => positionName.includes(term.toLowerCase()));
+          });
         });
       }
 
       // Transform products to match expected format
       const formattedProducts = filteredProducts.map((product: any) => {
         const positions = (product as any).wipersPositions || [];
+        
+        // If positionSlug is specified, filter positions to only include matching ones
+        let filteredPositions = positions;
+        if (positionSlug) {
+          const normalizedSlug = positionSlug.toLowerCase();
+          const positionMapping = {
+            'driver': ['côté conducteur', 'conducteur', 'cote conducteur', 'driver'],
+            'passenger': ['côté passager', 'passager', 'cote passager', 'passenger'],
+            'back': ['arrière', 'arriere', 'back'],
+            'conducteur': ['côté conducteur', 'conducteur', 'cote conducteur', 'driver'],
+            'passager': ['côté passager', 'passager', 'cote passager', 'passenger'],
+            'arriere': ['arrière', 'arriere', 'back']
+          };
+          
+          const mappedTerms = positionMapping[normalizedSlug] || [];
+          filteredPositions = positions.filter((pos: any) => {
+            const positionName = pos.position.toLowerCase();
+            return mappedTerms.some(term => positionName.includes(term.toLowerCase()));
+          });
+        }
         
         return {
           id: product.id,
@@ -623,13 +660,15 @@ export default {
           description: product.description,
           brand: product.brand,
           model: product.model,
-          wipersPositions: positions.map((pos: any, index: number) => ({
+          wipersPositions: filteredPositions.map((pos: any, index: number) => ({
             id: `pos-${index}`,
             name: pos.position,
             slug: pos.position.toLowerCase().replace(/\s+/g, '-'),
             isActive: true,
             ref: pos.ref,
-            category: pos.category
+            description: pos.description,
+            category: pos.category,
+            brand: pos.brand || product.wiperBrand || 'Valeo'
           })),
           constructionYearStart: product.constructionYearStart,
           constructionYearEnd: product.constructionYearEnd,
@@ -728,12 +767,12 @@ export default {
         });
       });
 
-      // Transform products to include only the selected position
+      // Transform products to include all matching positions
       const formattedProducts = filteredProducts.map((product: any) => {
         const positions = (product as any).wipersPositions || [];
         
-        // Find the specific position data
-        const selectedPosition = positions.find((pos: any) => {
+        // Find all matching position data
+        const selectedPositions = positions.filter((pos: any) => {
           const positionMapping = {
             'conducteur': ['coteConducteur', 'conducteur'],
             'passager': ['cotePassager', 'passager'],
@@ -755,12 +794,13 @@ export default {
           slug: product.slug,
           brand: product.brand,
           model: product.model,
-          selectedPosition: selectedPosition ? {
-            position: selectedPosition.position,
-            ref: selectedPosition.ref,
-            description: selectedPosition.description,
-            category: position
-          } : null,
+          selectedPositions: selectedPositions.map((pos: any) => ({
+            position: pos.position,
+            ref: pos.ref,
+            description: pos.description,
+            category: position,
+            brand: pos.brand || product.wiperBrand || 'Valeo'
+          })),
           constructionYearStart: product.constructionYearStart,
           constructionYearEnd: product.constructionYearEnd,
           direction: product.direction,

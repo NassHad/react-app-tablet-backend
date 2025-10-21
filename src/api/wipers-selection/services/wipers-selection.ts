@@ -297,12 +297,12 @@ export default {
       });
     });
 
-    // Transform products to include only the selected position
+    // Transform products to include all matching positions
     const formattedProducts = filteredProducts.map((product: any) => {
       const positions = (product as any).wipersPositions || [];
       
-      // Find the specific position data
-      const selectedPosition = positions.find((pos: any) => {
+      // Find all matching position data
+      const selectedPositions = positions.filter((pos: any) => {
         const positionMapping = {
           'conducteur': ['coteConducteur', 'conducteur'],
           'passager': ['cotePassager', 'passager'],
@@ -324,12 +324,13 @@ export default {
         slug: product.slug,
         brand: product.brand,
         model: product.model,
-        selectedPosition: selectedPosition ? {
-          position: selectedPosition.position,
-          ref: selectedPosition.ref,
-          description: selectedPosition.description,
-          category: position
-        } : null,
+        selectedPositions: selectedPositions.map((pos: any) => ({
+          position: pos.position,
+          ref: pos.ref,
+          description: pos.description,
+          category: position,
+          brand: pos.brand || product.wiperBrand || 'Valeo'
+        })),
         constructionYearStart: product.constructionYearStart,
         constructionYearEnd: product.constructionYearEnd,
         direction: product.direction,

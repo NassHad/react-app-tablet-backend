@@ -10,5 +10,49 @@
     "draftAndPublish": true
   },
   "pluginOptions": {},
-  "attributes": {}
+  "attributes": {
+    "ref": {
+      "type": "string",
+      "required": true,
+      "unique": true
+    },
+    "brand": {
+      "type": "string"
+    },
+    "img": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "brandImg": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "isActive": {
+      "type": "boolean"
+    },
+    "description": {
+      "type": "text"
+    },
+    "category": {
+      "type": "string"
+    },
+    "gtiCode": {
+      "type": "biginteger"
+    },
+    "genCode": {
+      "type": "biginteger"
+    }
+  }
 }
