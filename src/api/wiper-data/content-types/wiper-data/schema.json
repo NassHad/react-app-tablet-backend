@@ -16,8 +16,20 @@
       "required": true,
       "unique": true
     },
+    "category": {
+      "type": "string"
+    },
     "brand": {
       "type": "string"
+    },
+    "size": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "isActive": {
+      "type": "boolean"
     },
     "img": {
       "type": "media",
@@ -38,15 +50,6 @@
         "videos",
         "audios"
       ]
-    },
-    "isActive": {
-      "type": "boolean"
-    },
-    "description": {
-      "type": "text"
-    },
-    "category": {
-      "type": "string"
     },
     "gtiCode": {
       "type": "biginteger"

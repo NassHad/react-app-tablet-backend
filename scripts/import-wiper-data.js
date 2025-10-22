@@ -59,6 +59,14 @@ function extractRef(description, brand, gtiCode) {
   return description.split(' ')[0];
 }
 
+// Helper function to extract size from description (pattern: 3 digits + MM)
+function extractSize(description) {
+  // Look for pattern: 3 digits followed by MM, but not part of complex patterns like "680+425MM"
+  // Exclude patterns that have "+" before the size (complex sizes)
+  const sizeMatch = description.match(/(?<!\+)\d{3}MM(?!\d)/);
+  return sizeMatch ? sizeMatch[0] : null;
+}
+
 // Helper function to parse CSV
 function parseCSV(content) {
   const lines = content.split('\n');
@@ -91,70 +99,126 @@ function parseCSV(content) {
 // Main import function
 async function importWiperData() {
   try {
-    console.log('🚀 Starting WiperData import...');
+    console.log('🚀 Starting WiperData import with size extraction...');
     
     // Read CSV file
     console.log('📖 Reading CSV file...');
     const csvContent = fs.readFileSync(CSV_FILE_PATH, 'utf8');
     const csvData = parseCSV(csvContent);
     
-    console.log(`📊 Found ${csvData.length} records to import`);
+    // Skip the last 3 entries (lines 58-60) as requested - they have complex sizes like "680+425MM"
+    const recordsToProcess = csvData.slice(0, -3);
+    
+    console.log(`📊 Found ${csvData.length} total records, processing ${recordsToProcess.length} (skipping last 3 with complex sizes)`);
     
     let successCount = 0;
     let errorCount = 0;
+    let updateCount = 0;
+    let createCount = 0;
     
     // Process each record
-    for (let i = 0; i < csvData.length; i++) {
-      const record = csvData[i];
+    for (let i = 0; i < recordsToProcess.length; i++) {
+      const record = recordsToProcess[i];
       
       try {
-        // Extract ref from description based on brand
+        // Extract ref and size from description
         const extractedRef = extractRef(record.designation, record.marque, record.ref);
+        const extractedSize = extractSize(record.designation);
         
-        // Prepare data for WiperData
-        const wiperData = {
-          data: {
-            ref: extractedRef,
-            brand: record.marque,
-            category: record.sousFamille,
-            gtiCode: parseInt(record.ref) || 0,
-            genCode: parseInt(record.codeBarres) || 0,
-            description: record.designation,
-            isActive: true,
-            img: null,
-            brandImg: null
-          }
-        };
-        
-        console.log(`\n📝 Processing record ${i + 1}/${csvData.length}:`);
+        console.log(`\n📝 Processing record ${i + 1}/${recordsToProcess.length}:`);
         console.log(`   Brand: ${record.marque}`);
         console.log(`   Category: ${record.sousFamille}`);
         console.log(`   Description: ${record.designation}`);
         console.log(`   Extracted Ref: ${extractedRef}`);
+        console.log(`   Extracted Size: ${extractedSize || 'Not found'}`);
         console.log(`   GTI Code: ${record.ref}`);
         console.log(`   Gen Code: ${record.codeBarres}`);
         
-        // Create WiperData record
-        const options = {
+        // Check if record already exists by genCode
+        const checkOptions = {
           hostname: 'localhost',
           port: 1338,
-          path: '/api/wipers-data',
-          method: 'POST',
+          path: `/api/wipers-data?filters[genCode][$eq]=${record.codeBarres}`,
+          method: 'GET',
           headers: {
             'Content-Type': 'application/json',
-            'Authorization': '3a107b5963020b0cd02dff627ebe6df6e8549317127ef3d9a7d5d80ed374b1765fd2e9a8bfc40b2b3f747acfe110a7dec9e3f8c953ab78f4060e8e5bdc2ace8584fb3728c8798a2d8aa5e14470f69bb165ab5e59534f3eefc361936a30a71a240f3977afb053167be83b641bae2c8df866f01239c626b3232fad84529621e0de' // Replace with actual token
+            'Authorization': '3a107b5963020b0cd02dff627ebe6df6e8549317127ef3d9a7d5d80ed374b1765fd2e9a8bfc40b2b3f747acfe110a7dec9e3f8c953ab78f4060e8e5bdc2ace8584fb3728c8798a2d8aa5e14470f69bb165ab5e59534f3eefc361936a30a71a240f3977afb053167be83b641bae2c8df866f01239c626b3232fad84529621e0de'
           }
         };
         
-        const response = await makeRequest(options, wiperData);
+        const checkResponse = await makeRequest(checkOptions);
+        const existingRecords = checkResponse.data?.data || [];
         
-        if (response.status === 200 || response.status === 201) {
-          console.log(`   ✅ Successfully created WiperData record`);
-          successCount++;
+        if (existingRecords.length > 0) {
+          // Update existing record with size
+          const existingRecord = existingRecords[0];
+          const updateData = {
+            data: {
+              size: extractedSize
+            }
+          };
+          
+          const updateOptions = {
+            hostname: 'localhost',
+            port: 1338,
+            path: `/api/wipers-data/${existingRecord.documentId}`,
+            method: 'PUT',
+            headers: {
+              'Content-Type': 'application/json',
+              'Authorization': '3a107b5963020b0cd02dff627ebe6df6e8549317127ef3d9a7d5d80ed374b1765fd2e9a8bfc40b2b3f747acfe110a7dec9e3f8c953ab78f4060e8e5bdc2ace8584fb3728c8798a2d8aa5e14470f69bb165ab5e59534f3eefc361936a30a71a240f3977afb053167be83b641bae2c8df866f01239c626b3232fad84529621e0de'
+            }
+          };
+          
+          const updateResponse = await makeRequest(updateOptions, updateData);
+          
+          if (updateResponse.status === 200) {
+            console.log(`   ✅ Successfully updated existing record with size: ${extractedSize}`);
+            updateCount++;
+            successCount++;
+          } else {
+            console.log(`   ❌ Failed to update record: ${updateResponse.status}`);
+            console.log(`   Response: ${JSON.stringify(updateResponse.data, null, 2)}`);
+            errorCount++;
+          }
         } else {
-          console.log(`   ❌ Failed to create record: ${response.status}`);
-          console.log(`   Response: ${JSON.stringify(response.data, null, 2)}`);
-          errorCount++;
+          // Create new record with size
+          const wiperData = {
+            data: {
+              ref: extractedRef,
+              brand: record.marque,
+              category: record.sousFamille,
+              gtiCode: parseInt(record.ref) || 0,
+              genCode: parseInt(record.codeBarres) || 0,
+              description: record.designation,
+              size: extractedSize,
+              isActive: true,
+              img: null,
+              brandImg: null
+            }
+          };
+          
+          const createOptions = {
+            hostname: 'localhost',
+            port: 1338,
+            path: '/api/wipers-data',
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+              'Authorization': '3a107b5963020b0cd02dff627ebe6df6e8549317127ef3d9a7d5d80ed374b1765fd2e9a8bfc40b2b3f747acfe110a7dec9e3f8c953ab78f4060e8e5bdc2ace8584fb3728c8798a2d8aa5e14470f69bb165ab5e59534f3eefc361936a30a71a240f3977afb053167be83b641bae2c8df866f01239c626b3232fad84529621e0de'
+            }
+          };
+          
+          const createResponse = await makeRequest(createOptions, wiperData);
+          
+          if (createResponse.status === 200 || createResponse.status === 201) {
+            console.log(`   ✅ Successfully created new WiperData record with size: ${extractedSize}`);
+            createCount++;
+            successCount++;
+          } else {
+            console.log(`   ❌ Failed to create record: ${createResponse.status}`);
+            console.log(`   Response: ${JSON.stringify(createResponse.data, null, 2)}`);
+            errorCount++;
+          }
         }
         
         // Add small delay to avoid overwhelming the API
@@ -167,9 +231,12 @@ async function importWiperData() {
     }
     
     console.log('\n📊 Import Summary:');
-    console.log(`   ✅ Successfully imported: ${successCount}`);
+    console.log(`   ✅ Successfully processed: ${successCount}`);
+    console.log(`   📝 Records updated: ${updateCount}`);
+    console.log(`   🆕 Records created: ${createCount}`);
     console.log(`   ❌ Errors: ${errorCount}`);
-    console.log(`   📈 Total processed: ${csvData.length}`);
+    console.log(`   📈 Total processed: ${recordsToProcess.length}`);
+    console.log(`   ⏭️  Skipped (complex sizes): 3`);
     
   } catch (error) {
     console.error('❌ Import failed:', error.message);
@@ -181,4 +248,4 @@ if (require.main === module) {
   importWiperData();
 }
 
-module.exports = { importWiperData, parseCSV, extractRef };
+module.exports = { importWiperData, parseCSV, extractRef, extractSize };
