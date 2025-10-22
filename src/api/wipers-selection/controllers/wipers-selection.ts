@@ -629,6 +629,59 @@ export default {
         });
       }
 
+      // Get all WiperData records with images for reference matching
+      const wiperDataRecords = await strapi.entityService.findMany('api::wiper-data.wiper-data', {
+        filters: {
+          isActive: true
+        },
+        populate: {
+          img: true,
+          brandImg: true
+        },
+        pagination: {
+          pageSize: 1000 // Get all records
+        }
+      });
+
+      // Create a map of ref -> WiperData for quick lookup with flexible matching
+      const wiperDataMap = new Map();
+      wiperDataRecords.forEach((wiperData: any) => {
+        if (wiperData.ref) {
+          // Store multiple variations of the ref for flexible matching
+          const ref = wiperData.ref;
+          wiperDataMap.set(ref, wiperData);
+          wiperDataMap.set(ref.replace(/\s+/g, ''), wiperData); // Remove spaces
+          wiperDataMap.set(ref.replace(/\s+/g, '').replace(/\+/g, ''), wiperData); // Remove spaces and +
+          wiperDataMap.set(ref.replace(/\+/g, ''), wiperData); // Remove +
+        }
+      });
+
+      // Helper function to find matching WiperData with flexible matching
+      const findMatchingWiperData = (ref: string) => {
+        if (!ref) return null;
+        
+        // Try exact match first
+        if (wiperDataMap.has(ref)) {
+          return wiperDataMap.get(ref);
+        }
+        
+        // Try variations
+        const variations = [
+          ref.replace(/\s+/g, ''), // Remove spaces
+          ref.replace(/\s+/g, '').replace(/\+/g, ''), // Remove spaces and +
+          ref.replace(/\+/g, ''), // Remove +
+          ref.replace(/\s+/g, '').replace(/\+/g, '') + '+', // Add + back
+        ];
+        
+        for (const variation of variations) {
+          if (wiperDataMap.has(variation)) {
+            return wiperDataMap.get(variation);
+          }
+        }
+        
+        return null;
+      };
+
       // Transform products to match expected format
       const formattedProducts = filteredProducts.map((product: any) => {
         const positions = (product as any).wipersPositions || [];
@@ -660,16 +713,48 @@ export default {
           description: product.description,
           brand: product.brand,
           model: product.model,
-          wipersPositions: filteredPositions.map((pos: any, index: number) => ({
-            id: `pos-${index}`,
-            name: pos.position,
-            slug: pos.position.toLowerCase().replace(/\s+/g, '-'),
-            isActive: true,
-            ref: pos.ref,
-            description: pos.description,
-            category: pos.category,
-            brand: pos.brand || product.wiperBrand || 'Valeo'
-          })),
+          wipersPositions: filteredPositions.map((pos: any, index: number) => {
+            // Find matching WiperData record by ref using flexible matching
+            const matchingWiperData = findMatchingWiperData(pos.ref);
+            
+            return {
+              id: `pos-${index}`,
+              name: pos.position,
+              slug: pos.position.toLowerCase().replace(/\s+/g, '-'),
+              isActive: true,
+              ref: pos.ref,
+              description: pos.description,
+              category: pos.category,
+              brand: pos.brand || product.wiperBrand || 'Valeo',
+              // Include WiperData information
+              wiperData: matchingWiperData ? {
+                id: matchingWiperData.id,
+                size: matchingWiperData.size,
+                gtiCode: matchingWiperData.gtiCode,
+                genCode: matchingWiperData.genCode,
+                img: matchingWiperData.img ? {
+                  id: matchingWiperData.img.id,
+                  name: matchingWiperData.img.name,
+                  url: matchingWiperData.img.url,
+                  alternativeText: matchingWiperData.img.alternativeText,
+                  caption: matchingWiperData.img.caption,
+                  width: matchingWiperData.img.width,
+                  height: matchingWiperData.img.height,
+                  formats: matchingWiperData.img.formats
+                } : null,
+                brandImg: matchingWiperData.brandImg ? {
+                  id: matchingWiperData.brandImg.id,
+                  name: matchingWiperData.brandImg.name,
+                  url: matchingWiperData.brandImg.url,
+                  alternativeText: matchingWiperData.brandImg.alternativeText,
+                  caption: matchingWiperData.brandImg.caption,
+                  width: matchingWiperData.brandImg.width,
+                  height: matchingWiperData.brandImg.height,
+                  formats: matchingWiperData.brandImg.formats
+                } : null
+              } : null
+            };
+          }),
           constructionYearStart: product.constructionYearStart,
           constructionYearEnd: product.constructionYearEnd,
           direction: product.direction,
