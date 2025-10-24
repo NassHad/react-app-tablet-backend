@@ -1,0 +1,19 @@
+MISSING MODELS - SUMMARY STATISTICS
+==================================================
+
+Total missing models: 1464
+
+Short Names (1-3 chars): 161 models (11.0%)
+Numeric Only: 11 models (0.8%)
+Special Characters: 336 models (23.0%)
+Long Names (20+ chars): 2 models (0.1%)
+Standard Names: 954 models (65.2%)
+Problematic Names: 0 models (0.0%)
+
+IMPORT RECOMMENDATIONS:
+------------------------------
+1. Start with Standard Names (954 models)
+2. Handle Short Names carefully (161 models)
+3. Clean Special Characters (336 models)
+4. Process Numeric Names (11 models)
+5. Review Problematic Names (0 models)

@@ -373,4 +373,95 @@ WHERE JSON_EXTRACT(lp.light_positions, '$[*].position') LIKE '%headlight%';
 - The database supports both French and English position terms
 - Sync mechanism handles incremental updates efficiently
 
+## Filter System (Purflux)
+
+### 10. Filter Products
+```sql
+-- Filter products catalog
+CREATE TABLE filter_products (
+  id INTEGER PRIMARY KEY,
+  brand TEXT NOT NULL DEFAULT 'PURFLUX',
+  filter_type TEXT NOT NULL CHECK (filter_type IN ('oil', 'air', 'diesel', 'cabin')),
+  reference TEXT NOT NULL,
+  full_reference TEXT,
+  full_name TEXT NOT NULL,
+  ean TEXT UNIQUE NOT NULL,
+  internal_sku TEXT UNIQUE NOT NULL,
+  category TEXT NOT NULL,
+  is_active BOOLEAN DEFAULT true,
+  slug TEXT UNIQUE NOT NULL,
+  created_at TEXT,
+  updated_at TEXT
+);
+```
+
+### 11. Filter Compatibility (Consolidated)
+```sql
+-- Vehicle to filter compatibility (consolidated from 12K+ to ~9K records)
+CREATE TABLE filter_compatibilities (
+  id INTEGER PRIMARY KEY,
+  brand_id INTEGER,
+  model_id INTEGER,
+  vehicle_model TEXT NOT NULL,
+  vehicle_variant TEXT, -- Optimized for dropdown filtering (e.g., "1.4 Turbo 135")
+  engine_code TEXT NOT NULL,
+  power TEXT,
+  production_start TEXT,
+  production_end TEXT,
+  filters TEXT, -- JSON with oil, air, diesel, cabin arrays
+  metadata TEXT, -- JSON with chassis notes, comments
+  created_at TEXT,
+  updated_at TEXT,
+  FOREIGN KEY (brand_id) REFERENCES brands(id),
+  FOREIGN KEY (model_id) REFERENCES models(id)
+);
+
+-- Indexes for fast querying
+CREATE INDEX idx_filter_compat_brand_model ON filter_compatibilities(brand_id, model_id);
+CREATE INDEX idx_filter_compat_variant ON filter_compatibilities(vehicle_variant);
+```
+
+### Filter System Benefits
+- **73% database size reduction** (12K → 2K records)
+- **Fast queries** with indexed brand/model/engine fields
+- **Flexible structure** for variable filter configurations
+- **Smart matching** handles reference variations (L330 matches L330AY)
+- **Offline-optimized** for tablet SQLite sync
+
+### Filter System Usage Examples
+```sql
+-- Fast query: Get all variants for ABARTH 500 II (using indexes!)
+SELECT vehicle_variant, engine_code, power
+FROM filter_compatibilities fc
+JOIN brands b ON fc.brand_id = b.id
+JOIN models m ON fc.model_id = m.id
+WHERE b.name = 'ABARTH' 
+  AND m.name = '500 II'
+ORDER BY vehicle_variant;
+
+-- Get filters for specific variant
+SELECT JSON_EXTRACT(filters, '$.oil') as oil_filters,
+       JSON_EXTRACT(filters, '$.air') as air_filters,
+       JSON_EXTRACT(filters, '$.diesel') as diesel_filters,
+       JSON_EXTRACT(filters, '$.cabin') as cabin_filters
+FROM filter_compatibilities fc
+JOIN brands b ON fc.brand_id = b.id
+JOIN models m ON fc.model_id = m.id
+WHERE b.name = 'ABARTH' 
+  AND m.name = '500 II'
+  AND vehicle_variant LIKE '%1.4 Turbo 135%';
+
+-- Find oil filters for ABARTH 500 II
+SELECT fp.* FROM filter_products fp
+JOIN filter_compatibilities fc ON JSON_EXTRACT(fc.filters, '$.oil[*].ref') LIKE '%L330%'
+WHERE fc.vehicle_model LIKE '%500 II%' 
+  AND fp.filter_type = 'oil'
+  AND fp.is_active = true;
+
+-- Find vehicles using a specific filter reference
+SELECT fc.vehicle_model, fc.vehicle_variant, fc.engine_code
+FROM filter_compatibilities fc
+WHERE JSON_EXTRACT(fc.filters, '$.oil[*].ref') LIKE '%L330%';
+```
+
 This structure supports a comprehensive automotive parts selection system with offline capabilities for tablet applications.

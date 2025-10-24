@@ -22,6 +22,7 @@
     "@strapi/plugin-users-permissions": "5.23.1",
     "@strapi/strapi": "5.23.1",
     "better-sqlite3": "11.3.0",
+    "csv-parse": "^6.1.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-router-dom": "^6.0.0",
@@ -31,10 +32,10 @@
     "@types/node": "^20.19.11",
     "@types/react": "^18",
     "@types/react-dom": "^18",
-    "ts-node": "^10.9.2",
-    "typescript": "^5.3.3",
+    "node-fetch": "^2.7.0",
     "sqlite3": "^5.1.6",
-    "node-fetch": "^2.7.0"
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
   },
   "engines": {
     "node": ">=18.0.0 <=22.x.x",

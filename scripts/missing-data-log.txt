@@ -1,0 +1,161 @@
+MISSING BRANDS AND MODELS ANALYSIS
+==================================================
+
+SUMMARY:
+- CSV Brands: 101
+- CSV Models: 1471
+- Missing Brands: 46
+- Missing Models: 1464
+
+MISSING BRANDS:
+------------------------------
+- BEDFORD
+- BERTONE
+- BOND
+- CARBODIES
+- CHATENET
+- CITROEN
+- DODGE
+- DODGE USA
+- EFFEDI
+- FERRARI
+- FSO
+- GAZ
+- GEELY
+- GENESIS
+- GEO
+- GINETTA
+- GRECAV
+- HILLMAN
+- HUMBER
+- INNOCENTI
+- LDV
+- LIFAN
+- LIGIER
+- LONDON TAXI INTERNATIONAL
+- Lincoln
+- MEGA (AIXAM - MEGA France)
+- MERCEDES BENZ
+- MERCEDES BENZs916
+- MICROCAR
+- MORGAN
+- MOSKVITCH
+- Marque
+- PIAGGIO
+- RELIANT
+- SANTANA
+- SAO
+- SINGER
+- SUNBEAM
+- T.V.R.
+- TALBOT
+- TATA
+- TRABANT
+- UMM
+- WARTBURG
+- ZASTAVA
+- ZAZ
+
+MISSING MODELS (first 100):
+------------------------------
+- *
+- 04-avr
+- 09-mars
+- 10
+- 1000-SERIE
+- 1007
+- 101
+- 106
+- 107
+- 108
+- 1100
+- 117 COUPE
+- 121
+- 124
+- 124 I (124_)
+- 124 II (348_)
+- 127
+- 128
+- 1300
+- 131
+- 132
+- 2 (DE)
+- 2 (DL, DJ)
+- 2 (DY)
+- 2008 I
+- 2008 II
+- 205
+- 206
+- 206 CC
+- 206 SW
+- 206+
+- 207
+- 207 CC
+- 207 SW
+- 208
+- 208 I
+- 208 II
+- 2101-2131
+- 2300
+- 238
+- 240
+- 2400
+- 241
+- 242
+- 250
+- 2600
+- 275
+- 3 (BK)
+- 3 (BL)
+- 3 (BM, BN)
+- 300
+- 300/350
+- 3000
+- 3008 I
+- 3008 II
+- 301
+- 305
+- 306
+- 307
+- 307 CC
+- 307 SW
+- 308
+- 308 CC
+- 308 II
+- 308 III
+- 308 SW
+- 308/328/330 GT
+- 309
+- 311
+- 313
+- 320 / SMILY
+- 323
+- 340
+- 343 / 345
+- 3500
+- 365
+- 4 RUNNER I (_N5_, _N6_, _N7_)
+- 4 RUNNER II (_N1_)
+- 4 RUNNER III (_N18_)
+- 4 RUNNER IV (_N21_)
+- 4 RUNNER V (_N28_)
+- 400
+- 4007
+- 4008
+- 404
+- 405
+- 406
+- 406 COUPE
+- 407
+- 407 SW
+- 408 I
+- 408 II
+- 412
+- 440
+- 45
+- 460
+- 5 (CR)
+- 5 (CW)
+- 500
+- 500 II
+... and 1364 more models

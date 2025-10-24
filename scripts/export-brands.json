@@ -1,0 +1,387 @@
+[
+  {
+    "id": 2,
+    "name": "ABARTH",
+    "slug": "abarth"
+  },
+  {
+    "id": 4,
+    "name": "ALFA ROMEO",
+    "slug": "alfa-romeo"
+  },
+  {
+    "id": 6,
+    "name": "ALPINA",
+    "slug": "alpina"
+  },
+  {
+    "id": 8,
+    "name": "ALPINE",
+    "slug": "alpine"
+  },
+  {
+    "id": 10,
+    "name": "AUDI",
+    "slug": "audi"
+  },
+  {
+    "id": 12,
+    "name": "AUTOBIANCHI",
+    "slug": "autobianchi"
+  },
+  {
+    "id": 14,
+    "name": "BMW",
+    "slug": "bmw"
+  },
+  {
+    "id": 16,
+    "name": "CADILLAC",
+    "slug": "cadillac"
+  },
+  {
+    "id": 18,
+    "name": "CHEVROLET",
+    "slug": "chevrolet"
+  },
+  {
+    "id": 20,
+    "name": "CHRYSLER",
+    "slug": "chrysler"
+  },
+  {
+    "id": 22,
+    "name": "CITRO�N",
+    "slug": "citron"
+  },
+  {
+    "id": 24,
+    "name": "CUPRA",
+    "slug": "cupra"
+  },
+  {
+    "id": 26,
+    "name": "DACIA",
+    "slug": "dacia"
+  },
+  {
+    "id": 28,
+    "name": "DAEWOO",
+    "slug": "daewoo"
+  },
+  {
+    "id": 30,
+    "name": "DAIHATSU",
+    "slug": "daihatsu"
+  },
+  {
+    "id": 32,
+    "name": "DAIMLER",
+    "slug": "daimler"
+  },
+  {
+    "id": 34,
+    "name": "DS",
+    "slug": "ds"
+  },
+  {
+    "id": 36,
+    "name": "FIAT",
+    "slug": "fiat"
+  },
+  {
+    "id": 38,
+    "name": "FORD",
+    "slug": "ford"
+  },
+  {
+    "id": 40,
+    "name": "FORD USA",
+    "slug": "ford-usa"
+  },
+  {
+    "id": 42,
+    "name": "HONDA",
+    "slug": "honda"
+  },
+  {
+    "id": 44,
+    "name": "HYUNDAI",
+    "slug": "hyundai"
+  },
+  {
+    "id": 46,
+    "name": "INFINITI",
+    "slug": "infiniti"
+  },
+  {
+    "id": 48,
+    "name": "IRMSCHER",
+    "slug": "irmscher"
+  },
+  {
+    "id": 50,
+    "name": "ISUZU",
+    "slug": "isuzu"
+  },
+  {
+    "id": 52,
+    "name": "IVECO",
+    "slug": "iveco"
+  },
+  {
+    "id": 54,
+    "name": "JAGUAR",
+    "slug": "jaguar"
+  },
+  {
+    "id": 56,
+    "name": "JEEP",
+    "slug": "jeep"
+  },
+  {
+    "id": 58,
+    "name": "KIA",
+    "slug": "kia"
+  },
+  {
+    "id": 60,
+    "name": "LADA",
+    "slug": "lada"
+  },
+  {
+    "id": 62,
+    "name": "LANCIA",
+    "slug": "lancia"
+  },
+  {
+    "id": 64,
+    "name": "LAND ROVER",
+    "slug": "land-rover"
+  },
+  {
+    "id": 66,
+    "name": "LEXUS",
+    "slug": "lexus"
+  },
+  {
+    "id": 68,
+    "name": "LINCOLN",
+    "slug": "lincoln"
+  },
+  {
+    "id": 70,
+    "name": "LOTUS",
+    "slug": "lotus"
+  },
+  {
+    "id": 72,
+    "name": "MAN",
+    "slug": "man"
+  },
+  {
+    "id": 74,
+    "name": "MASERATI",
+    "slug": "maserati"
+  },
+  {
+    "id": 76,
+    "name": "MAYBACH",
+    "slug": "maybach"
+  },
+  {
+    "id": 78,
+    "name": "MAZDA",
+    "slug": "mazda"
+  },
+  {
+    "id": 80,
+    "name": "MERCEDES",
+    "slug": "mercedes"
+  },
+  {
+    "id": 82,
+    "name": "MERCEDES-BENZ",
+    "slug": "mercedes-benz"
+  },
+  {
+    "id": 84,
+    "name": "MG",
+    "slug": "mg"
+  },
+  {
+    "id": 86,
+    "name": "MINI",
+    "slug": "mini"
+  },
+  {
+    "id": 88,
+    "name": "MITSUBISHI",
+    "slug": "mitsubishi"
+  },
+  {
+    "id": 90,
+    "name": "NISSAN",
+    "slug": "nissan"
+  },
+  {
+    "id": 92,
+    "name": "OPEL",
+    "slug": "opel"
+  },
+  {
+    "id": 94,
+    "name": "PEUGEOT",
+    "slug": "peugeot"
+  },
+  {
+    "id": 96,
+    "name": "PLYMOUTH",
+    "slug": "plymouth"
+  },
+  {
+    "id": 98,
+    "name": "PONTIAC",
+    "slug": "pontiac"
+  },
+  {
+    "id": 100,
+    "name": "PORSCHE",
+    "slug": "porsche"
+  },
+  {
+    "id": 102,
+    "name": "PROTON",
+    "slug": "proton"
+  },
+  {
+    "id": 104,
+    "name": "PUCH",
+    "slug": "puch"
+  },
+  {
+    "id": 106,
+    "name": "RENAULT",
+    "slug": "renault"
+  },
+  {
+    "id": 108,
+    "name": "RENAULT TRUCKS",
+    "slug": "renault-trucks"
+  },
+  {
+    "id": 110,
+    "name": "ROLLS ROYCE",
+    "slug": "rolls-royce"
+  },
+  {
+    "id": 112,
+    "name": "ROVER",
+    "slug": "rover"
+  },
+  {
+    "id": 114,
+    "name": "SAAB",
+    "slug": "saab"
+  },
+  {
+    "id": 116,
+    "name": "SEAT",
+    "slug": "seat"
+  },
+  {
+    "id": 118,
+    "name": "SKODA",
+    "slug": "skoda"
+  },
+  {
+    "id": 120,
+    "name": "SMART",
+    "slug": "smart"
+  },
+  {
+    "id": 122,
+    "name": "SSANGYONG",
+    "slug": "ssangyong"
+  },
+  {
+    "id": 124,
+    "name": "SUBARU",
+    "slug": "subaru"
+  },
+  {
+    "id": 126,
+    "name": "SUZUKI",
+    "slug": "suzuki"
+  },
+  {
+    "id": 128,
+    "name": "TAZZARI",
+    "slug": "tazzari"
+  },
+  {
+    "id": 130,
+    "name": "TOYOTA",
+    "slug": "toyota"
+  },
+  {
+    "id": 132,
+    "name": "UAZ",
+    "slug": "uaz"
+  },
+  {
+    "id": 134,
+    "name": "VAUXHALL",
+    "slug": "vauxhall"
+  },
+  {
+    "id": 136,
+    "name": "VOLKSWAGEN",
+    "slug": "volkswagen"
+  },
+  {
+    "id": 138,
+    "name": "VOLVO",
+    "slug": "volvo"
+  },
+  {
+    "id": 144,
+    "name": "﻿Marque",
+    "slug": "-marque"
+  },
+  {
+    "id": 146,
+    "name": "ARO",
+    "slug": "aro"
+  },
+  {
+    "id": 148,
+    "name": "ASIA MOTORS",
+    "slug": "asia-motors"
+  },
+  {
+    "id": 150,
+    "name": "ASTON MARTIN",
+    "slug": "aston-martin"
+  },
+  {
+    "id": 152,
+    "name": "TEST_BRAND",
+    "slug": "test-brand"
+  },
+  {
+    "id": 154,
+    "name": "TEST_BRAND_MODEL",
+    "slug": "test-brand-model"
+  },
+  {
+    "id": 156,
+    "name": "TEST_BRAND_1761302153561",
+    "slug": "test-brand-1761302153561"
+  },
+  {
+    "id": 158,
+    "name": "TEST_BRAND_MODEL_1761302153632",
+    "slug": "test-brand-model-1761302153632"
+  }
+]

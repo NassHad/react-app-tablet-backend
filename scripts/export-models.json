@@ -1,0 +1,702 @@
+[
+  {
+    "id": 2,
+    "name": "124 Spider",
+    "slug": "124-spider",
+    "brandId": 2,
+    "brandName": "ABARTH"
+  },
+  {
+    "id": 4,
+    "name": "500 / 595 / 695",
+    "slug": "500-595-695",
+    "brandId": 2,
+    "brandName": "ABARTH"
+  },
+  {
+    "id": 6,
+    "name": "500C / 595C / 695C",
+    "slug": "500c-595c-695c",
+    "brandId": 2,
+    "brandName": "ABARTH"
+  },
+  {
+    "id": 8,
+    "name": "GRANDE PUNTO",
+    "slug": "grande-punto",
+    "brandId": 2,
+    "brandName": "ABARTH"
+  },
+  {
+    "id": 10,
+    "name": "PUNTO",
+    "slug": "punto",
+    "brandId": 2,
+    "brandName": "ABARTH"
+  },
+  {
+    "id": 12,
+    "name": "145",
+    "slug": "145",
+    "brandId": 4,
+    "brandName": "ALFA ROMEO"
+  },
+  {
+    "id": 14,
+    "name": "146",
+    "slug": "146",
+    "brandId": 4,
+    "brandName": "ALFA ROMEO"
+  },
+  {
+    "id": 16,
+    "name": "147",
+    "slug": "147",
+    "brandId": 4,
+    "brandName": "ALFA ROMEO"
+  },
+  {
+    "id": 18,
+    "name": "155",
+    "slug": "155",
+    "brandId": 4,
+    "brandName": "ALFA ROMEO"
+  },
+  {
+    "id": 20,
+    "name": "156",
+    "slug": "156",
+    "brandId": 4,
+    "brandName": "ALFA ROMEO"
+  },
+  {
+    "id": 22,
+    "name": "156 Sportwagon",
+    "slug": "156-sportwagon",
+    "brandId": 4,
+    "brandName": "ALFA ROMEO"
+  },
+  {
+    "id": 24,
+    "name": "159",
+    "slug": "159",
+    "brandId": 4,
+    "brandName": "ALFA ROMEO"
+  },
+  {
+    "id": 26,
+    "name": "159 Sportwagon",
+    "slug": "159-sportwagon",
+    "brandId": 4,
+    "brandName": "ALFA ROMEO"
+  },
+  {
+    "id": 28,
+    "name": "164",
+    "slug": "164",
+    "brandId": 4,
+    "brandName": "ALFA ROMEO"
+  },
+  {
+    "id": 30,
+    "name": "166",
+    "slug": "166",
+    "brandId": 4,
+    "brandName": "ALFA ROMEO"
+  },
+  {
+    "id": 32,
+    "name": "33",
+    "slug": "33",
+    "brandId": 4,
+    "brandName": "ALFA ROMEO"
+  },
+  {
+    "id": 34,
+    "name": "33 Sportwagon",
+    "slug": "33-sportwagon",
+    "brandId": 4,
+    "brandName": "ALFA ROMEO"
+  },
+  {
+    "id": 36,
+    "name": "4C",
+    "slug": "4c",
+    "brandId": 4,
+    "brandName": "ALFA ROMEO"
+  },
+  {
+    "id": 38,
+    "name": "4C SPIDER",
+    "slug": "4c-spider",
+    "brandId": 4,
+    "brandName": "ALFA ROMEO"
+  },
+  {
+    "id": 40,
+    "name": "75",
+    "slug": "75",
+    "brandId": 4,
+    "brandName": "ALFA ROMEO"
+  },
+  {
+    "id": 42,
+    "name": "BRERA",
+    "slug": "brera",
+    "brandId": 4,
+    "brandName": "ALFA ROMEO"
+  },
+  {
+    "id": 44,
+    "name": "GIULIA",
+    "slug": "giulia",
+    "brandId": 4,
+    "brandName": "ALFA ROMEO"
+  },
+  {
+    "id": 46,
+    "name": "GIULIETTA",
+    "slug": "giulietta",
+    "brandId": 4,
+    "brandName": "ALFA ROMEO"
+  },
+  {
+    "id": 48,
+    "name": "GIULIETTA Hatchback Van",
+    "slug": "giulietta-hatchback-van",
+    "brandId": 4,
+    "brandName": "ALFA ROMEO"
+  },
+  {
+    "id": 50,
+    "name": "GT",
+    "slug": "gt",
+    "brandId": 4,
+    "brandName": "ALFA ROMEO"
+  },
+  {
+    "id": 52,
+    "name": "GTV",
+    "slug": "gtv",
+    "brandId": 4,
+    "brandName": "ALFA ROMEO"
+  },
+  {
+    "id": 54,
+    "name": "MITO",
+    "slug": "mito",
+    "brandId": 4,
+    "brandName": "ALFA ROMEO"
+  },
+  {
+    "id": 56,
+    "name": "SPIDER",
+    "slug": "spider",
+    "brandId": 4,
+    "brandName": "ALFA ROMEO"
+  },
+  {
+    "id": 58,
+    "name": "STELVIO",
+    "slug": "stelvio",
+    "brandId": 4,
+    "brandName": "ALFA ROMEO"
+  },
+  {
+    "id": 60,
+    "name": "B10",
+    "slug": "b10",
+    "brandId": 6,
+    "brandName": "ALPINA"
+  },
+  {
+    "id": 62,
+    "name": "B10 Touring",
+    "slug": "b10-touring",
+    "brandId": 6,
+    "brandName": "ALPINA"
+  },
+  {
+    "id": 64,
+    "name": "B11",
+    "slug": "b11",
+    "brandId": 6,
+    "brandName": "ALPINA"
+  },
+  {
+    "id": 66,
+    "name": "B12",
+    "slug": "b12",
+    "brandId": 6,
+    "brandName": "ALPINA"
+  },
+  {
+    "id": 68,
+    "name": "B12 Coupe",
+    "slug": "b12-coupe",
+    "brandId": 6,
+    "brandName": "ALPINA"
+  },
+  {
+    "id": 70,
+    "name": "B3",
+    "slug": "b3",
+    "brandId": 6,
+    "brandName": "ALPINA"
+  },
+  {
+    "id": 72,
+    "name": "B3 Convertible",
+    "slug": "b3-convertible",
+    "brandId": 6,
+    "brandName": "ALPINA"
+  },
+  {
+    "id": 74,
+    "name": "B3 Coupe",
+    "slug": "b3-coupe",
+    "brandId": 6,
+    "brandName": "ALPINA"
+  },
+  {
+    "id": 76,
+    "name": "B3 Estate",
+    "slug": "b3-estate",
+    "brandId": 6,
+    "brandName": "ALPINA"
+  },
+  {
+    "id": 78,
+    "name": "B3 Touring",
+    "slug": "b3-touring",
+    "brandId": 6,
+    "brandName": "ALPINA"
+  },
+  {
+    "id": 80,
+    "name": "B4 Convertible",
+    "slug": "b4-convertible",
+    "brandId": 6,
+    "brandName": "ALPINA"
+  },
+  {
+    "id": 82,
+    "name": "B4 Coupe",
+    "slug": "b4-coupe",
+    "brandId": 6,
+    "brandName": "ALPINA"
+  },
+  {
+    "id": 84,
+    "name": "B5",
+    "slug": "b5",
+    "brandId": 6,
+    "brandName": "ALPINA"
+  },
+  {
+    "id": 86,
+    "name": "B5 Estate",
+    "slug": "b5-estate",
+    "brandId": 6,
+    "brandName": "ALPINA"
+  },
+  {
+    "id": 88,
+    "name": "B5 Touring",
+    "slug": "b5-touring",
+    "brandId": 6,
+    "brandName": "ALPINA"
+  },
+  {
+    "id": 90,
+    "name": "B6",
+    "slug": "b6",
+    "brandId": 6,
+    "brandName": "ALPINA"
+  },
+  {
+    "id": 92,
+    "name": "B6 Convertible",
+    "slug": "b6-convertible",
+    "brandId": 6,
+    "brandName": "ALPINA"
+  },
+  {
+    "id": 94,
+    "name": "B6 Coupe",
+    "slug": "b6-coupe",
+    "brandId": 6,
+    "brandName": "ALPINA"
+  },
+  {
+    "id": 96,
+    "name": "B6 Gran Coupe",
+    "slug": "b6-gran-coupe",
+    "brandId": 6,
+    "brandName": "ALPINA"
+  },
+  {
+    "id": 98,
+    "name": "B7",
+    "slug": "b7",
+    "brandId": 6,
+    "brandName": "ALPINA"
+  },
+  {
+    "id": 100,
+    "name": "B8",
+    "slug": "b8",
+    "brandId": 6,
+    "brandName": "ALPINA"
+  },
+  {
+    "id": 102,
+    "name": "B8 Convertible",
+    "slug": "b8-convertible",
+    "brandId": 6,
+    "brandName": "ALPINA"
+  },
+  {
+    "id": 104,
+    "name": "B8 Coupe",
+    "slug": "b8-coupe",
+    "brandId": 6,
+    "brandName": "ALPINA"
+  },
+  {
+    "id": 106,
+    "name": "B8 Estate",
+    "slug": "b8-estate",
+    "brandId": 6,
+    "brandName": "ALPINA"
+  },
+  {
+    "id": 108,
+    "name": "D10",
+    "slug": "d10",
+    "brandId": 6,
+    "brandName": "ALPINA"
+  },
+  {
+    "id": 110,
+    "name": "D10 Estate",
+    "slug": "d10-estate",
+    "brandId": 6,
+    "brandName": "ALPINA"
+  },
+  {
+    "id": 112,
+    "name": "D3",
+    "slug": "d3",
+    "brandId": 6,
+    "brandName": "ALPINA"
+  },
+  {
+    "id": 114,
+    "name": "D3 Coupe",
+    "slug": "d3-coupe",
+    "brandId": 6,
+    "brandName": "ALPINA"
+  },
+  {
+    "id": 116,
+    "name": "D3 Estate",
+    "slug": "d3-estate",
+    "brandId": 6,
+    "brandName": "ALPINA"
+  },
+  {
+    "id": 118,
+    "name": "D3 Touring",
+    "slug": "d3-touring",
+    "brandId": 6,
+    "brandName": "ALPINA"
+  },
+  {
+    "id": 120,
+    "name": "D4 Convertible",
+    "slug": "d4-convertible",
+    "brandId": 6,
+    "brandName": "ALPINA"
+  },
+  {
+    "id": 122,
+    "name": "D4 Coupe",
+    "slug": "d4-coupe",
+    "brandId": 6,
+    "brandName": "ALPINA"
+  },
+  {
+    "id": 124,
+    "name": "D5",
+    "slug": "d5",
+    "brandId": 6,
+    "brandName": "ALPINA"
+  },
+  {
+    "id": 126,
+    "name": "D5 Touring",
+    "slug": "d5-touring",
+    "brandId": 6,
+    "brandName": "ALPINA"
+  },
+  {
+    "id": 128,
+    "name": "RLE Roadster",
+    "slug": "rle-roadster",
+    "brandId": 6,
+    "brandName": "ALPINA"
+  },
+  {
+    "id": 130,
+    "name": "ROADSTER",
+    "slug": "roadster",
+    "brandId": 6,
+    "brandName": "ALPINA"
+  },
+  {
+    "id": 132,
+    "name": "ROADSTER S",
+    "slug": "roadster-s",
+    "brandId": 6,
+    "brandName": "ALPINA"
+  },
+  {
+    "id": 134,
+    "name": "XD3",
+    "slug": "xd3",
+    "brandId": 6,
+    "brandName": "ALPINA"
+  },
+  {
+    "id": 136,
+    "name": "XD4",
+    "slug": "xd4",
+    "brandId": 6,
+    "brandName": "ALPINA"
+  },
+  {
+    "id": 138,
+    "name": "A110 II",
+    "slug": "a110-ii",
+    "brandId": 8,
+    "brandName": "ALPINE"
+  },
+  {
+    "id": 140,
+    "name": "100 Avant",
+    "slug": "100-avant",
+    "brandId": 10,
+    "brandName": "AUDI"
+  },
+  {
+    "id": 142,
+    "name": "100 C3 Avant",
+    "slug": "100-c3-avant",
+    "brandId": 10,
+    "brandName": "AUDI"
+  },
+  {
+    "id": 144,
+    "name": "100 C3 Saloon",
+    "slug": "100-c3-saloon",
+    "brandId": 10,
+    "brandName": "AUDI"
+  },
+  {
+    "id": 146,
+    "name": "100 C4 Saloon",
+    "slug": "100-c4-saloon",
+    "brandId": 10,
+    "brandName": "AUDI"
+  },
+  {
+    "id": 148,
+    "name": "200 C3 Saloon",
+    "slug": "200-c3-saloon",
+    "brandId": 10,
+    "brandName": "AUDI"
+  },
+  {
+    "id": 150,
+    "name": "80",
+    "slug": "80",
+    "brandId": 10,
+    "brandName": "AUDI"
+  },
+  {
+    "id": 152,
+    "name": "80 B4 Avant",
+    "slug": "80-b4-avant",
+    "brandId": 10,
+    "brandName": "AUDI"
+  },
+  {
+    "id": 154,
+    "name": "814, 819, 853)\"",
+    "slug": "814-819-853",
+    "brandId": 10,
+    "brandName": "AUDI"
+  },
+  {
+    "id": 156,
+    "name": "8A2)\"",
+    "slug": "8a2",
+    "brandId": 10,
+    "brandName": "AUDI"
+  },
+  {
+    "id": 158,
+    "name": "90 B3",
+    "slug": "90-b3",
+    "brandId": 10,
+    "brandName": "AUDI"
+  },
+  {
+    "id": 160,
+    "name": "A1",
+    "slug": "a1",
+    "brandId": 10,
+    "brandName": "AUDI"
+  },
+  {
+    "id": 162,
+    "name": "A1 City Carver",
+    "slug": "a1-city-carver",
+    "brandId": 10,
+    "brandName": "AUDI"
+  },
+  {
+    "id": 164,
+    "name": "A1 Sportback",
+    "slug": "a1-sportback",
+    "brandId": 10,
+    "brandName": "AUDI"
+  },
+  {
+    "id": 166,
+    "name": "A2",
+    "slug": "a2",
+    "brandId": 10,
+    "brandName": "AUDI"
+  },
+  {
+    "id": 168,
+    "name": "A3",
+    "slug": "a3",
+    "brandId": 10,
+    "brandName": "AUDI"
+  },
+  {
+    "id": 170,
+    "name": "A3 Convertible",
+    "slug": "a3-convertible",
+    "brandId": 10,
+    "brandName": "AUDI"
+  },
+  {
+    "id": 172,
+    "name": "A3 Limousine",
+    "slug": "a3-limousine",
+    "brandId": 10,
+    "brandName": "AUDI"
+  },
+  {
+    "id": 174,
+    "name": "A3 Sportback",
+    "slug": "a3-sportback",
+    "brandId": 10,
+    "brandName": "AUDI"
+  },
+  {
+    "id": 176,
+    "name": "A4",
+    "slug": "a4",
+    "brandId": 10,
+    "brandName": "AUDI"
+  },
+  {
+    "id": 178,
+    "name": "A4 Allroad",
+    "slug": "a4-allroad",
+    "brandId": 10,
+    "brandName": "AUDI"
+  },
+  {
+    "id": 180,
+    "name": "A4 Allroad B9",
+    "slug": "a4-allroad-b9",
+    "brandId": 10,
+    "brandName": "AUDI"
+  },
+  {
+    "id": 182,
+    "name": "A4 Avant",
+    "slug": "a4-avant",
+    "brandId": 10,
+    "brandName": "AUDI"
+  },
+  {
+    "id": 184,
+    "name": "A4 B5",
+    "slug": "a4-b5",
+    "brandId": 10,
+    "brandName": "AUDI"
+  },
+  {
+    "id": 186,
+    "name": "A4 B5 Avant",
+    "slug": "a4-b5-avant",
+    "brandId": 10,
+    "brandName": "AUDI"
+  },
+  {
+    "id": 188,
+    "name": "A4 B6",
+    "slug": "a4-b6",
+    "brandId": 10,
+    "brandName": "AUDI"
+  },
+  {
+    "id": 190,
+    "name": "A4 B6 Avant",
+    "slug": "a4-b6-avant",
+    "brandId": 10,
+    "brandName": "AUDI"
+  },
+  {
+    "id": 192,
+    "name": "A4 B6 Convertible",
+    "slug": "a4-b6-convertible",
+    "brandId": 10,
+    "brandName": "AUDI"
+  },
+  {
+    "id": 194,
+    "name": "A4 B7 Convertible",
+    "slug": "a4-b7-convertible",
+    "brandId": 10,
+    "brandName": "AUDI"
+  },
+  {
+    "id": 196,
+    "name": "A4 B9",
+    "slug": "a4-b9",
+    "brandId": 10,
+    "brandName": "AUDI"
+  },
+  {
+    "id": 198,
+    "name": "A4 B9 Avant",
+    "slug": "a4-b9-avant",
+    "brandId": 10,
+    "brandName": "AUDI"
+  },
+  {
+    "id": 200,
+    "name": "A4 Convertible",
+    "slug": "a4-convertible",
+    "brandId": 10,
+    "brandName": "AUDI"
+  }
+]
