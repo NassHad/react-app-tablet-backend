@@ -1,0 +1,53 @@
+{
+  "kind": "collectionType",
+  "collectionName": "filter_compatibilities",
+  "info": {
+    "singularName": "filter-compatibility",
+    "pluralName": "filter-compatibilities",
+    "displayName": "FilterCompatibility",
+    "description": "Vehicle to filter compatibility mapping with consolidated records"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "brand": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::brand.brand"
+    },
+    "model": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::model.model"
+    },
+    "vehicleModel": {
+      "type": "string",
+      "required": true
+    },
+    "vehicleVariant": {
+      "type": "string"
+    },
+    "engineCode": {
+      "type": "string",
+      "required": true
+    },
+    "power": {
+      "type": "string"
+    },
+    "productionStart": {
+      "type": "string"
+    },
+    "productionEnd": {
+      "type": "string"
+    },
+    "filters": {
+      "type": "json",
+      "required": true
+    },
+    "metadata": {
+      "type": "json"
+    }
+  }
+}

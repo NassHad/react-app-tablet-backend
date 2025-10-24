@@ -643,16 +643,12 @@ export default {
         }
       });
 
-      // Create a map of ref -> WiperData for quick lookup with flexible matching
+      // Create a map of ref -> WiperData for quick lookup
       const wiperDataMap = new Map();
       wiperDataRecords.forEach((wiperData: any) => {
         if (wiperData.ref) {
-          // Store multiple variations of the ref for flexible matching
-          const ref = wiperData.ref;
-          wiperDataMap.set(ref, wiperData);
-          wiperDataMap.set(ref.replace(/\s+/g, ''), wiperData); // Remove spaces
-          wiperDataMap.set(ref.replace(/\s+/g, '').replace(/\+/g, ''), wiperData); // Remove spaces and +
-          wiperDataMap.set(ref.replace(/\+/g, ''), wiperData); // Remove +
+          // Store the exact ref as the primary key
+          wiperDataMap.set(wiperData.ref, wiperData);
         }
       });
 
@@ -665,17 +661,20 @@ export default {
           return wiperDataMap.get(ref);
         }
         
-        // Try variations
+        // Try variations for flexible matching
         const variations = [
-          ref.replace(/\s+/g, ''), // Remove spaces
-          ref.replace(/\s+/g, '').replace(/\+/g, ''), // Remove spaces and +
-          ref.replace(/\+/g, ''), // Remove +
-          ref.replace(/\s+/g, '').replace(/\+/g, '') + '+', // Add + back
+          ref.replace(/\s+/g, ''), // Remove spaces: "VS 35" -> "VS35"
+          ref.replace(/\s+/g, '').replace(/\+/g, ''), // Remove spaces and +: "VS 35+" -> "VS35"
+          ref.replace(/\+/g, ''), // Remove +: "VS35+" -> "VS35"
+          ref.replace(/\s+/g, '').replace(/\+/g, '') + '+', // Add + back: "VS35" -> "VS35+"
         ];
         
+        // Try each variation against the exact refs in the database
         for (const variation of variations) {
-          if (wiperDataMap.has(variation)) {
-            return wiperDataMap.get(variation);
+          for (const [dbRef, wiperData] of wiperDataMap.entries()) {
+            if (dbRef === variation) {
+              return wiperData;
+            }
           }
         }
         

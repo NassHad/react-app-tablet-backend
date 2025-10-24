@@ -614,6 +614,93 @@ export interface ApiCompatibilityCompatibility
   };
 }
 
+export interface ApiFilterCompatibilityFilterCompatibility
+  extends Struct.CollectionTypeSchema {
+  collectionName: 'filter_compatibilities';
+  info: {
+    description: 'Vehicle to filter compatibility mapping with consolidated records';
+    displayName: 'FilterCompatibility';
+    pluralName: 'filter-compatibilities';
+    singularName: 'filter-compatibility';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  attributes: {
+    brand: Schema.Attribute.Relation<'manyToOne', 'api::brand.brand'>;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    engineCode: Schema.Attribute.String & Schema.Attribute.Required;
+    filters: Schema.Attribute.JSON & Schema.Attribute.Required;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::filter-compatibility.filter-compatibility'
+    > &
+      Schema.Attribute.Private;
+    metadata: Schema.Attribute.JSON;
+    model: Schema.Attribute.Relation<'manyToOne', 'api::model.model'>;
+    power: Schema.Attribute.String;
+    productionEnd: Schema.Attribute.String;
+    productionStart: Schema.Attribute.String;
+    publishedAt: Schema.Attribute.DateTime;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    vehicleModel: Schema.Attribute.String & Schema.Attribute.Required;
+    vehicleVariant: Schema.Attribute.String;
+  };
+}
+
+export interface ApiFilterProductFilterProduct
+  extends Struct.CollectionTypeSchema {
+  collectionName: 'filter_products';
+  info: {
+    description: 'Purflux filter products catalog';
+    displayName: 'FilterProduct';
+    pluralName: 'filter-products';
+    singularName: 'filter-product';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  attributes: {
+    brand: Schema.Attribute.String &
+      Schema.Attribute.Required &
+      Schema.Attribute.DefaultTo<'PURFLUX'>;
+    category: Schema.Attribute.String & Schema.Attribute.Required;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    ean: Schema.Attribute.String &
+      Schema.Attribute.Required &
+      Schema.Attribute.Unique;
+    filterType: Schema.Attribute.Enumeration<
+      ['oil', 'air', 'diesel', 'cabin']
+    > &
+      Schema.Attribute.Required;
+    fullName: Schema.Attribute.String & Schema.Attribute.Required;
+    fullReference: Schema.Attribute.String;
+    internalSKU: Schema.Attribute.String &
+      Schema.Attribute.Required &
+      Schema.Attribute.Unique;
+    isActive: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<true>;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::filter-product.filter-product'
+    > &
+      Schema.Attribute.Private;
+    publishedAt: Schema.Attribute.DateTime;
+    reference: Schema.Attribute.String & Schema.Attribute.Required;
+    slug: Schema.Attribute.UID<'reference'> & Schema.Attribute.Required;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
 export interface ApiLightDataLightData extends Struct.CollectionTypeSchema {
   collectionName: 'lights_data';
   info: {
@@ -1652,6 +1739,8 @@ declare module '@strapi/strapi' {
       'api::brand.brand': ApiBrandBrand;
       'api::category.category': ApiCategoryCategory;
       'api::compatibility.compatibility': ApiCompatibilityCompatibility;
+      'api::filter-compatibility.filter-compatibility': ApiFilterCompatibilityFilterCompatibility;
+      'api::filter-product.filter-product': ApiFilterProductFilterProduct;
       'api::light-data.light-data': ApiLightDataLightData;
       'api::light-position-data.light-position-data': ApiLightPositionDataLightPositionData;
       'api::lights-position.lights-position': ApiLightsPositionLightsPosition;

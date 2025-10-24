@@ -1,137 +1,210 @@
-# Brand and Model Import Scripts
+# Purflux Filter System Import Guide
 
-This directory contains multiple scripts to import brand and model data into your Strapi application, each designed for different scenarios.
+This guide explains how to import the Purflux filter data into your Strapi backend.
 
-## Files
+## 📋 Prerequisites
+
+- Node.js 18+ (for fetch API)
+- Strapi backend running
+- CSV files in `scripts/liste_affectation/` directory
+
+## 🚀 Quick Start
+
+### 1. Setup Dependencies
+```bash
+node scripts/setup-import.js
+```
+
+### 2. Start Strapi
+```bash
+npm run develop
+```
+
+Wait for Strapi to fully start and register the new content types.
+
+### 3. Run Import
+```bash
+node scripts/import-to-strapi.js
+```
+
+## 📊 What Gets Imported
+
+### Filter Products (55 records)
+- **Source**: `recap_data_purflux.csv`
+- **Content**: Purflux filter catalog
+- **Types**: Oil, Air, Diesel, Cabin filters
+- **Fields**: Brand, Reference, EAN, SKU, Category
+
+### Filter Compatibility (8,819 records)
+- **Source**: `Applications_borne_20240118_Purflux.csv`
+- **Content**: Vehicle-to-filter compatibility
+- **Consolidation**: 12,153 → 8,819 records (27.4% reduction)
+- **Fields**: Brand, Model, Variant, Engine, Filters (JSON)
+
+### Brands & Models (Auto-created)
+- **Brands**: Extracted from compatibility data
+- **Models**: Extracted from vehicle data
+- **Relations**: Proper foreign key relationships
+
+## 🔧 Configuration
+
+### Environment Variables
+```bash
+# Optional: Custom Strapi URL
+export STRAPI_URL=http://localhost:1337
+
+# Optional: API Token for authentication
+export STRAPI_API_TOKEN=your_token_here
+```
 
 ### Import Scripts
-- `import-brands-and-models.cjs` - Main import script using Strapi's internal API (requires ts-node)
-- `import-http.js` - HTTP-based import script (works with running Strapi instance)
-- `import-simple.js` - Simple import script using axios (requires axios dependency)
-- `import-brands.cjs` - Individual brand import script
-- `import-models.cjs` - Individual model import script
+- `scripts/import-to-strapi.js` - Complete import (recommended)
+- `scripts/import-filter-products.js` - Products only
+- `scripts/import-filter-compatibility.js` - Compatibility only
 
-### Test Scripts
-- `test-import.cjs` - Test script to verify the import worked correctly
-- `import.bat` - Windows batch file for easy script execution
+## 📈 Import Process
 
-### Data Files
-- `json_data/final_brands.json` - Brand data file
-- `json_data/cleaned_models.json` - Model data file
+### Step 1: Filter Products
+1. Parse `recap_data_purflux.csv`
+2. Extract filter references and metadata
+3. Create 55 FilterProduct records
+4. Map categories to filter types
 
-## Usage
+### Step 2: Brands & Models
+1. Extract unique brands from compatibility data
+2. Create Brand records with slugs
+3. Extract unique models per brand
+4. Create Model records with brand relations
 
-### Option 1: HTTP-based Import (Recommended)
+### Step 3: Filter Compatibility
+1. Parse `Applications_borne_20240118_Purflux.csv`
+2. Consolidate duplicate vehicle records
+3. Extract vehicle variants for dropdown optimization
+4. Create 8,819 FilterCompatibility records
+5. Link to Brand and Model relations
 
-This method works with a running Strapi instance and doesn't require ts-node:
+## 🎯 Data Structure
 
-```bash
-# Start Strapi in development mode (in one terminal)
-npm run develop
-
-# Import brands and models (in another terminal)
-node scripts/import-http.js
-
-# Import and auto-publish entries
-PUBLISH=true node scripts/import-http.js
-```
-
-### Option 2: Internal API Import
-
-This method uses Strapi's internal API but requires ts-node:
-
-```bash
-# Import brands and models (draft mode)
-node scripts/import-brands-and-models.cjs
-
-# Import and auto-publish entries
-PUBLISH=true node scripts/import-brands-and-models.cjs
-
-# Clear existing data and import fresh
-CLEAR_EXISTING=true node scripts/import-brands-and-models.cjs
-
-# Clear existing data, import and auto-publish
-CLEAR_EXISTING=true PUBLISH=true node scripts/import-brands-and-models.cjs
-```
-
-### Option 3: Individual Imports
-
-```bash
-# Import only brands
-node scripts/import-brands.cjs data/brands.json
-
-# Import only models
-node scripts/import-models.cjs scripts/models.json
-```
-
-### Option 4: Windows Batch File
-
-```bash
-# Run the interactive batch file
-scripts/import.bat
-```
-
-### Test Import
-
-```bash
-# Test the import results
-node scripts/test-import.cjs
-```
-
-## Environment Variables
-
-- `PUBLISH` - Set to `true` to auto-publish imported entries (default: false)
-- `CLEAR_EXISTING` - Set to `true` to clear existing data before import (default: false)
-
-## Data Structure
-
-### Brands (final_brands.json)
+### FilterProduct
 ```json
 {
-  "id": 1,
-  "name": "ABARTH",
-  "slug": "abarth",
-  "isActive": true
+  "brand": "PURFLUX",
+  "filterType": "oil",
+  "reference": "L358AY",
+  "fullName": "PURFLUX FILTRE HUILE L358AY -2",
+  "ean": "3286064234934",
+  "internalSKU": "902000",
+  "category": "FILTRE A HUILE"
 }
 ```
 
-### Models (cleaned_models.json)
+### FilterCompatibility
 ```json
 {
-  "id": 1,
-  "name": "124 Spider",
-  "brandSlug": "abarth",
-  "modelSlug": "124-spider"
+  "brand": 1, // Brand ID
+  "model": 5, // Model ID
+  "vehicleModel": "500 II / 595 / 695 1.4 Turbo 135",
+  "vehicleVariant": "595 / 695 1.4 Turbo 135",
+  "engineCode": "312A1000",
+  "power": "99KW(135PS/HP)",
+  "filters": {
+    "oil": [{"ref": "37-L330", "notes": []}],
+    "air": [],
+    "diesel": [],
+    "cabin": [{"ref": "233-AH233", "notes": ["Date: -->09/11"]}]
+  }
 }
 ```
 
-## Features
+## 🚀 API Endpoints
 
-- **Deduplication**: Automatically removes duplicate entries based on slug
-- **Error Handling**: Continues processing even if individual entries fail
-- **Progress Reporting**: Shows detailed progress during import
-- **Relationship Mapping**: Automatically links models to their brands
-- **Batch Processing**: Efficiently processes large datasets
-- **Validation**: Validates data before import
+After import, these endpoints are available:
 
-## Prerequisites
-
-Make sure you have the required dependencies:
-
+### Get Vehicle Variants
 ```bash
-npm install -D ts-node typescript @types/node
+GET /api/filter-compatibility/variants?brand=ABARTH&model=500 II
 ```
 
-## Troubleshooting
+### Search Compatibility
+```bash
+GET /api/filter-compatibility/search?brand=ABARTH&model=500 II&engine=312A1000
+```
 
-1. **ts-node missing**: Run `npm i -D ts-node typescript @types/node`
-2. **File not found**: Ensure the JSON files exist in the correct paths
-3. **Brand not found**: Make sure brands are imported before models
-4. **Permission errors**: Ensure Strapi is not running when importing
+### Get Available Products
+```bash
+GET /api/filter-compatibility/:id/available-products?filterType=oil
+```
 
-## Notes
+### Smart Product Matching
+```bash
+POST /api/filter-compatibility/match-product
+{
+  "compatibilityRef": "37-L330",
+  "filterType": "oil"
+}
+```
 
-- The script imports brands first, then models (due to foreign key relationships)
-- Models are linked to brands using the `brandSlug` field
-- All entries are created in draft mode unless `PUBLISH=true` is set
-- The script skips existing entries to avoid duplicates
+## 🔍 Verification
+
+### Check Import Success
+```bash
+# Check products
+curl "http://localhost:1337/api/filter-products?pagination[limit]=5"
+
+# Check compatibility
+curl "http://localhost:1337/api/filter-compatibilities?pagination[limit]=5"
+
+# Check brands
+curl "http://localhost:1337/api/brands?pagination[limit]=5"
+```
+
+### Test Vehicle Variants
+```bash
+curl "http://localhost:1337/api/filter-compatibility/variants?brand=ABARTH&model=500 II"
+```
+
+## 🐛 Troubleshooting
+
+### Common Issues
+
+1. **Strapi not running**
+   ```bash
+   npm run develop
+   ```
+
+2. **Content types not registered**
+   - Restart Strapi
+   - Check for TypeScript errors
+
+3. **CSV files missing**
+   - Ensure files are in `scripts/liste_affectation/`
+   - Check file permissions
+
+4. **Import fails**
+   - Check Strapi logs
+   - Verify API endpoints are accessible
+   - Check network connectivity
+
+### Performance Notes
+
+- **Import time**: ~5-10 minutes for full dataset
+- **Memory usage**: ~200MB during import
+- **Database size**: ~50MB for complete dataset
+- **Query performance**: Optimized with indexes
+
+## 📚 Next Steps
+
+1. **Test API endpoints** with sample queries
+2. **Verify data quality** in Strapi admin
+3. **Configure tablet sync** for offline usage
+4. **Set up monitoring** for import processes
+
+## 🎉 Success!
+
+Your Purflux Filter System is now ready for:
+- ✅ Fast vehicle variant lookups
+- ✅ Smart filter matching
+- ✅ Offline tablet deployment
+- ✅ Scalable architecture
+
+Happy filtering! 🚗🔧

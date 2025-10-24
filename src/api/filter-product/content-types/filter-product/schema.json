@@ -1,0 +1,60 @@
+{
+  "kind": "collectionType",
+  "collectionName": "filter_products",
+  "info": {
+    "singularName": "filter-product",
+    "pluralName": "filter-products",
+    "displayName": "FilterProduct",
+    "description": "Purflux filter products catalog"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "brand": {
+      "type": "string",
+      "required": true,
+      "default": "PURFLUX"
+    },
+    "filterType": {
+      "type": "enumeration",
+      "enum": ["oil", "air", "diesel", "cabin"],
+      "required": true
+    },
+    "reference": {
+      "type": "string",
+      "required": true
+    },
+    "fullReference": {
+      "type": "string"
+    },
+    "fullName": {
+      "type": "string",
+      "required": true
+    },
+    "ean": {
+      "type": "string",
+      "unique": true,
+      "required": true
+    },
+    "internalSKU": {
+      "type": "string",
+      "unique": true,
+      "required": true
+    },
+    "category": {
+      "type": "string",
+      "required": true
+    },
+    "isActive": {
+      "type": "boolean",
+      "default": true
+    },
+    "slug": {
+      "type": "uid",
+      "targetField": "reference",
+      "required": true
+    }
+  }
+}
