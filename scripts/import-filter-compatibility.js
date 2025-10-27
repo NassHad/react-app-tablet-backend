@@ -9,14 +9,24 @@ const { parse } = require('csv-parse');
 
 const CSV_FILE = path.join(__dirname, 'liste_affectation', 'Applications_borne_20240118_Purflux.csv');
 
+// Check for test mode or limit
+const TEST_MODE = process.argv.includes('--test');
+const LIMIT_ARG = process.argv.find(arg => arg.startsWith('--limit='));
+const ROW_LIMIT = LIMIT_ARG ? parseInt(LIMIT_ARG.split('=')[1]) : null;
+
 async function importFilterCompatibility() {
   console.log('🚀 Starting FilterCompatibility import...');
   console.log(`📁 Reading CSV: ${CSV_FILE}`);
+  
+  if (TEST_MODE || ROW_LIMIT) {
+    console.log(`🧪 TEST MODE: ${ROW_LIMIT ? `Processing first ${ROW_LIMIT} rows` : 'Full test mode'}`);
+  }
   
   const consolidatedRecords = new Map(); // Use Map to group by unique key
   let processedCount = 0;
   let errorCount = 0;
   let originalRowCount = 0;
+  let skippedCount = 0;
 
   return new Promise((resolve, reject) => {
     fs.createReadStream(CSV_FILE)
@@ -36,6 +46,12 @@ async function importFilterCompatibility() {
           
           // Skip header row
           if (row.marque === 'Marque') {
+            return;
+          }
+          
+          // Skip if limit reached
+          if (ROW_LIMIT && processedCount >= ROW_LIMIT) {
+            skippedCount++;
             return;
           }
 
@@ -160,6 +176,9 @@ async function importFilterCompatibility() {
       .on('end', async () => {
         console.log(`\n📈 Consolidation Summary:`);
         console.log(`   📥 Original rows: ${originalRowCount}`);
+        if (ROW_LIMIT) {
+          console.log(`   ⏭️  Skipped rows (limit reached): ${skippedCount}`);
+        }
         console.log(`   📦 Consolidated records: ${consolidatedRecords.size}`);
         console.log(`   📉 Reduction: ${((1 - consolidatedRecords.size / originalRowCount) * 100).toFixed(1)}%`);
         console.log(`   ✅ Successfully processed: ${processedCount} rows`);
@@ -238,6 +257,11 @@ async function importFilterCompatibility() {
 
 // Run the import if this script is executed directly
 if (require.main === module) {
+  console.log('\n💡 Usage:');
+  console.log('   node scripts/import-filter-compatibility.js              # Full import');
+  console.log('   node scripts/import-filter-compatibility.js --limit=100  # Test with first 100 rows');
+  console.log('   node scripts/import-filter-compatibility.js --test       # Test mode\n');
+  
   importFilterCompatibility()
     .then(() => {
       console.log('🎉 Consolidation script completed!');
