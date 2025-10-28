@@ -35,6 +35,16 @@ export default {
       },
     },
     {
+      method: 'GET',
+      path: '/filter-compatibility/find-products',
+      handler: 'filter-compatibility.findProducts',
+      config: {
+        auth: false,
+        policies: [],
+        middlewares: [],
+      },
+    },
+    {
       method: 'POST',
       path: '/filter-compatibility/match-product',
       handler: 'filter-compatibility.matchProduct',

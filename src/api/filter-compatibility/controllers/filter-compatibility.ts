@@ -107,6 +107,97 @@ export default factories.createCoreController('api::filter-compatibility.filter-
   },
 
   /**
+   * Find products based on brand, model, variant, and filter type
+   * GET /filter-compatibility/find-products?brand=CITROEN&model=C4 II&variant=1.6 HDi 110&filterType=oil
+   */
+  async findProducts(ctx) {
+    try {
+      const { brand, model, variant, filterType } = ctx.query;
+      
+      // Validate parameters
+      if (!brand || !model || !filterType) {
+        return ctx.badRequest('Missing required parameters: brand, model, filterType');
+      }
+      
+      const service = strapi.service('api::filter-compatibility.filter-compatibility');
+      
+      // Find FilterCompatibility records
+      const compatibilities = await strapi.entityService.findMany(
+        'api::filter-compatibility.filter-compatibility',
+        {
+          filters: {
+            brand: { name: { $eq: brand as string } },
+            model: { name: { $eq: model as string } },
+            ...(variant && { vehicleVariant: { $containsi: variant as string } })
+          },
+          populate: {
+            brand: true,
+            model: true
+          }
+        }
+      );
+      
+      if (!compatibilities || compatibilities.length === 0) {
+        return ctx.body = { 
+          data: [], 
+          meta: { 
+            found: false,
+            total: 0,
+            filters: { brand, model, variant, filterType }
+          } 
+        };
+      }
+      
+      // Extract filter references for the requested type
+      const products = [];
+      const availableReferences = [];
+      const unavailableReferences = [];
+      
+      for (const compatibility of compatibilities) {
+        const filters = (compatibility as any).filters[filterType as string] || [];
+        
+        for (const filter of filters) {
+          const matchedProducts = await service.findProductByReference(
+            filter.ref,
+            filterType as string
+          );
+          
+          if (matchedProducts.length > 0) {
+            products.push(...matchedProducts.map(p => ({
+              ...p,
+              compatibilityMetadata: {
+                vehicleVariant: (compatibility as any).vehicleVariant,
+                engineCode: (compatibility as any).engineCode,
+                power: (compatibility as any).power,
+                notes: filter.notes
+              }
+            })));
+            availableReferences.push(filter.ref);
+          } else {
+            unavailableReferences.push(filter.ref);
+          }
+        }
+      }
+      
+      ctx.body = {
+        data: products,
+        meta: {
+          total: products.length,
+          found: products.length > 0,
+          filters: { brand, model, variant, filterType },
+          availability: {
+            availableReferences,
+            unavailableReferences,
+            message: products.length === 0 ? 'No product available for this vehicle' : null
+          }
+        }
+      };
+    } catch (error) {
+      ctx.internalServerError('Error finding products', error);
+    }
+  },
+
+  /**
    * Smart product matching for a specific reference
    * POST /filter-compatibility/match-product
    * Body: { compatibilityRef: "37-L330", filterType: "oil" }

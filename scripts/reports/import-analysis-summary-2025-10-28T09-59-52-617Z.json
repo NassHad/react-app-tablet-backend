@@ -1,0 +1,19 @@
+{
+  "timestamp": "2025-10-28T09:59:52.618Z",
+  "importAnalysis": {
+    "totalMissingBrands": 2,
+    "totalMissingModels": 77,
+    "brandsAffected": 30,
+    "importSuccessRate": {
+      "brands": "98.3%",
+      "models": "Unknown%"
+    }
+  },
+  "recommendations": [
+    "Missing brands need to be added to the Brand table",
+    "Missing models need to be added to the Model table with proper brand relations",
+    "Consider cleaning model names to match existing patterns",
+    "Verify brand names match exactly (case-sensitive)",
+    "Check for typos or variations in model names"
+  ]
+}

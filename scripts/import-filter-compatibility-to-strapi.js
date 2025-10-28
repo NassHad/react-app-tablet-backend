@@ -86,11 +86,11 @@ async function findModelByName(brandId, modelName) {
 }
 
 // Create FilterCompatibility record
-async function createFilterCompatibility(record, brandId, modelId) {
+async function createFilterCompatibility(record, brand, model) {
   try {
     const data = {
-      brand: brandId,
-      model: modelId,
+      brand: brand.documentId,
+      model: model.documentId,
       vehicleModel: record.vehicleModel,
       vehicleVariant: record.vehicleVariant,
       engineCode: record.engineCode,
@@ -322,7 +322,7 @@ async function importFilterCompatibility() {
             }
             
             // Create FilterCompatibility record
-            const created = await createFilterCompatibility(record, brand.id, model.id);
+            const created = await createFilterCompatibility(record, brand, model);
             stats.recordsCreated++;
             
             console.log(`${progress} ✅ Created: ${record.brand} ${record.typeModele} (${record.filters.oil.length + record.filters.air.length + record.filters.diesel.length + record.filters.cabin.length} filters)`);

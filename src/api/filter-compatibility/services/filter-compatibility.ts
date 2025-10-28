@@ -110,6 +110,48 @@ export default factories.createCoreService('api::filter-compatibility.filter-com
   },
 
   /**
+   * Clean filter reference to try multiple variants for matching
+   * Returns array of reference variants to try
+   */
+  cleanFilterReference(ref: string): string[] {
+    // Returns multiple variants to try matching
+    const variants = [ref.trim()];
+    
+    // If contains "-", also try without prefix
+    if (ref.includes('-')) {
+      const withoutPrefix = ref.split('-').slice(1).join('-').trim();
+      variants.push(withoutPrefix);
+    }
+    
+    return variants;
+  },
+
+  /**
+   * Find products by reference with smart matching
+   * Tries multiple reference variants
+   */
+  async findProductByReference(ref: string, filterType: string) {
+    const variants = this.cleanFilterReference(ref);
+    
+    for (const variant of variants) {
+      const products = await strapi.entityService.findMany('api::filter-product.filter-product', {
+        filters: {
+          reference: { $eq: variant },
+          filterType: filterType as any,
+          isActive: true
+        },
+        limit: 10
+      });
+      
+      if (products && products.length > 0) {
+        return products;
+      }
+    }
+    
+    return [];
+  },
+
+  /**
    * Complete flow: Find compatibility and match with available products
    */
   async getFilterForVehicle(vehicleData: {
