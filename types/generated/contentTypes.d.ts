@@ -669,6 +669,7 @@ export interface ApiFilterProductFilterProduct
     brand: Schema.Attribute.String &
       Schema.Attribute.Required &
       Schema.Attribute.DefaultTo<'PURFLUX'>;
+    brandImg: Schema.Attribute.Media<'images' | 'files' | 'videos' | 'audios'>;
     category: Schema.Attribute.String & Schema.Attribute.Required;
     createdAt: Schema.Attribute.DateTime;
     createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
@@ -682,6 +683,7 @@ export interface ApiFilterProductFilterProduct
       Schema.Attribute.Required;
     fullName: Schema.Attribute.String & Schema.Attribute.Required;
     fullReference: Schema.Attribute.String;
+    img: Schema.Attribute.Media<'images' | 'files' | 'videos' | 'audios'>;
     internalSKU: Schema.Attribute.String &
       Schema.Attribute.Required &
       Schema.Attribute.Unique;

@@ -14,13 +14,18 @@
   "attributes": {
     "brand": {
       "type": "string",
-      "required": true,
-      "default": "PURFLUX"
+      "default": "PURFLUX",
+      "required": true
     },
     "filterType": {
       "type": "enumeration",
-      "enum": ["oil", "air", "diesel", "cabin"],
-      "required": true
+      "required": true,
+      "enum": [
+        "oil",
+        "air",
+        "diesel",
+        "cabin"
+      ]
     },
     "reference": {
       "type": "string",
@@ -35,13 +40,13 @@
     },
     "ean": {
       "type": "string",
-      "unique": true,
-      "required": true
+      "required": true,
+      "unique": true
     },
     "internalSKU": {
       "type": "string",
-      "unique": true,
-      "required": true
+      "required": true,
+      "unique": true
     },
     "category": {
       "type": "string",
@@ -55,6 +60,26 @@
       "type": "uid",
       "targetField": "reference",
       "required": true
+    },
+    "img": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "brandImg": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
     }
   }
 }
