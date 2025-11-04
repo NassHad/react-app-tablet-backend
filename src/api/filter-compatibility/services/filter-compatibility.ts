@@ -74,6 +74,10 @@ export default factories.createCoreService('api::filter-compatibility.filter-com
         reference: refPart,
         filterType: filterType as any,
         isActive: true
+      },
+      populate: {
+        img: true,
+        brandImg: true
       }
     });
 
@@ -87,6 +91,10 @@ export default factories.createCoreService('api::filter-compatibility.filter-com
         reference: { $startsWith: refPart },
         filterType: filterType as any,
         isActive: true
+      },
+      populate: {
+        img: true,
+        brandImg: true
       }
     });
 
@@ -99,6 +107,10 @@ export default factories.createCoreService('api::filter-compatibility.filter-com
       filters: {
         filterType: filterType as any,
         isActive: true
+      },
+      populate: {
+        img: true,
+        brandImg: true
       }
     });
 
@@ -149,6 +161,10 @@ export default factories.createCoreService('api::filter-compatibility.filter-com
         filterType: filterType as any,
         isActive: true
       },
+      populate: {
+        img: true,
+        brandImg: true
+      },
       limit: 100
     });
     
@@ -164,6 +180,10 @@ export default factories.createCoreService('api::filter-compatibility.filter-com
         reference: { $startsWith: cleanedRef },
         filterType: filterType as any,
         isActive: true
+      },
+      populate: {
+        img: true,
+        brandImg: true
       },
       limit: 100
     });
