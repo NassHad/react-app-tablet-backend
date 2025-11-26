@@ -1,0 +1,20 @@
+{
+  "timestamp": "2025-10-28T09:59:52.618Z",
+  "summary": {
+    "totalMissingBrands": 2,
+    "brands": [
+      "Lincoln",
+      "MERCEDES BENZ"
+    ]
+  },
+  "details": [
+    {
+      "brandName": "Lincoln",
+      "reason": "Brand not found in Strapi database during import process"
+    },
+    {
+      "brandName": "MERCEDES BENZ",
+      "reason": "Brand not found in Strapi database during import process"
+    }
+  ]
+}

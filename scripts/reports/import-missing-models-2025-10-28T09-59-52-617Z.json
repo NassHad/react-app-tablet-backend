@@ -1,0 +1,266 @@
+{
+  "timestamp": "2025-10-28T09:59:52.618Z",
+  "summary": {
+    "totalMissingModels": 77,
+    "brandsAffected": 30
+  },
+  "details": [
+    {
+      "brandName": "VOLKSWAGEN",
+      "missingModels": [
+        "BEETLE/BEETLE CABRIOLET (5C)",
+        "CRAFTER 30, 35, 50 (2E)",
+        "GOLF V / GOLF PLUS",
+        "GOLF VI / GOLF PLUS",
+        "MULTIVAN / CALIFORNIA / CARAVELLE (T4)",
+        "MULTIVAN / CALIFORNIA / CARAVELLE (T5)",
+        "MULTIVAN / CALIFORNIA / CARAVELLE (T6)",
+        "NEW BEETLE CABRIOLET / CONVERTIBLE",
+        "PASSAT (36/357) / ALLTRACK",
+        "POLO III Classic/Variant (6V)",
+        "SCIROCCO I & II",
+        "TRANSPORTER / VANS T3",
+        "TRANSPORTER / VANS T4",
+        "TRANSPORTER / VANS T5",
+        "TRANSPORTER / VANS T6",
+        "UP!"
+      ],
+      "count": 16
+    },
+    {
+      "brandName": "HYUNDAI",
+      "missingModels": [
+        "H1 / H1 STAREX / H100",
+        "KONA (OS) /  KAUAI",
+        "LANTRA II (J-2) | ELANTRA",
+        "i30 / i30 SW",
+        "i30 / i30 SW II",
+        "i30 / i30 SW III",
+        "i40 / i40 SW"
+      ],
+      "count": 7
+    },
+    {
+      "brandName": "RENAULT",
+      "missingModels": [
+        "*",
+        "KANGOO EXPRESS / RAPID",
+        "MEGANE I CABRIOLET / COUPE",
+        "MEGANE III COUPE / CC",
+        "R5 / SUPER 5",
+        "SANDERO / SANDERO STEPWAY II"
+      ],
+      "count": 6
+    },
+    {
+      "brandName": "FORD",
+      "missingModels": [
+        "C-MAX / GRAND C-MAX I",
+        "C-MAX / GRAND C-MAX II",
+        "FUSION / FUSION PLUS",
+        "KA+"
+      ],
+      "count": 4
+    },
+    {
+      "brandName": "KIA",
+      "missingModels": [
+        "CEED / CEED SW / PRO CEED I (ED)",
+        "CEED / CEED SW / PRO CEED II (JD)",
+        "CEED / CEED SW / PRO CEED III (CD)",
+        "SPECTRA / SPECTRA5"
+      ],
+      "count": 4
+    },
+    {
+      "brandName": "CITROEN",
+      "missingModels": [
+        "C4 II PICASSO / GRAND PICASSO",
+        "C4 PICASSO / GRAND PICASSO",
+        "C4 SPACETOURER / GRAND C4 SPACETOURER"
+      ],
+      "count": 3
+    },
+    {
+      "brandName": "LIFAN",
+      "missingModels": [
+        "320 / SMILY",
+        "520 / BREEZ",
+        "620 / SOLANO"
+      ],
+      "count": 3
+    },
+    {
+      "brandName": "OPEL",
+      "missingModels": [
+        "CROSSLAND / CROSSLAND X",
+        "MOKKA I  / MOKKA X I",
+        "ZAFIRA III / ZAFIRA TOURER"
+      ],
+      "count": 3
+    },
+    {
+      "brandName": "TOYOTA",
+      "missingModels": [
+        "ALPHARD / VELLFIRE (_H1_)",
+        "ALPHARD / VELLFIRE (_H2_)",
+        "PROBOX / SUCCEED (_P5_)"
+      ],
+      "count": 3
+    },
+    {
+      "brandName": "AUDI",
+      "missingModels": [
+        "AUDI 60 / 70 / 75",
+        "Q3 II (F3B) / Q3 Sportback (F3N)"
+      ],
+      "count": 2
+    },
+    {
+      "brandName": "DACIA",
+      "missingModels": [
+        "LOGAN / LOGAN PICK-UP / LOGAN VAN",
+        "SANDERO / SANDERO STEPWAY"
+      ],
+      "count": 2
+    },
+    {
+      "brandName": "LAND ROVER",
+      "missingModels": [
+        "88/109 MK II",
+        "88/109 MK III"
+      ],
+      "count": 2
+    },
+    {
+      "brandName": "MINI",
+      "missingModels": [
+        "MINI COOPER II / CLUBMAN / COUNTRYMAN (R55/R56/R57/R59/R60)",
+        "MINI ONE II / CLUBMAN / COUNTRYMAN (R55/R56/R60)"
+      ],
+      "count": 2
+    },
+    {
+      "brandName": "NISSAN",
+      "missingModels": [
+        "MICRA C+C",
+        "QASHQAI / QASHQAI+2"
+      ],
+      "count": 2
+    },
+    {
+      "brandName": "SANTANA",
+      "missingModels": [
+        "300/350",
+        "PS-10/ANIBAL"
+      ],
+      "count": 2
+    },
+    {
+      "brandName": "VAUXHALL",
+      "missingModels": [
+        "CROSSLAND / CROSSLAND X",
+        "MOKKA / MOKKA X"
+      ],
+      "count": 2
+    },
+    {
+      "brandName": "CHRYSLER",
+      "missingModels": [
+        "VOYAGER / GRAND VOYAGER"
+      ],
+      "count": 1
+    },
+    {
+      "brandName": "FERRARI",
+      "missingModels": [
+        "308/328/330 GT"
+      ],
+      "count": 1
+    },
+    {
+      "brandName": "FIAT",
+      "missingModels": [
+        "X 1/9"
+      ],
+      "count": 1
+    },
+    {
+      "brandName": "GAZ",
+      "missingModels": [
+        "GAZEL / GAZELLE"
+      ],
+      "count": 1
+    },
+    {
+      "brandName": "HONDA",
+      "missingModels": [
+        "CITY / JAZZ"
+      ],
+      "count": 1
+    },
+    {
+      "brandName": "MORGAN",
+      "missingModels": [
+        "04-avr"
+      ],
+      "count": 1
+    },
+    {
+      "brandName": "ROVER",
+      "missingModels": [
+        "M.G."
+      ],
+      "count": 1
+    },
+    {
+      "brandName": "SAAB",
+      "missingModels": [
+        "09-mars"
+      ],
+      "count": 1
+    },
+    {
+      "brandName": "SEAT",
+      "missingModels": [
+        "ALTEA / ALTEA XL / ALTEA FREETRACK"
+      ],
+      "count": 1
+    },
+    {
+      "brandName": "SINGER",
+      "missingModels": [
+        "GAZEL / GAZELLE"
+      ],
+      "count": 1
+    },
+    {
+      "brandName": "SMART",
+      "missingModels": [
+        "SMART COUPE / CABRIO / FORTWO III"
+      ],
+      "count": 1
+    },
+    {
+      "brandName": "SUBARU",
+      "missingModels": [
+        "E"
+      ],
+      "count": 1
+    },
+    {
+      "brandName": "SUZUKI",
+      "missingModels": [
+        "WAGON R+"
+      ],
+      "count": 1
+    },
+    {
+      "brandName": "VOLVO",
+      "missingModels": [
+        "343 / 345"
+      ],
+      "count": 1
+    }
+  ]
+}

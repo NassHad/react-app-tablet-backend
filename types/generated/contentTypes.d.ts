@@ -610,7 +610,6 @@ export interface ApiCompatibilityCompatibility
     updatedAt: Schema.Attribute.DateTime;
     updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
-    vehicle: Schema.Attribute.Relation<'oneToOne', 'api::vehicle.vehicle'>;
   };
 }
 
@@ -669,6 +668,7 @@ export interface ApiFilterProductFilterProduct
     brand: Schema.Attribute.String &
       Schema.Attribute.Required &
       Schema.Attribute.DefaultTo<'PURFLUX'>;
+    brandImg: Schema.Attribute.Media<'images' | 'files' | 'videos' | 'audios'>;
     category: Schema.Attribute.String & Schema.Attribute.Required;
     createdAt: Schema.Attribute.DateTime;
     createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
@@ -682,6 +682,7 @@ export interface ApiFilterProductFilterProduct
       Schema.Attribute.Required;
     fullName: Schema.Attribute.String & Schema.Attribute.Required;
     fullReference: Schema.Attribute.String;
+    img: Schema.Attribute.Media<'images' | 'files' | 'videos' | 'audios'>;
     internalSKU: Schema.Attribute.String &
       Schema.Attribute.Required &
       Schema.Attribute.Unique;
@@ -1068,40 +1069,6 @@ export interface ApiVehicleTypeVehicleType extends Struct.CollectionTypeSchema {
     updatedAt: Schema.Attribute.DateTime;
     updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
-  };
-}
-
-export interface ApiVehicleVehicle extends Struct.CollectionTypeSchema {
-  collectionName: 'vehicles';
-  info: {
-    displayName: 'Vehicle';
-    pluralName: 'vehicles';
-    singularName: 'vehicle';
-  };
-  options: {
-    draftAndPublish: true;
-  };
-  attributes: {
-    createdAt: Schema.Attribute.DateTime;
-    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
-      Schema.Attribute.Private;
-    id_brand: Schema.Attribute.Integer;
-    id_model: Schema.Attribute.Integer;
-    locale: Schema.Attribute.String & Schema.Attribute.Private;
-    localizations: Schema.Attribute.Relation<
-      'oneToMany',
-      'api::vehicle.vehicle'
-    > &
-      Schema.Attribute.Private;
-    publishedAt: Schema.Attribute.DateTime;
-    updatedAt: Schema.Attribute.DateTime;
-    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
-      Schema.Attribute.Private;
-    vehicle_type: Schema.Attribute.Relation<
-      'oneToOne',
-      'api::vehicle-type.vehicle-type'
-    >;
-    year: Schema.Attribute.Integer;
   };
 }
 
@@ -1752,7 +1719,6 @@ declare module '@strapi/strapi' {
       'api::sync.sync': ApiSyncSync;
       'api::tablet.tablet': ApiTabletTablet;
       'api::vehicle-type.vehicle-type': ApiVehicleTypeVehicleType;
-      'api::vehicle.vehicle': ApiVehicleVehicle;
       'api::wiper-data.wiper-data': ApiWiperDataWiperData;
       'api::wipers-position.wipers-position': ApiWipersPositionWipersPosition;
       'api::wipers-product.wipers-product': ApiWipersProductWipersProduct;

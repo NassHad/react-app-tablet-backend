@@ -38,7 +38,6 @@ export default {
             $or: orFilters
           },
           populate: {
-            vehicle: true,
             product: true
           }
         });
@@ -52,19 +51,14 @@ export default {
         });
       }
 
-      // Extract unique brand and model IDs from vehicles
+      // Extract unique brand and model IDs from products
+      // Note: Compatibility doesn't have vehicle relation, so we can't extract brand/model from it
+      // This functionality may need to be refactored based on actual data structure
       const brandIds = new Set();
       const modelIds = new Set();
       
       compatibilities.forEach((comp: any) => {
-        if (comp.vehicle) {
-          if (comp.vehicle.id_brand) {
-            brandIds.add(comp.vehicle.id_brand);
-          }
-          if (comp.vehicle.id_model) {
-            modelIds.add(comp.vehicle.id_model);
-          }
-        }
+        // Since compatibility doesn't have vehicle, we can't extract brand/model IDs
       });
 
       // Get battery brands that match the vehicle brand IDs
@@ -174,7 +168,7 @@ export default {
             $or: orFilters
           },
           populate: {
-            vehicle: true
+            product: true
           }
         });
       }
@@ -244,17 +238,17 @@ export default {
             $or: orFilters
           },
           populate: {
-            vehicle: true
+            product: true
           }
         });
       }
 
       // Extract unique model IDs for the specific brand
+      // Note: Compatibility doesn't have vehicle relation, so we can't extract model IDs from it
+      // This functionality may need to be refactored based on actual data structure
       const modelIds = new Set();
       compatibilities.forEach((comp: any) => {
-        if (comp.vehicle?.id_brand == brandId && comp.vehicle?.id_model) {
-          modelIds.add(comp.vehicle.id_model);
-        }
+        // Since compatibility doesn't have vehicle, we can't extract model IDs
       });
 
       // Get battery models for the specific brand

@@ -74,6 +74,10 @@ export default factories.createCoreService('api::filter-compatibility.filter-com
         reference: refPart,
         filterType: filterType as any,
         isActive: true
+      },
+      populate: {
+        img: true,
+        brandImg: true
       }
     });
 
@@ -87,6 +91,10 @@ export default factories.createCoreService('api::filter-compatibility.filter-com
         reference: { $startsWith: refPart },
         filterType: filterType as any,
         isActive: true
+      },
+      populate: {
+        img: true,
+        brandImg: true
       }
     });
 
@@ -99,6 +107,10 @@ export default factories.createCoreService('api::filter-compatibility.filter-com
       filters: {
         filterType: filterType as any,
         isActive: true
+      },
+      populate: {
+        img: true,
+        brandImg: true
       }
     });
 
@@ -107,6 +119,76 @@ export default factories.createCoreService('api::filter-compatibility.filter-com
     );
 
     return fuzzyMatch || null;
+  },
+
+  /**
+   * Clean filter reference to try multiple variants for matching
+   * Returns array of reference variants to try
+   */
+  cleanFilterReference(ref: string): string[] {
+    // Returns multiple variants to try matching
+    const variants = [ref.trim()];
+    
+    // If contains "-", also try without prefix
+    if (ref.includes('-')) {
+      const withoutPrefix = ref.split('-').slice(1).join('-').trim();
+      variants.push(withoutPrefix);
+    }
+    
+    return variants;
+  },
+
+  /**
+   * Find products by reference with smart matching
+   * Tries exact match first, then "starts with" match
+   * Example: "56-CS701" → cleaned to "CS701" → matches "CS701", "CS701A", "CS701AY"
+   */
+  async findProductByReference(ref: string, filterType: string) {
+    const variants = this.cleanFilterReference(ref);
+    
+    // Use the cleaned reference (without prefix) for matching
+    // For "56-CS701", variants will be ["56-CS701", "CS701"], we use "CS701"
+    const cleanedRef = variants.length > 1 ? variants[1] : variants[0];
+    
+    if (!cleanedRef) {
+      return [];
+    }
+    
+    // Step 1: Try exact match first
+    const exactMatches = await strapi.entityService.findMany('api::filter-product.filter-product', {
+      filters: {
+        reference: { $eq: cleanedRef },
+        filterType: filterType as any,
+        isActive: true
+      },
+      populate: {
+        img: true,
+        brandImg: true
+      },
+      limit: 100
+    });
+    
+    if (exactMatches && exactMatches.length > 0) {
+      return exactMatches;
+    }
+    
+    // Step 2: If no exact match, try "starts with" match
+    // This finds products where reference starts with cleanedRef
+    // e.g., "CS701" matches "CS701", "CS701A", "CS701AY"
+    const startsWithMatches = await strapi.entityService.findMany('api::filter-product.filter-product', {
+      filters: {
+        reference: { $startsWith: cleanedRef },
+        filterType: filterType as any,
+        isActive: true
+      },
+      populate: {
+        img: true,
+        brandImg: true
+      },
+      limit: 100
+    });
+    
+    return startsWithMatches || [];
   },
 
   /**
