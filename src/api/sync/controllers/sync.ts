@@ -67,10 +67,8 @@ async function getSyncData() {
         populate: '*',
         sort: 'id:asc'
       }).catch(() => []),
-      strapi.entityService.findMany('api::vehicle.vehicle', {
-        populate: '*',
-        sort: 'id:asc'
-      }).catch(() => []),
+      // Note: Vehicle content type doesn't exist in Strapi - vehicles are only in SQLite database
+      Promise.resolve([]),
       strapi.entityService.findMany('api::vehicle-type.vehicle-type', {
         populate: '*',
         sort: 'id:asc'

@@ -44,16 +44,22 @@ export default ({ env }) => {
     },
     sqlite: {
       connection: {
-        filename: path.join(__dirname, '..', '..', env('DATABASE_FILENAME', '.tmp/data.db')),
+        filename: path.resolve(process.cwd(), env('DATABASE_FILENAME', '.tmp/data.db')),
       },
       useNullAsDefault: true,
     },
   };
 
+  const selectedConnection = connections[client];
+  
+  if (!selectedConnection) {
+    throw new Error(`Invalid database client: ${client}. Must be one of: ${Object.keys(connections).join(', ')}`);
+  }
+
   return {
     connection: {
       client,
-      ...connections[client],
+      ...selectedConnection,
       acquireConnectionTimeout: env.int('DATABASE_CONNECTION_TIMEOUT', 60000),
     },
   };

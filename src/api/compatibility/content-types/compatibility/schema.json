@@ -11,11 +11,6 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "vehicle": {
-      "type": "relation",
-      "relation": "oneToOne",
-      "target": "api::vehicle.vehicle"
-    },
     "product": {
       "type": "relation",
       "relation": "oneToOne",
