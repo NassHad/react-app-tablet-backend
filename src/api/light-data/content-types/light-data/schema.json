@@ -45,6 +45,12 @@
     },
     "category": {
       "type": "string"
+    },
+    "EAN": {
+      "type": "biginteger"
+    },
+    "refGTI": {
+      "type": "biginteger"
     }
   }
 }
