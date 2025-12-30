@@ -68,8 +68,8 @@ export default {
 
       return ctx.send({
         category: { id: categoryId, name: 'Lights Category' },
-        brands: Array.from(brandsMap.values()),
-        models: Array.from(modelsMap.values())
+        brands: Array.from(brandsMap.values()).sort((a, b) => a.name.localeCompare(b.name)),
+        models: Array.from(modelsMap.values()).sort((a, b) => a.name.localeCompare(b.name))
       });
 
     } catch (error) {
@@ -113,7 +113,7 @@ export default {
         }
       });
 
-      return ctx.send(Array.from(brandsMap.values()));
+      return ctx.send(Array.from(brandsMap.values()).sort((a, b) => a.name.localeCompare(b.name)));
 
     } catch (error) {
       console.error('Error fetching lights brands by category:', error);
@@ -170,7 +170,7 @@ export default {
         }
       });
 
-      return ctx.send(Array.from(modelsMap.values()));
+      return ctx.send(Array.from(modelsMap.values()).sort((a, b) => a.name.localeCompare(b.name)));
 
     } catch (error) {
       console.error('Error fetching lights models by category and brand:', error);
