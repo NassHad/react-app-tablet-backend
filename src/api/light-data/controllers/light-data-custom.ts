@@ -61,7 +61,8 @@ export default factories.createCoreController('api::light-data.light-data', ({ s
         populate: {
           img: true,
           brandImg: true
-        }
+        },
+        sort: ['ref:asc']
       });
 
       return ctx.send({
@@ -85,7 +86,7 @@ export default factories.createCoreController('api::light-data.light-data', ({ s
         fields: ['brand']
       });
 
-      const uniqueBrands = [...new Set(lights.map((light: any) => light.brand))].filter(Boolean);
+      const uniqueBrands = [...new Set(lights.map((light: any) => light.brand))].filter(Boolean).sort();
 
       return ctx.send({
         data: uniqueBrands,

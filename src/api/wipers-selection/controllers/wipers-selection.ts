@@ -67,8 +67,8 @@ export default {
 
       return ctx.send({
         category: { id: categoryId, name: 'Wipers Category' },
-        brands: Array.from(brandsMap.values()),
-        models: Array.from(modelsMap.values())
+        brands: Array.from(brandsMap.values()).sort((a, b) => a.name.localeCompare(b.name)),
+        models: Array.from(modelsMap.values()).sort((a, b) => a.name.localeCompare(b.name))
       });
 
     } catch (error) {
@@ -112,7 +112,7 @@ export default {
         }
       });
 
-      return ctx.send(Array.from(brandsMap.values()));
+      return ctx.send(Array.from(brandsMap.values()).sort((a, b) => a.name.localeCompare(b.name)));
 
     } catch (error) {
       console.error('Error fetching wipers brands by category:', error);
@@ -169,7 +169,7 @@ export default {
         }
       });
 
-      return ctx.send(Array.from(modelsMap.values()));
+      return ctx.send(Array.from(modelsMap.values()).sort((a, b) => a.name.localeCompare(b.name)));
 
     } catch (error) {
       console.error('Error fetching wipers models by category and brand:', error);

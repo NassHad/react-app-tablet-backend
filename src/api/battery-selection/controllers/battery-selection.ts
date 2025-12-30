@@ -118,15 +118,23 @@ export default {
         }
       });
 
+      // Sort brands and models within each brand
+      const sortedBrands = filteredBrands.map((brand: any) => ({
+        id: brand.id,
+        name: brand.name,
+        slug: brand.slug,
+        isActive: brand.isActive
+      })).sort((a, b) => a.name.localeCompare(b.name));
+
+      const sortedModelsByBrand = Object.values(modelsByBrand).map((brandGroup: any) => ({
+        ...brandGroup,
+        models: brandGroup.models.sort((a: any, b: any) => a.name.localeCompare(b.name))
+      })).sort((a: any, b: any) => a.brand.name.localeCompare(b.brand.name));
+
       return ctx.send({
         category: (products[0] as any)?.category || null,
-        brands: filteredBrands.map((brand: any) => ({
-          id: brand.id,
-          name: brand.name,
-          slug: brand.slug,
-          isActive: brand.isActive
-        })),
-        modelsByBrand: Object.values(modelsByBrand),
+        brands: sortedBrands,
+        modelsByBrand: sortedModelsByBrand,
         totalProducts: products.length,
         totalCompatibilities: compatibilities.length
       });
@@ -199,7 +207,7 @@ export default {
         name: brand.name,
         slug: brand.slug,
         isActive: brand.isActive
-      })));
+      })).sort((a, b) => a.name.localeCompare(b.name)));
 
     } catch (error) {
       console.error('Error fetching brands by category:', error);

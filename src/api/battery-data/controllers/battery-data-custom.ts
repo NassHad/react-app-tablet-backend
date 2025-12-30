@@ -62,7 +62,8 @@ export default factories.createCoreController('api::battery-data.battery-data', 
         populate: {
           img: true,
           brandImg: true
-        }
+        },
+        sort: ['ref:asc']
       });
 
       return ctx.send({
@@ -86,7 +87,7 @@ export default factories.createCoreController('api::battery-data.battery-data', 
         }
       });
 
-      const uniqueBrands = [...new Set(allBatteryData.map(item => item.brand))];
+      const uniqueBrands = [...new Set(allBatteryData.map(item => item.brand))].sort();
       
       return ctx.send({
         data: uniqueBrands,
