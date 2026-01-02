@@ -27,10 +27,18 @@
     "isActive": {
       "type": "boolean"
     },
+<<<<<<< HEAD
     "vehicle_type": {
       "type": "enumeration",
       "enum": ["car", "moto"],
       "default": "car"
+=======
+    "battery_products": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::battery-product.battery-product",
+      "mappedBy": "model"
+>>>>>>> ff09a01 (feat: unknown)
     }
   }
 }

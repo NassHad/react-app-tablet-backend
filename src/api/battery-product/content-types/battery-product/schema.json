@@ -21,7 +21,7 @@
       "targetField": "name",
       "required": true
     },
-    "brand": {
+    "brandName": {
       "type": "string",
       "required": true
     },
@@ -61,6 +61,18 @@
         "videos",
         "audios"
       ]
+    },
+    "brand": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::brand.brand",
+      "inversedBy": "battery_products"
+    },
+    "model": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::model.model",
+      "inversedBy": "battery_products"
     }
   }
 }
