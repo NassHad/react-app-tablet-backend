@@ -26,6 +26,11 @@
     },
     "isActive": {
       "type": "boolean"
+    },
+    "vehicle_type": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::vehicle-type.vehicle-type"
     }
   }
 }

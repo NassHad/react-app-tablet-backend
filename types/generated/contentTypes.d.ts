@@ -606,6 +606,10 @@ export interface ApiBrandBrand extends Struct.CollectionTypeSchema {
     updatedAt: Schema.Attribute.DateTime;
     updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
+    vehicle_type: Schema.Attribute.Relation<
+      'oneToOne',
+      'api::vehicle-type.vehicle-type'
+    >;
   };
 }
 
@@ -940,6 +944,10 @@ export interface ApiModelModel extends Struct.CollectionTypeSchema {
     updatedAt: Schema.Attribute.DateTime;
     updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
+    vehicle_type: Schema.Attribute.Relation<
+      'manyToOne',
+      'api::vehicle-type.vehicle-type'
+    >;
   };
 }
 

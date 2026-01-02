@@ -25,6 +25,11 @@
       "relation": "oneToMany",
       "target": "api::model.model",
       "mappedBy": "brand"
+    },
+    "vehicle_type": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::vehicle-type.vehicle-type"
     }
   }
 }

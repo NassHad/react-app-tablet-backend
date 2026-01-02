@@ -52,17 +52,44 @@ function makeRequest(endpoint, method = 'GET', data = null) {
   });
 }
 
+async function getVehicleTypeIds() {
+  console.log('📋 Fetching vehicle types...');
+
+  const response = await makeRequest('/vehicle-types?pagination[limit]=100');
+
+  // Handle both response formats: direct array or wrapped in data property
+  const vehicleTypesArray = Array.isArray(response) ? response : (response.data || []);
+
+  const vehicleTypeMap = new Map();
+  for (const vt of vehicleTypesArray) {
+    vehicleTypeMap.set(vt.slug, vt.id);
+  }
+
+  const carId = vehicleTypeMap.get('car') || vehicleTypeMap.get('voiture');
+
+  if (!carId) {
+    throw new Error('Vehicle type "car" not found in database');
+  }
+
+  console.log(`✅ Vehicle Type ID for car: ${carId}\n`);
+
+  return { carId };
+}
+
 async function importModelsWithRelationships() {
   try {
     console.log('🚀 Importing models with brand relationships...');
-    
-    // Step 1: Read models data
+
+    // Step 1: Get vehicle type IDs
+    const vehicleTypeIds = await getVehicleTypeIds();
+
+    // Step 2: Read models data
     const modelsPath = path.join(process.cwd(), "scripts", "json_data", "cleaned_models.json");
     if (!fs.existsSync(modelsPath)) {
       console.error(`❌ Models file not found: ${modelsPath}`);
       return;
     }
-    
+
     const modelsData = JSON.parse(fs.readFileSync(modelsPath, 'utf8'));
     console.log(`📊 Found ${modelsData.length} models to import`);
     
@@ -127,13 +154,18 @@ async function importModelsWithRelationships() {
             continue;
           }
           
-          // Create model with manyToOne relationship
+          // Create model with Strapi v5 relation syntax
           const data = {
             data: {
               slug: item.modelSlug,
               name: item.name,
-              brand: brandId, // This should work with manyToOne
-              isActive: true
+              brand: {
+                connect: [brandId]
+              },
+              isActive: true,
+              vehicle_type: {
+                connect: [vehicleTypeIds.carId]
+              }
             }
           };
           

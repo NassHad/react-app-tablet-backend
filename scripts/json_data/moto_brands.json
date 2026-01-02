@@ -1,0 +1,205 @@
+[
+  {
+    "id": 71,
+    "name": "APRILIA",
+    "slug": "aprilia",
+    "isActive": true,
+    "vehicleType": "moto"
+  },
+  {
+    "id": 72,
+    "name": "BENELLI",
+    "slug": "benelli",
+    "isActive": true,
+    "vehicleType": "moto"
+  },
+  {
+    "id": 73,
+    "name": "BMW",
+    "slug": "bmw",
+    "isActive": true,
+    "vehicleType": "car-moto"
+  },
+  {
+    "id": 74,
+    "name": "BUELL",
+    "slug": "buell",
+    "isActive": true,
+    "vehicleType": "moto"
+  },
+  {
+    "id": 75,
+    "name": "CAGIVA",
+    "slug": "cagiva",
+    "isActive": true,
+    "vehicleType": "moto"
+  },
+  {
+    "id": 76,
+    "name": "DAELIM",
+    "slug": "daelim",
+    "isActive": true,
+    "vehicleType": "moto"
+  },
+  {
+    "id": 77,
+    "name": "DERBI",
+    "slug": "derbi",
+    "isActive": true,
+    "vehicleType": "moto"
+  },
+  {
+    "id": 78,
+    "name": "DUCATI",
+    "slug": "ducati",
+    "isActive": true,
+    "vehicleType": "moto"
+  },
+  {
+    "id": 79,
+    "name": "GAS GAS",
+    "slug": "gas-gas",
+    "isActive": true,
+    "vehicleType": "moto"
+  },
+  {
+    "id": 80,
+    "name": "GILERA",
+    "slug": "gilera",
+    "isActive": true,
+    "vehicleType": "moto"
+  },
+  {
+    "id": 81,
+    "name": "HARLEY DAVIDSON",
+    "slug": "harley-davidson",
+    "isActive": true,
+    "vehicleType": "moto"
+  },
+  {
+    "id": 82,
+    "name": "HONDA",
+    "slug": "honda",
+    "isActive": true,
+    "vehicleType": "car-moto"
+  },
+  {
+    "id": 83,
+    "name": "HUSABERG",
+    "slug": "husaberg",
+    "isActive": true,
+    "vehicleType": "moto"
+  },
+  {
+    "id": 84,
+    "name": "HUSQVARNA",
+    "slug": "husqvarna",
+    "isActive": true,
+    "vehicleType": "moto"
+  },
+  {
+    "id": 85,
+    "name": "INDIAN",
+    "slug": "indian",
+    "isActive": true,
+    "vehicleType": "moto"
+  },
+  {
+    "id": 86,
+    "name": "KAWASAKI",
+    "slug": "kawasaki",
+    "isActive": true,
+    "vehicleType": "moto"
+  },
+  {
+    "id": 87,
+    "name": "KTM",
+    "slug": "ktm",
+    "isActive": true,
+    "vehicleType": "moto"
+  },
+  {
+    "id": 88,
+    "name": "KYMCO",
+    "slug": "kymco",
+    "isActive": true,
+    "vehicleType": "moto"
+  },
+  {
+    "id": 89,
+    "name": "MALAGUTI",
+    "slug": "malaguti",
+    "isActive": true,
+    "vehicleType": "moto"
+  },
+  {
+    "id": 90,
+    "name": "MOTO GUZZI",
+    "slug": "moto-guzzi",
+    "isActive": true,
+    "vehicleType": "moto"
+  },
+  {
+    "id": 91,
+    "name": "MV AGUSTA",
+    "slug": "mv-agusta",
+    "isActive": true,
+    "vehicleType": "moto"
+  },
+  {
+    "id": 92,
+    "name": "PEUGEOT",
+    "slug": "peugeot",
+    "isActive": true,
+    "vehicleType": "car-moto"
+  },
+  {
+    "id": 93,
+    "name": "PGO",
+    "slug": "pgo",
+    "isActive": true,
+    "vehicleType": "moto"
+  },
+  {
+    "id": 94,
+    "name": "REX",
+    "slug": "rex",
+    "isActive": true,
+    "vehicleType": "moto"
+  },
+  {
+    "id": 95,
+    "name": "SACHS",
+    "slug": "sachs",
+    "isActive": true,
+    "vehicleType": "moto"
+  },
+  {
+    "id": 96,
+    "name": "SUZUKI",
+    "slug": "suzuki",
+    "isActive": true,
+    "vehicleType": "car-moto"
+  },
+  {
+    "id": 97,
+    "name": "TRIUMPH",
+    "slug": "triumph",
+    "isActive": true,
+    "vehicleType": "moto"
+  },
+  {
+    "id": 98,
+    "name": "YAMAHA",
+    "slug": "yamaha",
+    "isActive": true,
+    "vehicleType": "moto"
+  },
+  {
+    "id": 99,
+    "name": "ZERO",
+    "slug": "zero",
+    "isActive": true,
+    "vehicleType": "moto"
+  }
+]
