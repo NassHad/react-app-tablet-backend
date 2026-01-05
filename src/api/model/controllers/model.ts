@@ -10,11 +10,11 @@ export default factories.createCoreController('api::model.model', ({ strapi }) =
     if (!ctx.query.sort) {
       ctx.query.sort = ['name:asc'];
     }
+
     // Call the default find method
     const { query } = ctx;
-    const entities = await strapi.entityService.findMany('api::model.model', {
-      ...query,
-    });
+    const entities = await strapi.entityService.findMany('api::model.model', query);
+
     return entities;
   }
 }));

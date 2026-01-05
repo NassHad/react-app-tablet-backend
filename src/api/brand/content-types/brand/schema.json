@@ -27,9 +27,9 @@
       "mappedBy": "brand"
     },
     "vehicle_type": {
-      "type": "relation",
-      "relation": "oneToOne",
-      "target": "api::vehicle-type.vehicle-type"
+      "type": "enumeration",
+      "enum": ["car", "moto", "car-moto"],
+      "default": "car"
     }
   }
 }
