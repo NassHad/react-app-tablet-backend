@@ -1,0 +1,78 @@
+{
+  "brandInfo": {
+    "id": 620,
+    "documentId": "cikn90cmagpeywoym7zgkncj",
+    "name": "FORD USA",
+    "slug": "ford-usa",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 8,
+  "exportDate": "2026-01-06T19:34:16.847Z",
+  "models": [
+    {
+      "id": 31282,
+      "documentId": "zmagmsngnga2mwajkh4pbft7",
+      "name": "EDGE",
+      "slug": "edge",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31477,
+      "documentId": "oq93btfmh99hzw03cfh8inv5",
+      "name": "EXPLORER",
+      "slug": "explorer",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31551,
+      "documentId": "r7hi5yf9hznwotgs8f0pccjg",
+      "name": "F-150",
+      "slug": "f-150",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33744,
+      "documentId": "pkl4jyvol6ceg9sshvl718w7",
+      "name": "MUSTANG Convertible",
+      "slug": "mustang-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33745,
+      "documentId": "jm5jxdhvbmz7er3vo8b06wti",
+      "name": "MUSTANG Coupe",
+      "slug": "mustang-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33746,
+      "documentId": "ahjaktl4r7hlwg0lvqjxario",
+      "name": "MUSTANG MACH-E",
+      "slug": "mustang-mach-e",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34416,
+      "documentId": "c4zmlox3m5bjecqg4lmcywlw",
+      "name": "PROBE II",
+      "slug": "probe-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36737,
+      "documentId": "k9hr56j0zy2f8xf0d993yt7d",
+      "name": "WINDSTAR",
+      "slug": "windstar",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

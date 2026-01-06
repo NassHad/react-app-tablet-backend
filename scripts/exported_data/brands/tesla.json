@@ -1,0 +1,13 @@
+{
+  "brandInfo": {
+    "id": 770,
+    "documentId": "e7am77dqlmm2npjxzw81gjol",
+    "name": "TESLA",
+    "slug": "tesla",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 0,
+  "exportDate": "2026-01-06T19:34:17.024Z",
+  "models": []
+}

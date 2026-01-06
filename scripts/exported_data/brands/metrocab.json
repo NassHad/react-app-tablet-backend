@@ -1,0 +1,13 @@
+{
+  "brandInfo": {
+    "id": 699,
+    "documentId": "qch8sap9qwbk0qbvsbk8vr5k",
+    "name": "METROCAB",
+    "slug": "metrocab",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 0,
+  "exportDate": "2026-01-06T19:34:16.924Z",
+  "models": []
+}

@@ -1,0 +1,246 @@
+{
+  "brandInfo": {
+    "id": 671,
+    "documentId": "frozt9vgx6thpi6bwzmv6jpr",
+    "name": "LAND ROVER",
+    "slug": "land-rover",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 29,
+  "exportDate": "2026-01-06T19:34:16.894Z",
+  "models": [
+    {
+      "id": 30865,
+      "documentId": "bl7sds7e194mv2swxojy8fhl",
+      "name": "Convertible\"",
+      "slug": "convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30969,
+      "documentId": "abi4jtho10q2ozmk7se17b4u",
+      "name": "DEFENDER Cabrio",
+      "slug": "defender-cabrio",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30970,
+      "documentId": "c5rf07pjz36aw46j3flnrt94",
+      "name": "DEFENDER Pick Up",
+      "slug": "defender-pick-up",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30971,
+      "documentId": "bf4hozzd0j6qxnx07qn9esl7",
+      "name": "DEFENDER Platform/ Chassis",
+      "slug": "defender-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30972,
+      "documentId": "uovlbzlc99jd3ogdjk6k6c3u",
+      "name": "DEFENDER Station Wagon",
+      "slug": "defender-station-wagon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31004,
+      "documentId": "avsg2ltlm89zric9xr69ajp7",
+      "name": "DISCOVERY I",
+      "slug": "discovery-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31005,
+      "documentId": "l5zi43vr4vk3m9c8mhny2gjf",
+      "name": "DISCOVERY II",
+      "slug": "discovery-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31006,
+      "documentId": "gxnct6q83g9dbmdtqhgwprsw",
+      "name": "DISCOVERY III",
+      "slug": "discovery-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31008,
+      "documentId": "l2mivjm6beruf5p7cmej6ct3",
+      "name": "DISCOVERY IV",
+      "slug": "discovery-iv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31009,
+      "documentId": "bukhxdzis7u668jpf80on2od",
+      "name": "DISCOVERY IV VAN",
+      "slug": "discovery-iv-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31010,
+      "documentId": "ticxzt70fawqlso1o3llsq03",
+      "name": "DISCOVERY SPORT",
+      "slug": "discovery-sport",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31012,
+      "documentId": "ndkl93dgrthw82ycn9cihevz",
+      "name": "DISCOVERY V",
+      "slug": "discovery-v",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31176,
+      "documentId": "cjdomvakltklglv8hu139jr7",
+      "name": "Defender 90 / 110",
+      "slug": "defender-90--110",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31177,
+      "documentId": "pvfneg5jzy3tipzkwsxb2e6v",
+      "name": "Defender 90 / 110 / 130",
+      "slug": "defender-90--110--130",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31197,
+      "documentId": "ohzlgak07whg4vtqo75hd1uv",
+      "name": "Discovery",
+      "slug": "discovery",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31198,
+      "documentId": "jnwmqv06v8jv78nt9443zsp0",
+      "name": "Discovery / SV",
+      "slug": "discovery--sv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31866,
+      "documentId": "p29hos7dsa0voky1xfdd0z4r",
+      "name": "FREELANDER",
+      "slug": "freelander",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31867,
+      "documentId": "le0rtd3fxhmm1s0mk08sclw4",
+      "name": "FREELANDER 2",
+      "slug": "freelander-2",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31869,
+      "documentId": "lp1tnb8tl9tdw64pp3ajai5b",
+      "name": "FREELANDER I",
+      "slug": "freelander-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31870,
+      "documentId": "afw7sc9ju92a12ndoptirfxb",
+      "name": "FREELANDER I Soft Top",
+      "slug": "freelander-i-soft-top",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34644,
+      "documentId": "rb84s8qj651g4anhvdgaoqal",
+      "name": "RANGE ROVER EVOQUE",
+      "slug": "range-rover-evoque",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34648,
+      "documentId": "fk4x5y7earnt0ech252l9llz",
+      "name": "RANGE ROVER I",
+      "slug": "range-rover-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34649,
+      "documentId": "u9e7zlj8cgrc952nczggykxx",
+      "name": "RANGE ROVER II",
+      "slug": "range-rover-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34650,
+      "documentId": "u33mkewsx1lxebltkdgaz2qi",
+      "name": "RANGE ROVER III",
+      "slug": "range-rover-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34651,
+      "documentId": "no1gxf09qshsoinwlpet7hct",
+      "name": "RANGE ROVER IV",
+      "slug": "range-rover-iv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34652,
+      "documentId": "vnwgxw6t806je12xb8x1vim8",
+      "name": "RANGE ROVER SPORT",
+      "slug": "range-rover-sport",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34653,
+      "documentId": "lydw55dtrxgzj5srn65t5rku",
+      "name": "RANGE ROVER SPORT I",
+      "slug": "range-rover-sport-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34656,
+      "documentId": "z0gbxlwil6q8umdopmk1r7mp",
+      "name": "RANGE ROVER VELAR",
+      "slug": "range-rover-velar",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34878,
+      "documentId": "v47floreoq6r82wes6be7nvn",
+      "name": "Range Rover",
+      "slug": "range-rover",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

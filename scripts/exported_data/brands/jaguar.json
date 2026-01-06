@@ -1,0 +1,206 @@
+{
+  "brandInfo": {
+    "id": 660,
+    "documentId": "vzq41vgn7ejxdcmodabrtu1i",
+    "name": "JAGUAR",
+    "slug": "jaguar",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 24,
+  "exportDate": "2026-01-06T19:34:16.877Z",
+  "models": [
+    {
+      "id": 31242,
+      "documentId": "tf8iu9txxvutab8rzswk2s91",
+      "name": "E-PACE",
+      "slug": "e-pace",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31555,
+      "documentId": "tln7xn5x3iim68zbpu92afhj",
+      "name": "F-PACE",
+      "slug": "f-pace",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31556,
+      "documentId": "fwrjrusrsm5o3d61tb11xcpb",
+      "name": "F-TYPE Convertible",
+      "slug": "f-type-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31557,
+      "documentId": "n8t3qx0wzt3dtmnevh57ewff",
+      "name": "F-TYPE Coupe",
+      "slug": "f-type-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31558,
+      "documentId": "r0zxoxzi2u7ofud75zd6kzus",
+      "name": "F-Type",
+      "slug": "f-type",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32610,
+      "documentId": "f731l5zox6q0tr5ansqzbdkz",
+      "name": "I-PACE",
+      "slug": "i-pace",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34953,
+      "documentId": "sszco8otx9m2bdaf4payd1ow",
+      "name": "S-TYPE II",
+      "slug": "s-type-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35670,
+      "documentId": "n5fs2uepvxitdbm2d2639xby",
+      "name": "Sovereign",
+      "slug": "sovereign",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36804,
+      "documentId": "vkid9942vp25xt7mia6uj899",
+      "name": "X-TYPE I",
+      "slug": "x-type-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36805,
+      "documentId": "ivcp40ucoxhsw111b3ega7ja",
+      "name": "X-TYPE I Estate",
+      "slug": "x-type-i-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36807,
+      "documentId": "auc6r8hscgjfgep5ged7p324",
+      "name": "X-Type",
+      "slug": "x-type",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36872,
+      "documentId": "xc1625sxmedj5bv0yrhybgxj",
+      "name": "XE",
+      "slug": "xe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36873,
+      "documentId": "ee5cnxd8f0964ckdbs8u67so",
+      "name": "XE / XE",
+      "slug": "xe--xe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36879,
+      "documentId": "nwdeb3o6wptrn90pt78i2cwa",
+      "name": "XF / XF",
+      "slug": "xf--xf",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36883,
+      "documentId": "lz1706tolgwxob2ldwojv2py",
+      "name": "XF I",
+      "slug": "xf-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36884,
+      "documentId": "cmoegnkwz23irxh19y9duyys",
+      "name": "XF II",
+      "slug": "xf-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36887,
+      "documentId": "ulmouo21ip79q4ut8ka834uh",
+      "name": "XF SPORTBRAKE",
+      "slug": "xf-sportbrake",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36892,
+      "documentId": "kbur4tk1zt1nrj2lrzpwyeyv",
+      "name": "XJ",
+      "slug": "xj",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36910,
+      "documentId": "fl4eh9vm498k8cl8wobtlq1k",
+      "name": "XJ6 / XJ8 / XJR",
+      "slug": "xj6--xj8--xjr",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36924,
+      "documentId": "wklyr4k2osiisg0pfzhc8l5i",
+      "name": "XK",
+      "slug": "xk",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36925,
+      "documentId": "avr0l9d8rztz3s5xqt6oeypc",
+      "name": "XK 8 Convertible",
+      "slug": "xk-8-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36926,
+      "documentId": "w0mipvshsdz7yjg19esx7fb9",
+      "name": "XK 8 Coupe",
+      "slug": "xk-8-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36927,
+      "documentId": "j9jbnses7yvjmk33x2770vr0",
+      "name": "XK II Convertible",
+      "slug": "xk-ii-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36928,
+      "documentId": "cap16fwppqw0b32xwg5kgjwo",
+      "name": "XK II Coupe",
+      "slug": "xk-ii-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

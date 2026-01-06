@@ -1,0 +1,2355 @@
+{
+  "exportDate": "2026-01-06T19:34:16.763Z",
+  "totalBrands": 261,
+  "brands": [
+    {
+      "id": 539,
+      "documentId": "p4dsx03xsdu1r08rww14znyk",
+      "name": "ABARTH",
+      "slug": "abarth",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 4
+    },
+    {
+      "id": 540,
+      "documentId": "ag9uz6ak3z29t8p9vhnccl9o",
+      "name": "AC",
+      "slug": "ac",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 541,
+      "documentId": "lvqyqc8l7d16gdmz53jd6q2a",
+      "name": "ACURA",
+      "slug": "acura",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 542,
+      "documentId": "xkop4nbqwr5sgmvh1jgsz73q",
+      "name": "AIWAYS",
+      "slug": "aiways",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 543,
+      "documentId": "xluh2qr1qmmh4na8rdqyykso",
+      "name": "AIXAM",
+      "slug": "aixam",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 544,
+      "documentId": "k05o27y6hj93z9wu4huxdzpr",
+      "name": "ALFA ROMEO",
+      "slug": "alfa-romeo",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 28
+    },
+    {
+      "id": 545,
+      "documentId": "jyswk18jimycvzglosdakrcy",
+      "name": "ALPINA",
+      "slug": "alpina",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 38
+    },
+    {
+      "id": 546,
+      "documentId": "fpifkph7ymu61gs9otwyhgsh",
+      "name": "ALPINE",
+      "slug": "alpine",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 1
+    },
+    {
+      "id": 547,
+      "documentId": "ddsrm6uyvofu3tjqcso17ru3",
+      "name": "ANADOL",
+      "slug": "anadol",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 548,
+      "documentId": "oirh7el3qwvr3g6ijmgdk8ii",
+      "name": "APOLLO",
+      "slug": "apollo",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 549,
+      "documentId": "b2a150z86xh6fksdai08ux0h",
+      "name": "APRILIA",
+      "slug": "aprilia",
+      "vehicle_type": "moto",
+      "isActive": true,
+      "modelCount": 182
+    },
+    {
+      "id": 550,
+      "documentId": "fueso1z6r6iju6buo9evovuh",
+      "name": "ARO",
+      "slug": "aro",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 551,
+      "documentId": "oq7scmn443yqsrrfx0qz3b6c",
+      "name": "ARTEGA",
+      "slug": "artega",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 552,
+      "documentId": "yf7v55py9c6bjuvzdps4k47u",
+      "name": "ASIA MOTORS",
+      "slug": "asia-motors",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 553,
+      "documentId": "zy5qhpn01hnwf5yw23yr2mug",
+      "name": "ASTON MARTIN",
+      "slug": "aston-martin",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 554,
+      "documentId": "q4hqy364uhrcj3risivcm84m",
+      "name": "AUDI",
+      "slug": "audi",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 91
+    },
+    {
+      "id": 555,
+      "documentId": "omtqcubb0ml2ydy1darudbse",
+      "name": "AUSTIN",
+      "slug": "austin",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 556,
+      "documentId": "qancaazcqk78gfjx00pae6by",
+      "name": "AUSTIN-HEALEY",
+      "slug": "austin-healey",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 557,
+      "documentId": "x32sj0431od4i2j9u99e997w",
+      "name": "AUTO UNION",
+      "slug": "auto-union",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 558,
+      "documentId": "nkeztcqcq663xhwv066z2a7x",
+      "name": "AUTOBIANCHI",
+      "slug": "autobianchi",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 559,
+      "documentId": "ckzl8bea9l495n8bbttz9ee0",
+      "name": "AUVERLAND",
+      "slug": "auverland",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 560,
+      "documentId": "gv32n5snhwn0lcu4ossscvml",
+      "name": "AVIA",
+      "slug": "avia",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 561,
+      "documentId": "pi96vylsb2gul3kymwfqod53",
+      "name": "BAIC",
+      "slug": "baic",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 562,
+      "documentId": "re6g9s8tk8p3eae8ywv0s9yt",
+      "name": "BARKAS",
+      "slug": "barkas",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 563,
+      "documentId": "o22db4hvpn9vggryy4k1tf54",
+      "name": "BEDFORD",
+      "slug": "bedford",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 564,
+      "documentId": "wxx0de4bt19s6xz62u739e9w",
+      "name": "BENELLI",
+      "slug": "benelli",
+      "vehicle_type": "moto",
+      "isActive": true,
+      "modelCount": 15
+    },
+    {
+      "id": 565,
+      "documentId": "xezyi1yclh7a75e4ghi5v13y",
+      "name": "BENTLEY",
+      "slug": "bentley",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 566,
+      "documentId": "ycs7jn6c6vtff2nnr0cr00v7",
+      "name": "BERTONE",
+      "slug": "bertone",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 567,
+      "documentId": "i0rtwp5lj75hqipken0vo05s",
+      "name": "BESTURN (FAW)",
+      "slug": "besturn-faw",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 568,
+      "documentId": "yownsaa04je2tojeo01lc9pw",
+      "name": "BITTER",
+      "slug": "bitter",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 569,
+      "documentId": "i64vy50p7sf3ug0s1ylk7v3u",
+      "name": "BMW",
+      "slug": "bmw",
+      "vehicle_type": "car-moto",
+      "isActive": true,
+      "modelCount": 100
+    },
+    {
+      "id": 570,
+      "documentId": "weim4w1yktxlcna4kxlz1fum",
+      "name": "BMW (BRILLIANCE)",
+      "slug": "bmw-brilliance",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 571,
+      "documentId": "m5jb4v0ark0h1wnxp75tt36s",
+      "name": "BOGDAN",
+      "slug": "bogdan",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 572,
+      "documentId": "rwqblacatgwt87gyxzd2ds93",
+      "name": "BOND",
+      "slug": "bond",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 573,
+      "documentId": "sgbepat8p80hwerte1u0w2bb",
+      "name": "BRILLIANCE",
+      "slug": "brilliance",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 574,
+      "documentId": "lnuq7zkiz8uryh14b8l1y7eg",
+      "name": "BRISTOL",
+      "slug": "bristol",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 575,
+      "documentId": "maroq7s3qembppxrkk0ew9dt",
+      "name": "BUELL",
+      "slug": "buell",
+      "vehicle_type": "moto",
+      "isActive": true,
+      "modelCount": 1
+    },
+    {
+      "id": 576,
+      "documentId": "eu9vls5vxtt9x3957ns5uv77",
+      "name": "BUGATTI",
+      "slug": "bugatti",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 577,
+      "documentId": "zlt9g9zmejo4lfgsb819zliq",
+      "name": "BUICK",
+      "slug": "buick",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 578,
+      "documentId": "kxnt3kziqdbexc9yoyi6xn4g",
+      "name": "BYD",
+      "slug": "byd",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 579,
+      "documentId": "o08z3m92qladwghai9do6f69",
+      "name": "CADILLAC",
+      "slug": "cadillac",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 10
+    },
+    {
+      "id": 580,
+      "documentId": "jhx36iklr2abrbrgy87t3uqe",
+      "name": "CAGIVA",
+      "slug": "cagiva",
+      "vehicle_type": "moto",
+      "isActive": true,
+      "modelCount": 31
+    },
+    {
+      "id": 581,
+      "documentId": "p8cwdg48nhyx4pnsgs5so11f",
+      "name": "CARBODIES",
+      "slug": "carbodies",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 582,
+      "documentId": "qi9oli5168c7x0kxc06nvhv6",
+      "name": "CATERHAM",
+      "slug": "caterham",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 583,
+      "documentId": "xezuxtjnmhbxye8w1lozn6v5",
+      "name": "CENNTRO",
+      "slug": "cenntro",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 584,
+      "documentId": "dw7dqhjt7nkfoystujibmd58",
+      "name": "CHANGAN",
+      "slug": "changan",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 585,
+      "documentId": "zzovkeitcr5l4syxzbnqsj6c",
+      "name": "CHATENET",
+      "slug": "chatenet",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 586,
+      "documentId": "th0gw2qb162jq2itpnmpt4rq",
+      "name": "CHERY",
+      "slug": "chery",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 587,
+      "documentId": "um281r9lxfo5mcyt73w0fa9k",
+      "name": "CHEVROLET",
+      "slug": "chevrolet",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 35
+    },
+    {
+      "id": 588,
+      "documentId": "chc8f4xhbbxx9kcf8p0uv1wi",
+      "name": "CHEVROLET (SGM)",
+      "slug": "chevrolet-sgm",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 589,
+      "documentId": "jahnkhqo0a5yhszw8oee0hde",
+      "name": "CHRYSLER",
+      "slug": "chrysler",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 22
+    },
+    {
+      "id": 590,
+      "documentId": "tdhu9gs9lh15cl8coaw0keu9",
+      "name": "CITROEN",
+      "slug": "citroen",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 22,
+      "documentId": "vvd4mg1meakr4unkd1dtyuj2",
+      "name": "CITRO�N",
+      "slug": "citron",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 229
+    },
+    {
+      "id": 591,
+      "documentId": "hyton916wt34957k5udma7lz",
+      "name": "CUPRA",
+      "slug": "cupra",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 2
+    },
+    {
+      "id": 592,
+      "documentId": "kdir33esx5pxldrpu42d80ld",
+      "name": "DACIA",
+      "slug": "dacia",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 20
+    },
+    {
+      "id": 593,
+      "documentId": "pszsvm8ncsgemum2ir8g06gv",
+      "name": "DAELIM",
+      "slug": "daelim",
+      "vehicle_type": "moto",
+      "isActive": true,
+      "modelCount": 5
+    },
+    {
+      "id": 594,
+      "documentId": "q8ptq05jzg3mjy3d0xyqyz9a",
+      "name": "DAEWOO",
+      "slug": "daewoo",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 19
+    },
+    {
+      "id": 595,
+      "documentId": "i3m7uf55mzs9rkc09qhhmt3q",
+      "name": "DAF",
+      "slug": "daf",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 596,
+      "documentId": "yiuvg83vchikiq9l4co54768",
+      "name": "DAIHATSU",
+      "slug": "daihatsu",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 32
+    },
+    {
+      "id": 597,
+      "documentId": "l8zn5g24c9h9ltzqj9j7to9w",
+      "name": "DAIMLER",
+      "slug": "daimler",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 163
+    },
+    {
+      "id": 598,
+      "documentId": "vqo7wndanxn6kcn9rctwgsrx",
+      "name": "DALLAS",
+      "slug": "dallas",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 599,
+      "documentId": "zhe6ktnx1h9sfhihzhtqtogj",
+      "name": "DATSUN",
+      "slug": "datsun",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 600,
+      "documentId": "idpu381068iuvu16s1b6ef40",
+      "name": "DE LOREAN",
+      "slug": "de-lorean",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 601,
+      "documentId": "rywhsa78suffg2w4jjwkq446",
+      "name": "DE TOMASO",
+      "slug": "de-tomaso",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 602,
+      "documentId": "gm12fy9ihep9k1ffkuael3ot",
+      "name": "DERBI",
+      "slug": "derbi",
+      "vehicle_type": "moto",
+      "isActive": true,
+      "modelCount": 11
+    },
+    {
+      "id": 603,
+      "documentId": "e21i2ybz15p359xclep5ty45",
+      "name": "DFSK",
+      "slug": "dfsk",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 604,
+      "documentId": "g0s2moz9zyleltfy8pywyjfj",
+      "name": "DODGE",
+      "slug": "dodge",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 605,
+      "documentId": "e8cmp9gntaxtm1cthbksxii9",
+      "name": "DODGE USA",
+      "slug": "dodge-usa",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 606,
+      "documentId": "avz7q65chd9lnxt1xi9gobu1",
+      "name": "DONKERVOORT",
+      "slug": "donkervoort",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 607,
+      "documentId": "b7b7vih8460bae9fohe8kgc1",
+      "name": "DS",
+      "slug": "ds",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 5
+    },
+    {
+      "id": 608,
+      "documentId": "gjuzhu3ma608h51n4gsn54wl",
+      "name": "DS (CAPSA)",
+      "slug": "ds-capsa",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 609,
+      "documentId": "d2lp2ugl8vrl23flv06whigt",
+      "name": "DUCATI",
+      "slug": "ducati",
+      "vehicle_type": "moto",
+      "isActive": true,
+      "modelCount": 212
+    },
+    {
+      "id": 610,
+      "documentId": "qwpga3xgc6e93lnxn8hf9jps",
+      "name": "EFFEDI",
+      "slug": "effedi",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 611,
+      "documentId": "hp46lw2eemfn8jtk4wvgdell",
+      "name": "EMGRAND",
+      "slug": "emgrand",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 612,
+      "documentId": "z7wx12heic1pyn1x0nnih4pg",
+      "name": "EUNOS",
+      "slug": "eunos",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 613,
+      "documentId": "alr0gkx8b7qj97opqq7sphhq",
+      "name": "FERRARI",
+      "slug": "ferrari",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 614,
+      "documentId": "ydtponlx8plilaw0oet31xtc",
+      "name": "FIAT",
+      "slug": "fiat",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 39
+    },
+    {
+      "id": 615,
+      "documentId": "drlnpo1sjtx75w2hlo4h7i1z",
+      "name": "FISKER",
+      "slug": "fisker",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 616,
+      "documentId": "xa9raig30nxg3agvaiawa6eh",
+      "name": "FORD",
+      "slug": "ford",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 40
+    },
+    {
+      "id": 617,
+      "documentId": "zfqszfo8z55r9pc2xn6nkl5x",
+      "name": "FORD ASIA & OCEANIA",
+      "slug": "ford-asia-and-oceania",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 618,
+      "documentId": "mgd0xyeey20ukbr9kzqceoc9",
+      "name": "FORD AUSTRALIA",
+      "slug": "ford-australia",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 619,
+      "documentId": "ey0qpv543b4v4e0i39chd8hk",
+      "name": "FORD OTOSAN",
+      "slug": "ford-otosan",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 620,
+      "documentId": "cikn90cmagpeywoym7zgkncj",
+      "name": "FORD USA",
+      "slug": "ford-usa",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 8
+    },
+    {
+      "id": 621,
+      "documentId": "pq4qyqme0z5l4xi6dywjl504",
+      "name": "FREIGHTLINER",
+      "slug": "freightliner",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 622,
+      "documentId": "lbaft9ke0i28f0seily1bcfg",
+      "name": "FSO",
+      "slug": "fso",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 623,
+      "documentId": "rbfwa78ya9m2vsf48qy8c068",
+      "name": "GALLOPER",
+      "slug": "galloper",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 624,
+      "documentId": "wswo5mz1hg2pgowlp69smi0p",
+      "name": "GAS GAS",
+      "slug": "gas-gas",
+      "vehicle_type": "moto",
+      "isActive": true,
+      "modelCount": 10
+    },
+    {
+      "id": 625,
+      "documentId": "rd6r8bya4z1vbkx69lu31z1d",
+      "name": "GAZ",
+      "slug": "gaz",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 626,
+      "documentId": "rinvdq0hymzzbvqxh5c6hzsb",
+      "name": "GEELY",
+      "slug": "geely",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 627,
+      "documentId": "ouidldolgnd3el5od098ri5v",
+      "name": "GENESIS",
+      "slug": "genesis",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 628,
+      "documentId": "jja0bou7rbln3ockcqjhyxly",
+      "name": "GEO",
+      "slug": "geo",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 629,
+      "documentId": "h52rjm1at2gancxrzrmro7lf",
+      "name": "GILERA",
+      "slug": "gilera",
+      "vehicle_type": "moto",
+      "isActive": true,
+      "modelCount": 26
+    },
+    {
+      "id": 630,
+      "documentId": "w7uu6qhshy1rhodub8tc7f23",
+      "name": "GINETTA",
+      "slug": "ginetta",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 631,
+      "documentId": "nywbf6s0j0wzu3lze88cghr8",
+      "name": "GLAS",
+      "slug": "glas",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 632,
+      "documentId": "a4yrfles2qwgunwizent9ima",
+      "name": "GLEAGLE",
+      "slug": "gleagle",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 633,
+      "documentId": "qcx9gro67fxxpklykj78sr7r",
+      "name": "GMC",
+      "slug": "gmc",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 634,
+      "documentId": "ul6k47z8yqnl00cnzp1ccmen",
+      "name": "GME",
+      "slug": "gme",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 635,
+      "documentId": "rju9ch2in700h5b4fbbtno5h",
+      "name": "GREAT WALL",
+      "slug": "great-wall",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 636,
+      "documentId": "o3d2uadtd41bli3lb70jicbc",
+      "name": "GRECAV",
+      "slug": "grecav",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 637,
+      "documentId": "dnr41wq3xwlk091yz37wqgco",
+      "name": "HARLEY DAVIDSON",
+      "slug": "harley-davidson",
+      "vehicle_type": "moto",
+      "isActive": true,
+      "modelCount": 210
+    },
+    {
+      "id": 638,
+      "documentId": "gm6c6n81q7jh5hhevvqx4yje",
+      "name": "HAVAL",
+      "slug": "haval",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 639,
+      "documentId": "sqhl52ffkbpdiyb4ydgyo3d6",
+      "name": "HILLMAN",
+      "slug": "hillman",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 640,
+      "documentId": "dhiz1al0vybspvsw8j7xb7tg",
+      "name": "HINDUSTAN",
+      "slug": "hindustan",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 641,
+      "documentId": "o1uxt42siou5qvuuw3q95lhu",
+      "name": "HONDA",
+      "slug": "honda",
+      "vehicle_type": "car-moto",
+      "isActive": true,
+      "modelCount": 669
+    },
+    {
+      "id": 642,
+      "documentId": "p28mwo0f6yfh9jva8hbkrrpk",
+      "name": "HONDA (GAC)",
+      "slug": "honda-gac",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 643,
+      "documentId": "jis29d2cd060vfhne54zsbho",
+      "name": "HUANGHAI",
+      "slug": "huanghai",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 644,
+      "documentId": "o4vxy63w8fydqid1bmfhpayn",
+      "name": "HUMBER",
+      "slug": "humber",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 645,
+      "documentId": "tjkzaaeg9nnui50iqlnfrp1n",
+      "name": "HUMMER",
+      "slug": "hummer",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 646,
+      "documentId": "eglhinjkvw5zd82w0cwy18ws",
+      "name": "HUSABERG",
+      "slug": "husaberg",
+      "vehicle_type": "moto",
+      "isActive": true,
+      "modelCount": 8
+    },
+    {
+      "id": 647,
+      "documentId": "n5ux6mlmaza5g95eskawz2pu",
+      "name": "HUSQVARNA",
+      "slug": "husqvarna",
+      "vehicle_type": "moto",
+      "isActive": true,
+      "modelCount": 47
+    },
+    {
+      "id": 648,
+      "documentId": "ceiit5fea2ww70ifsj0136s7",
+      "name": "HYUNDAI",
+      "slug": "hyundai",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 98
+    },
+    {
+      "id": 649,
+      "documentId": "lz7zg4t0b0rhk0mvehaj86n3",
+      "name": "HYUNDAI (HUATAI)",
+      "slug": "hyundai-huatai",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 650,
+      "documentId": "q326ojqyi7y05541k81q4la5",
+      "name": "INDIAN",
+      "slug": "indian",
+      "vehicle_type": "moto",
+      "isActive": true,
+      "modelCount": 9
+    },
+    {
+      "id": 651,
+      "documentId": "b6spzxkwq2uqsssyeqkptb4k",
+      "name": "INEOS",
+      "slug": "ineos",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 652,
+      "documentId": "higsl6wgtkeyq5o0v8dc05vv",
+      "name": "INFINITI",
+      "slug": "infiniti",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 17
+    },
+    {
+      "id": 653,
+      "documentId": "xalan0pj5wif2f0aiyyi5jb7",
+      "name": "INNOCENTI",
+      "slug": "innocenti",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 654,
+      "documentId": "u24m1pu3it2ank6w2bi9x1rv",
+      "name": "IRAN KHODRO",
+      "slug": "iran-khodro",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 655,
+      "documentId": "xapyqsjlecs9x3xj6a34o58z",
+      "name": "IRMSCHER",
+      "slug": "irmscher",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 656,
+      "documentId": "s0su7nco9un1riywxv5vzpsa",
+      "name": "ISUZU",
+      "slug": "isuzu",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 16
+    },
+    {
+      "id": 657,
+      "documentId": "udwqacua5962ppx1y0avqjqx",
+      "name": "IVECO",
+      "slug": "iveco",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 22
+    },
+    {
+      "id": 658,
+      "documentId": "nm453m7m2ss56qova149pnjt",
+      "name": "IZH",
+      "slug": "izh",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 659,
+      "documentId": "p6i2t34svi4semhhwy7eejy6",
+      "name": "JAC",
+      "slug": "jac",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 660,
+      "documentId": "vzq41vgn7ejxdcmodabrtu1i",
+      "name": "JAGUAR",
+      "slug": "jaguar",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 24
+    },
+    {
+      "id": 661,
+      "documentId": "v6bw4j3un231lgtf1rqk8019",
+      "name": "JEEP",
+      "slug": "jeep",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 20
+    },
+    {
+      "id": 662,
+      "documentId": "syrct90bwmmy0vulzqyd3tp6",
+      "name": "JENSEN",
+      "slug": "jensen",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 663,
+      "documentId": "nggaaklr6xd2179r2l8rqxd5",
+      "name": "KAWASAKI",
+      "slug": "kawasaki",
+      "vehicle_type": "moto",
+      "isActive": true,
+      "modelCount": 195
+    },
+    {
+      "id": 664,
+      "documentId": "ux4yrwtz1sg1m98rsatnn5ew",
+      "name": "KG MOBILITY",
+      "slug": "kg-mobility",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 665,
+      "documentId": "x35qydzjaq9iiailxzt6fn95",
+      "name": "KIA",
+      "slug": "kia",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 101
+    },
+    {
+      "id": 666,
+      "documentId": "pgrgozbnm8ry7kmxyv7mdr20",
+      "name": "KTM",
+      "slug": "ktm",
+      "vehicle_type": "moto",
+      "isActive": true,
+      "modelCount": 176
+    },
+    {
+      "id": 667,
+      "documentId": "fr73pg1y4porm8bimut2t6l7",
+      "name": "KYMCO",
+      "slug": "kymco",
+      "vehicle_type": "moto",
+      "isActive": true,
+      "modelCount": 97
+    },
+    {
+      "id": 668,
+      "documentId": "map869x9jq7w48xugclhcq80",
+      "name": "LADA",
+      "slug": "lada",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 29
+    },
+    {
+      "id": 669,
+      "documentId": "ohclq3ns2t3k328xgbks52jd",
+      "name": "LAMBORGHINI",
+      "slug": "lamborghini",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 670,
+      "documentId": "n3814qq6um443j86006jzfg0",
+      "name": "LANCIA",
+      "slug": "lancia",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 23
+    },
+    {
+      "id": 671,
+      "documentId": "frozt9vgx6thpi6bwzmv6jpr",
+      "name": "LAND ROVER",
+      "slug": "land-rover",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 29
+    },
+    {
+      "id": 672,
+      "documentId": "bga17ggja7lsmrzbb9dxml5d",
+      "name": "LANDWIND (JMC)",
+      "slug": "landwind-jmc",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 673,
+      "documentId": "pkzwpcw97hh7uj7hx9481fi9",
+      "name": "LDV",
+      "slug": "ldv",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 674,
+      "documentId": "wp85ccgaeyyoi45r0kzwmunq",
+      "name": "LEXUS",
+      "slug": "lexus",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 33
+    },
+    {
+      "id": 675,
+      "documentId": "lfeumbku2w7a5ae06uht0g90",
+      "name": "LIFAN",
+      "slug": "lifan",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 676,
+      "documentId": "hadyfvaqnnjxlj3rwpvg5k4q",
+      "name": "LIGIER",
+      "slug": "ligier",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 677,
+      "documentId": "zm36wfdgjpkn8ou8xbhp1iep",
+      "name": "LINCOLN",
+      "slug": "lincoln",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 2
+    },
+    {
+      "id": 678,
+      "documentId": "unnhg1fsavuch22eqzel8ia1",
+      "name": "LONDON TAXI INTERNATIONAL",
+      "slug": "london-taxi-international",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 679,
+      "documentId": "xraev805xseuqnkri5p18bgd",
+      "name": "LOTUS",
+      "slug": "lotus",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 4
+    },
+    {
+      "id": 680,
+      "documentId": "olmc505dvf7jk6ygs569c359",
+      "name": "LTI",
+      "slug": "lti",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 681,
+      "documentId": "he0607o1zwrr7hpvyjrzkedt",
+      "name": "LUXGEN",
+      "slug": "luxgen",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 682,
+      "documentId": "gsczw7qhr5k7diwpwx0bdl6k",
+      "name": "LYNK & CO",
+      "slug": "lynk-and-co",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 683,
+      "documentId": "w5pwfthcg2nzkp7n3p9uszf2",
+      "name": "MAHINDRA",
+      "slug": "mahindra",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 684,
+      "documentId": "nte90ccmve7znnpir77tegsy",
+      "name": "MALAGUTI",
+      "slug": "malaguti",
+      "vehicle_type": "moto",
+      "isActive": true,
+      "modelCount": 46
+    },
+    {
+      "id": 685,
+      "documentId": "y9y99hf1zteb4ht6koghps4b",
+      "name": "MAN",
+      "slug": "man",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 3
+    },
+    {
+      "id": 686,
+      "documentId": "c1cc0z2pirbhhiad3prrrosa",
+      "name": "MARCOS",
+      "slug": "marcos",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 687,
+      "documentId": "td57sof17v8v0e0b1xy26w38",
+      "name": "MARTIN MOTORS",
+      "slug": "martin-motors",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 688,
+      "documentId": "nmggqla28jajsv4ebx8fxlmr",
+      "name": "MARUTI",
+      "slug": "maruti",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 689,
+      "documentId": "dzvuwpn23gzdbhkik0e2df51",
+      "name": "MARUTI SUZUKI",
+      "slug": "maruti-suzuki",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 690,
+      "documentId": "wnk2vqtt4ldauz6v2v636zoc",
+      "name": "MASERATI",
+      "slug": "maserati",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 2
+    },
+    {
+      "id": 691,
+      "documentId": "ybofpsih0ps867tesvpkoc0m",
+      "name": "MAXUS",
+      "slug": "maxus",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 692,
+      "documentId": "azdj319izng6ivc2a3fc1kld",
+      "name": "MAYBACH",
+      "slug": "maybach",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 1
+    },
+    {
+      "id": 693,
+      "documentId": "k8tqnqn6euugo89hg9p74hyt",
+      "name": "MAZDA",
+      "slug": "mazda",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 72
+    },
+    {
+      "id": 694,
+      "documentId": "ro9hzd0sogcfvsfplszzqhvq",
+      "name": "MEGA",
+      "slug": "mega",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 695,
+      "documentId": "nejmcynnbyt0mbuvzkuo2u3o",
+      "name": "MEGA (AIXAM - MEGA France)",
+      "slug": "mega-aixam---mega-france",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 696,
+      "documentId": "lnxpyjzuem8zu1780l4ma44s",
+      "name": "MERCEDES",
+      "slug": "mercedes",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 102
+    },
+    {
+      "id": 697,
+      "documentId": "ge2slj6a89r44c6b37r5xbqe",
+      "name": "MERCEDES BENZs916",
+      "slug": "mercedes-benzs916",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 698,
+      "documentId": "zuaynkpob17w8ov5bs2o9wlr",
+      "name": "MERCEDES-BENZ",
+      "slug": "mercedes-benz",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 32
+    },
+    {
+      "id": 699,
+      "documentId": "qch8sap9qwbk0qbvsbk8vr5k",
+      "name": "METROCAB",
+      "slug": "metrocab",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 700,
+      "documentId": "orp6ht2skq2vdo4gt3mfdmid",
+      "name": "MG",
+      "slug": "mg",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 16
+    },
+    {
+      "id": 701,
+      "documentId": "oj944mf5edqadgdgx1axg8s1",
+      "name": "MICRO",
+      "slug": "micro",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 702,
+      "documentId": "jfk4w1cstaygqsh3n0xhypvt",
+      "name": "MICROCAR",
+      "slug": "microcar",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 703,
+      "documentId": "fe7a6xu2iv0zyzwe4wuic7sg",
+      "name": "MIDDLEBRIDGE",
+      "slug": "middlebridge",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 704,
+      "documentId": "l64qyu6as8evgoe1rynq9a4a",
+      "name": "MINI",
+      "slug": "mini",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 12
+    },
+    {
+      "id": 705,
+      "documentId": "lm7j5mw60beohtsd2umjb3bi",
+      "name": "MITSUBISHI",
+      "slug": "mitsubishi",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 92
+    },
+    {
+      "id": 706,
+      "documentId": "wli6bmpwdrewcqzrmrsoy6e1",
+      "name": "MORGAN",
+      "slug": "morgan",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 707,
+      "documentId": "rwpveyaf4wodkymqgfh857q6",
+      "name": "MORRIS",
+      "slug": "morris",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 708,
+      "documentId": "kcafqnbscl14vjuwv6kfa3n3",
+      "name": "MOSKVICH",
+      "slug": "moskvich",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 709,
+      "documentId": "vepq80rvo6pfte2amz1vtrp1",
+      "name": "MOSKVITCH",
+      "slug": "moskvitch",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 710,
+      "documentId": "d6j4os8dxrkpc4gvumhnhg8s",
+      "name": "MOTO GUZZI",
+      "slug": "moto-guzzi",
+      "vehicle_type": "moto",
+      "isActive": true,
+      "modelCount": 90
+    },
+    {
+      "id": 711,
+      "documentId": "cmo2b1v78nmu4i4tfsomgfqw",
+      "name": "MPM MOTORS",
+      "slug": "mpm-motors",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 712,
+      "documentId": "uf26lt2z5s4elvq4mjfuy930",
+      "name": "MV AGUSTA",
+      "slug": "mv-agusta",
+      "vehicle_type": "moto",
+      "isActive": true,
+      "modelCount": 31
+    },
+    {
+      "id": 713,
+      "documentId": "gp7swpjytyoslhgnl0ohqot2",
+      "name": "NISSAN",
+      "slug": "nissan",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 126
+    },
+    {
+      "id": 714,
+      "documentId": "cj2uzz6cdtzxqrxso2yclc0l",
+      "name": "NISSAN (DFAC)",
+      "slug": "nissan-dfac",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 715,
+      "documentId": "q1w23348lrdvoqeop883m0jb",
+      "name": "NOBLE",
+      "slug": "noble",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 716,
+      "documentId": "crdghvfdnvxg097bypgyoddy",
+      "name": "NSU",
+      "slug": "nsu",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 717,
+      "documentId": "qezjwwbqw3xac147eoviuxtq",
+      "name": "OLDSMOBILE",
+      "slug": "oldsmobile",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 718,
+      "documentId": "z3lvq828r3kjw1x77to23wjg",
+      "name": "OLTCIT",
+      "slug": "oltcit",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 719,
+      "documentId": "vztjm6zcel70tz131k4kg4ag",
+      "name": "OPEL",
+      "slug": "opel",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 87
+    },
+    {
+      "id": 720,
+      "documentId": "wr8pvs9x8tqekf3h0attcrd6",
+      "name": "OSCA",
+      "slug": "osca",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 721,
+      "documentId": "nh4xcxhz0e0q33wwsexlqkoh",
+      "name": "PAGANI",
+      "slug": "pagani",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 722,
+      "documentId": "y1e5uzo2250vxv52dejupzjj",
+      "name": "PANOZ",
+      "slug": "panoz",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 723,
+      "documentId": "slqld3pgvvcz7wc6ofsusz78",
+      "name": "PANTHER",
+      "slug": "panther",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 724,
+      "documentId": "mh406jlccmtrj7vpo83jtfx0",
+      "name": "PERODUA",
+      "slug": "perodua",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 94,
+      "documentId": "l0458gd4cu7u0hu6xwdd4uhq",
+      "name": "PEUGEOT",
+      "slug": "peugeot",
+      "vehicle_type": "car-moto",
+      "isActive": true,
+      "modelCount": 839
+    },
+    {
+      "id": 725,
+      "documentId": "l80fqjoja3vs9rzddkvcihkq",
+      "name": "PGO",
+      "slug": "pgo",
+      "vehicle_type": "moto",
+      "isActive": true,
+      "modelCount": 165
+    },
+    {
+      "id": 726,
+      "documentId": "bu7yanrpuyb7mys6xd4d4fol",
+      "name": "PIAGGIO",
+      "slug": "piaggio",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 727,
+      "documentId": "thvuubnwq16nohsias9s8h8y",
+      "name": "PININFARINA",
+      "slug": "pininfarina",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 728,
+      "documentId": "h3rampte4vtqakli74t94v69",
+      "name": "PLYMOUTH",
+      "slug": "plymouth",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 1
+    },
+    {
+      "id": 729,
+      "documentId": "cg4nn7a4os1mz2odvovx7o7p",
+      "name": "POLARIS",
+      "slug": "polaris",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 730,
+      "documentId": "akr3l2adjfywx3l2fauy0x8f",
+      "name": "POLESTAR",
+      "slug": "polestar",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 731,
+      "documentId": "lhhejhhwl2xwv607rehiut64",
+      "name": "PONTIAC",
+      "slug": "pontiac",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 1
+    },
+    {
+      "id": 732,
+      "documentId": "ycfd7u80yzbxxpyox4o07tyt",
+      "name": "PORSCHE",
+      "slug": "porsche",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 21
+    },
+    {
+      "id": 733,
+      "documentId": "frml54nphfucqk77iyv1t1kg",
+      "name": "PREMIER",
+      "slug": "premier",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 734,
+      "documentId": "zcshhp3opsk7hnhiklo9nsvu",
+      "name": "PROTON",
+      "slug": "proton",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 7
+    },
+    {
+      "id": 735,
+      "documentId": "e9uv2bom58iq1b8ywotfib1x",
+      "name": "PUCH",
+      "slug": "puch",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 1
+    },
+    {
+      "id": 736,
+      "documentId": "wb15iultnf3o3z7ycp9892nc",
+      "name": "RAM",
+      "slug": "ram",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 737,
+      "documentId": "p7irbb76hi9g361wfpfxyxum",
+      "name": "RANGER",
+      "slug": "ranger",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 738,
+      "documentId": "mha289zksojihci37i8k51tj",
+      "name": "RAVON",
+      "slug": "ravon",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 739,
+      "documentId": "op3qvrhi4sik6xlkw0lpwoxh",
+      "name": "RAYTON FISSORE",
+      "slug": "rayton-fissore",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 740,
+      "documentId": "znlqzf69xc8n54f06rvhgs5b",
+      "name": "RELIANT",
+      "slug": "reliant",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 106,
+      "documentId": "rdw1vzw8hi64ljbdl7jglkax",
+      "name": "RENAULT",
+      "slug": "renault",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 395
+    },
+    {
+      "id": 741,
+      "documentId": "u0gsri3bs19vsbzm75vn6p4c",
+      "name": "RENAULT TRUCKS",
+      "slug": "renault-trucks",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 9
+    },
+    {
+      "id": 742,
+      "documentId": "br32arcntbhlcb1x3fqz92zi",
+      "name": "REX",
+      "slug": "rex",
+      "vehicle_type": "moto",
+      "isActive": true,
+      "modelCount": 15
+    },
+    {
+      "id": 743,
+      "documentId": "hrocvcuge8luslpqq0j24omt",
+      "name": "RILEY",
+      "slug": "riley",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 744,
+      "documentId": "veluaz41ev09k7wmtevyg2qr",
+      "name": "ROLLS ROYCE",
+      "slug": "rolls-royce",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 5
+    },
+    {
+      "id": 745,
+      "documentId": "b8fmmt3rakov0lp6vpzbgjc4",
+      "name": "ROVER",
+      "slug": "rover",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 34
+    },
+    {
+      "id": 746,
+      "documentId": "eo03hj8yruwll4a9hraswctv",
+      "name": "RUF",
+      "slug": "ruf",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 747,
+      "documentId": "oebumnq1pg40j3mcch8r5uu5",
+      "name": "SAAB",
+      "slug": "saab",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 20
+    },
+    {
+      "id": 748,
+      "documentId": "tk0sikx3nq2dw3238gxoxhr9",
+      "name": "SACHS",
+      "slug": "sachs",
+      "vehicle_type": "moto",
+      "isActive": true,
+      "modelCount": 8
+    },
+    {
+      "id": 749,
+      "documentId": "vbjkx0x84t0qesdwig5r3jni",
+      "name": "SANTANA",
+      "slug": "santana",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 750,
+      "documentId": "red7vi1fv3myzcoxlurh3dps",
+      "name": "SAO",
+      "slug": "sao",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 751,
+      "documentId": "sh11m3g9ynovv0197g08sjwu",
+      "name": "SATURN",
+      "slug": "saturn",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 752,
+      "documentId": "cmgq7elb9u8sqehfaji93lzx",
+      "name": "SCION",
+      "slug": "scion",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 753,
+      "documentId": "giyfz3l4fhyor165nfz34t5i",
+      "name": "SEAT",
+      "slug": "seat",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 35
+    },
+    {
+      "id": 754,
+      "documentId": "ap7rv68o4vj3miicu41ta5yb",
+      "name": "SINGER",
+      "slug": "singer",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 755,
+      "documentId": "j57sjy6g0t89d2n4glmad0c7",
+      "name": "SKODA",
+      "slug": "skoda",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 50
+    },
+    {
+      "id": 756,
+      "documentId": "w7tfz06fuk9yafs1feha8m3e",
+      "name": "SMART",
+      "slug": "smart",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 14
+    },
+    {
+      "id": 757,
+      "documentId": "l2cfktvrodbpcnore09narcx",
+      "name": "SPECTRE",
+      "slug": "spectre",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 758,
+      "documentId": "v7dn0g2tx8d0l9s3kbe9g1vb",
+      "name": "SSANGYONG",
+      "slug": "ssangyong",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 22
+    },
+    {
+      "id": 759,
+      "documentId": "ba37x5t6zi2z6sozb42i0i3s",
+      "name": "STANDARD AUTOMOBILE",
+      "slug": "standard-automobile",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 760,
+      "documentId": "d5zydeyb8ehucivomx7t6sh0",
+      "name": "STEYR",
+      "slug": "steyr",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 761,
+      "documentId": "dunomtgxrgr33v9tusm2n4zf",
+      "name": "STREETSCOOTER",
+      "slug": "streetscooter",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 762,
+      "documentId": "buu2q8q0xxh49o2gr1j92u72",
+      "name": "SUBARU",
+      "slug": "subaru",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 38
+    },
+    {
+      "id": 763,
+      "documentId": "tvrwhz2agr05cj8ksvsuxakt",
+      "name": "SUNBEAM",
+      "slug": "sunbeam",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 764,
+      "documentId": "zn7qityz40xx8ugsygcao7zy",
+      "name": "SUZUKI",
+      "slug": "suzuki",
+      "vehicle_type": "car-moto",
+      "isActive": true,
+      "modelCount": 567
+    },
+    {
+      "id": 765,
+      "documentId": "v7he3pfde2sykdggyenzgub2",
+      "name": "T.V.R.",
+      "slug": "tvr",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 766,
+      "documentId": "ocnxx4a8hstzhlfq94o19p30",
+      "name": "TAGAZ",
+      "slug": "tagaz",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 767,
+      "documentId": "kytxr3u5h6o2432e72ry4cxx",
+      "name": "TALBOT",
+      "slug": "talbot",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 768,
+      "documentId": "to0ieoxfrjil4bsyaa7wxo8s",
+      "name": "TATA",
+      "slug": "tata",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 769,
+      "documentId": "gjq32ifl2hn220x6oenw1kjk",
+      "name": "TAZZARI",
+      "slug": "tazzari",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 1
+    },
+    {
+      "id": 770,
+      "documentId": "e7am77dqlmm2npjxzw81gjol",
+      "name": "TESLA",
+      "slug": "tesla",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 771,
+      "documentId": "xj6el3cawvx66o89rygh8o65",
+      "name": "THINK",
+      "slug": "think",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 772,
+      "documentId": "u66xlrdyqhn2du6orkfdtmwe",
+      "name": "TOFAS",
+      "slug": "tofas",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 773,
+      "documentId": "o96zny2mng1q9308bn3vpvyn",
+      "name": "TOYOTA",
+      "slug": "toyota",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 93
+    },
+    {
+      "id": 774,
+      "documentId": "cnu1xvvkp4hiiddyupr4poe3",
+      "name": "TRABANT",
+      "slug": "trabant",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 775,
+      "documentId": "v4s2xyybbgir8d93k6dc16l2",
+      "name": "TRIUMPH",
+      "slug": "triumph",
+      "vehicle_type": "moto",
+      "isActive": true,
+      "modelCount": 168
+    },
+    {
+      "id": 776,
+      "documentId": "g19jwb6c2x6hc5e8jz0nfsg8",
+      "name": "UAZ",
+      "slug": "uaz",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 6
+    },
+    {
+      "id": 777,
+      "documentId": "idzvfgnap2vprwp4cjosxdj0",
+      "name": "UMM",
+      "slug": "umm",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 778,
+      "documentId": "acpeeipxbjxdtq5npsjap776",
+      "name": "UZ-DAEWOO",
+      "slug": "uz-daewoo",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 779,
+      "documentId": "pk1jbadtoax1ufb30xogjnkd",
+      "name": "VAUXHALL",
+      "slug": "vauxhall",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 102
+    },
+    {
+      "id": 780,
+      "documentId": "x0vkhxppv2rlw1hqatr8147p",
+      "name": "VENTURI",
+      "slug": "venturi",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 136,
+      "documentId": "wx13r2cv76aztmb9rjhk9aco",
+      "name": "VOLKSWAGEN",
+      "slug": "volkswagen",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 234
+    },
+    {
+      "id": 781,
+      "documentId": "w4c7d2rhwp2as60mr81c12mw",
+      "name": "VOLVO",
+      "slug": "volvo",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 59
+    },
+    {
+      "id": 782,
+      "documentId": "lm8b9ek9bl3d76uya61ozpow",
+      "name": "VOLVO ASIA",
+      "slug": "volvo-asia",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 783,
+      "documentId": "ge3u4t9d80d6ljosz6lwgh65",
+      "name": "VORTEX",
+      "slug": "vortex",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 784,
+      "documentId": "b65qh557v00yxw8cktq4lvdm",
+      "name": "VW",
+      "slug": "vw",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 785,
+      "documentId": "iargn6x0bj7ns3r2cqfcxkbk",
+      "name": "WARTBURG",
+      "slug": "wartburg",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 786,
+      "documentId": "wzwge7gwio938qjkv53im5vc",
+      "name": "WESTFIELD",
+      "slug": "westfield",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 787,
+      "documentId": "ynoaqz5jbhsguwj5v81brlo0",
+      "name": "WIESMANN",
+      "slug": "wiesmann",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 788,
+      "documentId": "q61aoq6i24fvic2tmeintgfm",
+      "name": "WOLSELEY",
+      "slug": "wolseley",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 789,
+      "documentId": "k59l5tnyanv48j51d8m1uwof",
+      "name": "YAMAHA",
+      "slug": "yamaha",
+      "vehicle_type": "moto",
+      "isActive": true,
+      "modelCount": 305
+    },
+    {
+      "id": 790,
+      "documentId": "k5dnhqvbhw7rlcl9bingt2ye",
+      "name": "YUGO",
+      "slug": "yugo",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 791,
+      "documentId": "du6k2pqm18gatqljtancq2t1",
+      "name": "ZASTAVA",
+      "slug": "zastava",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 792,
+      "documentId": "ryamug89745u1z7stxdzih31",
+      "name": "ZAZ",
+      "slug": "zaz",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 793,
+      "documentId": "iz5sxolo9krqge2xcnp9xmg3",
+      "name": "ZERO",
+      "slug": "zero",
+      "vehicle_type": "moto",
+      "isActive": true,
+      "modelCount": 3
+    },
+    {
+      "id": 794,
+      "documentId": "m4185jf9apvk0ux92bce60gv",
+      "name": "ZIL",
+      "slug": "zil",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    },
+    {
+      "id": 795,
+      "documentId": "s8igrhb630q24229v7c08ppj",
+      "name": "ZOTYE",
+      "slug": "zotye",
+      "vehicle_type": "car",
+      "isActive": true,
+      "modelCount": 0
+    }
+  ]
+}

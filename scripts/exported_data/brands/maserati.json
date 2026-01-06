@@ -1,0 +1,30 @@
+{
+  "brandInfo": {
+    "id": 690,
+    "documentId": "wnk2vqtt4ldauz6v2v636zoc",
+    "name": "MASERATI",
+    "slug": "maserati",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 2,
+  "exportDate": "2026-01-06T19:34:16.910Z",
+  "models": [
+    {
+      "id": 28449,
+      "documentId": "ohc3aezdjh1223n486dhoim8",
+      "name": "222 4V",
+      "slug": "222-4v",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28601,
+      "documentId": "hglli36hz60q3gevu2qng24v",
+      "name": "3200 GT Coupe",
+      "slug": "3200-gt-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

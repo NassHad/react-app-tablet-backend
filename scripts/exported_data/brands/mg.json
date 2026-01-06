@@ -1,0 +1,142 @@
+{
+  "brandInfo": {
+    "id": 700,
+    "documentId": "orp6ht2skq2vdo4gt3mfdmid",
+    "name": "MG",
+    "slug": "mg",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 16,
+  "exportDate": "2026-01-06T19:34:16.925Z",
+  "models": [
+    {
+      "id": 31293,
+      "documentId": "h8gdkkgxtupbyg3rlh4b72xl",
+      "name": "EHS / HS plug-in",
+      "slug": "ehs--hs-plug-in",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33360,
+      "documentId": "f9b5df68ugobyfr87iomavsp",
+      "name": "MARVEL R",
+      "slug": "marvel-r",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33483,
+      "documentId": "f2num0srpnw5dqeqmeg0djhf",
+      "name": "MG 3",
+      "slug": "mg-3",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33486,
+      "documentId": "qfxn8ampz5d582zrijis7to0",
+      "name": "MG 5 Estate",
+      "slug": "mg-5-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33488,
+      "documentId": "ps7de3v2u92ammf1ljsuzgr9",
+      "name": "MG 6 Hatchback",
+      "slug": "mg-6-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33489,
+      "documentId": "xb1b07u0wteog8i3qrtt52kk",
+      "name": "MG 6 Saloon",
+      "slug": "mg-6-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33490,
+      "documentId": "vpv88z231x988hq1gc8vqn9w",
+      "name": "MG GS",
+      "slug": "mg-gs",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33492,
+      "documentId": "vanfxjr9k797i6zomwdspsjq",
+      "name": "MG TF",
+      "slug": "mg-tf",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33494,
+      "documentId": "wuqamazvwtzbz1dzt38rfal4",
+      "name": "MG ZR",
+      "slug": "mg-zr",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33495,
+      "documentId": "wut4f5olzymppbbhqctl9xjs",
+      "name": "MG ZS",
+      "slug": "mg-zs",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33496,
+      "documentId": "kghjldzxatafm7ev1nzuimpe",
+      "name": "MG ZS Hatchback",
+      "slug": "mg-zs-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33498,
+      "documentId": "mnaaxhcghh11hxwzjfemmsvj",
+      "name": "MG ZT",
+      "slug": "mg-zt",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33499,
+      "documentId": "welacnn0trdczhc4bfxdem3x",
+      "name": "MG ZT- T",
+      "slug": "mg-zt-t",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33500,
+      "documentId": "i6q9us2c7a7o5nq4dlisj8al",
+      "name": "MG5",
+      "slug": "mg5",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33508,
+      "documentId": "b0n3ub17qdklitmt302syb7r",
+      "name": "MGF",
+      "slug": "mgf",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33790,
+      "documentId": "uzuaogyr5qos08s5w9c2lrzo",
+      "name": "Marvel",
+      "slug": "marvel",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

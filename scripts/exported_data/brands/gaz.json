@@ -1,0 +1,13 @@
+{
+  "brandInfo": {
+    "id": 625,
+    "documentId": "rd6r8bya4z1vbkx69lu31z1d",
+    "name": "GAZ",
+    "slug": "gaz",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 0,
+  "exportDate": "2026-01-06T19:34:16.851Z",
+  "models": []
+}

@@ -1,0 +1,54 @@
+{
+  "brandInfo": {
+    "id": 744,
+    "documentId": "veluaz41ev09k7wmtevyg2qr",
+    "name": "ROLLS ROYCE",
+    "slug": "rolls-royce",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 5,
+  "exportDate": "2026-01-06T19:34:16.971Z",
+  "models": [
+    {
+      "id": 30951,
+      "documentId": "qb9fova4y8bm3s65kw4q6q3y",
+      "name": "DAWN",
+      "slug": "dawn",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32134,
+      "documentId": "kc6e4kq6oxy5sp32jtp56g1d",
+      "name": "GHOST I",
+      "slug": "ghost-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34269,
+      "documentId": "i3q5g0ve0f7acbb8os6cvd1y",
+      "name": "PHANTOM VII",
+      "slug": "phantom-vii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34270,
+      "documentId": "ducrka0972rt8x2ik1adssac",
+      "name": "PHANTOM VII Coupe",
+      "slug": "phantom-vii-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36768,
+      "documentId": "fxbhmhejimqow24554rg22kt",
+      "name": "WRAITH",
+      "slug": "wraith",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

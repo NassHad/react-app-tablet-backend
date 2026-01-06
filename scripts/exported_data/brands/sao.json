@@ -1,0 +1,13 @@
+{
+  "brandInfo": {
+    "id": 750,
+    "documentId": "red7vi1fv3myzcoxlurh3dps",
+    "name": "SAO",
+    "slug": "sao",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 0,
+  "exportDate": "2026-01-06T19:34:16.986Z",
+  "models": []
+}

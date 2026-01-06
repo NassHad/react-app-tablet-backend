@@ -1,0 +1,166 @@
+{
+  "brandInfo": {
+    "id": 594,
+    "documentId": "q8ptq05jzg3mjy3d0xyqyz9a",
+    "name": "DAEWOO",
+    "slug": "daewoo",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 19,
+  "exportDate": "2026-01-06T19:34:16.815Z",
+  "models": [
+    {
+      "id": 29548,
+      "documentId": "wzdojw6b99irg0ujfsuaykuo",
+      "name": "AVEO",
+      "slug": "aveo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31403,
+      "documentId": "cqlztu9fz1s5expa6cnvaimv",
+      "name": "ESPERO",
+      "slug": "espero",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31425,
+      "documentId": "i5a9qpctznnd25vnhja4vbr6",
+      "name": "EVANDA",
+      "slug": "evanda",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32880,
+      "documentId": "qx7qb15a7glf15wk00b2i1vh",
+      "name": "KALOS",
+      "slug": "kalos",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32882,
+      "documentId": "t0javce05nca3jmw8dctue1w",
+      "name": "KALOS Saloon",
+      "slug": "kalos-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33004,
+      "documentId": "uemx1k77ypjgz2722oc22toe",
+      "name": "LACETTI Hatchback",
+      "slug": "lacetti-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33005,
+      "documentId": "uy16p06gm95vhdwb6ltpmfxw",
+      "name": "LACETTI Kombi",
+      "slug": "lacetti-kombi",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33007,
+      "documentId": "nhsjxq4ah6d45qj18m34mh55",
+      "name": "LACETTI Saloon",
+      "slug": "lacetti-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33054,
+      "documentId": "n67cb8rpvaist93g3onare71",
+      "name": "LANOS",
+      "slug": "lanos",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33058,
+      "documentId": "e6pq6iacx6dq0qz79pzbzan6",
+      "name": "LANOS Saloon",
+      "slug": "lanos-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33096,
+      "documentId": "eomoczhr7l1uhb3i359bco83",
+      "name": "LEGANZA",
+      "slug": "leganza",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33388,
+      "documentId": "gdffb79p7f4n2fgfxqsdanen",
+      "name": "MATIZ",
+      "slug": "matiz",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33935,
+      "documentId": "oxugblgwfm3n41k4lv52p00s",
+      "name": "NEXIA",
+      "slug": "nexia",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33936,
+      "documentId": "t70i4livn9qmcykyk3i78hpz",
+      "name": "NEXIA Saloon",
+      "slug": "nexia-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34000,
+      "documentId": "qn4qcu10mbvz5k9ic1oa2p5j",
+      "name": "NUBIRA",
+      "slug": "nubira",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34003,
+      "documentId": "p6fqntgk3wfcq8sv1walgssl",
+      "name": "NUBIRA Saloon",
+      "slug": "nubira-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34004,
+      "documentId": "qfczs0xq5czuxh09l9eke0w9",
+      "name": "NUBIRA Wagon",
+      "slug": "nubira-wagon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34735,
+      "documentId": "c5xyqh2uvjo3ljdomin2lahi",
+      "name": "REZZO",
+      "slug": "rezzo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36206,
+      "documentId": "tbrn4wt733nghfhkzjb9lejp",
+      "name": "Tacuma",
+      "slug": "tacuma",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "brandInfo": {
+    "id": 734,
+    "documentId": "zcshhp3opsk7hnhiklo9nsvu",
+    "name": "PROTON",
+    "slug": "proton",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 7,
+  "exportDate": "2026-01-06T19:34:16.955Z",
+  "models": [
+    {
+      "id": 28595,
+      "documentId": "nclmq14rr2is1qms9xxeesi7",
+      "name": "313/ 315",
+      "slug": "313-315",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28718,
+      "documentId": "il8l3ivb1tbe0ymeygxd20om",
+      "name": "413...420",
+      "slug": "413420",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34261,
+      "documentId": "awfagrs3r0s8i7fgmbk4qj5f",
+      "name": "PERSONA 300",
+      "slug": "persona-300",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34262,
+      "documentId": "l8xa3lxwqlzn31sxy16kmb9n",
+      "name": "PERSONA 400",
+      "slug": "persona-400",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34263,
+      "documentId": "nneozglw94g2mp2wch6bijmm",
+      "name": "PERSONA 400 Hatchback",
+      "slug": "persona-400-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34499,
+      "documentId": "hl4sd8lhwfeyidpw0g9883xs",
+      "name": "Persona",
+      "slug": "persona",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34500,
+      "documentId": "ytbjnfwb2fukiglb4b1zbuoc",
+      "name": "Persona Compact",
+      "slug": "persona-compact",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

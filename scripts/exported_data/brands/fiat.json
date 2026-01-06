@@ -1,0 +1,326 @@
+{
+  "brandInfo": {
+    "id": 614,
+    "documentId": "ydtponlx8plilaw0oet31xtc",
+    "name": "FIAT",
+    "slug": "fiat",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 39,
+  "exportDate": "2026-01-06T19:34:16.835Z",
+  "models": [
+    {
+      "id": 28213,
+      "documentId": "poda599t6sfcplai0efkbxuj",
+      "name": "120 Multijet 2",
+      "slug": "120-multijet-2",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28318,
+      "documentId": "xjlf67ox4pywn27a5bj73ecn",
+      "name": "160 Multijet",
+      "slug": "160-multijet",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28355,
+      "documentId": "j5zsxk9x51q7i78wp05kn610",
+      "name": "2 D",
+      "slug": "2-d",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28503,
+      "documentId": "esvem1pnxew9genku36uk161",
+      "name": "3 D",
+      "slug": "3-d",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28766,
+      "documentId": "pjwprjn9tja5o5jyj26z80ud",
+      "name": "500",
+      "slug": "500",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28771,
+      "documentId": "ubfcqkyt5n2hysk8u15uaih7",
+      "name": "500 / Abarth",
+      "slug": "500--abarth",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28776,
+      "documentId": "bagrwukc40l02xa4x8v5li7f",
+      "name": "500 C",
+      "slug": "500-c",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28786,
+      "documentId": "qdihkxql7ivy0303ob5gxzko",
+      "name": "500 L / Trekking / Cross",
+      "slug": "500-l--trekking--cross",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28787,
+      "documentId": "gdtm11goybqsuhayloj53289",
+      "name": "500 L Living",
+      "slug": "500-l-living",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28799,
+      "documentId": "b370f9qek1rl8zbbem2bcdmt",
+      "name": "500L",
+      "slug": "500l",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28801,
+      "documentId": "brc7bacpokh4xaf7y2mdemju",
+      "name": "500X",
+      "slug": "500x",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28859,
+      "documentId": "zffekak6iohkl5gtcy6hnia2",
+      "name": "600 / 600e",
+      "slug": "600--600e",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29210,
+      "documentId": "jqvxtdkepq6yu0utgoj4n9wb",
+      "name": "AEgea / Egea",
+      "slug": "aegea--egea",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29599,
+      "documentId": "tmahyqj8uexjrf2iwm1onxh3",
+      "name": "Albea",
+      "slug": "albea",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29617,
+      "documentId": "j9lsepzhu0d5c3h3vll2krch",
+      "name": "Argenta",
+      "slug": "argenta",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30841,
+      "documentId": "cxc43ud3nlb44gpxf0f4cebg",
+      "name": "Citivan",
+      "slug": "citivan",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31041,
+      "documentId": "smcnjhkvkkawzgr3gbmoi11k",
+      "name": "DOBLO Box Body / Estate",
+      "slug": "doblo-box-body-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31045,
+      "documentId": "bk6pk8stigda55wdaur5jwaj",
+      "name": "DOBLO Cargo",
+      "slug": "doblo-cargo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31046,
+      "documentId": "gxt8qfep25k35o6dz02u6yma",
+      "name": "DOBLO MPV",
+      "slug": "doblo-mpv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31127,
+      "documentId": "nxy1zv7ndel0w9dhjk3q9s01",
+      "name": "DUCATO Box",
+      "slug": "ducato-box",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31128,
+      "documentId": "ysk1n7b8vjcenge2uyugqagq",
+      "name": "DUCATO Bus",
+      "slug": "ducato-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31130,
+      "documentId": "ohjt66fkcc2rdcww21x8yr1a",
+      "name": "DUCATO Platform/Chassis",
+      "slug": "ducato-platformchassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31218,
+      "documentId": "lxij8i905k4tckv7mhlqh0o2",
+      "name": "Ducato",
+      "slug": "ducato",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31219,
+      "documentId": "pex2x3w8npm0cuwp2mjcbgz9",
+      "name": "Ducato / E Ducato",
+      "slug": "ducato--e-ducato",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31228,
+      "documentId": "kp1xqcakvb8oa5920jowatpr",
+      "name": "Duna",
+      "slug": "duna",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32017,
+      "documentId": "s4c9cm2skjb398s9ihkr4hay",
+      "name": "Fiorino / Qubo",
+      "slug": "fiorino--qubo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32269,
+      "documentId": "zu0ez9vae9nd4pbqwgl4eh6l",
+      "name": "GRANDE PUNTO",
+      "slug": "grande-punto",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33722,
+      "documentId": "z5nfug32kpdfd0730xq0uyc1",
+      "name": "MULTIPLA",
+      "slug": "multipla",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34177,
+      "documentId": "vwobz2xxv3dosfpkpsfbou3b",
+      "name": "PANDA",
+      "slug": "panda",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34440,
+      "documentId": "rrn58vkalyakyvxgbkwfvcd4",
+      "name": "PUNTO",
+      "slug": "punto",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34470,
+      "documentId": "huj2j55pu3sckwetf43jtc0b",
+      "name": "Panda / 4X4",
+      "slug": "panda--4x4",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34509,
+      "documentId": "n7so5h37c7mnqx3dgtgihi55",
+      "name": "Premio",
+      "slug": "premio",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35075,
+      "documentId": "d9hr2i2cu93nb1h52p08dste",
+      "name": "SCUDO Box",
+      "slug": "scudo-box",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35486,
+      "documentId": "hk1trrlbplzewcac01cxpg3b",
+      "name": "STILO",
+      "slug": "stilo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35635,
+      "documentId": "l3b16va8x40j1t02jucyyusw",
+      "name": "Scudo",
+      "slug": "scudo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35636,
+      "documentId": "lwpmx0pv3pu4x79jy61150o5",
+      "name": "Scudo / Combi / Panorama",
+      "slug": "scudo--combi--panorama",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35637,
+      "documentId": "qae933czt236b88bhywsqkoj",
+      "name": "Scudo / E-Scudo",
+      "slug": "scudo--e-scudo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36207,
+      "documentId": "f2a9fizqjhx62pj90upmthf0",
+      "name": "Talento",
+      "slug": "talento",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36254,
+      "documentId": "trlfmckynp0we4kzfaza8iqe",
+      "name": "Topolino",
+      "slug": "topolino",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

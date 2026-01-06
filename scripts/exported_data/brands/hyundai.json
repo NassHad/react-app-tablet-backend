@@ -1,0 +1,798 @@
+{
+  "brandInfo": {
+    "id": 648,
+    "documentId": "ceiit5fea2ww70ifsj0136s7",
+    "name": "HYUNDAI",
+    "slug": "hyundai",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 98,
+  "exportDate": "2026-01-06T19:34:16.869Z",
+  "models": [
+    {
+      "id": 29154,
+      "documentId": "py5ayb78a8ycrdtzn7aul7ml",
+      "name": "ACCENT I",
+      "slug": "accent-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29155,
+      "documentId": "hqfrqqdo1qmim8nho1be39cz",
+      "name": "ACCENT II",
+      "slug": "accent-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29156,
+      "documentId": "rip7am6u2ic6dun0tgmzj9rd",
+      "name": "ACCENT II Saloon",
+      "slug": "accent-ii-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29157,
+      "documentId": "oo66dilp6s3pve5d29u4ehcs",
+      "name": "ACCENT III",
+      "slug": "accent-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29158,
+      "documentId": "i6bbwshjoo2l39power6321u",
+      "name": "ACCENT III Saloon",
+      "slug": "accent-iii-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29159,
+      "documentId": "ss1i00u7daej5h8r95rc0osp",
+      "name": "ACCENT IV",
+      "slug": "accent-iv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29160,
+      "documentId": "d2n6thscmq2mfyj6zdhhvroa",
+      "name": "ACCENT IV Saloon",
+      "slug": "accent-iv-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29161,
+      "documentId": "ebi95bj35afyneh08s9e9erm",
+      "name": "ACCENT Saloon",
+      "slug": "accent-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29162,
+      "documentId": "h6msazzb3in837evu9z22ewb",
+      "name": "ACCENT V Saloon",
+      "slug": "accent-v-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29488,
+      "documentId": "eqlfgw3glzffowzs0ores71t",
+      "name": "ATOS",
+      "slug": "atos",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29489,
+      "documentId": "u856st4fkl0ln351zsijie5a",
+      "name": "ATOS PRIME",
+      "slug": "atos-prime",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29572,
+      "documentId": "cln2xqy17ulgwwad2rt65sod",
+      "name": "Accent",
+      "slug": "accent",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29689,
+      "documentId": "rshlh9tt5uvhtspc1o6t64vw",
+      "name": "BAYON",
+      "slug": "bayon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30648,
+      "documentId": "oza6e0dxswilw0gwu7kkuiu2",
+      "name": "COUPE I",
+      "slug": "coupe-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30649,
+      "documentId": "x9bujx5dy5jszq2y7cptdywm",
+      "name": "COUPE II",
+      "slug": "coupe-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30685,
+      "documentId": "ux7vkbqx7qx4lmngr7vnhhf8",
+      "name": "CRETA",
+      "slug": "creta",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30870,
+      "documentId": "qx4ouxct5lqceqh3hh0hm3pv",
+      "name": "Coupe GSI",
+      "slug": "coupe-gsi",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31303,
+      "documentId": "ygl9z2ng5ym79q3ycedim590",
+      "name": "ELANTRA III",
+      "slug": "elantra-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31304,
+      "documentId": "sj5zuj95px4zkh98y6yfeb61",
+      "name": "ELANTRA III Saloon",
+      "slug": "elantra-iii-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31305,
+      "documentId": "my6ggf6l9z8wkegr3rkeb3at",
+      "name": "ELANTRA IV Saloon",
+      "slug": "elantra-iv-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31539,
+      "documentId": "q594bdyza0ygagw07tboqbt3",
+      "name": "Excel",
+      "slug": "excel",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32104,
+      "documentId": "l2lx12yfc38usdo54xciaeip",
+      "name": "GALLOPER II",
+      "slug": "galloper-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32123,
+      "documentId": "s9q8l6pp38ac305zng0qkrjw",
+      "name": "GENESIS",
+      "slug": "genesis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32124,
+      "documentId": "sedvsqkoku86a7vmfw75aud1",
+      "name": "GENESIS Coupe",
+      "slug": "genesis-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32128,
+      "documentId": "u71b8ids89v6vmb3j67885up",
+      "name": "GETZ",
+      "slug": "getz",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32255,
+      "documentId": "m1357p9xk440ydsniieb6y6p",
+      "name": "GRAND SANTA F�",
+      "slug": "grand-santa-f",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32273,
+      "documentId": "cbm8fcbba5tjuerz0znz8rau",
+      "name": "GRANDEUR",
+      "slug": "grandeur",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32464,
+      "documentId": "f6w0ub6n5g2b09zokcuioxwh",
+      "name": "Genesis coupé",
+      "slug": "genesis-coup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32492,
+      "documentId": "hcmnmadnyekrm0h6dys01n9h",
+      "name": "H-1 / STAREX Bus",
+      "slug": "h-1-starex-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32493,
+      "documentId": "zwcuwt2s9pq9bq0bwxvqm8w1",
+      "name": "H-1 Cargo",
+      "slug": "h-1-cargo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32494,
+      "documentId": "r1s1sm8t2nhozsa14z963zp5",
+      "name": "H-1 Platform/Chassis",
+      "slug": "h-1-platformchassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32495,
+      "documentId": "j3v25is6zylmqf0v4w7634tp",
+      "name": "H-1 Travel",
+      "slug": "h-1-travel",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32496,
+      "documentId": "dl830dcs9v2d65i8ivgq511e",
+      "name": "H-1 Van",
+      "slug": "h-1-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32499,
+      "documentId": "sm0070qjrk1b4bsca5geu04c",
+      "name": "H100",
+      "slug": "h100",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32500,
+      "documentId": "zgvzpgjqvwnf368o6j95d67p",
+      "name": "H100 Bus",
+      "slug": "h100-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32502,
+      "documentId": "b3696y69txm23i1anzue9xs6",
+      "name": "H100 Van",
+      "slug": "h100-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32506,
+      "documentId": "l7wj4n59gjp6unbcmro0ut3f",
+      "name": "H350 Bus",
+      "slug": "h350-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32507,
+      "documentId": "dk4egep6dz1bqwu880nbcnxo",
+      "name": "H350 Platform/Chassis",
+      "slug": "h350-platformchassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32508,
+      "documentId": "tr85qt00px24yjoq38t6kqpj",
+      "name": "H350 Van",
+      "slug": "h350-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32538,
+      "documentId": "e85sv9nfhot02ovx8f4mvpev",
+      "name": "HIGHWAY VAN",
+      "slug": "highway-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32612,
+      "documentId": "utnpgq9vp6frvaoz54ytnpa1",
+      "name": "IB)",
+      "slug": "ib",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32703,
+      "documentId": "ej084ze8t9tj7rnhw0qkjen7",
+      "name": "IONIQ",
+      "slug": "ioniq",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32704,
+      "documentId": "wy23e834nfqjaequ30okd7g9",
+      "name": "IONIQ 5",
+      "slug": "ioniq-5",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32944,
+      "documentId": "tay0f5hsyamm49qbgn83av5t",
+      "name": "KONA",
+      "slug": "kona",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32946,
+      "documentId": "k84pxxk66uzjpmfleg6i2fe0",
+      "name": "KONA SUV Van",
+      "slug": "kona-suv-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33060,
+      "documentId": "mupay5hoxo0wvnrd0ju3bpba",
+      "name": "LANTRA I",
+      "slug": "lantra-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33061,
+      "documentId": "jir2ilhe4fexulteltsm75qq",
+      "name": "LANTRA II",
+      "slug": "lantra-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33063,
+      "documentId": "vivsh7oad64m210wcyp3wg63",
+      "name": "LANTRA II Estate",
+      "slug": "lantra-ii-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33232,
+      "documentId": "bnpvzj38douz7z74rpgje12x",
+      "name": "Lantra",
+      "slug": "lantra",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33392,
+      "documentId": "doj8oayx1z4st5yqz96sqnq9",
+      "name": "MATRIX",
+      "slug": "matrix",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33937,
+      "documentId": "kaja2k337dfkdi0h5y3heuaq",
+      "name": "NEXO",
+      "slug": "nexo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34255,
+      "documentId": "lkoe545rhiwqaixmrulf2714",
+      "name": "PDEN)",
+      "slug": "pden",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34338,
+      "documentId": "kwo40s8jjvopt2wj3rri83j4",
+      "name": "PONY",
+      "slug": "pony",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34938,
+      "documentId": "nwed0iteruwgz7oz2z06n67d",
+      "name": "S COUPE",
+      "slug": "s-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35015,
+      "documentId": "na8i2hqgrgh3p68j96lmckvn",
+      "name": "SANTA FÉ I",
+      "slug": "santa-f-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35016,
+      "documentId": "fx2ayewkazq32yr4i0zt8hj2",
+      "name": "SANTA FÉ II",
+      "slug": "santa-f-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35019,
+      "documentId": "osyt976uroumliyjy6vat7a4",
+      "name": "SANTA F� III",
+      "slug": "santa-f-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35315,
+      "documentId": "et1eonhbat08jbmvfzzq8mx7",
+      "name": "SOLARIS Saloon",
+      "slug": "solaris-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35321,
+      "documentId": "qg7wr889dlu4mu5b3lt021sq",
+      "name": "SONATA II",
+      "slug": "sonata-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35322,
+      "documentId": "o2r9qjs6qmdojzwjqeje1n9w",
+      "name": "SONATA III",
+      "slug": "sonata-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35323,
+      "documentId": "u9gv1tklezq5lx25cxd8hmg1",
+      "name": "SONATA IV",
+      "slug": "sonata-iv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35324,
+      "documentId": "yelviwmi1her7wpkqqinpmpd",
+      "name": "SONATA V",
+      "slug": "sonata-v",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35325,
+      "documentId": "faprtmh0afxyl8rkv2v69ecr",
+      "name": "SONATA VI",
+      "slug": "sonata-vi",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35326,
+      "documentId": "xe2tiuuojz8ju1azzce5oodj",
+      "name": "SONATA VII",
+      "slug": "sonata-vii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35327,
+      "documentId": "ahfkoom91pqr0mpdi0oc5q9r",
+      "name": "SONATA VIII",
+      "slug": "sonata-viii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35472,
+      "documentId": "zlstj8k6yt9e0rbida63zpjl",
+      "name": "STARIA Bus",
+      "slug": "staria-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35473,
+      "documentId": "o52v9crf6hicgj6554uiz05g",
+      "name": "STARIA Van",
+      "slug": "staria-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35601,
+      "documentId": "pwyyu8tpsyuk2v25rcj9f54w",
+      "name": "Santa Fe",
+      "slug": "santa-fe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35607,
+      "documentId": "jw4vsg596ect8cir4hx8gzso",
+      "name": "Satellite",
+      "slug": "satellite",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35629,
+      "documentId": "sapxyg00ntyhsdt04wt56ekz",
+      "name": "Scoupe",
+      "slug": "scoupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35665,
+      "documentId": "vcjx9qd42ai3ci9g9kck72qq",
+      "name": "Sonata",
+      "slug": "sonata",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35738,
+      "documentId": "j102f5xzvon25pkpjwsptgl3",
+      "name": "Stellar",
+      "slug": "stellar",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35915,
+      "documentId": "crfer6k45cpaa0sf8t9zic45",
+      "name": "TERRACAN",
+      "slug": "terracan",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36080,
+      "documentId": "zz18vy9bjdkvv35xot10mhru",
+      "name": "TRAJET",
+      "slug": "trajet",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36184,
+      "documentId": "n2mo94n94a1n5aryksr6orzh",
+      "name": "TUCSON",
+      "slug": "tucson",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36187,
+      "documentId": "ywri0tugvjes76q342mf7sa9",
+      "name": "TUCSON SUV Van",
+      "slug": "tucson-suv-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36447,
+      "documentId": "unhvlh2q038k6p8sk9592b6t",
+      "name": "VELOSTER",
+      "slug": "veloster",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36888,
+      "documentId": "z7dthy0h1bnol2nypqc8b7j5",
+      "name": "XG",
+      "slug": "xg",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37334,
+      "documentId": "rv6ikwnk9ejucx4qw6k36un4",
+      "name": "i10",
+      "slug": "i10",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37336,
+      "documentId": "vyd40gip2uti5ay2nm80ojmj",
+      "name": "i10 II",
+      "slug": "i10-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37339,
+      "documentId": "py7jpo9d07pt6sbb7rnzhmx6",
+      "name": "i10 III",
+      "slug": "i10-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37340,
+      "documentId": "pzqz1hdbxtkvgs9xa059c3yk",
+      "name": "i20",
+      "slug": "i20",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37341,
+      "documentId": "go8l8d96t0isye6v6klbw1w7",
+      "name": "i20 ACTIVE",
+      "slug": "i20-active",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37343,
+      "documentId": "yyjcnetnene814iqqeojjq10",
+      "name": "i20 II",
+      "slug": "i20-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37344,
+      "documentId": "i1mt448zz46qxdpk63ep0547",
+      "name": "i20 II Coupe",
+      "slug": "i20-ii-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37346,
+      "documentId": "zldiu3og8dh5vp636h8qqnnk",
+      "name": "i20 II Hatchback Van (GB,",
+      "slug": "i20-ii-hatchback-van-gb",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37347,
+      "documentId": "f6hy5rneqbovx49ukdm87jwg",
+      "name": "i20 III",
+      "slug": "i20-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37349,
+      "documentId": "okq1tdo8rx1z7qmai2y3vsii",
+      "name": "i30",
+      "slug": "i30",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37353,
+      "documentId": "rne6xix0ef29ykkq377w7vzm",
+      "name": "i30 Coupe",
+      "slug": "i30-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37354,
+      "documentId": "rv28vbe6rik66ktxfovjsdgr",
+      "name": "i30 Estate",
+      "slug": "i30-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37356,
+      "documentId": "xlbs81b0oyc5klgy6hetdcjf",
+      "name": "i30 FASTBACK (PDE,",
+      "slug": "i30-fastback-pde",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37357,
+      "documentId": "lu86np35563bs3y75c11y6nf",
+      "name": "i30 Hatchback Van",
+      "slug": "i30-hatchback-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37358,
+      "documentId": "ru6cu0mrlj91z4l1qx1gmc1k",
+      "name": "i30 Kombi Van",
+      "slug": "i30-kombi-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37360,
+      "documentId": "qs4lny6rkbml94fwm9u7ncwh",
+      "name": "i40",
+      "slug": "i40",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37362,
+      "documentId": "tocgogmakohkmjwjkz422626",
+      "name": "i40 CW",
+      "slug": "i40-cw",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37373,
+      "documentId": "fo45ppztiw6tajqti48c2szj",
+      "name": "ix20",
+      "slug": "ix20",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37374,
+      "documentId": "kgtnpjeqflsz5xrd4lfz353d",
+      "name": "ix35",
+      "slug": "ix35",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37376,
+      "documentId": "wazw2bxqqbvo9v5fp1moehbu",
+      "name": "ix55",
+      "slug": "ix55",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

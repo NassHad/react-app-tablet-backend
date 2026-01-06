@@ -1,0 +1,13 @@
+{
+  "brandInfo": {
+    "id": 643,
+    "documentId": "jis29d2cd060vfhne54zsbho",
+    "name": "HUANGHAI",
+    "slug": "huanghai",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 0,
+  "exportDate": "2026-01-06T19:34:16.867Z",
+  "models": []
+}

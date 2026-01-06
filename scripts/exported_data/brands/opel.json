@@ -1,0 +1,710 @@
+{
+  "brandInfo": {
+    "id": 719,
+    "documentId": "vztjm6zcel70tz131k4kg4ag",
+    "name": "OPEL",
+    "slug": "opel",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 87,
+  "exportDate": "2026-01-06T19:34:16.936Z",
+  "models": [
+    {
+      "id": 29213,
+      "documentId": "z1l7nbxjctk802bx6b9f3a2p",
+      "name": "AGILA",
+      "slug": "agila",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29307,
+      "documentId": "rrm8d77hup1u9xi7aihfjn9v",
+      "name": "AMPERA-E",
+      "slug": "ampera-e",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29386,
+      "documentId": "uricg2mvslkmlawso28de708",
+      "name": "ASTRA F",
+      "slug": "astra-f",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29387,
+      "documentId": "vsrpt3e4aj8apzapq228z31b",
+      "name": "ASTRA F CLASSIC Estate",
+      "slug": "astra-f-classic-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29389,
+      "documentId": "v572g7x940br3xal4uw1tozm",
+      "name": "ASTRA F CLASSIC Saloon",
+      "slug": "astra-f-classic-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29390,
+      "documentId": "ernktq0odrwtbq23rtqkll9g",
+      "name": "ASTRA F Convertible",
+      "slug": "astra-f-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29391,
+      "documentId": "r3jfz0j7ol6ube1h6jvhkub8",
+      "name": "ASTRA F Estate",
+      "slug": "astra-f-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29392,
+      "documentId": "bqntnzn1550cs66djprt72oo",
+      "name": "ASTRA F Estate Van",
+      "slug": "astra-f-estate-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29393,
+      "documentId": "czc5xr8ldktg2uepirk9ejfh",
+      "name": "ASTRA F Hatchback",
+      "slug": "astra-f-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29395,
+      "documentId": "zt2mag6tez302fbnm9b5ovqe",
+      "name": "ASTRA G",
+      "slug": "astra-g",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29400,
+      "documentId": "a26clmxyuc1cm4mwd0x5cozi",
+      "name": "ASTRA G Convertible",
+      "slug": "astra-g-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29401,
+      "documentId": "mw6zzdt2qmumblgb3gykatod",
+      "name": "ASTRA G Coupe",
+      "slug": "astra-g-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29402,
+      "documentId": "t1f942psersznc8mx052sypx",
+      "name": "ASTRA G Estate",
+      "slug": "astra-g-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29403,
+      "documentId": "rjc5fi3m54a35tv848qe7xzi",
+      "name": "ASTRA G Estate Van",
+      "slug": "astra-g-estate-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29404,
+      "documentId": "ldrhgen7h632xx2k4j2xgbp1",
+      "name": "ASTRA G Hatchback",
+      "slug": "astra-g-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29405,
+      "documentId": "w494vb0f1njqcqns3flrbw3z",
+      "name": "ASTRA G Saloon",
+      "slug": "astra-g-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29406,
+      "documentId": "xezp6tvndmgy3tawtg949aax",
+      "name": "ASTRA H",
+      "slug": "astra-h",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29407,
+      "documentId": "d05l2o12ovfobxw7rwsyppee",
+      "name": "ASTRA H CLASSIC Estate",
+      "slug": "astra-h-classic-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29409,
+      "documentId": "s655pcqub3r7242t7svv8man",
+      "name": "ASTRA H CLASSIC Saloon",
+      "slug": "astra-h-classic-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29410,
+      "documentId": "dtr35lvg6k1etahnch61d58h",
+      "name": "ASTRA H Estate",
+      "slug": "astra-h-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29411,
+      "documentId": "vu9qkvh6iu4vyp13icl8grgz",
+      "name": "ASTRA H Estate Van",
+      "slug": "astra-h-estate-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29412,
+      "documentId": "qupgg91l5zibtajl5wqfng1s",
+      "name": "ASTRA H GTC",
+      "slug": "astra-h-gtc",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29413,
+      "documentId": "k99k3ypanzef1rx7szd6hypc",
+      "name": "ASTRA H Saloon",
+      "slug": "astra-h-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29414,
+      "documentId": "tgu5rggeb5o3jjhsq19zi03r",
+      "name": "ASTRA H TwinTop",
+      "slug": "astra-h-twintop",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29416,
+      "documentId": "djo9ke9zbndvunbwwn61bmgt",
+      "name": "ASTRA J",
+      "slug": "astra-j",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29417,
+      "documentId": "eqlh0bvzvgwcail88s4y3ucp",
+      "name": "ASTRA J Estate Van",
+      "slug": "astra-j-estate-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29418,
+      "documentId": "edp0gl922aycl4ui8w4i59ox",
+      "name": "ASTRA J GTC",
+      "slug": "astra-j-gtc",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29420,
+      "documentId": "p2dj83z5f3m3osvm0aiemaab",
+      "name": "ASTRA J Saloon",
+      "slug": "astra-j-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29421,
+      "documentId": "z1jx9fh0ovp0dqx1jtmbj8tv",
+      "name": "ASTRA J Sports Tourer",
+      "slug": "astra-j-sports-tourer",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29422,
+      "documentId": "hes3n1wktqym9i7rnln98zel",
+      "name": "ASTRA K",
+      "slug": "astra-k",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29425,
+      "documentId": "mnb59frsqae2guhpj4oja8t3",
+      "name": "ASTRA K Sports Tourer",
+      "slug": "astra-k-sports-tourer",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29426,
+      "documentId": "dfmi6utux4z29f1xom4qunc4",
+      "name": "ASTRA L",
+      "slug": "astra-l",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29427,
+      "documentId": "gj6ro6pwyk0mzo9gvaapr75p",
+      "name": "ASTRA L Sports Tourer",
+      "slug": "astra-l-sports-tourer",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29577,
+      "documentId": "h0yx3uu0lxe1hvck3co162zr",
+      "name": "Admiral",
+      "slug": "admiral",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29613,
+      "documentId": "wyyhy6t6usz1wnrtlq03ppf5",
+      "name": "Antara",
+      "slug": "antara",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29616,
+      "documentId": "vgl6mabs31whfmrn3mx7yc4a",
+      "name": "Arena",
+      "slug": "arena",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29621,
+      "documentId": "k17ohgfthejg5fb7kl7771ms",
+      "name": "Ascona",
+      "slug": "ascona",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29622,
+      "documentId": "fr584aw3eqhdpftutxmtrtqu",
+      "name": "Astra",
+      "slug": "astra",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29624,
+      "documentId": "bjmmzb3qxtdogj6a4tobh28g",
+      "name": "Astra GTC",
+      "slug": "astra-gtc",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29625,
+      "documentId": "bzrq7kbx6wkxcgvkr9hi7mek",
+      "name": "Astra Twin Top",
+      "slug": "astra-twin-top",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30089,
+      "documentId": "rm8oviuir0el2js1pq2fasdv",
+      "name": "CALIBRA A",
+      "slug": "calibra-a",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30099,
+      "documentId": "vuahhi8vftejq537v3wne72j",
+      "name": "CAMPO",
+      "slug": "campo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30168,
+      "documentId": "modgtvy1hanl8f51ux7e663v",
+      "name": "CASCADA",
+      "slug": "cascada",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30510,
+      "documentId": "fo81j9lflhla1dcuoa1tx94b",
+      "name": "COMBO Box Body /Estate",
+      "slug": "combo-box-body-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30511,
+      "documentId": "cjaa2ebnjok1nevln8eyynz5",
+      "name": "COMBO Box Body/MPV",
+      "slug": "combo-box-bodympv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30514,
+      "documentId": "qzanea7ui04n58inihat1zi8",
+      "name": "COMBO E Tour / Life",
+      "slug": "combo-e-tour-life",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30524,
+      "documentId": "vb2ef73wfnag7s591q8iexe3",
+      "name": "COMBO Platform/Chassis",
+      "slug": "combo-platformchassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30526,
+      "documentId": "e3vk9erbje1grfw9653ysh4o",
+      "name": "COMBO Tour",
+      "slug": "combo-tour",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30604,
+      "documentId": "wd6hffwuorpg9y0whsksncct",
+      "name": "CORSA B",
+      "slug": "corsa-b",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30605,
+      "documentId": "e9k3xuzhl8zpj2iq2dz4adcr",
+      "name": "CORSA B Box",
+      "slug": "corsa-b-box",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30606,
+      "documentId": "pyzi0erf08fad5338k6grer6",
+      "name": "CORSA B Estate",
+      "slug": "corsa-b-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30608,
+      "documentId": "zpc9c9k1zudrp2uql21shrm2",
+      "name": "CORSA C",
+      "slug": "corsa-c",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30609,
+      "documentId": "cmtj2j6jaykkajfsbdr1z3ka",
+      "name": "CORSA C Box",
+      "slug": "corsa-c-box",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30611,
+      "documentId": "obsmpv9wqj7v8pnygtuq7y6i",
+      "name": "CORSA D",
+      "slug": "corsa-d",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30613,
+      "documentId": "ktw2ncuvrdjq7ogt94ovyq5c",
+      "name": "CORSA D Van",
+      "slug": "corsa-d-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30614,
+      "documentId": "w9nmu736vnnmvhshaf1ciq63",
+      "name": "CORSA E",
+      "slug": "corsa-e",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30615,
+      "documentId": "r6hn0ev34cw1wdbjzrhsbnwz",
+      "name": "CORSA E Hatchback Van",
+      "slug": "corsa-e-hatchback-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30617,
+      "documentId": "daxzidg3oipp0gs7bhujoe1v",
+      "name": "CORSA F",
+      "slug": "corsa-f",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30698,
+      "documentId": "zz559i7eyvpu82cqb8awk5qz",
+      "name": "CROSSLAND X",
+      "slug": "crossland-x",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30862,
+      "documentId": "j583atibp9zc6bjr8jtonxrg",
+      "name": "Combo",
+      "slug": "combo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30863,
+      "documentId": "i6s0xuo5lp8nw8xbo7ntmo2w",
+      "name": "Combo / Combo Tour",
+      "slug": "combo--combo-tour",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30868,
+      "documentId": "uq0b9jr9ud6zrahm96jzjvz8",
+      "name": "Corsa",
+      "slug": "corsa",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32045,
+      "documentId": "v2f2igbddp6qr8j7zz4utbxu",
+      "name": "Frontera",
+      "slug": "frontera",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32170,
+      "documentId": "shzb7ethr5yieyjf3wyua9py",
+      "name": "GME Midi",
+      "slug": "gme-midi",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32171,
+      "documentId": "mresf4t51zcev9dyvfcp45ws",
+      "name": "GME Rascal",
+      "slug": "gme-rascal",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32485,
+      "documentId": "jjy7fths9aopsyc2afdzi97d",
+      "name": "Grandland",
+      "slug": "grandland",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32731,
+      "documentId": "krdsfwc6fppv1qctgwrjwj2y",
+      "name": "Insignia",
+      "slug": "insignia",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32732,
+      "documentId": "a4reru7xsd8f2ghr7szdq4go",
+      "name": "Insignia Country",
+      "slug": "insignia-country",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32733,
+      "documentId": "k87x3l0qqp3uzt9aurddydsw",
+      "name": "Insignia Grand Sport",
+      "slug": "insignia-grand-sport",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32734,
+      "documentId": "jjyaonder4jrn165laifwpv8",
+      "name": "Insignia Sports",
+      "slug": "insignia-sports",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32906,
+      "documentId": "yuvgoictkftpbfl1iktqha4x",
+      "name": "KARL",
+      "slug": "karl",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32971,
+      "documentId": "gi4gtq3138mr6d4xqmifbstx",
+      "name": "Karl / Karl Rocks",
+      "slug": "karl--karl-rocks",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33462,
+      "documentId": "we2r9w1lr1dd8gnyg92qh991",
+      "name": "MERIVA A MPV",
+      "slug": "meriva-a-mpv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33464,
+      "documentId": "na9tz3g739z3yh32kzr0dmnm",
+      "name": "MERIVA B MPV",
+      "slug": "meriva-b-mpv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33803,
+      "documentId": "i9timimvaht8oeaiikwyvooc",
+      "name": "Meriva",
+      "slug": "meriva",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33822,
+      "documentId": "haavw948tkr7x37us4wy3mxn",
+      "name": "Mokka / Mokka",
+      "slug": "mokka--mokka",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33878,
+      "documentId": "nhjkowtosgumcqssppaa3dk6",
+      "name": "Movano",
+      "slug": "movano",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33880,
+      "documentId": "d8myy9eytzst75qqxtlenpu2",
+      "name": "Movano C / e-Movano",
+      "slug": "movano-c--e-movano",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34127,
+      "documentId": "o53nbd823kwgygs19kmb0zjo",
+      "name": "Omega",
+      "slug": "omega",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34909,
+      "documentId": "mo9qy2iiak9aawekpovi0pp0",
+      "name": "Rocks-e",
+      "slug": "rocks-e",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36430,
+      "documentId": "h4zsot4g11sbc7u9gu55zy4l",
+      "name": "VECTRA C GTS",
+      "slug": "vectra-c-gts",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36706,
+      "documentId": "q01gue9mmtd55bbn0i88m76m",
+      "name": "Vivaro",
+      "slug": "vivaro",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36707,
+      "documentId": "wxtby0dadkxyl417tb8d97c0",
+      "name": "Vivaro / Vivaro-e",
+      "slug": "vivaro--vivaro-e",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37194,
+      "documentId": "odv80zbuprzu2uue0kyvi61k",
+      "name": "ZAFIRA / ZAFIRA FAMILY B",
+      "slug": "zafira-zafira-family-b",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37196,
+      "documentId": "ur573l26ffwotgnlwbpyvj0j",
+      "name": "ZAFIRA A MPV",
+      "slug": "zafira-a-mpv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37290,
+      "documentId": "zgi11aomzvk43hjja383hdkn",
+      "name": "Zafira",
+      "slug": "zafira",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37291,
+      "documentId": "rhk0zny6syn27m2bfh8c0mad",
+      "name": "Zafira / Zafira",
+      "slug": "zafira--zafira",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

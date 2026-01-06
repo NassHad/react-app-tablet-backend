@@ -1,0 +1,758 @@
+{
+  "brandInfo": {
+    "id": 773,
+    "documentId": "o96zny2mng1q9308bn3vpvyn",
+    "name": "TOYOTA",
+    "slug": "toyota",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 93,
+  "exportDate": "2026-01-06T19:34:17.030Z",
+  "models": [
+    {
+      "id": 28663,
+      "documentId": "t1i4l13gwl01u32jkk1uxn6v",
+      "name": "4 RUNNER",
+      "slug": "4-runner",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28665,
+      "documentId": "mjz9ozgzhhpfp4ybh0wewwo5",
+      "name": "4 RUNNER II",
+      "slug": "4-runner-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29508,
+      "documentId": "t6s0sw44cbi8lp4932jngdpl",
+      "name": "AURIS",
+      "slug": "auris",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29511,
+      "documentId": "z0ez5njqa6jy4kah87y5rp5k",
+      "name": "AURIS VAN Hatchback Van",
+      "slug": "auris-van-hatchback-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29539,
+      "documentId": "xpla9dutc2fy4a1nevego56s",
+      "name": "AVENSIS",
+      "slug": "avensis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29540,
+      "documentId": "m8do7xn9hri3qqkdo9hqlgh3",
+      "name": "AVENSIS Estate",
+      "slug": "avensis-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29543,
+      "documentId": "ttxxlapkdlik5n7cpe2r8u5k",
+      "name": "AVENSIS Liftback",
+      "slug": "avensis-liftback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29544,
+      "documentId": "twrg60dsd2krwug2fk90e7ne",
+      "name": "AVENSIS Saloon",
+      "slug": "avensis-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29545,
+      "documentId": "pbc2o25wa0y5sailsv8m6b4v",
+      "name": "AVENSIS VERSO",
+      "slug": "avensis-verso",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29563,
+      "documentId": "tivmbm69ttzaovrzl0p81xzs",
+      "name": "AYGO",
+      "slug": "aygo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29861,
+      "documentId": "kgf1f618fyu9wraml10z98fh",
+      "name": "Blizzard",
+      "slug": "blizzard",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29929,
+      "documentId": "iejd7f7re9vz27zr5t2v9lmd",
+      "name": "C-HR",
+      "slug": "c-hr",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30101,
+      "documentId": "ov9qhbimajl5x749daosqfcq",
+      "name": "CAMRY",
+      "slug": "camry",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30102,
+      "documentId": "i3m9pn4lzkg36zu0vviwmd32",
+      "name": "CAMRY Estate",
+      "slug": "camry-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30104,
+      "documentId": "xknop8nczwd4ghfl2h1bmym3",
+      "name": "CAMRY Saloon",
+      "slug": "camry-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30135,
+      "documentId": "avug1orxlmmq4i5wulvcdtu4",
+      "name": "CARINA E VI",
+      "slug": "carina-e-vi",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30136,
+      "documentId": "ihgdi7lbwnfjbazeyu9b8zuz",
+      "name": "CARINA E VI Saloon",
+      "slug": "carina-e-vi-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30137,
+      "documentId": "y0q5itqnb9po08ejtcdt3hiw",
+      "name": "CARINA E VI Sportswagon",
+      "slug": "carina-e-vi-sportswagon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30322,
+      "documentId": "h3yzxln72ey8yrxptnhikt9e",
+      "name": "CELICA Convertible",
+      "slug": "celica-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30323,
+      "documentId": "fqqucjkwvc3dj9jy04q0whjc",
+      "name": "CELICA Coupe",
+      "slug": "celica-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30568,
+      "documentId": "waefy3qf3gvsggqdw3exj3vu",
+      "name": "COROLLA",
+      "slug": "corolla",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30571,
+      "documentId": "irbrmn4p233hqtr00th46fhv",
+      "name": "COROLLA Compact",
+      "slug": "corolla-compact",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30573,
+      "documentId": "slm0bdf382s8fdybbq7ak2am",
+      "name": "COROLLA Estate",
+      "slug": "corolla-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30581,
+      "documentId": "thphlwnzwwpa9pamoat094ok",
+      "name": "COROLLA Liftback",
+      "slug": "corolla-liftback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30582,
+      "documentId": "a97v55hrzx79ikptlau7cc5l",
+      "name": "COROLLA Saloon",
+      "slug": "corolla-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30589,
+      "documentId": "d2y35xucnxiycfqjfj9vq2cx",
+      "name": "COROLLA Verso",
+      "slug": "corolla-verso",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30807,
+      "documentId": "n544m4czgq0mxsfpywp9af1a",
+      "name": "Carina E Liftback",
+      "slug": "carina-e-liftback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30819,
+      "documentId": "jdgsa40fprofxdfrs5bxrvuw",
+      "name": "Celica",
+      "slug": "celica",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30867,
+      "documentId": "u5ax9s1pwpc6nqtvkqsuctv3",
+      "name": "Corolla / Corolla",
+      "slug": "corolla--corolla",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31229,
+      "documentId": "csg1y9px17jzucklioxmnmp1",
+      "name": "Dyna",
+      "slug": "dyna",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31534,
+      "documentId": "ukmwrtdy5vpddd5dx9ke7m0x",
+      "name": "Estate\"",
+      "slug": "estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31685,
+      "documentId": "zbopxi3c023sh08f9bsvcga0",
+      "name": "FJ CRUISER",
+      "slug": "fj-cruiser",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32408,
+      "documentId": "aqno7llf326wvck5qx842fwu",
+      "name": "GT 86 Coupe",
+      "slug": "gt-86-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32416,
+      "documentId": "bgsa95j2yfhb8ubzz8mveq06",
+      "name": "GT86",
+      "slug": "gt86",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32530,
+      "documentId": "huswmfgcfq3a05lk6aimh866",
+      "name": "HIACE IV Bus",
+      "slug": "hiace-iv-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32531,
+      "documentId": "lksf05yajgm8gpowr7nq3dhe",
+      "name": "HIACE IV Van",
+      "slug": "hiace-iv-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32556,
+      "documentId": "xrs014ag9vxxgpzdnm81f24b",
+      "name": "HILUX VII Pickup",
+      "slug": "hilux-vii-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32559,
+      "documentId": "hp9vgqw3nkm8bob3k9tqvq9k",
+      "name": "HILUX VIII Pickup",
+      "slug": "hilux-viii-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32594,
+      "documentId": "emti6harh726dg1oe042bike",
+      "name": "Hi-Lux",
+      "slug": "hi-lux",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32595,
+      "documentId": "vmkkrwaw00bhwvz8rkssp8vj",
+      "name": "Highlander",
+      "slug": "highlander",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32706,
+      "documentId": "xwtdyvhm504j09go28sq0m8o",
+      "name": "IQ",
+      "slug": "iq",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33038,
+      "documentId": "a3qpanvnzn17uchdy1uldsqi",
+      "name": "LAND CRUISER",
+      "slug": "land-cruiser",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33039,
+      "documentId": "vu82qht65agt1p8h4ovf8pnh",
+      "name": "LAND CRUISER 100",
+      "slug": "land-cruiser-100",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33040,
+      "documentId": "tfdaqp2twh60qsoqra2ez72k",
+      "name": "LAND CRUISER 200",
+      "slug": "land-cruiser-200",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33042,
+      "documentId": "fhwmnjg61q97v8ty2waeu5sx",
+      "name": "LAND CRUISER 80",
+      "slug": "land-cruiser-80",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33043,
+      "documentId": "iowxom6f4omgy8cuv75zspuu",
+      "name": "LAND CRUISER 90",
+      "slug": "land-cruiser-90",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33044,
+      "documentId": "ck4pg72ly0cjqo9wu85o7eus",
+      "name": "LAND CRUISER Hardtop",
+      "slug": "land-cruiser-hardtop",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33045,
+      "documentId": "ns56u64zvuw31jjeloqz6bqq",
+      "name": "LAND CRUISER PRADO",
+      "slug": "land-cruiser-prado",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33141,
+      "documentId": "lc9p7k0rr9e9pyzzhik8glen",
+      "name": "LITEACE Bus",
+      "slug": "liteace-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33142,
+      "documentId": "zcfbpispp99icwm9admy1i7y",
+      "name": "LITEACE Van",
+      "slug": "liteace-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33229,
+      "documentId": "xr6sa02n93ul0hk8fx27msfq",
+      "name": "Land-Cruiser 150",
+      "slug": "land-cruiser-150",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33230,
+      "documentId": "njoamkju07zvjujioqe9ksur",
+      "name": "Land-Cruiser 500",
+      "slug": "land-cruiser-500",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33231,
+      "documentId": "r5g82w49cxtmtpx0una7pu3s",
+      "name": "Land-Cruiser SW V8",
+      "slug": "land-cruiser-sw-v8",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33575,
+      "documentId": "il54n3otxh0195uj3liwy8cx",
+      "name": "MIRAI",
+      "slug": "mirai",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33687,
+      "documentId": "x2tpvy9ubv3b3sr8dtyzumb3",
+      "name": "MR2",
+      "slug": "mr2",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33689,
+      "documentId": "uftfjhqe1rikpvf96lcn6crs",
+      "name": "MR2 II",
+      "slug": "mr2-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33690,
+      "documentId": "rig3ayt4ysb98z2den1p74cz",
+      "name": "MR2 III",
+      "slug": "mr2-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34205,
+      "documentId": "djzbdg1yq74v46bpmf952v56",
+      "name": "PASEO Convertible",
+      "slug": "paseo-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34206,
+      "documentId": "eyzvv4o88phrwgp75woj8f7n",
+      "name": "PASEO Coupe",
+      "slug": "paseo-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34285,
+      "documentId": "d4mqekwyegh3ctte45i3nck0",
+      "name": "PICNIC",
+      "slug": "picnic",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34367,
+      "documentId": "t5w8oe05tawgmf8wcq6w3g7h",
+      "name": "PREVIA I",
+      "slug": "previa-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34368,
+      "documentId": "wv9gul6xzaeaaro5p3id8m0m",
+      "name": "PREVIA II",
+      "slug": "previa-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34395,
+      "documentId": "vqd99c3wsnyg5vwcm3asjr2p",
+      "name": "PRIUS",
+      "slug": "prius",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34396,
+      "documentId": "tv4vji9dkpsjd2i6r5dkornq",
+      "name": "PRIUS C",
+      "slug": "prius-c",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34397,
+      "documentId": "fvll8nom9kszq7b8ifssqcir",
+      "name": "PRIUS Liftback",
+      "slug": "prius-liftback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34399,
+      "documentId": "tnxa6j1pyyj661artnqsur4e",
+      "name": "PRIUS PLUS",
+      "slug": "prius-plus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34401,
+      "documentId": "b3h3b8mb6jbe2jifn619jyhm",
+      "name": "PRIUS Saloon",
+      "slug": "prius-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34404,
+      "documentId": "kry5nlxupb33algsgya4t1v4",
+      "name": "PROACE Bus",
+      "slug": "proace-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34406,
+      "documentId": "tvgnlg6tsrt1cdnc2qv9u1aa",
+      "name": "PROACE CITY Box Body/ MPV",
+      "slug": "proace-city-box-body-mpv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34407,
+      "documentId": "coqrx5lwydita6iant5kxge0",
+      "name": "PROACE CITY VERSO MPV",
+      "slug": "proace-city-verso-mpv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34413,
+      "documentId": "to58ivseoopgc9sr8wiojmk8",
+      "name": "PROACE Van",
+      "slug": "proace-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34520,
+      "documentId": "m18ripfwv93vkhturu9asjy8",
+      "name": "Prius Plug in Hybrid",
+      "slug": "prius-plug-in-hybrid",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34521,
+      "documentId": "zz36ru9xa9xbhb0gcfu8e7ye",
+      "name": "Proace",
+      "slug": "proace",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34522,
+      "documentId": "z69gnqyp3t7ys84ew8ylnt7v",
+      "name": "Proace / Proace Verso",
+      "slug": "proace--proace-verso",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34523,
+      "documentId": "qip1cmkpyr9funvrz9dyl1wn",
+      "name": "Proace City / City Verso",
+      "slug": "proace-city--city-verso",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34674,
+      "documentId": "vx6d7wus1y15ehuamp2qc51h",
+      "name": "RAV 4 I",
+      "slug": "rav-4-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34675,
+      "documentId": "ew1uxs1qt752a2hbn76drl3a",
+      "name": "RAV 4 I Cabrio",
+      "slug": "rav-4-i-cabrio",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34676,
+      "documentId": "hx50s1xa8dy3an336swajsij",
+      "name": "RAV 4 II",
+      "slug": "rav-4-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34677,
+      "documentId": "hv7hxecvgymela34ri1o8m0i",
+      "name": "RAV 4 III",
+      "slug": "rav-4-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34678,
+      "documentId": "rc8w7o2m96gm0mr2tnpluf4p",
+      "name": "RAV 4 IV",
+      "slug": "rav-4-iv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34680,
+      "documentId": "df2ynmvel3tjp35g0hhsairx",
+      "name": "RAV 4 V",
+      "slug": "rav-4-v",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34883,
+      "documentId": "fgmpdm9yro0s7v75cn90cu2y",
+      "name": "Rav",
+      "slug": "rav",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35475,
+      "documentId": "nr26x7p7wh8vxzt4wuj3c6xv",
+      "name": "STARLET",
+      "slug": "starlet",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35545,
+      "documentId": "ce0o53a2xtszwygxvfsgi8qk",
+      "name": "SUPRA",
+      "slug": "supra",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35655,
+      "documentId": "ftcygu2svdf6wwbdh8cdxn2s",
+      "name": "Sienna",
+      "slug": "sienna",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35778,
+      "documentId": "rvvkhmw53lyfq9chaabb3c07",
+      "name": "Supra GR",
+      "slug": "supra-gr",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36326,
+      "documentId": "p5zvl24s8vhno3gnpv0ozsaa",
+      "name": "URBAN CRUISER",
+      "slug": "urban-cruiser",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36462,
+      "documentId": "xxsu10x4ikp0bj5w8d15iofu",
+      "name": "VERSO",
+      "slug": "verso",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36463,
+      "documentId": "q80kxulbnamb23zyiyqx9ca3",
+      "name": "VERSO S",
+      "slug": "verso-s",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37068,
+      "documentId": "opao883v6poao3qiaoe3y34e",
+      "name": "YARIS",
+      "slug": "yaris",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37071,
+      "documentId": "m8r5ikisxxm19dgr8i0l2rfl",
+      "name": "YARIS CROSS",
+      "slug": "yaris-cross",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37077,
+      "documentId": "vbzu85oi1wq7bq75eiawx5j2",
+      "name": "YARIS VERSO",
+      "slug": "yaris-verso",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37318,
+      "documentId": "acod958th5ozwktsq9j0p59x",
+      "name": "_N2_, _N3_)\"",
+      "slug": "n2-n3",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

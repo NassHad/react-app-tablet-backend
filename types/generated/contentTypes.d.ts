@@ -866,11 +866,11 @@ export interface ApiLightsPositionLightsPosition
     ref: Schema.Attribute.String;
     slug: Schema.Attribute.UID<'name'>;
     sort: Schema.Attribute.Integer;
-    sortOrder: Schema.Attribute.Integer;
     updatedAt: Schema.Attribute.DateTime;
     updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
     usageCount: Schema.Attribute.Integer;
+    vehicleType: Schema.Attribute.String;
   };
 }
 

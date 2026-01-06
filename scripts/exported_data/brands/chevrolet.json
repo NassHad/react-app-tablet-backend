@@ -1,0 +1,294 @@
+{
+  "brandInfo": {
+    "id": 587,
+    "documentId": "um281r9lxfo5mcyt73w0fa9k",
+    "name": "CHEVROLET",
+    "slug": "chevrolet",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 35,
+  "exportDate": "2026-01-06T19:34:16.806Z",
+  "models": [
+    {
+      "id": 29227,
+      "documentId": "yxp6ju356ob9aaubj2jij2ii",
+      "name": "ALERO",
+      "slug": "alero",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29549,
+      "documentId": "cxezhpti0ffz2t2bfab51v78",
+      "name": "AVEO / KALOS Hatchback",
+      "slug": "aveo-kalos-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29550,
+      "documentId": "ujvgbrzs4xk4bhdaqxjlx0sa",
+      "name": "AVEO / KALOS Saloon",
+      "slug": "aveo-kalos-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29551,
+      "documentId": "ylt8p4r8r6qt10j27ppqsbbd",
+      "name": "AVEO Hatchback",
+      "slug": "aveo-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29554,
+      "documentId": "xz65ojd7hhhhflwe0p7iy3sy",
+      "name": "AVEO Saloon",
+      "slug": "aveo-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29748,
+      "documentId": "e1nghgp4erke84ctgrpv89ix",
+      "name": "BOLT",
+      "slug": "bolt",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30095,
+      "documentId": "morhlnhm9re6n8jpb52to572",
+      "name": "CAMARO",
+      "slug": "camaro",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30096,
+      "documentId": "p1xoqifbm0k4ra6yc2pfyvkk",
+      "name": "CAMARO Convertible",
+      "slug": "camaro-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30114,
+      "documentId": "bk5e37ypmts2h0fzz5rzbm9x",
+      "name": "CAPTIVA",
+      "slug": "captiva",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30638,
+      "documentId": "smgdt7q5q45txuv93kr850m7",
+      "name": "CORVETTE",
+      "slug": "corvette",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30639,
+      "documentId": "fdw6xqrb7j16xyr95c7fhm4i",
+      "name": "CORVETTE Convertible",
+      "slug": "corvette-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30709,
+      "documentId": "umg106c6q2krexmaoa7ivp46",
+      "name": "CRUZE",
+      "slug": "cruze",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30710,
+      "documentId": "rz0aulmmuy8qj4pr78ljovv9",
+      "name": "CRUZE Hatchback",
+      "slug": "cruze-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30712,
+      "documentId": "ae3gqs4q8roip4bpsnp2i5p1",
+      "name": "CRUZE Station Wagon",
+      "slug": "cruze-station-wagon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30856,
+      "documentId": "yxxd6vnoc0jo2c5di5hci9xj",
+      "name": "Colorado",
+      "slug": "colorado",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31332,
+      "documentId": "k83z2r92rqwyu7y2sa1b5g5i",
+      "name": "EPICA",
+      "slug": "epica",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31522,
+      "documentId": "sx1p1tsujbbp59dap1kg8ano",
+      "name": "Epica / Tosca",
+      "slug": "epica--tosca",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32520,
+      "documentId": "r8ing1qxzqo6nq4mr38lnk7q",
+      "name": "HHR",
+      "slug": "hhr",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32647,
+      "documentId": "rz7go6dfnsbla8ysvbp6mjzh",
+      "name": "IMPALA Saloon",
+      "slug": "impala-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33001,
+      "documentId": "yq5s6bfs2we36qggcuaszyr2",
+      "name": "LACETTI",
+      "slug": "lacetti",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33321,
+      "documentId": "gzdd5oaucwo9cjg6wy1bno9l",
+      "name": "MALIBU",
+      "slug": "malibu",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33943,
+      "documentId": "un18bc824z7h92zuhg8n2uk7",
+      "name": "NIVA",
+      "slug": "niva",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34002,
+      "documentId": "dt3g53unaopuhvnpgpqvcstg",
+      "name": "NUBIRA Estate",
+      "slug": "nubira-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34111,
+      "documentId": "l3yiyv4g6ieak9wb1ivkho8u",
+      "name": "ORLANDO",
+      "slug": "orlando",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34737,
+      "documentId": "k57uqrhdueru6d4rh75ikoou",
+      "name": "REZZO MPV",
+      "slug": "rezzo-mpv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34893,
+      "documentId": "cbpeyul7ynoxa7bd1dkodaqd",
+      "name": "Rezzo / Tacuma",
+      "slug": "rezzo--tacuma",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35351,
+      "documentId": "frlq8971jxq91wdbz9593jdb",
+      "name": "SPARK",
+      "slug": "spark",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35656,
+      "documentId": "s6qzxhicyzxp1nmi6ceguqr2",
+      "name": "Silverado",
+      "slug": "silverado",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35817,
+      "documentId": "ufnns46szve7ib7iqwu2kn5f",
+      "name": "TAHOE",
+      "slug": "tahoe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36079,
+      "documentId": "za4eydieimsp8erth37uvofs",
+      "name": "TRAILBLAZER",
+      "slug": "trailblazer",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36147,
+      "documentId": "d4c50vj3kwwvcvy6n82zsqyv",
+      "name": "TRAX",
+      "slug": "trax",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36267,
+      "documentId": "e4su2tkgsr4r1mx2saxaettd",
+      "name": "Tracker",
+      "slug": "tracker",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36269,
+      "documentId": "zi3siqt19fnvj7ztmch8c8we",
+      "name": "Trafic",
+      "slug": "trafic",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36524,
+      "documentId": "hxggd04j9shqzztow76c11pe",
+      "name": "VIVANT",
+      "slug": "vivant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36599,
+      "documentId": "ko9t7nkttxhg9bf3z46rmh73",
+      "name": "VOLT",
+      "slug": "volt",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

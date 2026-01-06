@@ -1,0 +1,1558 @@
+{
+  "brandInfo": {
+    "id": 136,
+    "documentId": "wx13r2cv76aztmb9rjhk9aco",
+    "name": "VOLKSWAGEN",
+    "slug": "volkswagen",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 193,
+  "exportDate": "2026-01-06T19:34:17.048Z",
+  "models": [
+    {
+      "id": 29294,
+      "documentId": "abub2y9rv9zh5xkwmuw79zdq",
+      "name": "AMAROK",
+      "slug": "amarok",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29295,
+      "documentId": "lrg02m5m4pufrfgjgu4aw9rm",
+      "name": "AMAROK I",
+      "slug": "amarok-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29296,
+      "documentId": "ivvgfutqvkuqeibqdudzk023",
+      "name": "AMAROK Platform/ Chassis",
+      "slug": "amarok-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29370,
+      "documentId": "di2k25x18m5zv1o0p9e2abm4",
+      "name": "ARTEON",
+      "slug": "arteon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29371,
+      "documentId": "opw1ui8yv1le4baqd7zs3bsg",
+      "name": "ARTEON SHOOTING",
+      "slug": "arteon-shooting",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29487,
+      "documentId": "ih7gochmue3q3z879lkqh584",
+      "name": "ATLAS",
+      "slug": "atlas",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29693,
+      "documentId": "tmnyahofmh95gw7s4clx1y3p",
+      "name": "BEETLE",
+      "slug": "beetle",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29694,
+      "documentId": "mrtmhnw61kud0u53sn86c29x",
+      "name": "BEETLE Convertible",
+      "slug": "beetle-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29695,
+      "documentId": "f4e4lric7uccej10opskt7ek",
+      "name": "BEETLE-BEETLE CABRIOLET",
+      "slug": "beetle-beetle-cabriolet",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29756,
+      "documentId": "wbtqjtzi1fejpzgyqicu25tx",
+      "name": "BORA",
+      "slug": "volkswagen-bora",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29757,
+      "documentId": "lcenzc6okpqpg2dxeth13ma9",
+      "name": "BORA I",
+      "slug": "bora-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29758,
+      "documentId": "awc0n0x1mnsktd95cy308k8e",
+      "name": "BORA Variant",
+      "slug": "bora-variant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29810,
+      "documentId": "b3v9ux8vsvhvfjmrxz3zgexf",
+      "name": "Beetle / New Beetle",
+      "slug": "beetle--new-beetle",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29878,
+      "documentId": "uivm5ueivfe7qmwo5r51xdma",
+      "name": "Bora",
+      "slug": "bora",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30061,
+      "documentId": "unv7mynspynrzm7z4exchfki",
+      "name": "CADDY ALLTRACK Box Body/MPV",
+      "slug": "caddy-alltrack-box-bodympv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30064,
+      "documentId": "m2bf2ayrj1sdcpep4oon7u3m",
+      "name": "CADDY ALLTRACK MPV",
+      "slug": "caddy-alltrack-mpv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30066,
+      "documentId": "nxzslvlu66mx5vjxeox2ielx",
+      "name": "CADDY I",
+      "slug": "caddy-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30067,
+      "documentId": "rxykvh0fge85teqwui6gfx9c",
+      "name": "CADDY II",
+      "slug": "caddy-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30068,
+      "documentId": "q26fg5ybr20f611umqnu8yaa",
+      "name": "CADDY II Box Body/MPV",
+      "slug": "caddy-ii-box-bodympv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30069,
+      "documentId": "p2rk3tx4lcmmrc27ucv2hy66",
+      "name": "CADDY II MPV",
+      "slug": "caddy-ii-mpv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30070,
+      "documentId": "r96mxx9y1hg0n8pxnbwv6fhs",
+      "name": "CADDY II Pickup",
+      "slug": "caddy-ii-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30071,
+      "documentId": "hf736fx485rx25lspkhrn56s",
+      "name": "CADDY III",
+      "slug": "caddy-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30072,
+      "documentId": "xg3al5bizagvohowcwzp4ooh",
+      "name": "CADDY III Box",
+      "slug": "caddy-iii-box",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30073,
+      "documentId": "hdh2prk9grn2gb4wso9ilpa6",
+      "name": "CADDY III Box Body/MPV",
+      "slug": "caddy-iii-box-bodympv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30074,
+      "documentId": "yiz5u6gcijd5uxn7s8lh7564",
+      "name": "CADDY III MPV",
+      "slug": "caddy-iii-mpv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30075,
+      "documentId": "stv8eikzrqznt3d7k068pg2p",
+      "name": "CADDY IV",
+      "slug": "caddy-iv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30076,
+      "documentId": "jf85nff0530qgc0e9lenzhut",
+      "name": "CADDY IV Box Body/MPV",
+      "slug": "caddy-iv-box-bodympv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30077,
+      "documentId": "ae3dgcf8xfo9ujlsemeee14t",
+      "name": "CADDY IV MPV",
+      "slug": "caddy-iv-mpv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30078,
+      "documentId": "x88ug0610rp6mfufs1lurzgm",
+      "name": "CADDY V",
+      "slug": "caddy-v",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30079,
+      "documentId": "s7trnuh10or5bhdl6s5lrvql",
+      "name": "CADDY V Box Body/MPV",
+      "slug": "caddy-v-box-bodympv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30080,
+      "documentId": "ue3pa6uoacu8qcreh2qrxa2u",
+      "name": "CADDY V MPV",
+      "slug": "caddy-v-mpv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30093,
+      "documentId": "caknb8znpmqnmv92suxlf74z",
+      "name": "CALIFORNIA T6 Camper",
+      "slug": "california-t6-camper",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30300,
+      "documentId": "evayu0bthr2bo0u4y7vyimlh",
+      "name": "CC",
+      "slug": "cc",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30598,
+      "documentId": "oorfczcaxv4duogtmu6f6keg",
+      "name": "CORRADO",
+      "slug": "corrado",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30668,
+      "documentId": "wuji3g2a31auyniecu6ise0b",
+      "name": "CRAFTER",
+      "slug": "volkswagen-crafter",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30669,
+      "documentId": "kzjmkpttavfjf231vrxhcotu",
+      "name": "CRAFTER 30 35 50",
+      "slug": "crafter-30-35-50",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30670,
+      "documentId": "oxdvuvwrr81u4bsqj60yqhmx",
+      "name": "CRAFTER 30-35 Bus",
+      "slug": "crafter-30-35-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30671,
+      "documentId": "rcp7e8o0k0rtjx8716mji73i",
+      "name": "CRAFTER 30-50 Platform/Chassis",
+      "slug": "crafter-30-50-platformchassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30672,
+      "documentId": "m3itxei9rih5j0nzzz3fylas",
+      "name": "CRAFTER 30-50 Van",
+      "slug": "crafter-30-50-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30673,
+      "documentId": "doxpdls5fj6s4nl2es91ytq2",
+      "name": "CRAFTER Bus",
+      "slug": "crafter-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30674,
+      "documentId": "tn7ft3tyj5lq5s25p3gpe280",
+      "name": "CRAFTER Platform/Chassis",
+      "slug": "crafter-platformchassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30675,
+      "documentId": "uj97bz929h08owd1di0k0y8r",
+      "name": "CRAFTER Van",
+      "slug": "crafter-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30778,
+      "documentId": "w4z8im3sfgvoxy3a1x26cb1q",
+      "name": "Caddy",
+      "slug": "caddy",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30779,
+      "documentId": "ox9y92i8lrdf49b6f388c99l",
+      "name": "Caddy Life",
+      "slug": "caddy-life",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30780,
+      "documentId": "a9t6sf0bro3zei8ggzra68b3",
+      "name": "Caddy Pick-Up",
+      "slug": "caddy-pick-up",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30781,
+      "documentId": "hrjzk6gq19blu6unlmvaeo4u",
+      "name": "Caddy/ Life/ Cargo",
+      "slug": "caddy-life-cargo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30805,
+      "documentId": "ql2pjfzehumcxq7soej23lch",
+      "name": "Caravelle",
+      "slug": "caravelle",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30861,
+      "documentId": "i24sc8ijxvgl401x0an7eefs",
+      "name": "Combi/ Microbus",
+      "slug": "combi-microbus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30873,
+      "documentId": "gj1dw2da3t4wsjb7f5wrn70t",
+      "name": "Crafter",
+      "slug": "crafter",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30986,
+      "documentId": "e5ewszyh9zl1eekvpmzwpk1n",
+      "name": "DERBY",
+      "slug": "derby",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31331,
+      "documentId": "e3d74v0hh6cthllht780une8",
+      "name": "EOS",
+      "slug": "eos",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31859,
+      "documentId": "o93fdlc4w67ys2pi0nzxe5jn",
+      "name": "FOX",
+      "slug": "volkswagen-fox",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31860,
+      "documentId": "xez08esc9o78m8eatvgrrcn4",
+      "name": "FOX Hatchback",
+      "slug": "fox-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32035,
+      "documentId": "vszf2avx9qhg6mocl7oouoln",
+      "name": "Fox",
+      "slug": "fox",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32176,
+      "documentId": "qln82fr6t338qpuu4nuohkdb",
+      "name": "GOLF ALLTRACK VII Variant",
+      "slug": "golf-alltrack-vii-variant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32179,
+      "documentId": "pb1xgju8a99fmd89txws4t8u",
+      "name": "GOLF I",
+      "slug": "golf-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32181,
+      "documentId": "e87imx69tqtk9p1ip5ndhfuq",
+      "name": "GOLF II",
+      "slug": "golf-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32183,
+      "documentId": "bp0fh8bx51swrlk7s0kohpuc",
+      "name": "GOLF III",
+      "slug": "golf-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32184,
+      "documentId": "qlvaq143ndfsvcquw6x6vydq",
+      "name": "GOLF III Cabriolet",
+      "slug": "golf-iii-cabriolet",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32186,
+      "documentId": "cyfmcm0seij8z5juqe61o4p8",
+      "name": "GOLF III Variant",
+      "slug": "golf-iii-variant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32187,
+      "documentId": "yg9bfsq0g58ov56ss70fkil4",
+      "name": "GOLF IV",
+      "slug": "golf-iv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32188,
+      "documentId": "r9ge68g28jlfcsyq31not88w",
+      "name": "GOLF IV Cabriolet",
+      "slug": "golf-iv-cabriolet",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32190,
+      "documentId": "iah2io3m46zdwq24rl4nsy5d",
+      "name": "GOLF IV Variant",
+      "slug": "golf-iv-variant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32191,
+      "documentId": "di48fs5x6mvyb6kan5e8rhpk",
+      "name": "GOLF PLUS",
+      "slug": "golf-plus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32194,
+      "documentId": "b2m0j7plqsn2e43tfr769kik",
+      "name": "GOLF SPORTSVAN",
+      "slug": "golf-sportsvan",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32196,
+      "documentId": "eb77g8fony99iurp3twkfap2",
+      "name": "GOLF V",
+      "slug": "golf-v",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32197,
+      "documentId": "x2ut2mekj74j5suowm2h71mj",
+      "name": "GOLF V - GOLF PLUS",
+      "slug": "golf-v---golf-plus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32198,
+      "documentId": "d5qxwdie2t6zcvyitzybkop1",
+      "name": "GOLF V Variant",
+      "slug": "golf-v-variant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32201,
+      "documentId": "mex05ta63gh3p5zol9fy5wn3",
+      "name": "GOLF VAN VII Variant",
+      "slug": "golf-van-vii-variant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32202,
+      "documentId": "qp5a0bup6gymtquq7xu9qqq3",
+      "name": "GOLF VI",
+      "slug": "golf-vi",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32203,
+      "documentId": "n3xdso45tbtz7ezdhrdoyvis",
+      "name": "GOLF VI - GOLF PLUS",
+      "slug": "golf-vi---golf-plus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32204,
+      "documentId": "o8he4w05my8f1j6oge820e3i",
+      "name": "GOLF VI Convertible",
+      "slug": "golf-vi-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32206,
+      "documentId": "p5mkguhhs6kur12r713ncnjz",
+      "name": "GOLF VI Variant",
+      "slug": "golf-vi-variant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32207,
+      "documentId": "k04idbudtfwfnlcqfsmvugfa",
+      "name": "GOLF VII",
+      "slug": "golf-vii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32209,
+      "documentId": "ops9jaewj1sqza729oavui6m",
+      "name": "GOLF VII Variant",
+      "slug": "golf-vii-variant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32210,
+      "documentId": "s3rf7r0wh6q7sulx9bm5j5yo",
+      "name": "GOLF VIII",
+      "slug": "golf-viii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32211,
+      "documentId": "dclv6m5cersab45iycb5dcji",
+      "name": "GOLF VIII Variant",
+      "slug": "golf-viii-variant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32239,
+      "documentId": "jc4alzoo6wnuwhlf5xlvhb96",
+      "name": "GRAND CALIFORNIA",
+      "slug": "grand-california",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32472,
+      "documentId": "k20k07wvbm4jt1v1c32la09n",
+      "name": "Golf",
+      "slug": "golf",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32473,
+      "documentId": "rlqex5w3m162azj7m4wcfiec",
+      "name": "Golf GT/ GTD/ GTI/ GLX",
+      "slug": "golf-gt-gtd-gti-glx",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32474,
+      "documentId": "we010tb4ux219qvq4yyts72r",
+      "name": "Golf Plus / Cross Golf",
+      "slug": "golf-plus--cross-golf",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32627,
+      "documentId": "el2v2se8e5chxi65vw6qao6q",
+      "name": "ID.3",
+      "slug": "id3",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32628,
+      "documentId": "l19d7wewzch1m4iqr4xe220c",
+      "name": "ID.3 / ID.3 GTX",
+      "slug": "id3--id3-gtx",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32629,
+      "documentId": "n8ky07yz6qa28zxtw77kdskt",
+      "name": "ID.4",
+      "slug": "id4",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32630,
+      "documentId": "vzqngocl7xnfex87pmv4hj44",
+      "name": "ID.4 / ID.4 GTX",
+      "slug": "id4--id4-gtx",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32631,
+      "documentId": "u25h3e16usus6fvrpircf8tz",
+      "name": "ID.5",
+      "slug": "id5",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32632,
+      "documentId": "b3qglctse6ev8eiq3qbrblir",
+      "name": "ID.7",
+      "slug": "id7",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32641,
+      "documentId": "l9i1eiis1xxzd5vmibjmmr5d",
+      "name": "ILTIS",
+      "slug": "iltis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32761,
+      "documentId": "h9yjnbfkt3nwizr5sxstw8sl",
+      "name": "JETTA I",
+      "slug": "jetta-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32762,
+      "documentId": "ke4mfcyurrtrwf466wr5lhyk",
+      "name": "JETTA II",
+      "slug": "jetta-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32763,
+      "documentId": "gh2ta6db8z0fqnh0v23831ha",
+      "name": "JETTA III",
+      "slug": "jetta-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32764,
+      "documentId": "zijkk8xrmyvhaswe7rtyvxwp",
+      "name": "JETTA IV",
+      "slug": "jetta-iv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32821,
+      "documentId": "kuter5ayhxcmpbesq19baswu",
+      "name": "Jetta / GT/ TD",
+      "slug": "jetta--gt-td",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32828,
+      "documentId": "ojpulxmbvfewswne3gbhkifa",
+      "name": "K",
+      "slug": "k",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33156,
+      "documentId": "s6viyh5q7tbd7gmmas3y5pwm",
+      "name": "LOAD UP",
+      "slug": "load-up",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33178,
+      "documentId": "s2yn8forat9ap3f2mrdud0yk",
+      "name": "LS",
+      "slug": "volkswagen-ls",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33181,
+      "documentId": "v66s6sxcpjw9fcyzdba4cdgg",
+      "name": "LT",
+      "slug": "lt",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33182,
+      "documentId": "gfaiks6jyr6myzq0qxpztxr3",
+      "name": "LT 28-35 I Bus",
+      "slug": "lt-28-35-i-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33183,
+      "documentId": "mqa6y51xpojnpbtmtt1pe7sd",
+      "name": "LT 28-35 I Platform/Chassis",
+      "slug": "lt-28-35-i-platformchassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33184,
+      "documentId": "c5y9y9c3scx2dsmhb12du97u",
+      "name": "LT 28-35 I Van",
+      "slug": "lt-28-35-i-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33185,
+      "documentId": "v7mn714xxti043gtujw0a3q5",
+      "name": "LT 28-35 II Bus",
+      "slug": "lt-28-35-ii-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33186,
+      "documentId": "a35ek11dofu04qkeao7dzidz",
+      "name": "LT 28-46 II Platform/Chassis",
+      "slug": "lt-28-46-ii-platformchassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33187,
+      "documentId": "q1iuqul4bxn0d5oa1hfrubur",
+      "name": "LT 28-46 II Van",
+      "slug": "lt-28-46-ii-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33188,
+      "documentId": "jigdf23wwat29nqvykkf0j47",
+      "name": "LT 40-55 I Platform/",
+      "slug": "lt-40-55-i-platform",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33190,
+      "documentId": "wqn3cr360jq6x9m2sxuh2sr5",
+      "name": "LT 40-55 I Van",
+      "slug": "lt-40-55-i-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33192,
+      "documentId": "q67y51m9ay0skgo01xqtiqi0",
+      "name": "LT28...50",
+      "slug": "lt2850",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33193,
+      "documentId": "ioa621axehl04hf7dlhvs5z7",
+      "name": "LT28...55",
+      "slug": "lt2855",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33203,
+      "documentId": "h0us1nrd9rqli9ux9j8cslsr",
+      "name": "LUPO",
+      "slug": "volkswagen-lupo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33204,
+      "documentId": "jhbisat5phetedazxy50lukk",
+      "name": "LUPO I",
+      "slug": "lupo-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33278,
+      "documentId": "jgyxbi5up5qobgftyw5gbr1s",
+      "name": "Lupo",
+      "slug": "lupo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33725,
+      "documentId": "qnv54kfjqecka4hbn0391wk1",
+      "name": "MULTIVAN - CALIFORNIA - CARAVELLE",
+      "slug": "multivan---california---caravelle",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33728,
+      "documentId": "irnlv4w6aspfz3j4gw1yvl4v",
+      "name": "MULTIVAN T7",
+      "slug": "multivan-t7",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33729,
+      "documentId": "f0637qpotylzgh29i7xtegkm",
+      "name": "MULTIVAN V",
+      "slug": "multivan-v",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33730,
+      "documentId": "lm4ixpw7r1np9xkdy2t7by4f",
+      "name": "MULTIVAN VI",
+      "slug": "multivan-vi",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33931,
+      "documentId": "a9pki3ckiv3t8uvy1bgek10x",
+      "name": "NEW BEETLE",
+      "slug": "new-beetle",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33932,
+      "documentId": "gt3yecw5f3yxfqnrc1nu7qi3",
+      "name": "NEW BEETLE CABRIOLET - CONVERTIBLE",
+      "slug": "new-beetle-cabriolet---convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33933,
+      "documentId": "wrdmpud7xkq7y8kxzfj27qwe",
+      "name": "NEW BEETLE Convertible",
+      "slug": "new-beetle-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34207,
+      "documentId": "s4zvnj4ykywlbtk5623zyfid",
+      "name": "PASSAT",
+      "slug": "passat",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34208,
+      "documentId": "kee19ap49henz2nz504a6ee5",
+      "name": "PASSAT - ALLTRACK",
+      "slug": "passat---alltrack",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34209,
+      "documentId": "pt0q071ff2092ot63myfbk0x",
+      "name": "PASSAT ALLTRACK",
+      "slug": "passat-alltrack",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34210,
+      "documentId": "hnqrtydi11y4ifmzu0ns7bs8",
+      "name": "PASSAT ALLTRACK B7",
+      "slug": "passat-alltrack-b7",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34218,
+      "documentId": "ho2jppp8h69e1x0evmxdxoku",
+      "name": "PASSAT B3/B4",
+      "slug": "passat-b3b4",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34219,
+      "documentId": "xhv1arybtck4oohf67w1pipo",
+      "name": "PASSAT B3/B4 Variant",
+      "slug": "passat-b3b4-variant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34220,
+      "documentId": "vevtjumsthsrigdyu8gl6v0i",
+      "name": "PASSAT B5",
+      "slug": "passat-b5",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34222,
+      "documentId": "tvnudzot55xv57mxue1p2b56",
+      "name": "PASSAT B5.5",
+      "slug": "passat-b55",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34223,
+      "documentId": "kqcxjhbek6xgeaye5y48i2io",
+      "name": "PASSAT B5.5 Variant",
+      "slug": "passat-b55-variant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34224,
+      "documentId": "o1e6m3lo23m447k7fg5lleke",
+      "name": "PASSAT B6",
+      "slug": "passat-b6",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34227,
+      "documentId": "q9v901noqt4b12919ax0k578",
+      "name": "PASSAT B7 Estate Van",
+      "slug": "passat-b7-estate-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34232,
+      "documentId": "s10i99esjhq39eubxzmb864y",
+      "name": "PASSAT CC B6",
+      "slug": "passat-cc-b6",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34233,
+      "documentId": "s2bknodz1w7x254omj1jp4fg",
+      "name": "PASSAT Variant",
+      "slug": "passat-variant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34234,
+      "documentId": "l1wvmwq5e1lu8frqkh9kdszx",
+      "name": "PASSAT Variant (3G5,",
+      "slug": "passat-variant-3g5",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34268,
+      "documentId": "dtyd7ts7njd75fwksh9vd52e",
+      "name": "PHAETON",
+      "slug": "phaeton",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34311,
+      "documentId": "vesmqtjtk5qpzl37vrx4pqng",
+      "name": "POLO",
+      "slug": "polo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34312,
+      "documentId": "f9veoatbzrrbgp5elnroruce",
+      "name": "POLO CLASSIC",
+      "slug": "polo-classic",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34313,
+      "documentId": "k3jogin6m8azlnoph4xsr0dc",
+      "name": "POLO Coupe",
+      "slug": "polo-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34314,
+      "documentId": "cjglhcasnulxl8jn14cqhnr0",
+      "name": "POLO Hatchback Van",
+      "slug": "polo-hatchback-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34315,
+      "documentId": "dcnyiymlgwdiqwxlpthk36a8",
+      "name": "POLO I",
+      "slug": "polo-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34316,
+      "documentId": "hif8fzbs2y4040fgiirraptq",
+      "name": "POLO II",
+      "slug": "polo-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34317,
+      "documentId": "nqvydxlapo5niyxbnw4soki5",
+      "name": "POLO III",
+      "slug": "polo-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34318,
+      "documentId": "ml0h5h5vs1ym0toc8inntjiy",
+      "name": "POLO III CLASSIC",
+      "slug": "polo-iii-classic",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34319,
+      "documentId": "j09gg6ax6keayfkfx2nomeik",
+      "name": "POLO III Classic-Variant",
+      "slug": "polo-iii-classic-variant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34320,
+      "documentId": "xjf5yvay2hqowhwxwd37i7mo",
+      "name": "POLO IV",
+      "slug": "polo-iv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34321,
+      "documentId": "ehog019he2z0ywr33d0p131h",
+      "name": "POLO IV Saloon",
+      "slug": "polo-iv-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34322,
+      "documentId": "elxa2sbe8nxr72j1u14bqste",
+      "name": "POLO V",
+      "slug": "polo-v",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34323,
+      "documentId": "qqvwmmwrc96zhkfkcvrfyuol",
+      "name": "POLO V Saloon",
+      "slug": "polo-v-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34324,
+      "documentId": "u6pc2xs46m2lryls0368z2l7",
+      "name": "POLO VI",
+      "slug": "polo-vi",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34325,
+      "documentId": "qp8rbpwgo8ky7x8beb8jjhtb",
+      "name": "POLO Van",
+      "slug": "polo-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34327,
+      "documentId": "noo4fs78y17ag57821sxmvir",
+      "name": "POLO Van Hatchback Van",
+      "slug": "polo-van-hatchback-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34329,
+      "documentId": "q64c38d3jsdzoa371p1qxrj1",
+      "name": "POLO Variant",
+      "slug": "polo-variant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34474,
+      "documentId": "e2141bwoygoidwa8b7z3arcu",
+      "name": "Passat SW / Variant",
+      "slug": "passat-sw--variant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34504,
+      "documentId": "hezv642eu35wu42vk05o4b2d",
+      "name": "Polo / Cross Polo",
+      "slug": "polo--cross-polo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34801,
+      "documentId": "g3pf2u112x0gg9e81p59976o",
+      "name": "ROUTAN",
+      "slug": "routan",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35023,
+      "documentId": "nrwasy4y7645x8igpv87g1s6",
+      "name": "SANTANA",
+      "slug": "santana",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35059,
+      "documentId": "hyscq4xx64o6d6cz9yyomw0m",
+      "name": "SCIROCCO",
+      "slug": "scirocco",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35060,
+      "documentId": "m9elk11me9bl64c2kvwk9ev2",
+      "name": "SCIROCCO I II",
+      "slug": "scirocco-i-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35061,
+      "documentId": "z3oxncwo1ibedq023yu1bfll",
+      "name": "SCIROCCO III",
+      "slug": "scirocco-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35161,
+      "documentId": "p8iwhir696ve61muuymqrdnu",
+      "name": "SHARAN",
+      "slug": "sharan",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35162,
+      "documentId": "jlh7nrnpnce3ndecugc3txls",
+      "name": "SHARAN I",
+      "slug": "sharan-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35163,
+      "documentId": "u5mzxpa3ozmci0cly85jxlje",
+      "name": "SHARAN II",
+      "slug": "sharan-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35785,
+      "documentId": "yktciuci7sr10j1kl1qccqsb",
+      "name": "T-CROSS",
+      "slug": "t-cross",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35786,
+      "documentId": "xujtmdvh20csx3s67x9pq8ww",
+      "name": "T-ROC",
+      "slug": "t-roc",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35787,
+      "documentId": "yb8n9tevmivgbxdspyca2eyy",
+      "name": "T-ROC Convertible",
+      "slug": "t-roc-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35818,
+      "documentId": "vo5amchqe18lapxwyvkoc3pr",
+      "name": "TAIGO",
+      "slug": "taigo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35829,
+      "documentId": "osx2skztci4nmnkjcs0rjzjt",
+      "name": "TAOS",
+      "slug": "taos",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35830,
+      "documentId": "vwd2jpl76q043ewsp94kj5r1",
+      "name": "TARO",
+      "slug": "taro",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35906,
+      "documentId": "v82w2hw8ido2wllive7e852q",
+      "name": "TERAMONT",
+      "slug": "teramont",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35956,
+      "documentId": "jh56226g36yinmkxob1lew62",
+      "name": "TIGUAN",
+      "slug": "tiguan",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35957,
+      "documentId": "l6xfbhsg1eqmt2nbrg316vf5",
+      "name": "TIGUAN ALLSPACE",
+      "slug": "tiguan-allspace",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35958,
+      "documentId": "tsm9w1s8ea7jhvuzh875eo43",
+      "name": "TIGUAN II",
+      "slug": "tiguan-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35960,
+      "documentId": "y5bgapgr010bp102q3mdaov8",
+      "name": "TIGUAN VAN",
+      "slug": "tiguan-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35999,
+      "documentId": "c0zi1dj1mfhxh57iez5fcc4q",
+      "name": "TOUAREG",
+      "slug": "touareg",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36001,
+      "documentId": "ykqjgzg9cf3bfiinod2ozfjz",
+      "name": "TOURAN",
+      "slug": "touran",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36002,
+      "documentId": "y1fiuitqfdcdmloczj0azmep",
+      "name": "TOURAN VAN",
+      "slug": "touran-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36111,
+      "documentId": "dvp5wq2pkgs265r8ri50pqcw",
+      "name": "TRANSPORTER - VANS T3",
+      "slug": "transporter---vans-t3",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36112,
+      "documentId": "ib3pxx60h7uaguav8wnru37v",
+      "name": "TRANSPORTER - VANS T4",
+      "slug": "transporter---vans-t4",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36113,
+      "documentId": "wkgy7c32mkgwfwpxuly2rojf",
+      "name": "TRANSPORTER - VANS T5",
+      "slug": "transporter---vans-t5",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36114,
+      "documentId": "ig21qvby49up8nqw09us3r6u",
+      "name": "TRANSPORTER - VANS T6",
+      "slug": "transporter---vans-t6",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36115,
+      "documentId": "w87ad3n24qf8x6swtzr2zi7g",
+      "name": "TRANSPORTER IV Box",
+      "slug": "transporter-iv-box",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36116,
+      "documentId": "g58d9q4rtktmhdhzb2n07or2",
+      "name": "TRANSPORTER IV Bus",
+      "slug": "transporter-iv-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36117,
+      "documentId": "oym84lyuftffbbvnz6r9jsf8",
+      "name": "TRANSPORTER IV Platform/Chassis",
+      "slug": "transporter-iv-platformchassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36118,
+      "documentId": "xvkdkmanf8iezibs0bfwway6",
+      "name": "TRANSPORTER IV Van",
+      "slug": "transporter-iv-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36137,
+      "documentId": "t2cl8q1s1ye7mys2l3ndfbul",
+      "name": "TRANSPORTER V Bus",
+      "slug": "transporter-v-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36138,
+      "documentId": "gp09mpi7ikqgwa6p4ykcvzr6",
+      "name": "TRANSPORTER V Platform/Chassis (7JD, 7JE, 7JL, 7JY, 7JZ, 7FD",
+      "slug": "transporter-v-platformchassis-7jd-7je-7jl-7jy-7jz-7fd",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36139,
+      "documentId": "iq0ff327bgirtj4kmu2itzkq",
+      "name": "TRANSPORTER V Van",
+      "slug": "transporter-v-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36140,
+      "documentId": "n9q2njnd6d2xbq2d3q1a9enc",
+      "name": "TRANSPORTER VI / CARAVELLE VI Bus",
+      "slug": "transporter-vi-caravelle-vi-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36141,
+      "documentId": "mui3ax71mpnes8cin00mi4g5",
+      "name": "TRANSPORTER VI Platform/Chassis",
+      "slug": "transporter-vi-platformchassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36142,
+      "documentId": "a1pseszl8pn97gdgm9qid57g",
+      "name": "TRANSPORTER VI Van",
+      "slug": "transporter-vi-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36212,
+      "documentId": "kvfj7k0w99nnsyznaizpgej9",
+      "name": "Teramont / Atlas",
+      "slug": "teramont--atlas",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36325,
+      "documentId": "xuk8crvvd7gkcxihms0yzpz4",
+      "name": "UP",
+      "slug": "up",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36401,
+      "documentId": "s2f5f1wv367v8hs9mg7xtxpg",
+      "name": "VANAGON",
+      "slug": "vanagon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36454,
+      "documentId": "cffi6b8rzy01m6gp45c6hj0q",
+      "name": "VENTO",
+      "slug": "vento",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36600,
+      "documentId": "qt6ttwx6s4hq46qwsom0z7vy",
+      "name": "VOYAGE",
+      "slug": "voyage",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36952,
+      "documentId": "artpww788fl9709r2fdd89fb",
+      "name": "XL1",
+      "slug": "xl1",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "brandInfo": {
+    "id": 596,
+    "documentId": "yiuvg83vchikiq9l4co54768",
+    "name": "DAIHATSU",
+    "slug": "daihatsu",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 32,
+  "exportDate": "2026-01-06T19:34:16.817Z",
+  "models": [
+    {
+      "id": 29280,
+      "documentId": "ewil401ptr9uacriccj6nx2r",
+      "name": "ALTIS Saloon",
+      "slug": "altis-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29340,
+      "documentId": "setbnyms9qutt8up1rf3er8d",
+      "name": "APPLAUSE I Hatchback",
+      "slug": "applause-i-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29341,
+      "documentId": "jnipwaiyc9xoz4lq669un7mc",
+      "name": "APPLAUSE II Hatchback",
+      "slug": "applause-ii-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29696,
+      "documentId": "neayt53xdiq238bor134qmvh",
+      "name": "BEGO",
+      "slug": "bego",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30363,
+      "documentId": "hpbcm6qiwsa01wzfoguw21mb",
+      "name": "CHARADE III",
+      "slug": "charade-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30364,
+      "documentId": "zm5y2am2pn8v9tau7ufq1hy6",
+      "name": "CHARADE III Saloon",
+      "slug": "charade-iii-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30365,
+      "documentId": "h28nmdtz6uedyecmhl7jio5o",
+      "name": "CHARADE IV",
+      "slug": "charade-iv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30366,
+      "documentId": "v15l7haowl1c2ucuox8wn5ew",
+      "name": "CHARADE IV Saloon",
+      "slug": "charade-iv-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30552,
+      "documentId": "wv1l4n4aim5iuucpsx3f5qkb",
+      "name": "COPEN",
+      "slug": "copen",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30739,
+      "documentId": "i4107ia7u6wyyzb4uubxcqy0",
+      "name": "CUORE III",
+      "slug": "cuore-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30740,
+      "documentId": "bw7ynldjykamng76a027pxyb",
+      "name": "CUORE IV",
+      "slug": "cuore-iv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30741,
+      "documentId": "pb1cyvtbsovfg2nzvmv3rhex",
+      "name": "CUORE V",
+      "slug": "cuore-v",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30742,
+      "documentId": "lbwm0m9a8gy8yd4sn461mfun",
+      "name": "CUORE VI",
+      "slug": "cuore-vi",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30743,
+      "documentId": "un4zvlm5cs259kyjrsgbdyah",
+      "name": "CUORE VII",
+      "slug": "cuore-vii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30827,
+      "documentId": "xl3u7probs6n5dkxa4pzb97r",
+      "name": "Charade",
+      "slug": "charade",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30874,
+      "documentId": "w7pl3i44zqb3gcn3l9v0blen",
+      "name": "Cuore",
+      "slug": "cuore",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31208,
+      "documentId": "fe8livzr04yenols7y9177xb",
+      "name": "Domino",
+      "slug": "domino",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31543,
+      "documentId": "ihtc43dlnpxbgte5az0hyt7t",
+      "name": "Extol",
+      "slug": "extol",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32225,
+      "documentId": "e9sb5cr5cxrc1iw5ybev3694",
+      "name": "GRAN MOVE",
+      "slug": "gran-move",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32540,
+      "documentId": "epdz7cf09b8uqzdwjo4xlbhn",
+      "name": "HIJET Bus",
+      "slug": "hijet-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32542,
+      "documentId": "vbfyiovxeh4u61adiwjgyr77",
+      "name": "HIJET Van",
+      "slug": "hijet-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32596,
+      "documentId": "il1r1mqj26o5aeo4ox9m5kef",
+      "name": "Hijet",
+      "slug": "hijet",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33387,
+      "documentId": "jzcssxdgnjf7655bs42hbvnm",
+      "name": "MATERIA",
+      "slug": "materia",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33561,
+      "documentId": "a94g96x971etsml8k7o2837v",
+      "name": "MIRA GINO I",
+      "slug": "mira-gino-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33662,
+      "documentId": "l8c1oiirnnjbguikre4dfb51",
+      "name": "MOVE",
+      "slug": "move",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34783,
+      "documentId": "mw015paxnzwei9jsybh8ll6q",
+      "name": "ROCKY Hard Top",
+      "slug": "rocky-hard-top",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34784,
+      "documentId": "t73mo46q5v86zdcvxdauwbgd",
+      "name": "ROCKY Soft Top",
+      "slug": "rocky-soft-top",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34910,
+      "documentId": "b6haxyziw6rc3spealchbegz",
+      "name": "Rocky",
+      "slug": "rocky",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35241,
+      "documentId": "a0mjklj78o3jnwpoltz9wsa4",
+      "name": "SIRION",
+      "slug": "sirion",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35911,
+      "documentId": "ggy6uzdimvoi3cz6v2ufxquw",
+      "name": "TERIOS",
+      "slug": "terios",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36150,
+      "documentId": "j3tklqu6jq4dwxvuyme44wl4",
+      "name": "TREVIS",
+      "slug": "trevis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37119,
+      "documentId": "lyabnjq0503zfd12jq1852ix",
+      "name": "YRV",
+      "slug": "yrv",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

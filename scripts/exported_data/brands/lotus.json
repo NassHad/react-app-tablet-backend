@@ -1,0 +1,46 @@
+{
+  "brandInfo": {
+    "id": 679,
+    "documentId": "xraev805xseuqnkri5p18bgd",
+    "name": "LOTUS",
+    "slug": "lotus",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 4,
+  "exportDate": "2026-01-06T19:34:16.899Z",
+  "models": [
+    {
+      "id": 31316,
+      "documentId": "gs128dbafek9dgjalbi6t4v3",
+      "name": "ELISE",
+      "slug": "elise",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31406,
+      "documentId": "um070tnrkd79jl8el3rpkv4t",
+      "name": "ESPRIT S4",
+      "slug": "esprit-s4",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31510,
+      "documentId": "u7yqo30m2q8xz02nlh7afdfi",
+      "name": "Elise /S/R/SC",
+      "slug": "elise-srsc",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31538,
+      "documentId": "wl4v4vbq7frt9vlbfh4fzs4l",
+      "name": "Evora",
+      "slug": "evora",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

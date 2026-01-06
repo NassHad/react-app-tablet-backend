@@ -1,0 +1,318 @@
+{
+  "brandInfo": {
+    "id": 545,
+    "documentId": "jyswk18jimycvzglosdakrcy",
+    "name": "ALPINA",
+    "slug": "alpina",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 38,
+  "exportDate": "2026-01-06T19:34:16.770Z",
+  "models": [
+    {
+      "id": 29652,
+      "documentId": "grjutgb25536x10kzmvhzyyz",
+      "name": "B10",
+      "slug": "b10",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29653,
+      "documentId": "a8j7bvw0jpom2jzyq4xqpnnw",
+      "name": "B10 Touring",
+      "slug": "b10-touring",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29654,
+      "documentId": "gbmwte07m9wkddp6xbc9szb0",
+      "name": "B11",
+      "slug": "b11",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29655,
+      "documentId": "e9hf15x647s8kuck7vp39oqf",
+      "name": "B12",
+      "slug": "b12",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29656,
+      "documentId": "usr8h9yuuwcg3tgkrztf1zfk",
+      "name": "B12 Coupe",
+      "slug": "b12-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29657,
+      "documentId": "ktijqyabpku31xf7hukbr92p",
+      "name": "B3",
+      "slug": "b3",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29658,
+      "documentId": "c8pja9lr25p9lqncnlywxng8",
+      "name": "B3 Convertible",
+      "slug": "b3-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29659,
+      "documentId": "w31c1czgkpwkzgmhkq28jbrj",
+      "name": "B3 Coupe",
+      "slug": "b3-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29660,
+      "documentId": "yyfd5g015oxjmvorac0boyln",
+      "name": "B3 Estate",
+      "slug": "b3-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29661,
+      "documentId": "yep8tgqyp5y2e6ikvxziy378",
+      "name": "B3 Touring",
+      "slug": "b3-touring",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29662,
+      "documentId": "r2ekclqmn0ovliky0pnr5hcj",
+      "name": "B4 Convertible",
+      "slug": "b4-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29663,
+      "documentId": "w1uz9pkaiopum2ppcouyw6b2",
+      "name": "B4 Coupe",
+      "slug": "b4-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29665,
+      "documentId": "xkty26vwmpn5ixfodcd3t3w4",
+      "name": "B5",
+      "slug": "b5",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29666,
+      "documentId": "qnw01lgtl1skpjnc4d94d0mu",
+      "name": "B5 Estate",
+      "slug": "b5-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29667,
+      "documentId": "o0itll9l0m5uhuuczy4jon4g",
+      "name": "B5 Touring",
+      "slug": "b5-touring",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29668,
+      "documentId": "vuqyf8n8cwj9uemmub61rxh6",
+      "name": "B6",
+      "slug": "b6",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29669,
+      "documentId": "y4a289bzvtypl0st4x1qideh",
+      "name": "B6 Convertible",
+      "slug": "b6-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29670,
+      "documentId": "gy0m6j2fnlxmkgv49rwgmkzq",
+      "name": "B6 Coupe",
+      "slug": "b6-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29671,
+      "documentId": "jrr1gb49rk341iue1xoq4o03",
+      "name": "B6 Gran Coupe",
+      "slug": "b6-gran-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29673,
+      "documentId": "zfbt52wcbvgddtsnbgp99kew",
+      "name": "B7",
+      "slug": "b7",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29676,
+      "documentId": "gvvk4b93fhsbi1mdfymtev9z",
+      "name": "B8",
+      "slug": "b8",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29677,
+      "documentId": "vmx77dtnyrip0nuusblgrdj4",
+      "name": "B8 Convertible",
+      "slug": "b8-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29678,
+      "documentId": "mums9j2xe4dd6ma1i6t5d9pq",
+      "name": "B8 Coupe",
+      "slug": "b8-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29679,
+      "documentId": "sb1ptinrc2vp8ipr2avhu5ui",
+      "name": "B8 Estate",
+      "slug": "b8-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30893,
+      "documentId": "uxtep0lh95dfxa0wqo1idued",
+      "name": "D10",
+      "slug": "d10",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30894,
+      "documentId": "rdj6nb6uztwx55moz9h25733",
+      "name": "D10 Estate",
+      "slug": "d10-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30896,
+      "documentId": "ryz898fifixy6q13gff1qhl1",
+      "name": "D3",
+      "slug": "d3",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30897,
+      "documentId": "drjdste5b6wa9lcuwtbjnot1",
+      "name": "D3 Coupe",
+      "slug": "d3-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30898,
+      "documentId": "bir31zdnehqnfbdvi30yvkef",
+      "name": "D3 Estate",
+      "slug": "d3-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30899,
+      "documentId": "crufgdybcn33zdlk3n7ffoyu",
+      "name": "D3 Touring",
+      "slug": "d3-touring",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30900,
+      "documentId": "yr0f95hpz6gf2se3hp1luksi",
+      "name": "D4 Convertible",
+      "slug": "d4-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30901,
+      "documentId": "pgnunob8dxh4dwnzj34287gr",
+      "name": "D4 Coupe",
+      "slug": "d4-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30903,
+      "documentId": "o83y959wo3x1sa3u5thklf86",
+      "name": "D5",
+      "slug": "d5",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30904,
+      "documentId": "h06x1vobxiin5wn7khwp6oqf",
+      "name": "D5 Touring",
+      "slug": "d5-touring",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34771,
+      "documentId": "k821zxmujr2539se044emkdr",
+      "name": "RLE Roadster",
+      "slug": "rle-roadster",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34778,
+      "documentId": "uh8264bcdw7a8zpvy4v2hons",
+      "name": "ROADSTER S",
+      "slug": "roadster-s",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36870,
+      "documentId": "sydjqafus0qvrcooz4ckxzo0",
+      "name": "XD3",
+      "slug": "xd3",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36871,
+      "documentId": "fbpcmu18hcj9kbgorelv94cm",
+      "name": "XD4",
+      "slug": "xd4",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

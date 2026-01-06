@@ -1,0 +1,62 @@
+{
+  "brandInfo": {
+    "id": 776,
+    "documentId": "g19jwb6c2x6hc5e8jz0nfsg8",
+    "name": "UAZ",
+    "slug": "uaz",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 6,
+  "exportDate": "2026-01-06T19:34:17.037Z",
+  "models": [
+    {
+      "id": 28448,
+      "documentId": "oebb2fy10aybsw9u8a4a8yhb",
+      "name": "2206 / 31512",
+      "slug": "2206--31512",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32578,
+      "documentId": "fonxbb9n01cl5ac43ki6g4yk",
+      "name": "HUNTER",
+      "slug": "hunter",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32580,
+      "documentId": "n01wn95z11e042bedg41synv",
+      "name": "HUNTER Open Off-Road Vehicle",
+      "slug": "hunter-open-off-road-vehicle",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34241,
+      "documentId": "dq0y333rjfaox0x6jp60e7f8",
+      "name": "PATRIOT",
+      "slug": "patriot",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34283,
+      "documentId": "as6b1v2qtqkwf7vn00447m58",
+      "name": "PICKUP",
+      "slug": "pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34421,
+      "documentId": "frftd0mvjnohqwe6afgomh09",
+      "name": "PROFI Platform/Chassis",
+      "slug": "profi-platformchassis",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

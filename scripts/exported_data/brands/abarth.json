@@ -1,0 +1,46 @@
+{
+  "brandInfo": {
+    "id": 539,
+    "documentId": "p4dsx03xsdu1r08rww14znyk",
+    "name": "ABARTH",
+    "slug": "abarth",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 4,
+  "exportDate": "2026-01-06T19:34:16.766Z",
+  "models": [
+    {
+      "id": 28770,
+      "documentId": "ypwt55367vs12bsnkco8k5qe",
+      "name": "500 / 595 / 695",
+      "slug": "500-595-695",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28773,
+      "documentId": "fmrtdm75kensi2oo53v60isk",
+      "name": "500 Abarth 595",
+      "slug": "500-abarth-595",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28774,
+      "documentId": "ba0ofcvzqb0buqa7ld9t6z0h",
+      "name": "500 Abarth 595C",
+      "slug": "500-abarth-595c",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28797,
+      "documentId": "yh0urpz598bu6f2ctem6wqkw",
+      "name": "500C / 595C / 695C",
+      "slug": "500c-595c-695c",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "brandInfo": {
+    "id": 677,
+    "documentId": "zm36wfdgjpkn8ou8xbhp1iep",
+    "name": "LINCOLN",
+    "slug": "lincoln",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 2,
+  "exportDate": "2026-01-06T19:34:16.897Z",
+  "models": [
+    {
+      "id": 33789,
+      "documentId": "kgjx9dzllh0iscd6l6lq9ljt",
+      "name": "Mark",
+      "slug": "mark",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36021,
+      "documentId": "zl6q261o67gzei3uyieatqhg",
+      "name": "TOWN CAR III",
+      "slug": "town-car-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

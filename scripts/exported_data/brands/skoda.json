@@ -1,0 +1,414 @@
+{
+  "brandInfo": {
+    "id": 755,
+    "documentId": "j57sjy6g0t89d2n4glmad0c7",
+    "name": "SKODA",
+    "slug": "skoda",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 50,
+  "exportDate": "2026-01-06T19:34:16.990Z",
+  "models": [
+    {
+      "id": 30399,
+      "documentId": "x83kzwyq7siqlki2r9ioom5j",
+      "name": "CITIGO",
+      "slug": "citigo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31234,
+      "documentId": "g0eertps4r2ip5jrfo09kmcd",
+      "name": "E-CITIGO",
+      "slug": "e-citigo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31329,
+      "documentId": "e9m6cugrp7f77t7agflu22gb",
+      "name": "ENYAQ iV SUV",
+      "slug": "enyaq-iv-suv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31521,
+      "documentId": "pnri22tqmn5k79sabv89cqs5",
+      "name": "Enyaq iV",
+      "slug": "enyaq-iv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31540,
+      "documentId": "ixn273xnlzo9cyxsvjhrr4jo",
+      "name": "Exellent",
+      "slug": "exellent",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31604,
+      "documentId": "fefi9yaief5wqr36sy51ha06",
+      "name": "FABIA I",
+      "slug": "fabia-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31605,
+      "documentId": "hal90gc30znc7wrtxmqnaa5g",
+      "name": "FABIA I Combi",
+      "slug": "fabia-i-combi",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31606,
+      "documentId": "r1qtr0kgyv327olrgijfvia3",
+      "name": "FABIA I Praktik",
+      "slug": "fabia-i-praktik",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31607,
+      "documentId": "jh64oobcgvrnoy0k1jupghqh",
+      "name": "FABIA I Saloon",
+      "slug": "fabia-i-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31608,
+      "documentId": "cahk8c6dtkpkpry9svcv2gg2",
+      "name": "FABIA II",
+      "slug": "fabia-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31609,
+      "documentId": "lnyhrt2al5hl7j9qisop7thp",
+      "name": "FABIA II Combi",
+      "slug": "fabia-ii-combi",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31610,
+      "documentId": "y7kxnqfvd7udz8jq60mywk08",
+      "name": "FABIA III",
+      "slug": "fabia-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31611,
+      "documentId": "o4p4tiu6rg63rjxm9w4n05te",
+      "name": "FABIA III Estate",
+      "slug": "fabia-iii-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31612,
+      "documentId": "f84tfqaaa6leh6t8mbjlhtyx",
+      "name": "FABIA IV",
+      "slug": "fabia-iv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31619,
+      "documentId": "vyoho7ocp7ocl0tioiqfhf99",
+      "name": "FAVORIT",
+      "slug": "favorit",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31621,
+      "documentId": "cdv3srkeyw359grophirnhc3",
+      "name": "FAVORIT Forman",
+      "slug": "favorit-forman",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31622,
+      "documentId": "krebwwbah023epv3slnrap43",
+      "name": "FAVORIT Pickup",
+      "slug": "favorit-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31635,
+      "documentId": "x1kepodkyoy99wwtvj9j0cly",
+      "name": "FELICIA I",
+      "slug": "felicia-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31636,
+      "documentId": "dtf1lkos61zls5frst2dk15j",
+      "name": "FELICIA I Estate",
+      "slug": "felicia-i-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31637,
+      "documentId": "qgfcmev0y959j3rgai7y9zc5",
+      "name": "FELICIA I Pickup",
+      "slug": "felicia-i-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31638,
+      "documentId": "dwl1jlfp4y0kko7f415tvhmm",
+      "name": "FELICIA II",
+      "slug": "felicia-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31639,
+      "documentId": "oxyq1le03j2fpqtqyrk8rgmm",
+      "name": "FELICIA II Estate",
+      "slug": "felicia-ii-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32007,
+      "documentId": "k5fhxx46pre998osyhxetv62",
+      "name": "Fabia",
+      "slug": "fabia",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32008,
+      "documentId": "e25cyymcqsylwfq7t02okt9r",
+      "name": "Fabia Combi / Scout",
+      "slug": "fabia-combi--scout",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32012,
+      "documentId": "op5dp9xvtxzz3n3d9ax4g7r7",
+      "name": "Felicia",
+      "slug": "felicia",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32013,
+      "documentId": "qxt28fem6fp1cjq4nq43r9v6",
+      "name": "Felicia Fun",
+      "slug": "felicia-fun",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32883,
+      "documentId": "i75sl4ev73xef4arw3w4i24c",
+      "name": "KAMIQ",
+      "slug": "kamiq",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32910,
+      "documentId": "wsa0b13szo4kwjp4s3a8b4w6",
+      "name": "KAROQ",
+      "slug": "karoq",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32939,
+      "documentId": "fg8k49igh3gp6r7t2js1peg7",
+      "name": "KODIAQ",
+      "slug": "kodiaq",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34070,
+      "documentId": "nyqpyehv3cu0drpljvvmvu8u",
+      "name": "OCTAVIA I",
+      "slug": "octavia-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34071,
+      "documentId": "n6t2ai9xgndqs0dxdxpqyp2s",
+      "name": "OCTAVIA I Combi",
+      "slug": "octavia-i-combi",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34073,
+      "documentId": "l8w451h8wp2s8o22ofeg8zhv",
+      "name": "OCTAVIA II",
+      "slug": "octavia-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34074,
+      "documentId": "ye4g6ta834z79sq8d7nqy171",
+      "name": "OCTAVIA II Combi",
+      "slug": "octavia-ii-combi",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34075,
+      "documentId": "wjfpjwgltowmkpck0xv63ge6",
+      "name": "OCTAVIA III",
+      "slug": "octavia-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34076,
+      "documentId": "skf6koynhpt1ryfu75k81ujx",
+      "name": "OCTAVIA III Combi",
+      "slug": "octavia-iii-combi",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34077,
+      "documentId": "pson8qo1hgmq6j8cjf83vzei",
+      "name": "OCTAVIA IV",
+      "slug": "octavia-iv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34078,
+      "documentId": "apqmrvnbos9a3trsdl5cfkjt",
+      "name": "OCTAVIA IV Combi",
+      "slug": "octavia-iv-combi",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34125,
+      "documentId": "pnbv9dkjtlp14pen106grepb",
+      "name": "Octavia",
+      "slug": "octavia",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34126,
+      "documentId": "o2uvdkur8tg5drwnjw7vry04",
+      "name": "Octavia Combi / Scout",
+      "slug": "octavia-combi--scout",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34664,
+      "documentId": "cm9a0y6n85k511clq5zb7eqo",
+      "name": "RAPID",
+      "slug": "rapid",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34667,
+      "documentId": "m0jd926tn969j4d2a6airr1k",
+      "name": "RAPID Spaceback",
+      "slug": "rapid-spaceback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34799,
+      "documentId": "d8wb4kom00ifr6vksc4nbr53",
+      "name": "ROOMSTER",
+      "slug": "roomster",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34800,
+      "documentId": "ffo1l0ji7x5cxyo80k6pi8an",
+      "name": "ROOMSTER Praktik",
+      "slug": "roomster-praktik",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35537,
+      "documentId": "zwthjfq1klpcuhvy1awjkwcn",
+      "name": "SUPERB I",
+      "slug": "superb-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35538,
+      "documentId": "q0n2town3ckhnkwehr373adf",
+      "name": "SUPERB II",
+      "slug": "superb-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35539,
+      "documentId": "am9uj2gzqjwv0ptt2atnq70z",
+      "name": "SUPERB II Estate",
+      "slug": "superb-ii-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35540,
+      "documentId": "y8q4tlrt19lzc6jwc3x7pk0j",
+      "name": "SUPERB III",
+      "slug": "superb-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35541,
+      "documentId": "woidp5pivcig11vll0oc9ez7",
+      "name": "SUPERB III Estate",
+      "slug": "superb-iii-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35771,
+      "documentId": "pzh7xlrmfbdd3w1cg1my1b3s",
+      "name": "Superb",
+      "slug": "superb",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37085,
+      "documentId": "er9qlwhtrdem8lxywqz1ts35",
+      "name": "YETI",
+      "slug": "yeti",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

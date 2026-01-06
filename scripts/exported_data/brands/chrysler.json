@@ -1,0 +1,190 @@
+{
+  "brandInfo": {
+    "id": 589,
+    "documentId": "jahnkhqo0a5yhszw8oee0hde",
+    "name": "CHRYSLER",
+    "slug": "chrysler",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 22,
+  "exportDate": "2026-01-06T19:34:16.807Z",
+  "models": [
+    {
+      "id": 28516,
+      "documentId": "wpp614o2jtp9lmyb5hx4aw7r",
+      "name": "300",
+      "slug": "300",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28518,
+      "documentId": "lgs0x93iku1muv52k4a1l6q5",
+      "name": "300 C Touring",
+      "slug": "300-c-touring",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28542,
+      "documentId": "xiohjw134xixyr5qiuvsld54",
+      "name": "300C",
+      "slug": "300c",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28544,
+      "documentId": "jg3zemkw5zx5ue3r7fb5hx0k",
+      "name": "300M",
+      "slug": "300m",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30694,
+      "documentId": "es8gg7fimf5f3saav6xl94iq",
+      "name": "CROSSFIRE",
+      "slug": "crossfire",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30695,
+      "documentId": "l03ib2ilgnfgs2sn6y5zf49g",
+      "name": "CROSSFIRE Roadster",
+      "slug": "crossfire-roadster",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31178,
+      "documentId": "bovtpvphncfwm7dlbifjaqqz",
+      "name": "Delta",
+      "slug": "delta",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32267,
+      "documentId": "wy7ssrhbp2wdl92o9pfdbotf",
+      "name": "GRAND VOYAGER V",
+      "slug": "grand-voyager-v",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33934,
+      "documentId": "qctwyfuj9yxd1usgymjqok9l",
+      "name": "NEW YORKER",
+      "slug": "new-yorker",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34429,
+      "documentId": "r4ov3s5940jmaenq0cxhxfof",
+      "name": "PT CRUISER",
+      "slug": "pt-cruiser",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34431,
+      "documentId": "pk9pf39q44pa8607icup6h88",
+      "name": "PT CRUISER Convertible",
+      "slug": "pt-cruiser-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35096,
+      "documentId": "cl5729szfaz106yg2w0vicle",
+      "name": "SEBRING",
+      "slug": "sebring",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35097,
+      "documentId": "e4cyc09610uu2vhr9hx7y1r8",
+      "name": "SEBRING Convertible",
+      "slug": "sebring-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35499,
+      "documentId": "c2yho4ff5fgl8pppfupefgwb",
+      "name": "STRATUS",
+      "slug": "stratus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35500,
+      "documentId": "vhk4z4a2c3yuw4ymoqniflgv",
+      "name": "STRATUS Convertible",
+      "slug": "stratus-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36504,
+      "documentId": "um68yo3a3ocqmf1l4r5c5tpa",
+      "name": "VISION",
+      "slug": "vision",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36602,
+      "documentId": "xcesz601xzcupzypdpm9bwp9",
+      "name": "VOYAGER / GRAND VOYA- GER III",
+      "slug": "voyager-grand-voya-ger-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36608,
+      "documentId": "npvvval555s1n005jn1u3i7m",
+      "name": "VOYAGER II",
+      "slug": "voyager-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36610,
+      "documentId": "wkunrat3psyatv33d3a8x542",
+      "name": "VOYAGER IV",
+      "slug": "voyager-iv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36687,
+      "documentId": "jarqsk94ddnj82w0fhlteswu",
+      "name": "Viper",
+      "slug": "viper",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36713,
+      "documentId": "zn4b6i1uvrtvt276w9qa7gkr",
+      "name": "Voyager",
+      "slug": "voyager",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36714,
+      "documentId": "f2zoqlmcphjizwq9dp126nni",
+      "name": "Voyager / Grand Voyager",
+      "slug": "voyager--grand-voyager",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

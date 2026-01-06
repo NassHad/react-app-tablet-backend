@@ -1,0 +1,718 @@
+{
+  "brandInfo": {
+    "id": 666,
+    "documentId": "pgrgozbnm8ry7kmxyv7mdr20",
+    "name": "KTM",
+    "slug": "ktm",
+    "vehicle_type": "moto",
+    "isActive": true
+  },
+  "modelCount": 88,
+  "exportDate": "2026-01-06T19:34:16.888Z",
+  "models": [
+    {
+      "id": 28258,
+      "documentId": "cttq6bld68e1gtbiksz3wdd6",
+      "name": "1290 Super Duke R",
+      "slug": "1290-super-duke-r",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28656,
+      "documentId": "v9vbcmjwmat9eq19io8k96q8",
+      "name": "390 Adventure",
+      "slug": "390-adventure",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28657,
+      "documentId": "yw9ey3jq125nqoeizjnkf7rz",
+      "name": "390 Duke",
+      "slug": "390-duke",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28736,
+      "documentId": "f4oar6fbzc1783ntcbrokep8",
+      "name": "450 450 XC",
+      "slug": "450-450-xc",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28830,
+      "documentId": "rjzbygmkdmkk0fn93nh4gshn",
+      "name": "525 525 XC",
+      "slug": "525-525-xc",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28912,
+      "documentId": "qgruke4gei6ozoiye441ahxc",
+      "name": "790 Duke",
+      "slug": "790-duke",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28969,
+      "documentId": "qaeu3652vmdsj7jd5ok07mdr",
+      "name": "890 Duke R",
+      "slug": "890-duke-r",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29578,
+      "documentId": "gp5arstoghz1dlt9cbpgewe9",
+      "name": "Adventure 640 LC4",
+      "slug": "adventure-640-lc4",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29579,
+      "documentId": "dtuc7xs1eoupzvrm979arbet",
+      "name": "Adventure 640 R",
+      "slug": "adventure-640-r",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29580,
+      "documentId": "jtz3ret9p36ucu3sbglve8q7",
+      "name": "Adventure 950",
+      "slug": "adventure-950",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29581,
+      "documentId": "fb8xmcdj6sgrmip5a5b01ob6",
+      "name": "Adventure 990",
+      "slug": "adventure-990",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29583,
+      "documentId": "wtob7nts6gi35zi9mwksrff8",
+      "name": "Adveture 1190",
+      "slug": "adveture-1190",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29584,
+      "documentId": "x5y7pir7tqc6vgrkbc1b28q7",
+      "name": "Adveture 1190 R",
+      "slug": "adveture-1190-r",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29618,
+      "documentId": "qtop2o60o11hy140gyyk84qu",
+      "name": "Ark 50 AC",
+      "slug": "ark-50-ac",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31220,
+      "documentId": "ct5w7uvxgtaelgu4p919kjje",
+      "name": "Duke 125",
+      "slug": "duke-125",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31221,
+      "documentId": "thuconnnskd4ur5qpcw3xvae",
+      "name": "Duke 200",
+      "slug": "duke-200",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31222,
+      "documentId": "iiqobld62yo4vfjynh0lqwix",
+      "name": "Duke 390",
+      "slug": "duke-390",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31223,
+      "documentId": "x539nznellcruqhha55gcruu",
+      "name": "Duke 400",
+      "slug": "duke-400",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31224,
+      "documentId": "f84fpk044qkp27j922njda75",
+      "name": "Duke 620",
+      "slug": "duke-620",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31225,
+      "documentId": "e5r94079xdhgmeitbxpbsokc",
+      "name": "Duke 640 E",
+      "slug": "duke-640-e",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31226,
+      "documentId": "pwkob9la5ghv28tpmqgj5c1m",
+      "name": "Duke 690",
+      "slug": "duke-690",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31227,
+      "documentId": "qih0l0a3x0eeg5ga6dzx31mi",
+      "name": "Duke 690 R",
+      "slug": "duke-690-r",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31285,
+      "documentId": "wtyaj8x82hy2ie5t0vhotd63",
+      "name": "EGS 200",
+      "slug": "egs-200",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31286,
+      "documentId": "vczsv9b0fnjtygg67xqaoqyh",
+      "name": "EGS 250",
+      "slug": "egs-250",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31287,
+      "documentId": "xdbysjjbh1c6nmr20iwb3n4q",
+      "name": "EGS 300",
+      "slug": "egs-300",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31288,
+      "documentId": "v25pbo8ah7hr5v4bw66sj4sg",
+      "name": "EGS 350 LC4",
+      "slug": "egs-350-lc4",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31289,
+      "documentId": "ammq25qks01muox1mbdh71v6",
+      "name": "EGS 360",
+      "slug": "egs-360",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31290,
+      "documentId": "sr9m4c4c410b2eohpvqut2hk",
+      "name": "EGS 380",
+      "slug": "egs-380",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31291,
+      "documentId": "l6cxfre1wcgqhszyc76f4itf",
+      "name": "EGS 400 LC4",
+      "slug": "egs-400-lc4",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31292,
+      "documentId": "vqegyr7qw0cnf2v91rvujnj5",
+      "name": "EGS 620 LC4",
+      "slug": "egs-620-lc4",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31437,
+      "documentId": "us3hb0ubcxaagnuk7vpv6o4f",
+      "name": "EXC 125",
+      "slug": "exc-125",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31438,
+      "documentId": "auwco6bdok0twbv0xxe22mrq",
+      "name": "EXC 200",
+      "slug": "exc-200",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31439,
+      "documentId": "ggqq1d2bjr1r40d0jiquipqt",
+      "name": "EXC 250",
+      "slug": "exc-250",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31440,
+      "documentId": "wj8om10twl8o8bwzeqkndcec",
+      "name": "EXC 250 Rac.",
+      "slug": "exc-250-rac",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31441,
+      "documentId": "jqiqqkviztxwqxsygy8fz4lc",
+      "name": "EXC 300",
+      "slug": "exc-300",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31442,
+      "documentId": "dwfx9wzdsf23cvft0c6aqwdg",
+      "name": "EXC 350 LC4",
+      "slug": "exc-350-lc4",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31443,
+      "documentId": "xs0kzptipmnrweyg2wa1h7p2",
+      "name": "EXC 360",
+      "slug": "exc-360",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31444,
+      "documentId": "l7ssk1lkic8lel8ibfrfnvzz",
+      "name": "EXC 380",
+      "slug": "exc-380",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31445,
+      "documentId": "gwdyanyajspmv60oy0oxpr7t",
+      "name": "EXC 400 LC4",
+      "slug": "exc-400-lc4",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31446,
+      "documentId": "uscfxhnyfk55x36dbpzuxr6v",
+      "name": "EXC 400 Rac.",
+      "slug": "exc-400-rac",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31447,
+      "documentId": "xrygfztbvp9e7j98meecob29",
+      "name": "EXC 440",
+      "slug": "exc-440",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31448,
+      "documentId": "qksuc7vg7pyqzxx9mhh806jk",
+      "name": "EXC 450 Rac.",
+      "slug": "exc-450-rac",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31449,
+      "documentId": "cdw4lbrvy4y3mdojdauwrbro",
+      "name": "EXC 500",
+      "slug": "exc-500",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31450,
+      "documentId": "zua4ohl299fqdmz60i4fyrte",
+      "name": "EXC 525 Rac.",
+      "slug": "exc-525-rac",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31451,
+      "documentId": "jrxmpsjcwp778p5gnl5o2gp1",
+      "name": "EXC 612 LC4",
+      "slug": "exc-612-lc4",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31452,
+      "documentId": "b7lrzmi24a4ij4pol6wpn9bb",
+      "name": "EXC 620 LC4",
+      "slug": "exc-620-lc4",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31453,
+      "documentId": "vo2is05rhtnbu724fl3sfhfr",
+      "name": "EXC 640 LC4",
+      "slug": "exc-640-lc4",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31454,
+      "documentId": "yms0asu6tjmsuzzl3gvnb95m",
+      "name": "EXC 660 LC4",
+      "slug": "exc-660-lc4",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31455,
+      "documentId": "pge8y4jhpaqvy13stwf38di1",
+      "name": "EXC-E 300",
+      "slug": "exc-e-300",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31456,
+      "documentId": "mlwvxekxo0smx2mkfmn9ujod",
+      "name": "EXC-F 250",
+      "slug": "exc-f-250",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31457,
+      "documentId": "rknysovsz3il3i7e4ripa9bd",
+      "name": "EXC-F 350",
+      "slug": "exc-f-350",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31460,
+      "documentId": "j7wty9wgyddvhd56y0n3mzce",
+      "name": "EXE 125 (2T-125)",
+      "slug": "exe-125-2t-125",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31520,
+      "documentId": "ra1usn7ssfg5e3pbkqrx8tng",
+      "name": "Enduro 390 R",
+      "slug": "enduro-390-r",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32043,
+      "documentId": "dwub4povu4ex5xu2chkkhmaz",
+      "name": "Freeride 250 R",
+      "slug": "freeride-250-r",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32044,
+      "documentId": "xkj0u8hmzxj7cj5hx154i1e4",
+      "name": "Freeride 350",
+      "slug": "freeride-350",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32471,
+      "documentId": "tsv0zbm4c5v1ubfkwtce92a2",
+      "name": "Go 50 (GO50)",
+      "slug": "go-50-go50",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33072,
+      "documentId": "ppd7t3p5jwr4h80s9bd4z6hc",
+      "name": "LC2 125 (125LC2)",
+      "slug": "lc2-125-125lc2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33073,
+      "documentId": "y5z9oozf86lryx8zla2bo2ki",
+      "name": "LC4 640",
+      "slug": "lc4-640",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33420,
+      "documentId": "j6tug7dwj9em78ljl7ijkue3",
+      "name": "MCX 660 R",
+      "slug": "mcx-660-r",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33764,
+      "documentId": "myihs6clcl5wjl02iokuozsx",
+      "name": "MXC 525 Rac.",
+      "slug": "mxc-525-rac",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34497,
+      "documentId": "hwctb38ls6expb255h7yds74",
+      "name": "People S 300 (D2)",
+      "slug": "people-s-300-d2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34683,
+      "documentId": "p9015r0n0kiksjhz5wy8xqdd",
+      "name": "RC8 1190",
+      "slug": "rc8-1190",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34684,
+      "documentId": "gciarkd6e7rxergpz7k084mb",
+      "name": "RC8 1190 R",
+      "slug": "rc8-1190-r",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35039,
+      "documentId": "ujyyzcysqve28pllrwr6yc9e",
+      "name": "SC 350 LC4",
+      "slug": "sc-350-lc4",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35040,
+      "documentId": "jkoz7owitmzq3e90zeesruql",
+      "name": "SC 400 LC4",
+      "slug": "sc-400-lc4",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35041,
+      "documentId": "yqmt1xjko0pbzgvxfpdssn7c",
+      "name": "SC 620 LC4",
+      "slug": "sc-620-lc4",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35042,
+      "documentId": "hnlapzecg8f724aonsrsw074",
+      "name": "SC 625 LC4",
+      "slug": "sc-625-lc4",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35294,
+      "documentId": "z39fow7q4m6ara7k4wez192k",
+      "name": "SMC 660",
+      "slug": "smc-660",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35295,
+      "documentId": "dxgczjnhu2uetp7mxmfecz9v",
+      "name": "SMC 690",
+      "slug": "smc-690",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35296,
+      "documentId": "bnbte94081se3dzoyfielit6",
+      "name": "SMC 690 R",
+      "slug": "smc-690-r",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35298,
+      "documentId": "fq8m53acicbckzs9vjk0ary6",
+      "name": "SMR 450",
+      "slug": "smr-450",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35301,
+      "documentId": "xry8ksxnjy7hbg90lp6r2syz",
+      "name": "SMR 525",
+      "slug": "smr-525",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35302,
+      "documentId": "gif8a4xajio7kpiganvfpoay",
+      "name": "SMR 560",
+      "slug": "smr-560",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35588,
+      "documentId": "l6df41ggx4oktl4n2x2gt50s",
+      "name": "SXC 400 LC4",
+      "slug": "sxc-400-lc4",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35589,
+      "documentId": "a1gfm2svd03hfmfihjmm7cua",
+      "name": "SXC 540",
+      "slug": "sxc-540",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35590,
+      "documentId": "b9yd6q9bfp7i5ts43xpxl39c",
+      "name": "SXC 620 LC4",
+      "slug": "sxc-620-lc4",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35591,
+      "documentId": "yy0lvblz3hbm48dajv6amf32",
+      "name": "SXC 625",
+      "slug": "sxc-625",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35742,
+      "documentId": "gtrllvsy9q8i6r7btvwycm2y",
+      "name": "Sting 125 (125LC2)",
+      "slug": "sting-125-125lc2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35759,
+      "documentId": "c4py7lgv9e7oz5qn1ly57guo",
+      "name": "Sup.Enduro 950 R",
+      "slug": "supenduro-950-r",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35760,
+      "documentId": "saethd908rlfq9dumi7qewtc",
+      "name": "Sup.Moto 620 LC4",
+      "slug": "supmoto-620-lc4",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35767,
+      "documentId": "gnfu14y9xpruuds0owm1dxw3",
+      "name": "Super Duke 1290 R",
+      "slug": "super-duke-1290-r",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35768,
+      "documentId": "xaba972puzwuspybkfjgablp",
+      "name": "Super Duke 990",
+      "slug": "super-duke-990",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35769,
+      "documentId": "n7lskv97ztvz5f3fnttdprpo",
+      "name": "Super Duke 990 R",
+      "slug": "super-duke-990-r",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35774,
+      "documentId": "yp6rjs2exvxtm740njsdfdj8",
+      "name": "Superduke 990",
+      "slug": "superduke-990",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35775,
+      "documentId": "fdngwpfwzkewtqpvc9znrdb5",
+      "name": "Supermoto 690",
+      "slug": "supermoto-690",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35776,
+      "documentId": "ny1rv58y91vcs7hoffar8b9d",
+      "name": "Supermoto 950",
+      "slug": "supermoto-950",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35777,
+      "documentId": "ze985bkqmd4xqauwdjin24xr",
+      "name": "Supermoto 990",
+      "slug": "supermoto-990",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36854,
+      "documentId": "i4qbbqqkaeqef1imzh07iih2",
+      "name": "XC 525 Desert Rac.",
+      "slug": "xc-525-desert-rac",
+      "vehicle_type": "moto",
+      "isActive": true
+    }
+  ]
+}

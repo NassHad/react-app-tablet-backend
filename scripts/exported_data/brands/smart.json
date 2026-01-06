@@ -1,0 +1,126 @@
+{
+  "brandInfo": {
+    "id": 756,
+    "documentId": "w7tfz06fuk9yafs1feha8m3e",
+    "name": "SMART",
+    "slug": "smart",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 14,
+  "exportDate": "2026-01-06T19:34:16.994Z",
+  "models": [
+    {
+      "id": 30056,
+      "documentId": "qky2an0ko1qly4nbqgrwerds",
+      "name": "CABRIO",
+      "slug": "cabrio",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30409,
+      "documentId": "rwh8x6kjdmaqi4car151tn6k",
+      "name": "CITY-COUPE",
+      "slug": "city-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30693,
+      "documentId": "tthqejbnx35pbyfwkn3a70bf",
+      "name": "CROSSBLADE",
+      "slug": "crossblade",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31844,
+      "documentId": "uk7tearyy6cxruted9ha1x23",
+      "name": "FORFOUR",
+      "slug": "forfour",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31845,
+      "documentId": "inpm091n8pdx4icntdb8ibdq",
+      "name": "FORFOUR Hatchback",
+      "slug": "forfour-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31849,
+      "documentId": "dl81j44ofq1csz1x5jpkp2vg",
+      "name": "FORTWO Cabrio",
+      "slug": "fortwo-cabrio",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31850,
+      "documentId": "dpi5f1tc4socv8ny61vytth2",
+      "name": "FORTWO Convertible",
+      "slug": "fortwo-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31851,
+      "documentId": "lptdyhrx80x1yart3dr2wun4",
+      "name": "FORTWO Coupe",
+      "slug": "fortwo-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32032,
+      "documentId": "o2jq3s0vw7a2epxzexznkcuw",
+      "name": "Forfour / EQ Forfour",
+      "slug": "forfour--eq-forfour",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32033,
+      "documentId": "axxzmfbqqru1rwgvzpwt0lbt",
+      "name": "Fortwo",
+      "slug": "fortwo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32034,
+      "documentId": "gbc9qcimd6bh9acbm9ltfhur",
+      "name": "Fortwo / EQ Fortwo",
+      "slug": "fortwo--eq-fortwo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34775,
+      "documentId": "c8s7chul9bqtvelwnf9m8mzl",
+      "name": "ROADSTER",
+      "slug": "roadster",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34777,
+      "documentId": "xiiv5r88ny3cs5ch7jjdreb0",
+      "name": "ROADSTER Coupe",
+      "slug": "roadster-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35663,
+      "documentId": "qw91nttdfh4qx0wmcnl48b0g",
+      "name": "Smart/ Fortwo",
+      "slug": "smart-fortwo",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "brandInfo": {
+    "id": 674,
+    "documentId": "wp85ccgaeyyoi45r0kzwmunq",
+    "name": "LEXUS",
+    "slug": "lexus",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 33,
+  "exportDate": "2026-01-06T19:34:16.895Z",
+  "models": [
+    {
+      "id": 30722,
+      "documentId": "f93x1d52uoivwv7gmon0ec9r",
+      "name": "CT",
+      "slug": "ct",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30723,
+      "documentId": "n7cdh28hew0hsr9eaa7wd0kc",
+      "name": "CT 200h",
+      "slug": "ct-200h",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31359,
+      "documentId": "cchwcsi0znxtq0kbh47d3kaq",
+      "name": "ES",
+      "slug": "es",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31360,
+      "documentId": "l31usz42051zy7sy99yi66ud",
+      "name": "ES 300h",
+      "slug": "es-300h",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32292,
+      "documentId": "wjjav953j746x4rotpt017jn",
+      "name": "GS",
+      "slug": "gs",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32295,
+      "documentId": "la51dssgq0x8i9i4du2xptqn",
+      "name": "GS 300/430",
+      "slug": "gs-300430",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32296,
+      "documentId": "rif8jzk3vih2m9crueeckljm",
+      "name": "GS 300h/450h/GS",
+      "slug": "gs-300h450hgs",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32457,
+      "documentId": "ov9pgu5edorrhhldk1juubdi",
+      "name": "GX",
+      "slug": "gx",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32571,
+      "documentId": "wk2mxheic1cmp4s5etxg0wig",
+      "name": "HS",
+      "slug": "hs",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32707,
+      "documentId": "asc5a8rl6kkgou8ti2j03rm7",
+      "name": "IS 200",
+      "slug": "is-200",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32708,
+      "documentId": "e7598mz63yypc8fq3uz97j9f",
+      "name": "IS 220d/250",
+      "slug": "is-220d250",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32709,
+      "documentId": "isy58efk38yks0i1z503l0vl",
+      "name": "IS 250/300h",
+      "slug": "is-250300h",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32710,
+      "documentId": "sqv5aowbmn6ww4ibj2umlggg",
+      "name": "IS C",
+      "slug": "is-c",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32711,
+      "documentId": "zzyeyjket69v4fzoczyj7806",
+      "name": "IS I",
+      "slug": "is-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32712,
+      "documentId": "j3q82gky0mrnzlrvp09ot2mw",
+      "name": "IS II",
+      "slug": "is-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32713,
+      "documentId": "v0gxcx47j6xdjdxfrz5y6p1a",
+      "name": "IS III",
+      "slug": "is-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32714,
+      "documentId": "vk3jtemvdfaj9hhqckywbqfh",
+      "name": "IS SportCross",
+      "slug": "is-sportcross",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33069,
+      "documentId": "v1la1jnjhgjxvrd8dptitt53",
+      "name": "LBX",
+      "slug": "lbx",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33071,
+      "documentId": "azusadnqbbc9chj1fv9voizw",
+      "name": "LC Coupe",
+      "slug": "lc-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33129,
+      "documentId": "r30snu55zvbyymjuuxq9tjav",
+      "name": "LFA",
+      "slug": "lfa",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33177,
+      "documentId": "z9h76rgvawqab2mv5ktuuxuh",
+      "name": "LS",
+      "slug": "ls",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33179,
+      "documentId": "l4punxvvvsqoa68dc3cqc0p2",
+      "name": "LS 400",
+      "slug": "ls-400",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33180,
+      "documentId": "ggg2r8v435auicol2ogo5j3r",
+      "name": "LS 500h",
+      "slug": "ls-500h",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33205,
+      "documentId": "eczodpyxqeok1i1m60ewjr9k",
+      "name": "LX",
+      "slug": "lx",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34024,
+      "documentId": "m9ue1ynb4lir85k1bkn3427s",
+      "name": "NX",
+      "slug": "nx",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34027,
+      "documentId": "er57m6304bczl0178rjpkvn8",
+      "name": "NX 350h/450h",
+      "slug": "nx-350h450h",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34030,
+      "documentId": "x0xiajf2qkckn3069l049dbn",
+      "name": "NX II",
+      "slug": "nx-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34682,
+      "documentId": "r51qo60adpzlqj7uejqjdpyi",
+      "name": "RC",
+      "slug": "rc",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34850,
+      "documentId": "pfacxrfrjz2fv2t1ls345gzt",
+      "name": "RX",
+      "slug": "rx",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34854,
+      "documentId": "r2wafht23yike0hghis5npo3",
+      "name": "RX 300/ 400h",
+      "slug": "rx-300-400h",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34855,
+      "documentId": "ysayydeb1aq5gc4xp9eztq0s",
+      "name": "RX 350/ 450h",
+      "slug": "rx-350-450h",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35043,
+      "documentId": "a6x0xd24u074zvy1z7afrly4",
+      "name": "SC Convertible",
+      "slug": "sc-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36333,
+      "documentId": "vjwpbeiq6npuutwtegalwje6",
+      "name": "UX 250h",
+      "slug": "ux-250h",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

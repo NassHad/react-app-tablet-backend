@@ -1,0 +1,22 @@
+{
+  "brandInfo": {
+    "id": 546,
+    "documentId": "fpifkph7ymu61gs9otwyhgsh",
+    "name": "ALPINE",
+    "slug": "alpine",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 1,
+  "exportDate": "2026-01-06T19:34:16.771Z",
+  "models": [
+    {
+      "id": 29069,
+      "documentId": "wrfsiw75b0o2qjo40t95tjun",
+      "name": "A110 II",
+      "slug": "a110-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

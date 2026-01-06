@@ -1,0 +1,22 @@
+{
+  "brandInfo": {
+    "id": 692,
+    "documentId": "azdj319izng6ivc2a3fc1kld",
+    "name": "MAYBACH",
+    "slug": "maybach",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 1,
+  "exportDate": "2026-01-06T19:34:16.913Z",
+  "models": [
+    {
+      "id": 28837,
+      "documentId": "fo0xq297i1xqog7wj8ygh3ac",
+      "name": "57",
+      "slug": "57",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

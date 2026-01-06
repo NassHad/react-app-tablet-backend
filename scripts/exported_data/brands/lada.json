@@ -1,0 +1,246 @@
+{
+  "brandInfo": {
+    "id": 668,
+    "documentId": "map869x9jq7w48xugclhcq80",
+    "name": "LADA",
+    "slug": "lada",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 29,
+  "exportDate": "2026-01-06T19:34:16.890Z",
+  "models": [
+    {
+      "id": 28191,
+      "documentId": "hozppdtvktwpr6noi2qrl8c4",
+      "name": "110",
+      "slug": "110",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28198,
+      "documentId": "jr80b9ttmjbd6fuoafbpdit4",
+      "name": "111",
+      "slug": "111",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28199,
+      "documentId": "r45znigh09depu8tsgncc9qa",
+      "name": "112",
+      "slug": "112",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28440,
+      "documentId": "my4phbebpalewx9jgucnt74h",
+      "name": "2113, 2114)\"",
+      "slug": "2113-2114",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28441,
+      "documentId": "pa6ffuwpxk0ybalo4b6ybpej",
+      "name": "2115)\"",
+      "slug": "2115",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30866,
+      "documentId": "ldv32paix7wcxxrhvz8w7jzg",
+      "name": "Corda",
+      "slug": "corda",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32283,
+      "documentId": "fve0qk1z2n5aomo70cdpx8we",
+      "name": "GRANTA",
+      "slug": "granta",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32284,
+      "documentId": "rcu4kvd057eaq5ts4l5dxl83",
+      "name": "GRANTA Estate",
+      "slug": "granta-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32285,
+      "documentId": "kypc94bbwlj5iid310mbyoa9",
+      "name": "GRANTA Hatchback",
+      "slug": "granta-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32286,
+      "documentId": "gbvvmngiryl5x8iftciugc4h",
+      "name": "GRANTA Liftback",
+      "slug": "granta-liftback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32872,
+      "documentId": "kcwm7atspswgfay4k25o58b4",
+      "name": "KALINA Estate",
+      "slug": "kalina-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32873,
+      "documentId": "lx6hxxotqu3tmoakb3olmpxh",
+      "name": "KALINA Hatchback",
+      "slug": "kalina-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32875,
+      "documentId": "eokswxo58tim5g9o9bm6h64k",
+      "name": "KALINA II Estate",
+      "slug": "kalina-ii-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32876,
+      "documentId": "t2rxuu48zgqz6vuprcxum6dm",
+      "name": "KALINA II Hatchback",
+      "slug": "kalina-ii-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32877,
+      "documentId": "uklgnkr075l7kutgjoig1qkb",
+      "name": "KALINA Saloon",
+      "slug": "kalina-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32969,
+      "documentId": "rvw9p7n0xjo953gsq3oyxpge",
+      "name": "Kalina 1117 / 2194",
+      "slug": "kalina-1117--2194",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33064,
+      "documentId": "ecxw2co2epucw0o32jks5g8c",
+      "name": "LARGUS",
+      "slug": "largus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33065,
+      "documentId": "v63cyexiqkzqotxop6r37wxf",
+      "name": "LARGUS Estate Van",
+      "slug": "largus-estate-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33066,
+      "documentId": "h3rnt4j4zf6qca0ilytsqwi3",
+      "name": "LARGUS Van",
+      "slug": "largus-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33945,
+      "documentId": "cgza8egz86z6vpx4x9papzxc",
+      "name": "NIVA Closed Off-Road Vehicle",
+      "slug": "niva-closed-off-road-vehicle",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33946,
+      "documentId": "pz1oib59gsyqa3tn847mf8f5",
+      "name": "NIVA II",
+      "slug": "niva-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34391,
+      "documentId": "pzrtlukl0itdpqfvfypfadod",
+      "name": "PRIORA Estate",
+      "slug": "priora-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34392,
+      "documentId": "qn95ptns0cn30d7s4v8p7wak",
+      "name": "PRIORA Hatchback",
+      "slug": "priora-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34393,
+      "documentId": "qi8t5pc8q84jxvdep4yujj25",
+      "name": "PRIORA Saloon",
+      "slug": "priora-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36209,
+      "documentId": "a6xsjol55ei1g2irbmvkndn6",
+      "name": "Tavria",
+      "slug": "tavria",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36465,
+      "documentId": "v5qs4kmnicigsoftwf2jn808",
+      "name": "VESTA",
+      "slug": "vesta",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36466,
+      "documentId": "xpvajwp7g5d5sr93zodan4l7",
+      "name": "VESTA SW Estate",
+      "slug": "vesta-sw-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36797,
+      "documentId": "q90wdqtzwdmgoqfat0pmh86f",
+      "name": "X-Ray / X-Ray Cross",
+      "slug": "x-ray--x-ray-cross",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36985,
+      "documentId": "r0fjzsffh7fnd1s352rixqly",
+      "name": "XRAY",
+      "slug": "xray",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

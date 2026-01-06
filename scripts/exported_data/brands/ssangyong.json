@@ -1,0 +1,190 @@
+{
+  "brandInfo": {
+    "id": 758,
+    "documentId": "v7dn0g2tx8d0l9s3kbe9g1vb",
+    "name": "SSANGYONG",
+    "slug": "ssangyong",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 22,
+  "exportDate": "2026-01-06T19:34:16.996Z",
+  "models": [
+    {
+      "id": 29195,
+      "documentId": "qcbk1i29o2s49uq3unk4d8qk",
+      "name": "ACTYON I",
+      "slug": "actyon-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29197,
+      "documentId": "smjtwmsjuinrpxpjwt5gyvf7",
+      "name": "ACTYON SPORTS I",
+      "slug": "actyon-sports-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29575,
+      "documentId": "jgdhar3wv7dwa2frk4iaycye",
+      "name": "Actyon / Pick Up Sport / SUT-1",
+      "slug": "actyon--pick-up-sport--sut-1",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32011,
+      "documentId": "xzj7pxbdy09l6hd1zllnw3pj",
+      "name": "Family",
+      "slug": "family",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32735,
+      "documentId": "tmfmxy535h0t7mgggbwibyde",
+      "name": "Instance",
+      "slug": "instance",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32948,
+      "documentId": "uvwrkqsy067j6lh3jgym7004",
+      "name": "KORANDO",
+      "slug": "korando",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32949,
+      "documentId": "k2iigdp0f723fk07rts3c79g",
+      "name": "KORANDO Cabrio",
+      "slug": "korando-cabrio",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32952,
+      "documentId": "f6imw3ohnrh220ebd7xeyy20",
+      "name": "KORANDO SPORTS",
+      "slug": "korando-sports",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32968,
+      "documentId": "kcqb45z3xwz3og3pu3rop4dl",
+      "name": "KYRON",
+      "slug": "kyron",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32976,
+      "documentId": "yvcgl0phbmsvv9ow8u73vhih",
+      "name": "Kyron M200",
+      "slug": "kyron-m200",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33740,
+      "documentId": "mlrb1r203rsuk89hzn1mv1jd",
+      "name": "MUSSO",
+      "slug": "musso",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33741,
+      "documentId": "oa121kr1lycc41x8oem8odma",
+      "name": "MUSSO GRAND",
+      "slug": "musso-grand",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33742,
+      "documentId": "v27kos0mqe8sds9h1l2urt3s",
+      "name": "MUSSO SPORTS",
+      "slug": "musso-sports",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34731,
+      "documentId": "hq9r86yxa1wx5f9anfmrit0y",
+      "name": "REXTON",
+      "slug": "rexton",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34732,
+      "documentId": "khs15ea69iawnseybcx2d8dt",
+      "name": "REXTON / REXTON II",
+      "slug": "rexton-rexton-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34734,
+      "documentId": "j8vdmb02bolunf0ymx0xbmw0",
+      "name": "REXTON W / REXTON",
+      "slug": "rexton-w-rexton",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34791,
+      "documentId": "i7l96kbx6n4borpuw4y9hdfx",
+      "name": "RODIUS I",
+      "slug": "rodius-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34792,
+      "documentId": "vgrcl1ufoikcxcvrzeydh5fc",
+      "name": "RODIUS II",
+      "slug": "rodius-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34911,
+      "documentId": "caxxlt6d6oudrugtrk8da5b1",
+      "name": "Rodius / Korando Turismo / Stavic",
+      "slug": "rodius--korando-turismo--stavic",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35479,
+      "documentId": "shur6grcldrjqc408t29i7zt",
+      "name": "STAVIC",
+      "slug": "stavic",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35972,
+      "documentId": "sioj43ovvzse78q0dk8nqorj",
+      "name": "TIVOLI",
+      "slug": "tivoli",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36966,
+      "documentId": "nfvoq2qy0m177oa92g6flfyd",
+      "name": "XLV SUV",
+      "slug": "xlv-suv",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

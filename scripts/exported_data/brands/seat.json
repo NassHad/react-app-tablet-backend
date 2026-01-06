@@ -1,0 +1,294 @@
+{
+  "brandInfo": {
+    "id": 753,
+    "documentId": "giyfz3l4fhyor165nfz34t5i",
+    "name": "SEAT",
+    "slug": "seat",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 35,
+  "exportDate": "2026-01-06T19:34:16.988Z",
+  "models": [
+    {
+      "id": 29245,
+      "documentId": "h7ae0g5g50pl60n4vko020py",
+      "name": "ALHAMBRA",
+      "slug": "alhambra",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29272,
+      "documentId": "o4zhpjkqimxegqfz3zo62nq7",
+      "name": "ALTEA",
+      "slug": "altea",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29274,
+      "documentId": "ccr0jjyih944fh3w9g8haiq6",
+      "name": "ALTEA XL",
+      "slug": "altea-xl",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29365,
+      "documentId": "b1quzuj8zvrk8f0wxknfo6jf",
+      "name": "ARONA",
+      "slug": "arona",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29366,
+      "documentId": "szoj9wh2mvt79dc86fbvpylp",
+      "name": "AROSA",
+      "slug": "arosa",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29485,
+      "documentId": "hgdw5r5dps2c0sc9xcf3bplr",
+      "name": "ATECA",
+      "slug": "ateca",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30555,
+      "documentId": "g7hykg871ei2txnp3d02ufsb",
+      "name": "CORDOBA",
+      "slug": "cordoba",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30560,
+      "documentId": "smu9t19d9j22cwdietis72sx",
+      "name": "CORDOBA Vario",
+      "slug": "cordoba-vario",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31461,
+      "documentId": "jeyf2btq5mn9ln2dde2k5rvg",
+      "name": "EXEO",
+      "slug": "exeo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31462,
+      "documentId": "rsesomsfny3pwao91njtche2",
+      "name": "EXEO ST",
+      "slug": "exeo-st",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32614,
+      "documentId": "uz4wy0pwle8olbmifcai2us5",
+      "name": "IBIZA II",
+      "slug": "ibiza-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32615,
+      "documentId": "t1q6rn0wx6s9tkfy3777btrt",
+      "name": "IBIZA III",
+      "slug": "ibiza-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32616,
+      "documentId": "wqr4r8mocjfmpv7x90tw9wnw",
+      "name": "IBIZA IV",
+      "slug": "ibiza-iv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32619,
+      "documentId": "cjobto06et2pmm4k2vy5p4co",
+      "name": "IBIZA IV SPORTCOUPE",
+      "slug": "ibiza-iv-sportcoupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32620,
+      "documentId": "axova6pqd3qyeqtddpa6vu7d",
+      "name": "IBIZA IV ST",
+      "slug": "ibiza-iv-st",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32621,
+      "documentId": "ne13fdj0y7q2748c11xvwsme",
+      "name": "IBIZA V",
+      "slug": "ibiza-v",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32655,
+      "documentId": "tmythy8eiqmthetjlb50cobn",
+      "name": "INCA",
+      "slug": "inca",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32723,
+      "documentId": "bj6du6ru7xs74399uhvacc0h",
+      "name": "Ibiza",
+      "slug": "ibiza",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32724,
+      "documentId": "ex7qxr34z1wfybdqdzsjotiq",
+      "name": "Ibiza / Ibiza SC",
+      "slug": "ibiza--ibiza-sc",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33108,
+      "documentId": "dk6b5o6bzecshqjmyjemxn4k",
+      "name": "LEON",
+      "slug": "leon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33109,
+      "documentId": "h9npplrynidqmgzprh52iugg",
+      "name": "LEON Hatchback Van",
+      "slug": "leon-hatchback-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33114,
+      "documentId": "eas848mb3c415k5lta3iw54i",
+      "name": "LEON SC",
+      "slug": "leon-sc",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33115,
+      "documentId": "sk6o5bfux1mdpqvxnn454j4g",
+      "name": "LEON ST",
+      "slug": "leon-st",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33116,
+      "documentId": "ataln44ezbn39ga61mzer2b3",
+      "name": "LEON ST Estate Van",
+      "slug": "leon-st-estate-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33117,
+      "documentId": "w7zw4ajrqlnvku5xlna66rq4",
+      "name": "LEON Sportstourer",
+      "slug": "leon-sportstourer",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33334,
+      "documentId": "s2rtpcvdpga4ngiavugsjnyr",
+      "name": "MARBELLA",
+      "slug": "marbella",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33784,
+      "documentId": "tj1hw2m9hwazyknvt477vh0y",
+      "name": "Malaga",
+      "slug": "malaga",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33807,
+      "documentId": "vjmq9w66kvoxb34q55ljkesy",
+      "name": "Mii",
+      "slug": "mii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35991,
+      "documentId": "wat2smevh62mkazc44gf9cq9",
+      "name": "TOLEDO I",
+      "slug": "toledo-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35992,
+      "documentId": "lc26jz4d0xlnlkp7mc1qi07c",
+      "name": "TOLEDO II",
+      "slug": "toledo-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35993,
+      "documentId": "jknftwmkatedjtjuh6a7fdml",
+      "name": "TOLEDO III",
+      "slug": "toledo-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35994,
+      "documentId": "xpsc1jq7bskuqalxlvvdi2u2",
+      "name": "TOLEDO IV",
+      "slug": "toledo-iv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36208,
+      "documentId": "lzep203ofejuvq0z6vdk2apk",
+      "name": "Tarraco",
+      "slug": "tarraco",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36213,
+      "documentId": "sc67jr2a8wtg3vgy79ig3xin",
+      "name": "Terra",
+      "slug": "terra",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36248,
+      "documentId": "rlmtop7bm4wvu4qmella17c0",
+      "name": "Toledo",
+      "slug": "toledo",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

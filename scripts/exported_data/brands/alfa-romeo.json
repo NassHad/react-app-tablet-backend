@@ -1,0 +1,238 @@
+{
+  "brandInfo": {
+    "id": 544,
+    "documentId": "k05o27y6hj93z9wu4huxdzpr",
+    "name": "ALFA ROMEO",
+    "slug": "alfa-romeo",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 28,
+  "exportDate": "2026-01-06T19:34:16.769Z",
+  "models": [
+    {
+      "id": 28290,
+      "documentId": "kw8d14iljsxogy6qjtrg4d8i",
+      "name": "145",
+      "slug": "145",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28291,
+      "documentId": "k35r139suv2caxkskwowa2vt",
+      "name": "146",
+      "slug": "146",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28292,
+      "documentId": "n5t5qbg5mk94t17o45t6ncue",
+      "name": "147",
+      "slug": "147",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28310,
+      "documentId": "dde2wo2ftt50wrmalw8i9xee",
+      "name": "155",
+      "slug": "155",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28311,
+      "documentId": "yulshvb0nvjf98b1ac8xqi6e",
+      "name": "156",
+      "slug": "156",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28312,
+      "documentId": "iyxhtb0t9ctgnl6cmvx993qh",
+      "name": "156 Sportwagon",
+      "slug": "156-sportwagon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28313,
+      "documentId": "jduberj2qvhjmpa4m83i2wj5",
+      "name": "159",
+      "slug": "159",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28314,
+      "documentId": "wyzblaeijddioazrap4bpkv0",
+      "name": "159 Sportwagon",
+      "slug": "159-sportwagon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28321,
+      "documentId": "h3ephmbz12jpcxekj0ep2lvq",
+      "name": "164",
+      "slug": "164",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28322,
+      "documentId": "uz37j0s25evrf076gni049rn",
+      "name": "166",
+      "slug": "166",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28624,
+      "documentId": "vpfvs42bj3wyy4nca12vsavg",
+      "name": "33",
+      "slug": "33",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28625,
+      "documentId": "tdl9iurzhen3jouukuzty2dl",
+      "name": "33 Sportwagon",
+      "slug": "33-sportwagon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28753,
+      "documentId": "mphiaaykuyf5cmi5ija5yljg",
+      "name": "4C",
+      "slug": "4c",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28754,
+      "documentId": "syfbz4p0rdqsg9ht24s6z12u",
+      "name": "4C SPIDER",
+      "slug": "4c-spider",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29600,
+      "documentId": "fort7uj7kxhiemzgz1yt5ffp",
+      "name": "Alfasud Sprint",
+      "slug": "alfasud-sprint",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29601,
+      "documentId": "dqyetschf7catfck85h9tpqv",
+      "name": "Alfetta",
+      "slug": "alfetta",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29620,
+      "documentId": "o3d117gu0bykqv13mybn8n7l",
+      "name": "Arna",
+      "slug": "arna",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29782,
+      "documentId": "ecm3c6poz578243igtop5i8f",
+      "name": "BRERA",
+      "slug": "brera",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32137,
+      "documentId": "cqydy1oc6n95fh49dhd695uf",
+      "name": "GIULIA",
+      "slug": "giulia",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32140,
+      "documentId": "l6345nohhj64oe4gnhk26mx6",
+      "name": "GIULIETTA",
+      "slug": "giulietta",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32145,
+      "documentId": "afl8angd5ydlr11hb0eywj4h",
+      "name": "GIULIETTA Hatchback Van",
+      "slug": "giulietta-hatchback-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32402,
+      "documentId": "e4v1ldh84bfodvo3a3i8cbl7",
+      "name": "GT",
+      "slug": "gt",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32444,
+      "documentId": "laqcoa5m1q1sruneuw2dv8uz",
+      "name": "GTV",
+      "slug": "gtv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32825,
+      "documentId": "deodh97h3564982tv12y3adv",
+      "name": "Junior",
+      "slug": "junior",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33578,
+      "documentId": "k3807wqnqu5k7vs7emi16u6g",
+      "name": "MITO",
+      "slug": "mito",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35357,
+      "documentId": "bwo9wi8jymb2440p28nx44gt",
+      "name": "SPIDER",
+      "slug": "spider",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35484,
+      "documentId": "b83t4l0ap1aye2fzb9tv06el",
+      "name": "STELVIO",
+      "slug": "stelvio",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36249,
+      "documentId": "x77128m30oz9mgaxv1bl767r",
+      "name": "Tonale",
+      "slug": "tonale",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "brandInfo": {
+    "id": 731,
+    "documentId": "lhhejhhwl2xwv607rehiut64",
+    "name": "PONTIAC",
+    "slug": "pontiac",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 1,
+  "exportDate": "2026-01-06T19:34:16.952Z",
+  "models": [
+    {
+      "id": 36082,
+      "documentId": "r7tmeakwtworqrinkgiid0au",
+      "name": "TRANS SPORT",
+      "slug": "trans-sport",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

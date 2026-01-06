@@ -1,0 +1,38 @@
+{
+  "brandInfo": {
+    "id": 685,
+    "documentId": "y9y99hf1zteb4ht6koghps4b",
+    "name": "MAN",
+    "slug": "man",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 3,
+  "exportDate": "2026-01-06T19:34:16.906Z",
+  "models": [
+    {
+      "id": 35926,
+      "documentId": "gdl4mwjewo61ed3esql9purp",
+      "name": "TGE",
+      "slug": "tge",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35928,
+      "documentId": "uhob2gtn4klgkecp56cmlmtq",
+      "name": "TGE Platform/Chassis",
+      "slug": "tge-platformchassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35929,
+      "documentId": "c1vymsy5loxisg3saprs8b88",
+      "name": "TGE Van",
+      "slug": "tge-van",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

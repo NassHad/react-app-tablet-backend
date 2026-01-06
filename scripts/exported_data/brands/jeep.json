@@ -1,0 +1,174 @@
+{
+  "brandInfo": {
+    "id": 661,
+    "documentId": "v6bw4j3un231lgtf1rqk8019",
+    "name": "JEEP",
+    "slug": "jeep",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 20,
+  "exportDate": "2026-01-06T19:34:16.879Z",
+  "models": [
+    {
+      "id": 30371,
+      "documentId": "t2cxuiuvnwkxnz5smlwnb8gs",
+      "name": "CHEROKEE",
+      "slug": "cherokee",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30527,
+      "documentId": "uili1cwxor3vebc3gh03em0s",
+      "name": "COMMANDER",
+      "slug": "commander",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30536,
+      "documentId": "u6mxhfkv3vf31ez42uwxam76",
+      "name": "COMPASS",
+      "slug": "compass",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30864,
+      "documentId": "sjlokk770uqyg7lkxzzfqa8q",
+      "name": "Compass 4xe / Compass",
+      "slug": "compass-4xe--compass",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32243,
+      "documentId": "bomu7yxrk6l87d8klub451zs",
+      "name": "GRAND CHEROKEE I",
+      "slug": "grand-cherokee-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32244,
+      "documentId": "ueu9wx421uhe6aql2e3ut9wg",
+      "name": "GRAND CHEROKEE II",
+      "slug": "grand-cherokee-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32245,
+      "documentId": "yy7fdposo8dmrr95krcujwzt",
+      "name": "GRAND CHEROKEE III",
+      "slug": "grand-cherokee-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32246,
+      "documentId": "ve1c2wfx4nsmm3sa8q608vvw",
+      "name": "GRAND CHEROKEE IV",
+      "slug": "grand-cherokee-iv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32470,
+      "documentId": "rz9gx6f2m0x6lngh82k297bs",
+      "name": "Gladiator",
+      "slug": "gladiator",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32477,
+      "documentId": "o6wutfobl8ew6pltpyyxuqok",
+      "name": "Grand Cherokee",
+      "slug": "grand-cherokee",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32478,
+      "documentId": "q7tp5lmh97ex9fdbwcctsdvz",
+      "name": "Grand Cherokee / version 4xe",
+      "slug": "grand-cherokee--version-4xe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34720,
+      "documentId": "zrzy67k25c7cfanvhdpmab5e",
+      "name": "RENEGADE Closed Off-Road Vehicle",
+      "slug": "renegade-closed-off-road-vehicle",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34721,
+      "documentId": "ej5nvuvj1n2rkzyoo409qw3q",
+      "name": "RENEGADE SUV",
+      "slug": "renegade-suv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34888,
+      "documentId": "cgq04l45iku7h9ugsrroizqs",
+      "name": "Renegade / Renegade 4xe",
+      "slug": "renegade--renegade-4xe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36769,
+      "documentId": "tdal75rldw6sigg4v9t88113",
+      "name": "WRANGLER I",
+      "slug": "wrangler-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36770,
+      "documentId": "llx58oqs965qwnt10v2ry0jo",
+      "name": "WRANGLER II",
+      "slug": "wrangler-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36771,
+      "documentId": "a94wj1ut1vs4eutnic1kgsop",
+      "name": "WRANGLER III",
+      "slug": "wrangler-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36772,
+      "documentId": "u1y1bpan83wpwifvytbxqpaa",
+      "name": "WRANGLER IV",
+      "slug": "wrangler-iv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36781,
+      "documentId": "yrpl0u0g1712qvpi5oowj3kj",
+      "name": "Wrangler",
+      "slug": "wrangler",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36782,
+      "documentId": "cerygcotmexy55x9cw61uyof",
+      "name": "Wrangler / Unlimited",
+      "slug": "wrangler--unlimited",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "brandInfo": {
+    "id": 591,
+    "documentId": "hyton916wt34957k5udma7lz",
+    "name": "CUPRA",
+    "slug": "cupra",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 2,
+  "exportDate": "2026-01-06T19:34:16.812Z",
+  "models": [
+    {
+      "id": 29759,
+      "documentId": "mva7gtmes5vzqs6q2o7ch8xl",
+      "name": "BORN",
+      "slug": "born",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31847,
+      "documentId": "igpbbfaw78us51lx7hxpr4oc",
+      "name": "FORMENTOR",
+      "slug": "formentor",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

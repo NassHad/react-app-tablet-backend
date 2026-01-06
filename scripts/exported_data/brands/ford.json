@@ -1,0 +1,334 @@
+{
+  "brandInfo": {
+    "id": 616,
+    "documentId": "xa9raig30nxg3agvaiawa6eh",
+    "name": "FORD",
+    "slug": "ford",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 40,
+  "exportDate": "2026-01-06T19:34:16.841Z",
+  "models": [
+    {
+      "id": 29882,
+      "documentId": "kmiz1w0eb4fmxa0543co3i44",
+      "name": "Box",
+      "slug": "box",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29889,
+      "documentId": "uyll74du9k73hmrq129zmsl3",
+      "name": "Bronco",
+      "slug": "bronco",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29933,
+      "documentId": "esj8ey8tvcc2cydxjni51gio",
+      "name": "C-MAX",
+      "slug": "c-max",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31280,
+      "documentId": "dy8aucmv956lwevfziyzw11b",
+      "name": "ECOSPORT",
+      "slug": "ecosport",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31529,
+      "documentId": "ldeg8t0phs3gyfnxl5p5h886",
+      "name": "Escort",
+      "slug": "escort",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31530,
+      "documentId": "i3ckn8ja7jw2udolwx62xnz0",
+      "name": "Escort Clipper",
+      "slug": "escort-clipper",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31537,
+      "documentId": "jec2muv7eouox7okkp30ospy",
+      "name": "Everest",
+      "slug": "everest",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31659,
+      "documentId": "h897yjctv52l81hqgvt2o2om",
+      "name": "FIESTA IV",
+      "slug": "fiesta-iv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31662,
+      "documentId": "lj7verok6so2is3siwyak609",
+      "name": "FIESTA V",
+      "slug": "fiesta-v",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31665,
+      "documentId": "uo0beb1nagwkiwbicmsn1wcy",
+      "name": "FIESTA VI",
+      "slug": "fiesta-vi",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31668,
+      "documentId": "phpmisol8t2n81x9nwcdln8f",
+      "name": "FIESTA VII",
+      "slug": "fiesta-vii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31816,
+      "documentId": "j9vg5rz85mty0kn0lcanf9xp",
+      "name": "FOCUS",
+      "slug": "focus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31817,
+      "documentId": "iaystb1ybm34pgin0b22wtqv",
+      "name": "FOCUS C-MAX",
+      "slug": "focus-c-max",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31825,
+      "documentId": "l4tgk6sv45p8dvauufi4o6d7",
+      "name": "FOCUS II",
+      "slug": "focus-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31841,
+      "documentId": "idmwx1snelwypfmgh94t7se4",
+      "name": "FOCUS Turnier",
+      "slug": "focus-turnier",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31897,
+      "documentId": "suxt619w890pcl66mnvul0jp",
+      "name": "FUSION",
+      "slug": "fusion",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32014,
+      "documentId": "s60e9pke4g6yl2poexg6bue5",
+      "name": "Fiesta",
+      "slug": "fiesta",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32015,
+      "documentId": "zvqhmrjk7inp30csara2ctxk",
+      "name": "Fiesta / Fiesta Active",
+      "slug": "fiesta--fiesta-active",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32030,
+      "documentId": "rtwpmmyjb6zppj2c35piq1l1",
+      "name": "Focus / Focus Active",
+      "slug": "focus--focus-active",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32031,
+      "documentId": "i8zng9r77wewg5zi22f7q9sw",
+      "name": "Focus C-Max / C-Max",
+      "slug": "focus-c-max--c-max",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32091,
+      "documentId": "jxzgixxo1miywkpf9qz8wiw0",
+      "name": "GALAXY",
+      "slug": "galaxy",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32476,
+      "documentId": "cdkdr1n58moj8p1hg0ncsuq7",
+      "name": "Granada",
+      "slug": "granada",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32640,
+      "documentId": "mrlzmtc2eypf1h28qljh4mn3",
+      "name": "III",
+      "slug": "iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32842,
+      "documentId": "ifkx17d1uq1e2gluibzq07ez",
+      "name": "KA",
+      "slug": "ka",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32849,
+      "documentId": "ahq3g68b2qrgk05dpkbxwgsp",
+      "name": "KA/ SportKa",
+      "slug": "ka-sportka",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32959,
+      "documentId": "j00crjnw7kgdxtujhl2mt0ay",
+      "name": "KUGA I MONDEO",
+      "slug": "kuga-i-mondeo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33615,
+      "documentId": "skpgdc1lsh13tz2jh96wa7v5",
+      "name": "MONDEO III Turnier",
+      "slug": "mondeo-iii-turnier",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33823,
+      "documentId": "dhqafugn0hzod3tjlopfs96f",
+      "name": "Mondeo",
+      "slug": "mondeo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33897,
+      "documentId": "m5024y5rb9bzswbrfftuc2dc",
+      "name": "Mustang",
+      "slug": "mustang",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34657,
+      "documentId": "ry1ale905fcxtxk411x4496r",
+      "name": "RANGER",
+      "slug": "ranger",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34879,
+      "documentId": "u27a756zbilqospxr3kulij8",
+      "name": "Ranger / Wildtrak",
+      "slug": "ranger--wildtrak",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34880,
+      "documentId": "qbm7b5zsgbt4nrmux4a8z2rp",
+      "name": "Ranger / Wildtrak / Raptor",
+      "slug": "ranger--wildtrak--raptor",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34948,
+      "documentId": "fkqg59nhge5d0igyn8u1clv0",
+      "name": "S-MAX",
+      "slug": "s-max",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35753,
+      "documentId": "pewli6i5orm2mh64xgf97sj3",
+      "name": "StreetKa",
+      "slug": "streetka",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36088,
+      "documentId": "gqivdcla7qglpnt7s6gts5du",
+      "name": "TRANSIT CONNECT",
+      "slug": "transit-connect",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36263,
+      "documentId": "x1hbc7ro4j0wkv8tb2w1nkxd",
+      "name": "Tourneo Courier / E-Tourneo Courier",
+      "slug": "tourneo-courier--e-tourneo-courier",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36264,
+      "documentId": "jahu4pkdzpbq2bsuhhcedb42",
+      "name": "Tourneo Custom / E-Tourneo Custom",
+      "slug": "tourneo-custom--e-tourneo-custom",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36265,
+      "documentId": "qi3z7d58pqbpvjulj9rd70k3",
+      "name": "Tourneo Custom / Transit Custom",
+      "slug": "tourneo-custom--transit-custom",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36270,
+      "documentId": "uebtq82iqi2bmrtyj01uv3kg",
+      "name": "Transit / E-Transit",
+      "slug": "transit--e-transit",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36271,
+      "documentId": "o4mid2r6cj3yv1avpwxxob0i",
+      "name": "Transit 2000",
+      "slug": "transit-2000",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

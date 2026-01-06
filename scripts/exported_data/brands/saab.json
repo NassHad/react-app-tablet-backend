@@ -1,0 +1,174 @@
+{
+  "brandInfo": {
+    "id": 747,
+    "documentId": "oebumnq1pg40j3mcch8r5uu5",
+    "name": "SAAB",
+    "slug": "saab",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 20,
+  "exportDate": "2026-01-06T19:34:16.980Z",
+  "models": [
+    {
+      "id": 28976,
+      "documentId": "jifx2n3psofu5kxsg7jhsusp",
+      "name": "9-3",
+      "slug": "9-3",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28977,
+      "documentId": "p6n7w91zhgfhlz3dte7en7hk",
+      "name": "9-3 Cabriolet",
+      "slug": "9-3-cabriolet",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28978,
+      "documentId": "ui1129wc9d6hvhbh0jgcrb3q",
+      "name": "9-3 Convertible",
+      "slug": "9-3-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28979,
+      "documentId": "obw5zeagd6ciswhljafg75k6",
+      "name": "9-3 Estate",
+      "slug": "9-3-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28980,
+      "documentId": "ke0g0wabyc650kdbr33y9i0m",
+      "name": "9-3X",
+      "slug": "9-3x",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28982,
+      "documentId": "taryl5l5g30ec2xv4etuh2e2",
+      "name": "9-5",
+      "slug": "9-5",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28983,
+      "documentId": "ff2je6o0gzbx9zbp0jixbs5t",
+      "name": "9-5 Estate",
+      "slug": "9-5-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28986,
+      "documentId": "kmqoa69p6010o7myezis90t0",
+      "name": "9-7X",
+      "slug": "9-7x",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28987,
+      "documentId": "vx13dhhujoslf6zkjamum3dr",
+      "name": "9.3 Sport",
+      "slug": "93-sport",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28988,
+      "documentId": "ljcljs4mjz2bpmre98voqy4c",
+      "name": "9.3 Sport-Hatch / 9.3X",
+      "slug": "93-sport-hatch--93x",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28989,
+      "documentId": "tmmsvbvkjmzqt2gjershob8c",
+      "name": "9.3, -Aero",
+      "slug": "93--aero",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28990,
+      "documentId": "u5k2vlmj0bpnahh6jmgsae7r",
+      "name": "9.4",
+      "slug": "94",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28991,
+      "documentId": "wrmccscvsmdn2x7lrhfxl3au",
+      "name": "9.5",
+      "slug": "95",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28992,
+      "documentId": "y23uk2jdb40huztzavb9ui9y",
+      "name": "90",
+      "slug": "90",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29003,
+      "documentId": "gfkzcpia7eymnxypdn6muhn4",
+      "name": "900 II",
+      "slug": "900-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29004,
+      "documentId": "nu1kuwyignweokeib59wsubi",
+      "name": "900 II Convertible",
+      "slug": "900-ii-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29005,
+      "documentId": "y7w39fcwwqkvgpvry0h3askl",
+      "name": "900 II Coupe",
+      "slug": "900-ii-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29007,
+      "documentId": "fkvow9k288wkvjgq0p68q3i8",
+      "name": "900/ 9.3",
+      "slug": "900-93",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29008,
+      "documentId": "pejl6i4d9gk2ahquekom7mgk",
+      "name": "9000",
+      "slug": "9000",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29009,
+      "documentId": "z91cq7hdxbwtyn99zojeixhs",
+      "name": "9000 Hatchback",
+      "slug": "9000-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

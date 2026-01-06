@@ -1,0 +1,742 @@
+{
+  "brandInfo": {
+    "id": 554,
+    "documentId": "q4hqy364uhrcj3risivcm84m",
+    "name": "AUDI",
+    "slug": "audi",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 91,
+  "exportDate": "2026-01-06T19:34:16.775Z",
+  "models": [
+    {
+      "id": 28148,
+      "documentId": "m09ixlw4n0custjo8js1k6yl",
+      "name": "100",
+      "slug": "100",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28150,
+      "documentId": "bksxsj14xqw6my0bwmtdaw5a",
+      "name": "100 Avant",
+      "slug": "100-avant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28155,
+      "documentId": "xxqjd6trnti9fg8vm0tgk4mh",
+      "name": "100 C3 Avant",
+      "slug": "100-c3-avant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28156,
+      "documentId": "yseggdqp6cayaidoql0ehb7q",
+      "name": "100 C3 Saloon",
+      "slug": "100-c3-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28158,
+      "documentId": "o10yc86rgyj5q0lzv7zow1s2",
+      "name": "100 C4 Saloon",
+      "slug": "100-c4-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28373,
+      "documentId": "gfi2rnh8q1h6xz2lx4kj1wfk",
+      "name": "200 C3 Saloon",
+      "slug": "200-c3-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28765,
+      "documentId": "ib3umvmxlkhxch97fmr5euwz",
+      "name": "50",
+      "slug": "50",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28918,
+      "documentId": "j25fntigh2vxxrlgjivdybzl",
+      "name": "80",
+      "slug": "80",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28919,
+      "documentId": "j9ui0h99ojtb3oge3rjs6r9e",
+      "name": "80 Avant RS2",
+      "slug": "80-avant-rs2",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28923,
+      "documentId": "t2zfr44fuq9v414by2grpflb",
+      "name": "80 B4 Avant",
+      "slug": "80-b4-avant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28937,
+      "documentId": "chdmk1u6h9uxc3wcquxz6wu1",
+      "name": "814, 819, 853)\"",
+      "slug": "814-819-853",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28972,
+      "documentId": "vh0i3ypzscju7yiq1kp833gt",
+      "name": "8A2)\"",
+      "slug": "8a2",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28994,
+      "documentId": "exednhwyt66z6m89afmyz6ve",
+      "name": "90 B3",
+      "slug": "90-b3",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29061,
+      "documentId": "aneiqjpc6w0jmxgwdv05va4d",
+      "name": "A1",
+      "slug": "a1",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29064,
+      "documentId": "jwh8pn8icj87o5po64j58mik",
+      "name": "A1 City Carver",
+      "slug": "a1-city-carver",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29066,
+      "documentId": "spansxks1lnv2kvbaz6cxv2s",
+      "name": "A1 Sportback",
+      "slug": "a1-sportback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29070,
+      "documentId": "xa9km7aqzw2apo8thcexfhd6",
+      "name": "A2",
+      "slug": "a2",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29072,
+      "documentId": "ek9edq83e6n07llqdbklm2b6",
+      "name": "A3",
+      "slug": "a3",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29079,
+      "documentId": "rnvq5ho9i9pnuh626e34rval",
+      "name": "A3 Convertible",
+      "slug": "a3-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29081,
+      "documentId": "cm28nezjzw0rtlxitwajqwrp",
+      "name": "A3 Limousine",
+      "slug": "a3-limousine",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29084,
+      "documentId": "dp831npji7xbar1nv3fdztew",
+      "name": "A3 Sportback",
+      "slug": "a3-sportback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29087,
+      "documentId": "abwfw8369ttd3izw9mlx1zw1",
+      "name": "A4",
+      "slug": "a4",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29088,
+      "documentId": "d64duzytbeezsuxr53pmqvgu",
+      "name": "A4 / S4 / RS4",
+      "slug": "a4--s4--rs4",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29093,
+      "documentId": "qhrfhbnol8jwo180ekwqnlip",
+      "name": "A4 Allroad",
+      "slug": "a4-allroad",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29095,
+      "documentId": "ihmg3fu3vnnzrwf70d7wr7go",
+      "name": "A4 Allroad B9",
+      "slug": "a4-allroad-b9",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29096,
+      "documentId": "lszx4gh74svw5cwh6boetqbt",
+      "name": "A4 Avant",
+      "slug": "a4-avant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29097,
+      "documentId": "cyg5ycxa8dvfkrl0e9e1dcod",
+      "name": "A4 B5",
+      "slug": "a4-b5",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29098,
+      "documentId": "rut5vfzmxcht82vgxslrznst",
+      "name": "A4 B5 Avant",
+      "slug": "a4-b5-avant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29099,
+      "documentId": "n1a1zjuen9xr2oxnvfx9lypz",
+      "name": "A4 B6",
+      "slug": "a4-b6",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29100,
+      "documentId": "uhi1yjt8bmtgd47qiq8mpo5a",
+      "name": "A4 B6 Avant",
+      "slug": "a4-b6-avant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29101,
+      "documentId": "azm3hcrcylsxv15ya5zl0hr1",
+      "name": "A4 B6 Convertible",
+      "slug": "a4-b6-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29104,
+      "documentId": "lo3yrxe55pcyle5j2sgp2nq1",
+      "name": "A4 B7 Convertible",
+      "slug": "a4-b7-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29107,
+      "documentId": "w8p68540iy38v530ikltg31v",
+      "name": "A4 B9",
+      "slug": "a4-b9",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29108,
+      "documentId": "oqr43nzszrkjgmu4gmeqn3qp",
+      "name": "A4 B9 Avant",
+      "slug": "a4-b9-avant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29109,
+      "documentId": "a7pf7vyhogqbn5n93juhh71z",
+      "name": "A4 Convertible",
+      "slug": "a4-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29110,
+      "documentId": "v8b2i704h4lh0d5osswx0bu0",
+      "name": "A5",
+      "slug": "a5",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29113,
+      "documentId": "d84whwlv9o2c929l0mkuek85",
+      "name": "A5 Convertible",
+      "slug": "a5-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29115,
+      "documentId": "iyxw03zhzzmmsn9q4vs4hd6y",
+      "name": "A5 Sportback",
+      "slug": "a5-sportback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29116,
+      "documentId": "cqunblu8aeplkahvu7pspw1i",
+      "name": "A6",
+      "slug": "a6",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29117,
+      "documentId": "ehn0tzhta8iyflrkxif3u6dx",
+      "name": "A6 / S6",
+      "slug": "a6--s6",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29121,
+      "documentId": "cag9xhs45v03zfp094ui82cc",
+      "name": "A6 Allroad C6",
+      "slug": "a6-allroad-c6",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29122,
+      "documentId": "pe19kpr8n8j59npqvhnrbumz",
+      "name": "A6 Allroad C7",
+      "slug": "a6-allroad-c7",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29123,
+      "documentId": "c1gidn13vlowrle26bktmpr7",
+      "name": "A6 Allroad C8",
+      "slug": "a6-allroad-c8",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29124,
+      "documentId": "dypf31aqrvfcq0z6k6fl04ot",
+      "name": "A6 Avant",
+      "slug": "a6-avant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29125,
+      "documentId": "vqav02eahtiz3l0zmdr3d2cx",
+      "name": "A6 Avant C6",
+      "slug": "a6-avant-c6",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29126,
+      "documentId": "gzok9j6ez0pez1hajakqzz84",
+      "name": "A6 C4",
+      "slug": "a6-c4",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29127,
+      "documentId": "f6wfxvpuvtitpfwnlasb0z5p",
+      "name": "A6 C4 Avant",
+      "slug": "a6-c4-avant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29128,
+      "documentId": "w6udbjn0pv8l8nzlec6bmt2b",
+      "name": "A6 C5",
+      "slug": "a6-c5",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29129,
+      "documentId": "b8ucr4wmq4ht8eb545lbcpa7",
+      "name": "A6 C5 Avant",
+      "slug": "a6-c5-avant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29130,
+      "documentId": "lo420kfywvd61gogq9s1nx7h",
+      "name": "A6 C6",
+      "slug": "a6-c6",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29132,
+      "documentId": "au9clv54uabpjb9u1shm431q",
+      "name": "A6 C7",
+      "slug": "a6-c7",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29133,
+      "documentId": "be90i30q9ppjb6030jstvmmy",
+      "name": "A6 C7 Avant",
+      "slug": "a6-c7-avant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29134,
+      "documentId": "fkvuudm5df0ozix3o4t7i4iz",
+      "name": "A6 C8",
+      "slug": "a6-c8",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29135,
+      "documentId": "dda0r0sphl9j7hxplsk66cqr",
+      "name": "A6 C8 Avant",
+      "slug": "a6-c8-avant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29141,
+      "documentId": "d1plox8ju66wdw6nei4i6m2m",
+      "name": "A7 Sportback",
+      "slug": "a7-sportback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29142,
+      "documentId": "emslfjux11ovzzpo3udm29dz",
+      "name": "A8",
+      "slug": "a8",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29143,
+      "documentId": "wwlza100c0e9jr0uf3iop9pl",
+      "name": "A8 / S8 /A8L",
+      "slug": "a8--s8-a8l",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29146,
+      "documentId": "mjzytw54i8dg8nj7iwsyc4n8",
+      "name": "A8 D2",
+      "slug": "a8-d2",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29149,
+      "documentId": "sra7hr7x69v0zgcpsxmxiad4",
+      "name": "A8 D4 (4H2, 4H8, 4HC,",
+      "slug": "a8-d4-4h2-4h8-4hc",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29151,
+      "documentId": "y9p5iaayziiruaqpqxoom8fv",
+      "name": "A8 D5 (4N2, 4N8, 4NC,",
+      "slug": "a8-d5-4n2-4n8-4nc",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29258,
+      "documentId": "exghz52bbtmunh7cl0247jqr",
+      "name": "ALLROAD C5",
+      "slug": "allroad-c5",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30058,
+      "documentId": "gschs89011qdntquvwl7xtqk",
+      "name": "CABRIOLET B3",
+      "slug": "cabriolet-b3",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30647,
+      "documentId": "o695ger1he7upuu8pujhth9r",
+      "name": "COUPE B3",
+      "slug": "coupe-b3",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30871,
+      "documentId": "u3hqwvzkkrocseevxa06ik8j",
+      "name": "Coupe GT",
+      "slug": "coupe-gt",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30872,
+      "documentId": "a9jm1hpcukdjk4wbinb08cr5",
+      "name": "Coupe/ -S2",
+      "slug": "coupe--s2",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31244,
+      "documentId": "ttf723kqsbs7kvly7lnys6l6",
+      "name": "E-TRON",
+      "slug": "e-tron",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31245,
+      "documentId": "dknk2rttjyc1rly11zdmf46v",
+      "name": "E-TRON GT Saloon",
+      "slug": "e-tron-gt-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31246,
+      "documentId": "v7jmmvdmknr8ibv9ruz4az59",
+      "name": "E-TRON Sportback",
+      "slug": "e-tron-sportback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34529,
+      "documentId": "xepp2gqre4lioik0l1sl70aw",
+      "name": "Q2",
+      "slug": "q2",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34530,
+      "documentId": "mejojbgjs0g1j0e7kzbwhrk7",
+      "name": "Q2 / SQ2",
+      "slug": "q2--sq2",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34532,
+      "documentId": "dzehn8fjc1udu5ujmognj0gr",
+      "name": "Q3",
+      "slug": "q3",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34533,
+      "documentId": "cm8hsszde4abg636ph2azdyk",
+      "name": "Q3 / RSQ3",
+      "slug": "q3--rsq3",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34538,
+      "documentId": "cufnhn9s30fx9lc8sjyr6ab1",
+      "name": "Q3 Sportback",
+      "slug": "q3-sportback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34542,
+      "documentId": "oaefmygehoc86ivh3y8thort",
+      "name": "Q4 SUV",
+      "slug": "q4-suv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34543,
+      "documentId": "ww9db6q3ywi2nbuv17c332av",
+      "name": "Q4 Sportback",
+      "slug": "q4-sportback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34544,
+      "documentId": "idvth1yl5seqg2wvmn8cqp7g",
+      "name": "Q4 Sportback e-tron",
+      "slug": "q4-sportback-e-tron",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34545,
+      "documentId": "xi2b0qdrzd535lnegmy0l2ex",
+      "name": "Q4 e-tron",
+      "slug": "q4-e-tron",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34547,
+      "documentId": "z5swo4r028okcxsfgmdle96g",
+      "name": "Q5",
+      "slug": "q5",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34549,
+      "documentId": "doc1yp2z77kh42f2g3pzbvtg",
+      "name": "Q5 Sportback",
+      "slug": "q5-sportback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34550,
+      "documentId": "fp4llvibf7rlhn37e19xbcg5",
+      "name": "Q5 Van",
+      "slug": "q5-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34556,
+      "documentId": "kl4o64h4wzd5v8hnkrsmlvzu",
+      "name": "Q7",
+      "slug": "q7",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34557,
+      "documentId": "lmdqd4sxf0m9652ka703mxgd",
+      "name": "Q7 Van",
+      "slug": "q7-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34559,
+      "documentId": "b10vamso5yizt2ky38upf47e",
+      "name": "Q8",
+      "slug": "q8",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34622,
+      "documentId": "grtvihdd2iqt9283s7emzjw3",
+      "name": "R8",
+      "slug": "r8",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34623,
+      "documentId": "yk4yl3fv8jmuy40d3q2kpz97",
+      "name": "R8 Spyder",
+      "slug": "r8-spyder",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34823,
+      "documentId": "j5eyist4j77bh0uys4licm5n",
+      "name": "RS4",
+      "slug": "rs4",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34962,
+      "documentId": "p30labm2bmugytgor2lzjiwc",
+      "name": "S4",
+      "slug": "s4",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36170,
+      "documentId": "prlhmy38wcd76x5rk5oott9k",
+      "name": "TT",
+      "slug": "tt",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36179,
+      "documentId": "ao24id34xk2sh33x310xducs",
+      "name": "TT Roadster",
+      "slug": "tt-roadster",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36390,
+      "documentId": "zu7itidnynk3uhqjv2wjzkji",
+      "name": "V8",
+      "slug": "v8",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37327,
+      "documentId": "ad0cuvksd7h19cna9r6dfrim",
+      "name": "e-tron / Q8 e-tron",
+      "slug": "e-tron--q8-e-tron",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

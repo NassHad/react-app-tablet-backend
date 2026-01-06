@@ -1,0 +1,110 @@
+{
+  "brandInfo": {
+    "id": 704,
+    "documentId": "l64qyu6as8evgoe1rynq9a4a",
+    "name": "MINI",
+    "slug": "mini",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 12,
+  "exportDate": "2026-01-06T19:34:16.927Z",
+  "models": [
+    {
+      "id": 30855,
+      "documentId": "zbefyk7u1o6j0pd81hrhih9v",
+      "name": "Clubman",
+      "slug": "clubman",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30869,
+      "documentId": "o79x5dnpgumk3onfryasfj9w",
+      "name": "Countryman",
+      "slug": "countryman",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31419,
+      "documentId": "xjjv00kl5nm34bgh3vt8vshr",
+      "name": "EV",
+      "slug": "ev",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33533,
+      "documentId": "dw1q4u5bepk8kpmx1tnwfrcb",
+      "name": "MINI",
+      "slug": "mini",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33535,
+      "documentId": "a3gwlvmuu4ehv1rbi55jm822",
+      "name": "MINI CLUBMAN",
+      "slug": "mini-clubman",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33536,
+      "documentId": "rrx2rjp0vvqhbsuzmuhcjb0f",
+      "name": "MINI CLUBVAN",
+      "slug": "mini-clubvan",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33539,
+      "documentId": "nnbfc1xpf05lmanvpdhi8zei",
+      "name": "MINI COUNTRYMAN",
+      "slug": "mini-countryman",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33541,
+      "documentId": "dm9lo1oj2joxmgb3yhwclshg",
+      "name": "MINI Coupe",
+      "slug": "mini-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33550,
+      "documentId": "raeu9o5qnuvvev8h4q4yc4pq",
+      "name": "MINI PACEMAN",
+      "slug": "mini-paceman",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33552,
+      "documentId": "eq2v7q0k5r3ukcweic0nuogo",
+      "name": "MINI Roadster",
+      "slug": "mini-roadster",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34128,
+      "documentId": "v40fvuldq1jezoblndf89mmb",
+      "name": "One/ Cooper/ Cooper",
+      "slug": "one-cooper-cooper",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34466,
+      "documentId": "oom67dn3yxlxxpdcu955ikan",
+      "name": "Paceman",
+      "slug": "paceman",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

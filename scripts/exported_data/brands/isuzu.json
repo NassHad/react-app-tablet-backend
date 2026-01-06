@@ -1,0 +1,142 @@
+{
+  "brandInfo": {
+    "id": 656,
+    "documentId": "s0su7nco9un1riywxv5vzpsa",
+    "name": "ISUZU",
+    "slug": "isuzu",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 16,
+  "exportDate": "2026-01-06T19:34:16.874Z",
+  "models": [
+    {
+      "id": 29612,
+      "documentId": "j8g1980f579dayha2t1xrrze",
+      "name": "Amigo",
+      "slug": "amigo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30879,
+      "documentId": "zfxblu87wxm34r7f6gsb1bfp",
+      "name": "D-MAX II",
+      "slug": "d-max-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30880,
+      "documentId": "s0jx20w4su39w9e1gbcysf5n",
+      "name": "D-MAX II Platform/ Chassis",
+      "slug": "d-max-ii-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30881,
+      "documentId": "ttc9ruqmgyjlw7zu5zj7tr35",
+      "name": "D-MAX III",
+      "slug": "d-max-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30882,
+      "documentId": "j1291p15mawhmxp0x8twoj2w",
+      "name": "D-Max / Rodeo",
+      "slug": "d-max--rodeo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30883,
+      "documentId": "pig7vwo2guoj0smth58o7sgp",
+      "name": "D-Max / Rodeo / Satellite",
+      "slug": "d-max--rodeo--satellite",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30884,
+      "documentId": "cjkqvyrk7u6zbkl9i7qncu33",
+      "name": "D-Max N60",
+      "slug": "d-max-n60",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30885,
+      "documentId": "n0tqtcizaz7npgldeusp2x3o",
+      "name": "D-Max N60 B / N60 BB",
+      "slug": "d-max-n60-b--n60-bb",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31566,
+      "documentId": "oakwm4ux0y0wavmjrun74e2o",
+      "name": "F11 - 240",
+      "slug": "f11---240",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32996,
+      "documentId": "jkesjzkdcl4plqupjgw27432",
+      "name": "L35",
+      "slug": "l35",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33720,
+      "documentId": "mf8uspbv5yjiysgonf53l3ic",
+      "name": "MU-X SUV",
+      "slug": "mu-x-suv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34899,
+      "documentId": "aif2zu3mlefszag7ezlfd2jd",
+      "name": "Road Vehicle\"",
+      "slug": "road-vehicle",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36159,
+      "documentId": "fks78ohv0dlco058etf7mfrh",
+      "name": "TROOPER II",
+      "slug": "trooper-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36161,
+      "documentId": "gnaxsxnqx5p2kh191vup3g0h",
+      "name": "TROOPER III",
+      "slug": "trooper-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36281,
+      "documentId": "gyyglxwfz4gwmoq4gjs60g24",
+      "name": "Trooper",
+      "slug": "trooper",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36282,
+      "documentId": "l20x5il8no8p9tj6kumoh7y6",
+      "name": "Trooper Magic",
+      "slug": "trooper-magic",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "brandInfo": {
+    "id": 657,
+    "documentId": "udwqacua5962ppx1y0avqjqx",
+    "name": "IVECO",
+    "slug": "iveco",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 22,
+  "exportDate": "2026-01-06T19:34:16.875Z",
+  "models": [
+    {
+      "id": 30908,
+      "documentId": "ar15seb2l0zs3rgvh0r278k0",
+      "name": "DAILY I Platform/Chassis",
+      "slug": "daily-i-platformchassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30909,
+      "documentId": "ppdiw7ukcrd1dbvoyvvfuz1k",
+      "name": "DAILY I Van",
+      "slug": "daily-i-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30915,
+      "documentId": "y5talzjym4smtxyqqmp9h8v9",
+      "name": "DAILY III Box Body / Estate 29 L 12 V",
+      "slug": "daily-iii-box-body-estate-29-l-12-v",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30917,
+      "documentId": "acqo2x0jepja5gsn0dkb9gob",
+      "name": "DAILY III Platform/Chassis",
+      "slug": "daily-iii-platformchassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30918,
+      "documentId": "n8fzs36ncpvbh2m4hfezfdec",
+      "name": "DAILY III Platform/Chassis 29 L 12",
+      "slug": "daily-iii-platformchassis-29-l-12",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30919,
+      "documentId": "uek5kkxr586dsvo43ifcvgi7",
+      "name": "DAILY III Van",
+      "slug": "daily-iii-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30921,
+      "documentId": "qoa27bvkd9n17t8yaqu4i3lu",
+      "name": "DAILY IV Bus",
+      "slug": "daily-iv-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30922,
+      "documentId": "h84553n2c4f495gmednhah0c",
+      "name": "DAILY IV Dump Truck",
+      "slug": "daily-iv-dump-truck",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30923,
+      "documentId": "nweddhp08bn8nfbcmfwjdhp4",
+      "name": "DAILY IV Platform/Chassis",
+      "slug": "daily-iv-platformchassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30924,
+      "documentId": "woyzp0cwjdvgmp18wy5xmbfb",
+      "name": "DAILY IV Van",
+      "slug": "daily-iv-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30925,
+      "documentId": "r7sk8dr3zjjzqrbxjy738fep",
+      "name": "DAILY LINE Bus",
+      "slug": "daily-line-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30926,
+      "documentId": "g6scjy564pjca891yay92mo4",
+      "name": "DAILY TOURYS Bus",
+      "slug": "daily-tourys-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30928,
+      "documentId": "s3o0af9o3glo7s9hqqrh0yz4",
+      "name": "DAILY V Dumptruck",
+      "slug": "daily-v-dumptruck",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30929,
+      "documentId": "ye40u8pc2vg9tfbdsg4wa82c",
+      "name": "DAILY V Platform/Chassis",
+      "slug": "daily-v-platformchassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30930,
+      "documentId": "tg49zofusdmuzmmb4gcr5ewn",
+      "name": "DAILY V Van",
+      "slug": "daily-v-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30932,
+      "documentId": "dciv97lymmqt21y12hodz3no",
+      "name": "DAILY VI Platform/Chassis",
+      "slug": "daily-vi-platformchassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30933,
+      "documentId": "up2e2peimhomion4zlscuk2o",
+      "name": "DAILY VI Van",
+      "slug": "daily-vi-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31163,
+      "documentId": "r12n73ahtlb3m85j94zudnzo",
+      "name": "Daily / eDaily",
+      "slug": "daily--edaily",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33364,
+      "documentId": "y10c3eojldt99hcnbvv5bjip",
+      "name": "MASSIF Pickup",
+      "slug": "massif-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33365,
+      "documentId": "iluibtunj8gb3mmnfdbp1u28",
+      "name": "MASSIF Single Cab",
+      "slug": "massif-single-cab",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33366,
+      "documentId": "mq9rwjssgdp2p6z6io8xkca5",
+      "name": "MASSIF Station Wagon",
+      "slug": "massif-station-wagon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33791,
+      "documentId": "foxegngh6lbnn4ekhiawfl47",
+      "name": "Massif / Pick-up / Campagnola",
+      "slug": "massif--pick-up--campagnola",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

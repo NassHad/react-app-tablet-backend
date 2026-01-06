@@ -1,0 +1,13 @@
+{
+  "brandInfo": {
+    "id": 600,
+    "documentId": "idpu381068iuvu16s1b6ef40",
+    "name": "DE LOREAN",
+    "slug": "de-lorean",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 0,
+  "exportDate": "2026-01-06T19:34:16.821Z",
+  "models": []
+}

@@ -1,0 +1,182 @@
+{
+  "brandInfo": {
+    "id": 732,
+    "documentId": "ycfd7u80yzbxxpyox4o07tyt",
+    "name": "PORSCHE",
+    "slug": "porsche",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 21,
+  "exportDate": "2026-01-06T19:34:16.953Z",
+  "models": [
+    {
+      "id": 28899,
+      "documentId": "kb1td4b65jeqlg3uymiza74a",
+      "name": "718 BOXSTER",
+      "slug": "718-boxster",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29011,
+      "documentId": "ckk9ibgivtjw381efcul787y",
+      "name": "911",
+      "slug": "911",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29012,
+      "documentId": "oln0b9jkwm9w4tvt3n5vdosz",
+      "name": "911 Convertible",
+      "slug": "911-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29014,
+      "documentId": "d4s9sxc5q52pmejg8g3e3ou6",
+      "name": "911 Targa",
+      "slug": "911-targa",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29020,
+      "documentId": "zrxs0txtkv5wxty8qk9rgybf",
+      "name": "924",
+      "slug": "924",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29021,
+      "documentId": "c5580ditqyb5oby4v6svkt7f",
+      "name": "928",
+      "slug": "928",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29022,
+      "documentId": "ua6pjq2bj7ut3rzz3aybk68o",
+      "name": "928 S4",
+      "slug": "928-s4",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29023,
+      "documentId": "axkrodv8gkrv934yh9u57zpx",
+      "name": "928/ 928S",
+      "slug": "928-928s",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29048,
+      "documentId": "ia5trejmrljombut95i6oxeb",
+      "name": "968",
+      "slug": "968",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29049,
+      "documentId": "gfkotfpkdl5bfw9ohuaeryii",
+      "name": "968 Convertible",
+      "slug": "968-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29768,
+      "documentId": "rsc3h0cxt60fim7ktmavzkua",
+      "name": "BOXSTER",
+      "slug": "boxster",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29769,
+      "documentId": "bsevk3mntjlptw6uzjfpghy2",
+      "name": "BOXSTER Spyder",
+      "slug": "boxster-spyder",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30163,
+      "documentId": "cfua04urr4ra1ctoli3ok874",
+      "name": "CARRERA GT",
+      "slug": "carrera-gt",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30183,
+      "documentId": "u9kqqtgobzpltmx35x1h1os1",
+      "name": "CAYENNE",
+      "slug": "cayenne",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30185,
+      "documentId": "xqzkh0lv640b7j03iw8lclya",
+      "name": "CAYMAN",
+      "slug": "cayman",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33305,
+      "documentId": "zisyivssa52e8ne7s4jcxtl4",
+      "name": "MACAN",
+      "slug": "macan",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34175,
+      "documentId": "tgt4f414k6rzqzfrousfiske",
+      "name": "PANAMERA",
+      "slug": "panamera",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34176,
+      "documentId": "oy6jkr6wcoen16lp3m8cwn19",
+      "name": "PANAMERA Sport Turis-",
+      "slug": "panamera-sport-turis-",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34468,
+      "documentId": "nr2q3ovur60vc5z4lukyru91",
+      "name": "Panamera S / 4S",
+      "slug": "panamera-s--4s",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34469,
+      "documentId": "iz3lo6uxtjpmc305jdm8c4ut",
+      "name": "Panamera Sport Turismo",
+      "slug": "panamera-sport-turismo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36210,
+      "documentId": "e9d8bs42bwmv0iuut9vwre7c",
+      "name": "Taycan",
+      "slug": "taycan",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

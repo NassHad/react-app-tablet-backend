@@ -1,0 +1,1318 @@
+{
+  "brandInfo": {
+    "id": 597,
+    "documentId": "l8zn5g24c9h9ltzqj9j7to9w",
+    "name": "DAIMLER",
+    "slug": "daimler",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 163,
+  "exportDate": "2026-01-06T19:34:16.818Z",
+  "models": [
+    {
+      "id": 28243,
+      "documentId": "szcegog1jycwdcl0kj61m5sg",
+      "name": "124 Spider",
+      "slug": "124-spider",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28249,
+      "documentId": "jnwry3t3s2ja4xqpsz9ywca1",
+      "name": "126",
+      "slug": "126",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28490,
+      "documentId": "yc0nwr2nbk7yyrd8h4f0qkph",
+      "name": "278_)",
+      "slug": "278",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28803,
+      "documentId": "x4vlbrdibhijif5p1vx8tbvz",
+      "name": "500e",
+      "slug": "500e",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28804,
+      "documentId": "mz20fvt2nzhqvp2iu7un87of",
+      "name": "500e Convertible",
+      "slug": "500e-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29532,
+      "documentId": "yr9uc6b6ltxuq3n7z1yvx573",
+      "name": "AVENGER",
+      "slug": "avenger",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29647,
+      "documentId": "f7f7pvcsw3owwgo4w8oeqeoe",
+      "name": "B-MAX",
+      "slug": "b-max",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29649,
+      "documentId": "kdjj4l465tf2vltkiq30n50d",
+      "name": "B-MAX Van",
+      "slug": "b-max-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29687,
+      "documentId": "pwjc0z2q6hhn0wvcpjrvbdnx",
+      "name": "BARCHETTA",
+      "slug": "barchetta",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29771,
+      "documentId": "uxkakzn9qq2m0jktkheakiff",
+      "name": "BRAVA",
+      "slug": "brava",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29776,
+      "documentId": "shl7y18ke6esf1ded2waxqan",
+      "name": "BRAVO I",
+      "slug": "bravo-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29778,
+      "documentId": "p8msih5q0nxvap9spr4xzfop",
+      "name": "BRAVO II",
+      "slug": "bravo-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29883,
+      "documentId": "j3k6k64gfnbm4n2qqv5yriw4",
+      "name": "Box Body/MPV\"",
+      "slug": "box-bodympv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29936,
+      "documentId": "itaqeo4ojywr961wdsteot9t",
+      "name": "C-MAX II",
+      "slug": "c-max-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29937,
+      "documentId": "odz8gxva1t2v9znahk9nsw3b",
+      "name": "C-MAX II Van",
+      "slug": "c-max-ii-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30085,
+      "documentId": "q1jgdu712rwl3uk23w0muazu",
+      "name": "CALIBER",
+      "slug": "caliber",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30121,
+      "documentId": "cfqtrg2lo4geov5so61lne7u",
+      "name": "CARAVAN",
+      "slug": "caravan",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30368,
+      "documentId": "oo3tsjibg95kilpn0xhwdvg8",
+      "name": "CHARGER",
+      "slug": "charger",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30390,
+      "documentId": "zz4n8s5r0aulmsoasley6jvo",
+      "name": "CINQUECENTO",
+      "slug": "cinquecento",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30641,
+      "documentId": "kjn2ekotkw0yw9c5wyeywhcv",
+      "name": "COUGAR",
+      "slug": "cougar",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30689,
+      "documentId": "z789w0v1e71y1algnh3po4f2",
+      "name": "CROMA",
+      "slug": "croma",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30934,
+      "documentId": "m61d1r58c0cf5s1bow7cc7mq",
+      "name": "DAIMLER XJ",
+      "slug": "daimler-xj",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30937,
+      "documentId": "ghc9l9xh1hc64zvt28b9t4n4",
+      "name": "DART",
+      "slug": "dart",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31042,
+      "documentId": "qega0o4brljqtgxehz1fokk2",
+      "name": "DOBLO Box Body/MPV",
+      "slug": "doblo-box-bodympv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31047,
+      "documentId": "q0b1blax68336cdek5vnsybz",
+      "name": "DOBLO Platform/Chassis",
+      "slug": "doblo-platformchassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31084,
+      "documentId": "qrv75co7k6iytulwlrwcv6kd",
+      "name": "DS 3 Convertible",
+      "slug": "ds-3-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31086,
+      "documentId": "qavxx5c5z10jfy1aitituo0i",
+      "name": "DS 4 II",
+      "slug": "ds-4-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31087,
+      "documentId": "rwz3ri8f0uqti9nqjagegdcl",
+      "name": "DS 5",
+      "slug": "ds-5",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31090,
+      "documentId": "sto7vadc65ou6v8cb965cyc0",
+      "name": "DS 7 Crossback",
+      "slug": "ds-7-crossback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31091,
+      "documentId": "okjhno5rgel7rbgnfl77u0nf",
+      "name": "DS 9",
+      "slug": "ds-9",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31129,
+      "documentId": "zmexv0vyc6e0wsltx3ug668f",
+      "name": "DUCATO Panorama",
+      "slug": "ducato-panorama",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31131,
+      "documentId": "rrlf0v5vqx2zh886s2chbyec",
+      "name": "DUCATO Van",
+      "slug": "ducato-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31137,
+      "documentId": "z8d7n62oz5aalsxdmn5fjtwk",
+      "name": "DURANGO",
+      "slug": "durango",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31365,
+      "documentId": "uvjs1k2f6ei5rhvsflroo8qi",
+      "name": "ESCORT CLASSIC",
+      "slug": "escort-classic",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31366,
+      "documentId": "zgl3yfvk8aqw6sse2gec0ahg",
+      "name": "ESCORT CLASSIC Turnier",
+      "slug": "escort-classic-turnier",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31375,
+      "documentId": "eg0diry51zptpnno0hfvnq9w",
+      "name": "ESCORT IV",
+      "slug": "escort-iv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31381,
+      "documentId": "oxurxemud55o1bx3n5t8g7cj",
+      "name": "ESCORT V",
+      "slug": "escort-v",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31383,
+      "documentId": "m0n05wlj3dwuj9e0vy8wxkt9",
+      "name": "ESCORT V Convertible",
+      "slug": "escort-v-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31384,
+      "documentId": "eocbnb1aeirq2hldyo5oyra1",
+      "name": "ESCORT V Express",
+      "slug": "escort-v-express",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31385,
+      "documentId": "iju48imy4i7msh4kiah0p3yl",
+      "name": "ESCORT V Saloon",
+      "slug": "escort-v-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31386,
+      "documentId": "cgrdi041iv1wsn0mxw1bsvud",
+      "name": "ESCORT V Turnier",
+      "slug": "escort-v-turnier",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31387,
+      "documentId": "xyslhmvz3re6d0qocp9gvp3w",
+      "name": "ESCORT VI",
+      "slug": "escort-vi",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31389,
+      "documentId": "cbii3wv8tsj8fkagm1m4cwum",
+      "name": "ESCORT VI Convertible",
+      "slug": "escort-vi-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31390,
+      "documentId": "qmwdx0qrz12lnbmc21b5u3tc",
+      "name": "ESCORT VI Estate Van",
+      "slug": "escort-vi-estate-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31391,
+      "documentId": "mvchr6xrcz7u1rg55qpek56o",
+      "name": "ESCORT VI Saloon",
+      "slug": "escort-vi-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31392,
+      "documentId": "buno5fwgig6jjidstmjyrt1l",
+      "name": "ESCORT VI Turnier",
+      "slug": "escort-vi-turnier",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31652,
+      "documentId": "z7ajkcmpn8p6pz75jmu3tita",
+      "name": "FIESTA Box Body/MPV",
+      "slug": "fiesta-box-bodympv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31654,
+      "documentId": "qj1tfyz8apke7oahbtji6lko",
+      "name": "FIESTA Hatchback Van",
+      "slug": "fiesta-hatchback-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31657,
+      "documentId": "sruwhfqkdckma0jsxdn3oorz",
+      "name": "FIESTA III",
+      "slug": "fiesta-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31664,
+      "documentId": "mjb6pgv8742y00eygdr4cqtr",
+      "name": "FIESTA V Van",
+      "slug": "fiesta-v-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31667,
+      "documentId": "pj7ktdofgbl2d1a7d9btrs2p",
+      "name": "FIESTA VI Van",
+      "slug": "fiesta-vi-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31670,
+      "documentId": "fbsiepq7cxwzax5nsezf7x8z",
+      "name": "FIESTA VII Van",
+      "slug": "fiesta-vii-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31673,
+      "documentId": "p1sbev61djeyydepd3mpbsyf",
+      "name": "FIORINO",
+      "slug": "fiorino",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31674,
+      "documentId": "kgeazgghf2jfkghddyis0sbb",
+      "name": "FIORINO Box Body/MPV",
+      "slug": "fiorino-box-bodympv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31677,
+      "documentId": "nj4ryxpe88iu7sv9fl0a9ez3",
+      "name": "FIORINO MPV",
+      "slug": "fiorino-mpv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31678,
+      "documentId": "watqwfrjri83xcreg0cocr6l",
+      "name": "FIORINO Pick up",
+      "slug": "fiorino-pick-up",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31820,
+      "documentId": "ie6qwzps1wnui5w3uvncr1te",
+      "name": "FOCUS I",
+      "slug": "focus-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31823,
+      "documentId": "bbw4exc4lrcxnvycfbmwd1as",
+      "name": "FOCUS I Saloon",
+      "slug": "focus-i-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31824,
+      "documentId": "yemfbafezm89snx32ogem86r",
+      "name": "FOCUS I Turnier",
+      "slug": "focus-i-turnier",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31827,
+      "documentId": "acdlt0noam25vmaa0ttzzxms",
+      "name": "FOCUS II Convertible",
+      "slug": "focus-ii-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31828,
+      "documentId": "hsv5icnj84lii8u9oh4awaa4",
+      "name": "FOCUS II Estate Van",
+      "slug": "focus-ii-estate-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31829,
+      "documentId": "ct99rgh5edpeo85d7koyk3po",
+      "name": "FOCUS II Saloon",
+      "slug": "focus-ii-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31830,
+      "documentId": "bm7j659behb3hktdxauigz7b",
+      "name": "FOCUS II Turnier",
+      "slug": "focus-ii-turnier",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31831,
+      "documentId": "fag6f02bze5kkue5wyd8mgh8",
+      "name": "FOCUS III",
+      "slug": "focus-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31833,
+      "documentId": "zslcglfk46hbxj5ep5h9lrvn",
+      "name": "FOCUS III Estate Van",
+      "slug": "focus-iii-estate-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31834,
+      "documentId": "p48hybwuovgtpae8fhkaccdn",
+      "name": "FOCUS III Hatchback Van",
+      "slug": "focus-iii-hatchback-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31835,
+      "documentId": "d82vjgfdk68q2nijx03gghjy",
+      "name": "FOCUS III Saloon",
+      "slug": "focus-iii-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31836,
+      "documentId": "rmkpzscomeju20mqesvvsmxo",
+      "name": "FOCUS III Turnier",
+      "slug": "focus-iii-turnier",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31837,
+      "documentId": "r2me1c99r9vkxvupn2fckn4w",
+      "name": "FOCUS IV",
+      "slug": "focus-iv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31839,
+      "documentId": "yq833am639imxg8hjhv9asut",
+      "name": "FOCUS IV Saloon",
+      "slug": "focus-iv-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31840,
+      "documentId": "oy1u5pry26j894dnd3bpjkjp",
+      "name": "FOCUS IV Turnier",
+      "slug": "focus-iv-turnier",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31872,
+      "documentId": "xwzvwhnd22atxwplj2siujk7",
+      "name": "FREEMONT",
+      "slug": "freemont",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31891,
+      "documentId": "nzlchc0ckswymbc5w1p0s6d2",
+      "name": "FULLBACK Pickup (502_,",
+      "slug": "fullback-pickup-502",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32092,
+      "documentId": "ydkxdqrf3w1nax47zeaqz4tb",
+      "name": "GALAXY I",
+      "slug": "galaxy-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32098,
+      "documentId": "ty1ezqasi1lw6q0ishwmzvl1",
+      "name": "GALAXY MK III VAN",
+      "slug": "galaxy-mk-iii-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32235,
+      "documentId": "mn4beptjjj1ej868hnk8lj50",
+      "name": "GRAND C-MAX",
+      "slug": "grand-c-max",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32236,
+      "documentId": "i738ndylkxwocsvjfy4jqeyv",
+      "name": "GRAND C-MAX Van",
+      "slug": "grand-c-max-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32634,
+      "documentId": "cc3by0hp7gwt6tnyferiviio",
+      "name": "IDEA",
+      "slug": "idea",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32771,
+      "documentId": "wmjkv473p3i046g4a2n99bg5",
+      "name": "JOURNEY",
+      "slug": "journey",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32846,
+      "documentId": "ojim6she9dukz4bs2zs8mvis",
+      "name": "KA Van",
+      "slug": "ka-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32847,
+      "documentId": "kstgt0ved1nxbdxtpj630lwe",
+      "name": "KA+ III",
+      "slug": "ka-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32848,
+      "documentId": "ilq40tckd1ztgvpzhycl4dfh",
+      "name": "KA+ III Saloon",
+      "slug": "ka-iii-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32957,
+      "documentId": "nbucjil4x59s8gi5gv3injvx",
+      "name": "KUGA I",
+      "slug": "kuga-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32961,
+      "documentId": "ivgapubmurk59xjagbrkfzvp",
+      "name": "KUGA II",
+      "slug": "kuga-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32963,
+      "documentId": "rf6opcrlakzmh2l4bh4u7oba",
+      "name": "KUGA II Van",
+      "slug": "kuga-ii-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32964,
+      "documentId": "e1l6iz02ta6v12jdka6vhc2v",
+      "name": "KUGA III",
+      "slug": "kuga-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33138,
+      "documentId": "r1etxmq9q91qw6nmyjehvv06",
+      "name": "LINEA",
+      "slug": "linea",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33339,
+      "documentId": "lys6aso8qdqo335gansp52f2",
+      "name": "MAREA",
+      "slug": "marea",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33341,
+      "documentId": "qgnpv2gr8jhcbbaeixoyoedp",
+      "name": "MAREA Weekend",
+      "slug": "marea-weekend",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33395,
+      "documentId": "kdo2239o4rryl60gescu2b61",
+      "name": "MAVERICK",
+      "slug": "maverick",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33604,
+      "documentId": "fljrcauw5f7r2r2buhacxqzp",
+      "name": "MONDEO I",
+      "slug": "mondeo-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33606,
+      "documentId": "p3u7ltcn7pd1ts0nmcb8pa5p",
+      "name": "MONDEO I Saloon",
+      "slug": "mondeo-i-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33607,
+      "documentId": "fw8czrgokd6no00cx3kqqy2v",
+      "name": "MONDEO I Turnier",
+      "slug": "mondeo-i-turnier",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33608,
+      "documentId": "yvxa17dkpivt8k5ckhce3zcn",
+      "name": "MONDEO II",
+      "slug": "mondeo-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33610,
+      "documentId": "j181cd2mpj6hpqroyj55algg",
+      "name": "MONDEO II Saloon",
+      "slug": "mondeo-ii-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33611,
+      "documentId": "zwgdfyyxp18mp6zx0hfwqxj0",
+      "name": "MONDEO II Turnier",
+      "slug": "mondeo-ii-turnier",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33612,
+      "documentId": "ahyssrkatk6qpnbqxxxe7twi",
+      "name": "MONDEO III",
+      "slug": "mondeo-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33614,
+      "documentId": "b14qaxm2hedbe6w59g9dqgqj",
+      "name": "MONDEO III Saloon",
+      "slug": "mondeo-iii-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33616,
+      "documentId": "clvoj00jmevp1oaq3eqrvett",
+      "name": "MONDEO IV",
+      "slug": "mondeo-iv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33618,
+      "documentId": "t1luiyac3j8o55ikk3bmtamx",
+      "name": "MONDEO IV Saloon",
+      "slug": "mondeo-iv-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33619,
+      "documentId": "fgyxd22sbjvya5op38jfnr03",
+      "name": "MONDEO IV Turnier",
+      "slug": "mondeo-iv-turnier",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33620,
+      "documentId": "k6q9ypan8rsra1lqla3if9op",
+      "name": "MONDEO IV Van",
+      "slug": "mondeo-iv-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33622,
+      "documentId": "u2hegrkqzkup79hune8ixjny",
+      "name": "MONDEO V Hatchback",
+      "slug": "mondeo-v-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33623,
+      "documentId": "ys9dzseuu1ef7g2rd89j2ldm",
+      "name": "MONDEO V Saloon",
+      "slug": "mondeo-v-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33624,
+      "documentId": "o665xtbsdg0dip59328bfu72",
+      "name": "MONDEO V Turnier",
+      "slug": "mondeo-v-turnier",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33920,
+      "documentId": "yhjbevqdeqz3hutk1rbry6ir",
+      "name": "NECT Kombi\"",
+      "slug": "nect-kombi",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33924,
+      "documentId": "c9qwgj33pvjjsnkpf6bp3txs",
+      "name": "NEON",
+      "slug": "neon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33926,
+      "documentId": "mujzefqmiej0ls68rcs79efu",
+      "name": "NEON II",
+      "slug": "neon-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33941,
+      "documentId": "d0prrvo09ibd77hgcfe1cj92",
+      "name": "NITRO",
+      "slug": "nitro",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34109,
+      "documentId": "jaj1y2cgynmjch5e8z7rltlf",
+      "name": "ORION II",
+      "slug": "orion-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34110,
+      "documentId": "b0f7aaonrfx2y15bkwlmf7b3",
+      "name": "ORION III",
+      "slug": "orion-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34171,
+      "documentId": "eud2tfncn2k161jksxontwqd",
+      "name": "PALIO",
+      "slug": "palio",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34174,
+      "documentId": "eyrmj5f1y6v4s8sn084ue1kj",
+      "name": "PALIO Weekend (178_,",
+      "slug": "palio-weekend-178",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34178,
+      "documentId": "xdx6e0qs8698q4ibcsbt13kh",
+      "name": "PANDA Hatchback Van",
+      "slug": "panda-hatchback-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34182,
+      "documentId": "lc3whgpig881wk8p51o5uqdl",
+      "name": "PANDA VAN",
+      "slug": "panda-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34438,
+      "documentId": "p6era7sngpmdn7xf8x5aupu7",
+      "name": "PUMA",
+      "slug": "puma",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34441,
+      "documentId": "mkybqw02tw5ygur5pmff9tqf",
+      "name": "PUNTO Convertible",
+      "slug": "punto-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34442,
+      "documentId": "q056p5z8n1bc847w032q2j0u",
+      "name": "PUNTO EVO",
+      "slug": "punto-evo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34447,
+      "documentId": "coh9jhgygtj5ozy79r2mranr",
+      "name": "PUNTO Hatchback Van",
+      "slug": "punto-hatchback-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34453,
+      "documentId": "hz08a6j52yfozm7de16wtbm9",
+      "name": "PUNTO Van",
+      "slug": "punto-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34586,
+      "documentId": "xzoky8au7dlz0vamxui4y3i0",
+      "name": "QUBO",
+      "slug": "qubo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35064,
+      "documentId": "nocz98cvq61zvxynop01coo3",
+      "name": "SCORPIO I",
+      "slug": "scorpio-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35065,
+      "documentId": "z32ogrem3q4o0gqyauvayl5p",
+      "name": "SCORPIO I Saloon",
+      "slug": "scorpio-i-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35066,
+      "documentId": "cye2pwh82h16tpb07urk2di6",
+      "name": "SCORPIO I Turnier",
+      "slug": "scorpio-i-turnier",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35067,
+      "documentId": "kg0q1jt0nnviksnmfq99kssg",
+      "name": "SCORPIO II",
+      "slug": "scorpio-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35068,
+      "documentId": "g2mw7sb2r3wghwa5z8lqomrc",
+      "name": "SCORPIO II Turnier",
+      "slug": "scorpio-ii-turnier",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35076,
+      "documentId": "z5vexauq3bnr2ek75gvkgwfg",
+      "name": "SCUDO Bus",
+      "slug": "scudo-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35080,
+      "documentId": "cye2vpecl2f99zj63u6tqg07",
+      "name": "SCUDO Platform/Chassis",
+      "slug": "scudo-platformchassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35081,
+      "documentId": "n6hapals764xw54rxtzj45tx",
+      "name": "SCUDO Van",
+      "slug": "scudo-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35100,
+      "documentId": "h68nmdfcvp1u5fxgexrdorwl",
+      "name": "SEDICI",
+      "slug": "sedici",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35104,
+      "documentId": "ia10skk0ve27vg2y6z37ntad",
+      "name": "SEICENTO / 600",
+      "slug": "seicento-600",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35105,
+      "documentId": "pv7e9upoqlycv4es17mcqusf",
+      "name": "SEICENTO / 600 Hatch-",
+      "slug": "seicento-600-hatch-",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35178,
+      "documentId": "sbojzouuilh5chc9l2k6sbfd",
+      "name": "SIENA",
+      "slug": "siena",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35488,
+      "documentId": "lqwiaeq3x192ht20t9bfj12p",
+      "name": "STILO Multi Wagon",
+      "slug": "stilo-multi-wagon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35498,
+      "documentId": "o1ji9xukzd0hs26di8fuwq6m",
+      "name": "STRADA Pickup (178_,",
+      "slug": "strada-pickup-178",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35504,
+      "documentId": "xlcgbvno8n4xq6ztgw7uukz2",
+      "name": "STREET KA",
+      "slug": "street-ka",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35821,
+      "documentId": "lgqlnd38479mw7qu3d9h74e0",
+      "name": "TALENTO Box Body/ Estate",
+      "slug": "talento-box-body-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35822,
+      "documentId": "owdv2pux0eiz4u3di4jcy8ck",
+      "name": "TALENTO Bus",
+      "slug": "talento-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35823,
+      "documentId": "pcmexdtlt8yb4ufxeqge3auw",
+      "name": "TALENTO Platform/ Chassis",
+      "slug": "talento-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35824,
+      "documentId": "zh2jl4d2hrxsjpioxm12sml4",
+      "name": "TALENTO Van",
+      "slug": "talento-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35900,
+      "documentId": "rbyrgg6t4pwfmwqhn5exooik",
+      "name": "TEMPRA",
+      "slug": "tempra",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35902,
+      "documentId": "qfey0mltxi3es04qu2rb7uy3",
+      "name": "TEMPRA S.W.",
+      "slug": "tempra-sw",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35965,
+      "documentId": "iyyqcwxxzo4844jrudz30td8",
+      "name": "TIPO",
+      "slug": "tipo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35967,
+      "documentId": "l9pwcq99rxp3yi1ze55ukvoe",
+      "name": "TIPO Estate",
+      "slug": "tipo-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35968,
+      "documentId": "nzr8uw5rjadbus5y9uj3skqf",
+      "name": "TIPO Hatchback",
+      "slug": "tipo-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35970,
+      "documentId": "xn9393sbzdyd59zyy15ejjsg",
+      "name": "TIPO Saloon",
+      "slug": "tipo-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36005,
+      "documentId": "n1zy1znmf57y0p2nx17gbvz7",
+      "name": "TOURNEO CONNECT",
+      "slug": "tourneo-connect",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36012,
+      "documentId": "xplkexndyrqt3amrjx23xsjc",
+      "name": "TOURNEO COURIER B460 MPV",
+      "slug": "tourneo-courier-b460-mpv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36015,
+      "documentId": "d3t6apn82b31tgjmjudsfpur",
+      "name": "TOURNEO CUSTOM V362 Bus",
+      "slug": "tourneo-custom-v362-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36087,
+      "documentId": "hzxgr3a5wwcj0mwglx8kxe0y",
+      "name": "TRANSIT Bus",
+      "slug": "transit-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36092,
+      "documentId": "ajmo6iqxt1h3bx7x981n8ilb",
+      "name": "TRANSIT CONNECT MPV",
+      "slug": "transit-connect-mpv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36096,
+      "documentId": "bnfwvcc24k9t6cm2xdiopxqm",
+      "name": "TRANSIT COURIER B460 MPV",
+      "slug": "transit-courier-b460-mpv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36100,
+      "documentId": "n6pfoxxl37aqdleivljv1p1i",
+      "name": "TRANSIT CUSTOM V362 Bus",
+      "slug": "transit-custom-v362-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36101,
+      "documentId": "myg5o96ylndum7xz19c6bnz2",
+      "name": "TRANSIT CUSTOM V362 Van",
+      "slug": "transit-custom-v362-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36104,
+      "documentId": "zmiybfza8qg83v6b4n12pqrc",
+      "name": "TRANSIT Platform/ Chassis",
+      "slug": "transit-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36105,
+      "documentId": "p546hveo6g9ak4aa2udrjk4y",
+      "name": "TRANSIT TOURNEO Bus",
+      "slug": "transit-tourneo-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36106,
+      "documentId": "ip8pxqqpqyh31bzt9xwafmzn",
+      "name": "TRANSIT V363 Box",
+      "slug": "transit-v363-box",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36107,
+      "documentId": "u66bp0jlip6t6azf1221sfr7",
+      "name": "TRANSIT V363 Bus",
+      "slug": "transit-v363-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36108,
+      "documentId": "duqhoso7x1bvvnnyedzxkrvy",
+      "name": "TRANSIT V363 Platform/ Chassis",
+      "slug": "transit-v363-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36110,
+      "documentId": "xkds551lrdebu55rtug2sol4",
+      "name": "TRANSIT Van",
+      "slug": "transit-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36317,
+      "documentId": "schxk3nafk76aenw3pw840i7",
+      "name": "ULYSSE",
+      "slug": "ulysse",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36322,
+      "documentId": "qu8afsmnhvlambhzclmp26kb",
+      "name": "UNO",
+      "slug": "uno",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37317,
+      "documentId": "p99w5a18aujo4zu8b3ao58xf",
+      "name": "_, FS_ _, FZ_ _, FC_ _)\"",
+      "slug": "-fs-fz-fc-",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

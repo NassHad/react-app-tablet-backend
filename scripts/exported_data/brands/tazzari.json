@@ -1,0 +1,22 @@
+{
+  "brandInfo": {
+    "id": 769,
+    "documentId": "gjq32ifl2hn220x6oenw1kjk",
+    "name": "TAZZARI",
+    "slug": "tazzari",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 1,
+  "exportDate": "2026-01-06T19:34:17.019Z",
+  "models": [
+    {
+      "id": 37217,
+      "documentId": "ydjhh4gf855lnv9l3h9gtrga",
+      "name": "ZERO",
+      "slug": "zero",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

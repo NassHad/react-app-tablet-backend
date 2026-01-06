@@ -1,0 +1,174 @@
+{
+  "brandInfo": {
+    "id": 592,
+    "documentId": "kdir33esx5pxldrpu42d80ld",
+    "name": "DACIA",
+    "slug": "dacia",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 20,
+  "exportDate": "2026-01-06T19:34:16.813Z",
+  "models": [
+    {
+      "id": 28384,
+      "documentId": "ac7tea7pp1zjgugsmm2x38fo",
+      "name": "2000",
+      "slug": "2000",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31051,
+      "documentId": "w338zw5q0ic0dneulyqxt4xk",
+      "name": "DOKKER Express Box Body/MPV",
+      "slug": "dokker-express-box-bodympv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31052,
+      "documentId": "a6cb3fp9gbi1ic4jnvvunnkg",
+      "name": "DOKKER MPV",
+      "slug": "dokker-mpv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31053,
+      "documentId": "l7x9lf2xi0qh3nikej89e60w",
+      "name": "DOKKER Pickup",
+      "slug": "dokker-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31139,
+      "documentId": "stjp3ii3u7lq94e8tlrlm44w",
+      "name": "DUSTER Box",
+      "slug": "duster-box",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31144,
+      "documentId": "qt2cbexe953gxmcykcd57z88",
+      "name": "DUSTER SUV Van",
+      "slug": "duster-suv-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31205,
+      "documentId": "ijrw0mvime3myddqanw4qfda",
+      "name": "Dokker / Dokker Stepway",
+      "slug": "dokker--dokker-stepway",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31206,
+      "documentId": "i7fo4q2x4fk2iob3gsftzpgo",
+      "name": "Dokker Pick up",
+      "slug": "dokker-pick-up",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32769,
+      "documentId": "nl30fcebi9h9jxso3nn0qt3t",
+      "name": "JOGGER",
+      "slug": "jogger",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33158,
+      "documentId": "hidvidcns1gbgnj5x744qz9q",
+      "name": "LODGY",
+      "slug": "lodgy",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33160,
+      "documentId": "w162ovkulo1vdtfc3aer40aa",
+      "name": "LOGAN",
+      "slug": "logan",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33165,
+      "documentId": "dt20h49myvjrv51y2redevcv",
+      "name": "LOGAN II",
+      "slug": "logan-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33170,
+      "documentId": "e780xh41fnbwtfs9c6u38e20",
+      "name": "LOGAN MCV",
+      "slug": "logan-mcv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33171,
+      "documentId": "cfd5mloqynni9rfdaxwfj6h5",
+      "name": "LOGAN MCV II",
+      "slug": "logan-mcv-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33172,
+      "documentId": "c0f7uqpx6juj76eyh9vsdfhh",
+      "name": "LOGAN Pickup",
+      "slug": "logan-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35001,
+      "documentId": "ely6apdq2o8u3gmcokzdjil3",
+      "name": "SANDERO",
+      "slug": "sandero",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35005,
+      "documentId": "xe0684nuuzcb6j57rfv8jedg",
+      "name": "SANDERO II",
+      "slug": "sandero-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35006,
+      "documentId": "d5ohpzb0jt8apizjpikfdhkx",
+      "name": "SANDERO III",
+      "slug": "sandero-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35316,
+      "documentId": "orrqhfktimfyux7xf6mysee3",
+      "name": "SOLENZA",
+      "slug": "solenza",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35376,
+      "documentId": "amwcgvl3qb44qjc7zhjzvh82",
+      "name": "SPRING",
+      "slug": "spring",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

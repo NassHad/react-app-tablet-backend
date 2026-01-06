@@ -1,0 +1,686 @@
+{
+  "brandInfo": {
+    "id": 775,
+    "documentId": "v4s2xyybbgir8d93k6dc16l2",
+    "name": "TRIUMPH",
+    "slug": "triumph",
+    "vehicle_type": "moto",
+    "isActive": true
+  },
+  "modelCount": 84,
+  "exportDate": "2026-01-06T19:34:17.034Z",
+  "models": [
+    {
+      "id": 29582,
+      "documentId": "ilqiohkwg9lkzgfgixhgbx4t",
+      "name": "Adventurer 900 (T309RT)",
+      "slug": "adventurer-900-t309rt",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29604,
+      "documentId": "natpf1gc8gpqikdwqqgrdcog",
+      "name": "America 865",
+      "slug": "america-865",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29605,
+      "documentId": "ujghkf80dyjw3vupq9rghkjc",
+      "name": "America 865 (TJ9118R)",
+      "slug": "america-865-tj9118r",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29868,
+      "documentId": "qu4l48s6ubg3z6hm0r4luc1i",
+      "name": "Bonneville 100 SE",
+      "slug": "bonneville-100-se",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29869,
+      "documentId": "uwqnvx2ylb75qv0vfw3m4uxr",
+      "name": "Bonneville 800 (T908MD)",
+      "slug": "bonneville-800-t908md",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29870,
+      "documentId": "ll53nb6feh79uuwgzhatm19g",
+      "name": "Bonneville 800 America (T908M)",
+      "slug": "bonneville-800-america-t908m",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29871,
+      "documentId": "u5e3ctbwz0r7grsz42q2azhs",
+      "name": "Bonneville 800 T100 (T100)",
+      "slug": "bonneville-800-t100-t100",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29872,
+      "documentId": "jl6ijg6m69zi0xsa8ixmxwmg",
+      "name": "Bonneville 865",
+      "slug": "bonneville-865",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29873,
+      "documentId": "sqzbnleu6t537blnzadu6gfi",
+      "name": "Bonneville 865 (TJ9107G, TJ9157G)",
+      "slug": "bonneville-865-tj9107g-tj9157g",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29874,
+      "documentId": "v09h9ck74x4h9zr01st7sbmw",
+      "name": "Bonneville 900 (986MF)",
+      "slug": "bonneville-900-986mf",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29875,
+      "documentId": "p2fdbhs2w0fpggt3j89eeo0x",
+      "name": "Bonneville 900 Black",
+      "slug": "bonneville-900-black",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29876,
+      "documentId": "gvn2uxa5muexcdgkcqfnnlh2",
+      "name": "Bonneville T 100 Steve MCQueen SE (986MF) 01/12-12/13 Standard",
+      "slug": "bonneville-t-100-steve-mcqueen-se-986mf-0112-1213-",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29877,
+      "documentId": "n8aie1i12r69m64gsaj14asp",
+      "name": "Bonneville Tridays-Edition",
+      "slug": "bonneville-tridays-edition",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31166,
+      "documentId": "f5wi2keu14rn5c4jo6m0yuwo",
+      "name": "Daytona 1200 (T300D A355)",
+      "slug": "daytona-1200-t300d-a355",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31167,
+      "documentId": "mpbh02qbcy91yt8k49gfnxey",
+      "name": "Daytona 600 (T806LW)",
+      "slug": "daytona-600-t806lw",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31168,
+      "documentId": "jy9tcg784e0tj0oxsucaecm3",
+      "name": "Daytona 650",
+      "slug": "daytona-650",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31169,
+      "documentId": "m4mv8bdy22xe3nxabyvfs29l",
+      "name": "Daytona 675",
+      "slug": "daytona-675",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31170,
+      "documentId": "jsuoqdeb1mmrve1oq7artzad",
+      "name": "Daytona 675 (H67)",
+      "slug": "daytona-675-h67",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31171,
+      "documentId": "wpg7z57ma6da3bgzuf5nozu2",
+      "name": "Daytona 675 R",
+      "slug": "daytona-675-r",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31172,
+      "documentId": "rzzj7jb907gp8elyucaax92x",
+      "name": "Daytona 675 R (D67LC)",
+      "slug": "daytona-675-r-d67lc",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31173,
+      "documentId": "t0kr0iec0if6d4jxcl694qur",
+      "name": "Daytona 900 (T300)",
+      "slug": "daytona-900-t300",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31174,
+      "documentId": "ln9sx7cu9675blr7xhbmj37q",
+      "name": "Daytona 900 Sup.III (T300B)",
+      "slug": "daytona-900-supiii-t300b",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31175,
+      "documentId": "t9t3b2l5tiggns8c42igxxub",
+      "name": "Daytona 955 (T595 A502)",
+      "slug": "daytona-955-t595-a502",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33235,
+      "documentId": "brgtmxoh5l0rmithaow9fmla",
+      "name": "Legend 900 TT (T309RT)",
+      "slug": "legend-900-tt-t309rt",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33707,
+      "documentId": "ynduz45ce9atbz4ula7ajren",
+      "name": "MT-09 (RN43)",
+      "slug": "mt-09-rn43",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33794,
+      "documentId": "zprfj4a1nicyihgzioyomept",
+      "name": "Masterblaster 955 SS",
+      "slug": "masterblaster-955-ss",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34906,
+      "documentId": "izgrf0czqcaoqz7wex014fb8",
+      "name": "Rocket 2300 III",
+      "slug": "rocket-2300-iii",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34907,
+      "documentId": "v9qj2p2m1ulx6pj87ozvdp88",
+      "name": "Rocket 2300 III Roadster (TLC1235)",
+      "slug": "rocket-2300-iii-roadster-tlc1235",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34908,
+      "documentId": "og6dud6a846w4pdw9fxsf5ra",
+      "name": "Rocket 2300 III Touring (TLC4035, TLC4235)",
+      "slug": "rocket-2300-iii-touring-tlc4035-tlc4235",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35633,
+      "documentId": "mcgu016fxnghtho1dliugzzx",
+      "name": "Scrambler 865",
+      "slug": "scrambler-865",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35634,
+      "documentId": "k88y8buaqffj2hynudxz3pt3",
+      "name": "Scrambler 865 EFI (TJ9178G)",
+      "slug": "scrambler-865-efi-tj9178g",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35673,
+      "documentId": "mwzf7yxmem9j8fs7h6kvfvsk",
+      "name": "Speed Four 600",
+      "slug": "speed-four-600",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35674,
+      "documentId": "rd2qcsawhwatk5wu90l4udwb",
+      "name": "Speed Triple 1050",
+      "slug": "speed-triple-1050",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35675,
+      "documentId": "g26sdoneej55z8ckxx0dcriz",
+      "name": "Speed Triple 1050 EFI (TPN105G, TPN115G)",
+      "slug": "speed-triple-1050-efi-tpn105g-tpn115g",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35676,
+      "documentId": "nps92oq9xwt0qk0ctp830gv5",
+      "name": "Speed Triple 1050 R EFI (TPN125G, TPN135G) 09/11->>",
+      "slug": "speed-triple-1050-r-efi-tpn125g-tpn135g-0911",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35677,
+      "documentId": "d2tjtopi98ls3kuv90uuy0aj",
+      "name": "Speed Triple 900 (T300B)",
+      "slug": "speed-triple-900-t300b",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35678,
+      "documentId": "vg1xfep3y6unt2i9n14fz7zc",
+      "name": "Speed Triple 955",
+      "slug": "speed-triple-955",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35679,
+      "documentId": "nee9s0m7u9d83jp1jd3nudf6",
+      "name": "Speed Triple 955 (595N)",
+      "slug": "speed-triple-955-595n",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35702,
+      "documentId": "iu4lhloyuuvyo7t3rrxnxqs5",
+      "name": "Speedmaster 800",
+      "slug": "speedmaster-800",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35703,
+      "documentId": "ys2gdridtoqhxzalg8k3q0ls",
+      "name": "Speedmaster 865",
+      "slug": "speedmaster-865",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35704,
+      "documentId": "skg590v2c1gb18rfhckeyqlj",
+      "name": "Speedmaster 865 (TJ9168R)",
+      "slug": "speedmaster-865-tj9168r",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35723,
+      "documentId": "lr9n2k56qp00xp28fet7ccwt",
+      "name": "Sprint 1050 ST",
+      "slug": "sprint-1050-st",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35730,
+      "documentId": "s2dcs6trhyviqpnkwbkhm4f7",
+      "name": "Sprint 955 RS (T695)",
+      "slug": "sprint-955-rs-t695",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35731,
+      "documentId": "zui1d3ssgvy709y3re5g64zg",
+      "name": "Sprint GT 1050",
+      "slug": "sprint-gt-1050",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35748,
+      "documentId": "uirmmayq739nks0ipa13n1e8",
+      "name": "Street Cup",
+      "slug": "street-cup",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35750,
+      "documentId": "u8cp7ctv6fzirys8q6l4hn97",
+      "name": "Street Triple 675 (D67LD)",
+      "slug": "street-triple-675-d67ld",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35751,
+      "documentId": "ymcfcf47z6ry4qj6vkpxzuq2",
+      "name": "Street Triple 675 R (TTL1266, TTL1366)",
+      "slug": "street-triple-675-r-ttl1266-ttl1366",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35752,
+      "documentId": "o72ji2q5kh3owyor2jpmt0mb",
+      "name": "Street Twin A2 (DP01)",
+      "slug": "street-twin-a2-dp01",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36171,
+      "documentId": "rw9shiwpb93681d0i5c9ii4o",
+      "name": "TT 600 (806AD)",
+      "slug": "tt-600-806ad",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36180,
+      "documentId": "viibjurit3az250duooz7n7w",
+      "name": "TTL4166) 07/12->>",
+      "slug": "ttl4166-0712",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36214,
+      "documentId": "naqmc5prbpbinuzaz6dw0dwy",
+      "name": "Thruxton 865",
+      "slug": "thruxton-865",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36215,
+      "documentId": "fl0ucei4plcfi6nhns81jzry",
+      "name": "Thruxton 865 EFI (TJ9147G)",
+      "slug": "thruxton-865-efi-tj9147g",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36216,
+      "documentId": "zxesnf0njvyqrk5az4rn1uec",
+      "name": "Thunderbird 1600",
+      "slug": "thunderbird-1600",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36217,
+      "documentId": "bh8uxijmey3d2otongv324b3",
+      "name": "Thunderbird 1700",
+      "slug": "thunderbird-1700",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36218,
+      "documentId": "iimd28uw7d7kjlop2v59xbbc",
+      "name": "Thunderbird 900 (T309RT)",
+      "slug": "thunderbird-900-t309rt",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36219,
+      "documentId": "zflrl6htplxry0ggu2rs13qr",
+      "name": "Thunderbird 900 Sport",
+      "slug": "thunderbird-900-sport",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36220,
+      "documentId": "xunwoeae50bvb0lqg5mu1ptf",
+      "name": "Thunderbird Commander 1700 (TNB15C7)",
+      "slug": "thunderbird-commander-1700-tnb15c7",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36221,
+      "documentId": "nxatj56kqe1rnwm9xi93srfv",
+      "name": "Thunderbird LT 1700 (TNB17C7)",
+      "slug": "thunderbird-lt-1700-tnb17c7",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36222,
+      "documentId": "sq70w64oowl2xbmngayscn5m",
+      "name": "Tiger 1050",
+      "slug": "tiger-1050",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36223,
+      "documentId": "hdafhygmw0ivphzd86d08qbn",
+      "name": "Tiger 1050 Sport",
+      "slug": "tiger-1050-sport",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36224,
+      "documentId": "mncoofm8x5dty8duvc12t443",
+      "name": "Tiger 800",
+      "slug": "tiger-800",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36225,
+      "documentId": "ns4ox1oflsr674jd3bnqut8b",
+      "name": "Tiger 800 XC",
+      "slug": "tiger-800-xc",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36226,
+      "documentId": "s0juawxasg52b8trqbno306g",
+      "name": "Tiger 800 XC (C301)",
+      "slug": "tiger-800-xc-c301",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36227,
+      "documentId": "qrw1iwrtl7nhpixrywrgl4gf",
+      "name": "Tiger 800 XCX (C301)",
+      "slug": "tiger-800-xcx-c301",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36228,
+      "documentId": "rwbrvrnt8atnohbck289h9eb",
+      "name": "Tiger 800 XR (C301)",
+      "slug": "tiger-800-xr-c301",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36229,
+      "documentId": "sax207u2hfr07ty0hjapigka",
+      "name": "Tiger 800 XRX LOW (C301)",
+      "slug": "tiger-800-xrx-low-c301",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36230,
+      "documentId": "tblftchpn5os0wmnpcxvgx37",
+      "name": "Tiger 800 XRt (C301)",
+      "slug": "tiger-800-xrt-c301",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36231,
+      "documentId": "z87gk71aa3zn2jd7y862nq92",
+      "name": "Tiger 900 (C702)",
+      "slug": "tiger-900-c702",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36232,
+      "documentId": "wg6171xkt43on29d7k5b4p51",
+      "name": "Tiger 900 (T400)",
+      "slug": "tiger-900-t400",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36233,
+      "documentId": "rjhn95lu73k55x5fu0v8769s",
+      "name": "Tiger 900 GT (C702)",
+      "slug": "tiger-900-gt-c702",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36234,
+      "documentId": "pbko2lj2hcz23hvyi0ja5ida",
+      "name": "Tiger 900 GT Pro (C702)",
+      "slug": "tiger-900-gt-pro-c702",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36235,
+      "documentId": "ucu2skz5n9kebiys6hdxezrp",
+      "name": "Tiger 900 GT low (C702)",
+      "slug": "tiger-900-gt-low-c702",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36236,
+      "documentId": "pokt747pqsx1tbp0ukrpr9e9",
+      "name": "Tiger 900 Rally (C702)",
+      "slug": "tiger-900-rally-c702",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36237,
+      "documentId": "z922zdlou0dj21nct63q4lcg",
+      "name": "Tiger 900 Rally Pro (C702)",
+      "slug": "tiger-900-rally-pro-c702",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36238,
+      "documentId": "r5yxnt8yd0yt29pl69y3ubs8",
+      "name": "Tiger 955 I (709EN)",
+      "slug": "tiger-955-i-709en",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36239,
+      "documentId": "tp0vxegizz5ncqtt22csjizq",
+      "name": "Tiger Explorer 1200",
+      "slug": "tiger-explorer-1200",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36240,
+      "documentId": "kclsguygm8txfb2e2u39deur",
+      "name": "Tiger Explorer XR (V201)",
+      "slug": "tiger-explorer-xr-v201",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36241,
+      "documentId": "dzcek66rmfogk0xjr6zs6xpa",
+      "name": "Tiger XCA (V301A)",
+      "slug": "tiger-xca-v301a",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36242,
+      "documentId": "gzefh4qsjifb8smkycw83v8w",
+      "name": "Tiger XCX (V301A)",
+      "slug": "tiger-xcx-v301a",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36243,
+      "documentId": "a8orvo432cmexif8ebaowfps",
+      "name": "Tiger XR (V301A)",
+      "slug": "tiger-xr-v301a",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36244,
+      "documentId": "dcmhyn496dq36ee1sklasniu",
+      "name": "Tiger XRT (V301A)",
+      "slug": "tiger-xrt-v301a",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36245,
+      "documentId": "rwesz84ktqsr8t6ygh24pniw",
+      "name": "Tiger XRX (V301A)",
+      "slug": "tiger-xrx-v301a",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36280,
+      "documentId": "cibshhgy96jul0q6msxpym5f",
+      "name": "Trident 750 (T300 A333)",
+      "slug": "trident-750-t300-a333",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36283,
+      "documentId": "h8yplxx5sj6cvty8aiv8gamv",
+      "name": "Trophy 1200",
+      "slug": "trophy-1200",
+      "vehicle_type": "moto",
+      "isActive": true
+    }
+  ]
+}

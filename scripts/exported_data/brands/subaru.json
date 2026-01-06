@@ -1,0 +1,318 @@
+{
+  "brandInfo": {
+    "id": 762,
+    "documentId": "buu2q8q0xxh49o2gr1j92u72",
+    "name": "SUBARU",
+    "slug": "subaru",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 38,
+  "exportDate": "2026-01-06T19:34:17.003Z",
+  "models": [
+    {
+      "id": 28330,
+      "documentId": "a9e4n9k04kgf0xb1x87sog3y",
+      "name": "1800",
+      "slug": "1800",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29790,
+      "documentId": "aj2g07rkqhdhpm41gq6o09sd",
+      "name": "BRZ",
+      "slug": "brz",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31207,
+      "documentId": "pk1elcmoca4b7at7c7ckc5ki",
+      "name": "Domingo",
+      "slug": "domingo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31230,
+      "documentId": "vr4a9ekxt3s76z046m7zowbq",
+      "name": "E + Wagon/ Wagon SDX",
+      "slug": "e--wagon-wagon-sdx",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31843,
+      "documentId": "xu4chl2mur8m0e9z0n3h59uh",
+      "name": "FORESTER",
+      "slug": "forester",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32650,
+      "documentId": "ygiyov6kz66ehnab2oecgihk",
+      "name": "IMPREZA Coupe",
+      "slug": "impreza-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32651,
+      "documentId": "a43m7i9ko4qlful43q8grbdm",
+      "name": "IMPREZA Estate",
+      "slug": "impreza-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32652,
+      "documentId": "skh3ah2b9et2xzcobrllwh6c",
+      "name": "IMPREZA Hatchback",
+      "slug": "impreza-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32653,
+      "documentId": "aprqc2an1i0ogm4crs16cz8z",
+      "name": "IMPREZA Saloon",
+      "slug": "impreza-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32726,
+      "documentId": "r356kinbe0m1u6bpzjs1teak",
+      "name": "Impreza",
+      "slug": "impreza",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32727,
+      "documentId": "d4kz5o1n3cdz72j69eu6dao1",
+      "name": "Impreza / WRX / STI",
+      "slug": "impreza--wrx--sti",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32808,
+      "documentId": "r9p6v6kmeehva8x82f5ebnqv",
+      "name": "JUSTY II",
+      "slug": "justy-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32809,
+      "documentId": "l7j2seo7vqe3v5pz1urks17x",
+      "name": "JUSTY III",
+      "slug": "justy-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32810,
+      "documentId": "kyp5q32b48ecdnxmres1nkgs",
+      "name": "JUSTY IV",
+      "slug": "justy-iv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32826,
+      "documentId": "qbgouucfnquq2b9cgddkmxqk",
+      "name": "Justy",
+      "slug": "justy",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32827,
+      "documentId": "kmpvc4dyifn6lgn8wuihualu",
+      "name": "Justy G3X",
+      "slug": "justy-g3x",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33086,
+      "documentId": "umtr50vpo6j91h0mci031axq",
+      "name": "LEGACY II",
+      "slug": "legacy-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33087,
+      "documentId": "hm8t61kdq8mbk92jr9mde19c",
+      "name": "LEGACY II Estate",
+      "slug": "legacy-ii-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33088,
+      "documentId": "vvy8bocbwbe9effvpf6acgt7",
+      "name": "LEGACY III",
+      "slug": "legacy-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33089,
+      "documentId": "a3pb5ybgf1s8erimsrywdfb9",
+      "name": "LEGACY III Estate",
+      "slug": "legacy-iii-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33090,
+      "documentId": "v7z1cyxt6qhy2fzbah3sox5y",
+      "name": "LEGACY IV",
+      "slug": "legacy-iv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33091,
+      "documentId": "nc1c2bu7rhpan22mk5nf6b65",
+      "name": "LEGACY IV Estate",
+      "slug": "legacy-iv-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33093,
+      "documentId": "wv64e2dj4rdcbbdpgvoqqntt",
+      "name": "LEGACY V",
+      "slug": "legacy-v",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33094,
+      "documentId": "xhbjbfrwyb7z0edpuv43mxl2",
+      "name": "LEGACY V Estate",
+      "slug": "legacy-v-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33095,
+      "documentId": "leilduansmrttliuadx3jbxe",
+      "name": "LEGACY VI",
+      "slug": "legacy-vi",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33128,
+      "documentId": "z473ahgja6555fyg1s9ktgvl",
+      "name": "LEVORG",
+      "slug": "levorg",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33132,
+      "documentId": "u1rqb4168mv1blkz8y3pdw6u",
+      "name": "LIBERO Bus",
+      "slug": "libero-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33234,
+      "documentId": "sre1evw1wg372nab77vlyocu",
+      "name": "Legacy",
+      "slug": "legacy",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33245,
+      "documentId": "ttpczgyiaj4c4j0e6ksgpso2",
+      "name": "Libero/ E12/ Vanille",
+      "slug": "libero-e12-vanille",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33810,
+      "documentId": "kseg3mysnmdrwd7j2lxq76b1",
+      "name": "Mini Jumbo",
+      "slug": "mini-jumbo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34113,
+      "documentId": "ea9134celsjn4hdczkkuli9z",
+      "name": "OUTBACK",
+      "slug": "outback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35575,
+      "documentId": "sqd1q1acgfu1u0i8i1541lja",
+      "name": "SVX",
+      "slug": "svx",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36151,
+      "documentId": "mbdtz4tvmndacea4x4xmc5vp",
+      "name": "TREZIA",
+      "slug": "trezia",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36152,
+      "documentId": "r4w5p7qu2ys3d5444jz1fpcq",
+      "name": "TRIBECA",
+      "slug": "tribeca",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36278,
+      "documentId": "we3t7tnqlmkotxwgjtkdgcqt",
+      "name": "Trendy",
+      "slug": "trendy",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36543,
+      "documentId": "zyjl2trvz45osvafde074hfj",
+      "name": "VIVIO",
+      "slug": "vivio",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36774,
+      "documentId": "fr5plbwuszdcbv8cg5pap5de",
+      "name": "WRX Saloon",
+      "slug": "wrx-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37022,
+      "documentId": "aiw3npzy9hhbyyfjvc1pgzcu",
+      "name": "XV",
+      "slug": "xv",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

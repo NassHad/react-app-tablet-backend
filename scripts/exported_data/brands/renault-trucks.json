@@ -1,0 +1,86 @@
+{
+  "brandInfo": {
+    "id": 741,
+    "documentId": "u0gsri3bs19vsbzm75vn6p4c",
+    "name": "RENAULT TRUCKS",
+    "slug": "renault-trucks",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 9,
+  "exportDate": "2026-01-06T19:34:16.967Z",
+  "models": [
+    {
+      "id": 29642,
+      "documentId": "mmdt3x32ld46pqlv7jgmewr8",
+      "name": "B Platform/Chassis",
+      "slug": "b-platformchassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29643,
+      "documentId": "m05vdfr6gcigd3xxzq24sgm9",
+      "name": "B Van",
+      "slug": "b-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33361,
+      "documentId": "zow8n6l6z2tolmlov06xl2a9",
+      "name": "MASCOTT Dumptruck",
+      "slug": "mascott-dumptruck",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33362,
+      "documentId": "c86fkv2ttpmuggrzaupaxf2r",
+      "name": "MASCOTT Platform/ Chassis",
+      "slug": "mascott-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33363,
+      "documentId": "vo97v6y02pwcj5esadx5n1dc",
+      "name": "MASCOTT Van",
+      "slug": "mascott-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33467,
+      "documentId": "dyokbq7wtqzfqlxlrlgnvjxj",
+      "name": "MESSENGER Dump Truck",
+      "slug": "messenger-dump-truck",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33468,
+      "documentId": "b9skh39etrl3q38upsyh1866",
+      "name": "MESSENGER Platform/ Chassis",
+      "slug": "messenger-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33470,
+      "documentId": "g0k2nwt5vmeoipe075jl5bay",
+      "name": "MESSENGER Van",
+      "slug": "messenger-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36268,
+      "documentId": "gphz2mnbxmedlw66vzzpoil6",
+      "name": "Tractor\"",
+      "slug": "tractor",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

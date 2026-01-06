@@ -1,0 +1,22 @@
+{
+  "brandInfo": {
+    "id": 728,
+    "documentId": "h3rampte4vtqakli74t94v69",
+    "name": "PLYMOUTH",
+    "slug": "plymouth",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 1,
+  "exportDate": "2026-01-06T19:34:16.950Z",
+  "models": [
+    {
+      "id": 33927,
+      "documentId": "fmrnt11p863c176tklanyyhb",
+      "name": "NEON II Saloon",
+      "slug": "neon-ii-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

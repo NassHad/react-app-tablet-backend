@@ -1,0 +1,646 @@
+{
+  "brandInfo": {
+    "id": 569,
+    "documentId": "i64vy50p7sf3ug0s1ylk7v3u",
+    "name": "BMW",
+    "slug": "bmw",
+    "vehicle_type": "car-moto",
+    "isActive": true
+  },
+  "modelCount": 79,
+  "exportDate": "2026-01-06T19:34:16.792Z",
+  "models": [
+    {
+      "id": 28138,
+      "documentId": "du1rptunb1otbnm5fk5v0gvr",
+      "name": "1",
+      "slug": "1",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28139,
+      "documentId": "z3aph0czj5iy1h6mfh5bexn6",
+      "name": "1 Convertible",
+      "slug": "1-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28140,
+      "documentId": "r7on68dak94xrn9x0oo8q792",
+      "name": "1 Coupe",
+      "slug": "1-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28141,
+      "documentId": "cq4fc3tqj06adrtrprlh9q7p",
+      "name": "1 Van",
+      "slug": "1-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28142,
+      "documentId": "o6hxi338mpotmpomglcc6nui",
+      "name": "1-Series",
+      "slug": "1-series",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28349,
+      "documentId": "sc5wcfwzugfk1x3llbqdzz18",
+      "name": "2 Active Tourer",
+      "slug": "2-active-tourer",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28353,
+      "documentId": "j2wnbapdarzo5dtosgoqulkb",
+      "name": "2 Convertible",
+      "slug": "2-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28354,
+      "documentId": "ib2d5pypoxc9hjrd24hxhnrr",
+      "name": "2 Coupe",
+      "slug": "2-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28357,
+      "documentId": "topa4xjlyjoriyzenalul22m",
+      "name": "2 Gran Coupe",
+      "slug": "2-gran-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28358,
+      "documentId": "w9tlesh3utjp4bxjpitv5wh2",
+      "name": "2 Gran Tourer",
+      "slug": "2-gran-tourer",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28362,
+      "documentId": "yfpc8j6arjqllf26jlikjm1k",
+      "name": "2-Series",
+      "slug": "2-series",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28363,
+      "documentId": "n0lzqti7lb13h6z47zf94d5d",
+      "name": "2-Series Active",
+      "slug": "2-series-active",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28364,
+      "documentId": "s8rcmikvs99hp86fc6bh3l64",
+      "name": "2-Series Gran",
+      "slug": "2-series-gran",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28500,
+      "documentId": "kgrjjr3wfsydrosv6e7g38fo",
+      "name": "3 Compact",
+      "slug": "3-compact",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28501,
+      "documentId": "gspigrpmgo3ayirezhcyb81l",
+      "name": "3 Convertible",
+      "slug": "3-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28502,
+      "documentId": "cjx15j6jla2botgprfpktk03",
+      "name": "3 Coupe",
+      "slug": "3-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28505,
+      "documentId": "x0g2u545ckyfkk3o6vcegeig",
+      "name": "3 Gran Turismo",
+      "slug": "3-gran-turismo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28509,
+      "documentId": "iw1n03irv9t9svzidvb40wk3",
+      "name": "3 Touring",
+      "slug": "3-touring",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28510,
+      "documentId": "e77buujqdj5ct0lv0jdxrxch",
+      "name": "3 Touring Van",
+      "slug": "3-touring-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28511,
+      "documentId": "fumgei5y8ybdcaj909v7xp5f",
+      "name": "3-Series",
+      "slug": "3-series",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28512,
+      "documentId": "jgxshobn40hax5q4w56yj5ta",
+      "name": "3-Series Compact",
+      "slug": "3-series-compact",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28513,
+      "documentId": "o5vkd8sqa92jrwxlh9wjtdvc",
+      "name": "3-Series Touring",
+      "slug": "3-series-touring",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28660,
+      "documentId": "fjb1aobh7k0ymelfyc97j4je",
+      "name": "4 Convertible",
+      "slug": "4-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28661,
+      "documentId": "p91tugx4xhp0p0x8msa6kgg5",
+      "name": "4 Coupe",
+      "slug": "4-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28662,
+      "documentId": "l4abcorewog1vq2yegw2tych",
+      "name": "4 Gran Coupe",
+      "slug": "4-gran-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28669,
+      "documentId": "mwxtb9y8uv310n246g0ha8hx",
+      "name": "4-Series",
+      "slug": "4-series",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28758,
+      "documentId": "o6gqo57ynzy22hv8cvzyx7gx",
+      "name": "5 GT-Series",
+      "slug": "5-gt-series",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28759,
+      "documentId": "of9gpn52z5r0tfjm52hyer3m",
+      "name": "5 Gran Turismo",
+      "slug": "5-gran-turismo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28761,
+      "documentId": "b2h69vxlbxh0caww8ao2a0hs",
+      "name": "5 Touring",
+      "slug": "5-touring",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28762,
+      "documentId": "ct3y70v1g0yxj7z1bss3srrg",
+      "name": "5 Touring Van",
+      "slug": "5-touring-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28763,
+      "documentId": "tq8vlbn0uxgbgv02grgsnrfb",
+      "name": "5-Series",
+      "slug": "5-series",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28764,
+      "documentId": "k18rtolxsgz3u2eqq7kd4j2y",
+      "name": "5-Series Touring",
+      "slug": "5-series-touring",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28841,
+      "documentId": "tjk9siu1fx56byyn23ypmlbf",
+      "name": "6",
+      "slug": "6",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28846,
+      "documentId": "xulsx4dljgaj8nfaw6jbuvmf",
+      "name": "6 Convertible",
+      "slug": "6-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28847,
+      "documentId": "gsw73sa2dtvo9oemb3nn2f6l",
+      "name": "6 Coupe",
+      "slug": "6-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28850,
+      "documentId": "cryszfy2oaiukohh2xy81wzd",
+      "name": "6 Gran Coupe",
+      "slug": "6-gran-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28851,
+      "documentId": "s8vhmb1dsbeetffrl18x4je8",
+      "name": "6 Gran Turismo",
+      "slug": "6-gran-turismo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28855,
+      "documentId": "v2yqaw00iyitcq6ypgqz6vs5",
+      "name": "6-Series / M6",
+      "slug": "6-series--m6",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28891,
+      "documentId": "i8103vf0e5usw22dyrtu89nf",
+      "name": "7",
+      "slug": "7",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28914,
+      "documentId": "z9teg34ayz542fo9wpcfcv6x",
+      "name": "8",
+      "slug": "8",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28917,
+      "documentId": "x4dtblafcnfjom6plupgf7cx",
+      "name": "8 Gran Coupe",
+      "slug": "8-gran-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29909,
+      "documentId": "z6w6civ14tstusaz58p1o8ro",
+      "name": "C 400 GT",
+      "slug": "c-400-gt",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29910,
+      "documentId": "i57evx67il52bi0oxforc5c5",
+      "name": "C 400 X",
+      "slug": "c-400-x",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29911,
+      "documentId": "zlcw89pmojcftcdkz9un3x3p",
+      "name": "C 660 Sport (C65)",
+      "slug": "c-660-sport-c65",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29912,
+      "documentId": "gr8xudg767x3l6s9ue43voix",
+      "name": "C evolution",
+      "slug": "c-evolution",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29940,
+      "documentId": "x8lvr9d73tgaas5nqe647dme",
+      "name": "C1 125 (C1 ABS)",
+      "slug": "c1-125-c1-abs",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29941,
+      "documentId": "rz46r7o6dmpsyzd65l1phco8",
+      "name": "C1 125 (C1)",
+      "slug": "c1-125-c1",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29942,
+      "documentId": "xz1c286wbqdaayj40md7abbh",
+      "name": "C1 200 (C1 ABS)",
+      "slug": "c1-200-c1-abs",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29943,
+      "documentId": "n6jrete32oeffhn7morc0vip",
+      "name": "C1 200 (C1)",
+      "slug": "c1-200-c1",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31544,
+      "documentId": "ilbmcq6nyu4c6vfh324ny3z5",
+      "name": "F 650 (169)",
+      "slug": "f-650-169",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31545,
+      "documentId": "nbxsu7j6b148arulj7j4eze4",
+      "name": "F 650 CS (E650C)",
+      "slug": "f-650-cs-e650c",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31546,
+      "documentId": "m3b31s6jkr744s0r6di06yal",
+      "name": "F 650 CS (K14)",
+      "slug": "f-650-cs-k14",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31547,
+      "documentId": "buv01cmjld6xgdw76qpu9qnh",
+      "name": "F 650 CS ABS (E650C)",
+      "slug": "f-650-cs-abs-e650c",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31548,
+      "documentId": "z1hg90c8vo3q4jqao8opziaz",
+      "name": "F 650 CS ABS (K14/2/E650C)",
+      "slug": "f-650-cs-abs-k142e650c",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31549,
+      "documentId": "b46eg80sce4k5pi0556s3xpb",
+      "name": "F 650 GS",
+      "slug": "f-650-gs",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31550,
+      "documentId": "lu7pf8jmtmse99bx9ydjshfm",
+      "name": "F 650 GS (K72/E8GS)",
+      "slug": "f-650-gs-k72e8gs",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32829,
+      "documentId": "y6jjp6j3h10xsulum5qzv35h",
+      "name": "K 1200 R (K12R)",
+      "slug": "k-1200-r-k12r",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32830,
+      "documentId": "ugs1t0h4z8nnrtrsjxg2dbga",
+      "name": "K 1200 R ABS",
+      "slug": "k-1200-r-abs",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33082,
+      "documentId": "ui8h0pdnfwkcskznxulpk0bu",
+      "name": "LED LED",
+      "slug": "led-led",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33812,
+      "documentId": "ud61jpe30pyg29vodttt9v8s",
+      "name": "Mito 125",
+      "slug": "mito-125",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34608,
+      "documentId": "g3nw9bxnopnk4bexh88y3zex",
+      "name": "R 1200 GS Adventure (K51)",
+      "slug": "r-1200-gs-adventure-k51",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36808,
+      "documentId": "sbdkk3pdt7m5ftv3skpcg06s",
+      "name": "X1",
+      "slug": "x1",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36809,
+      "documentId": "lfju6yley0or4oiautn6nnw8",
+      "name": "X1 Van",
+      "slug": "x1-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36813,
+      "documentId": "gs7lpts6ldzsucs53jgfbyy7",
+      "name": "X2",
+      "slug": "x2",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36814,
+      "documentId": "fh72cgvadhiursp96lan7k5i",
+      "name": "X3",
+      "slug": "x3",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36815,
+      "documentId": "g27q4xh33x1mqiqk49ppdnd9",
+      "name": "X3 Van",
+      "slug": "x3-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36816,
+      "documentId": "wwfwidjk5j586fmbkvq7zb9s",
+      "name": "X4",
+      "slug": "x4",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36817,
+      "documentId": "fr5xrbk8lzj1b07hz6jtwzhw",
+      "name": "X5",
+      "slug": "x5",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36820,
+      "documentId": "uu1v8kj74wbv5qfigd1ehd75",
+      "name": "X6",
+      "slug": "x6",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37188,
+      "documentId": "usuvp96dlv39d7pc4ncwm1t4",
+      "name": "Z3 Coupe",
+      "slug": "z3-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37189,
+      "documentId": "dw9bgbi7wacmjnrpzrofevaw",
+      "name": "Z3 Roadster",
+      "slug": "z3-roadster",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37190,
+      "documentId": "gpo49ogmp4iu72ypf9lo15r9",
+      "name": "Z4",
+      "slug": "z4",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37191,
+      "documentId": "nbm1n32qybdjbnedxm4fvhnu",
+      "name": "Z4 Coupe",
+      "slug": "z4-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37192,
+      "documentId": "pdtbtgry9yw23jbr9pq19f9q",
+      "name": "Z4 Roadster",
+      "slug": "z4-roadster",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37193,
+      "documentId": "hddw3cvi6faeo5ee0io1m2a9",
+      "name": "Z8 Roadster",
+      "slug": "z8-roadster",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37348,
+      "documentId": "m42czkhemtk5f45kbuyny7ko",
+      "name": "i3",
+      "slug": "i3",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37366,
+      "documentId": "xyjc2jdck06339gfe0ci5c0r",
+      "name": "i8",
+      "slug": "i8",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37367,
+      "documentId": "mra7qbroq84r6aq563dai8lt",
+      "name": "i8 Roadster",
+      "slug": "i8-roadster",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37371,
+      "documentId": "t42pl2ao5tct25fei2kmyrme",
+      "name": "iX3",
+      "slug": "ix3",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "brandInfo": {
+    "id": 579,
+    "documentId": "o08z3m92qladwghai9do6f69",
+    "name": "CADILLAC",
+    "slug": "cadillac",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 10,
+  "exportDate": "2026-01-06T19:34:16.801Z",
+  "models": [
+    {
+      "id": 29492,
+      "documentId": "fw7hxa41ygzf63oycj0kzw2a",
+      "name": "ATS / ATS",
+      "slug": "ats--ats",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29736,
+      "documentId": "ecrhjdceldlzbpksp2x1omgs",
+      "name": "BLS",
+      "slug": "bls",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30727,
+      "documentId": "kzlrue91d5go99s3k4hf636q",
+      "name": "CTS",
+      "slug": "cts",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30728,
+      "documentId": "ea1qc3k58k82gf16zpr770wa",
+      "name": "CTS / CTS",
+      "slug": "cts--cts",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31362,
+      "documentId": "k9mibedtblcb84ze5adlwwsg",
+      "name": "ESCALADE",
+      "slug": "escalade",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31526,
+      "documentId": "iuy6qp5jguzugrgqxf52vvd4",
+      "name": "Escalade / ESV / EXT",
+      "slug": "escalade--esv--ext",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35141,
+      "documentId": "em6z4sx16nhhx1nf9bz33tb7",
+      "name": "SEVILLE",
+      "slug": "seville",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35437,
+      "documentId": "jh1vj06a95cff5ywv87qhr3d",
+      "name": "SRX",
+      "slug": "srx",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35506,
+      "documentId": "lzserr7i7lw51po4yp8q2n55",
+      "name": "STS",
+      "slug": "sts",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36963,
+      "documentId": "zyvpkmy0oa2vjbo9qfoldh0m",
+      "name": "XLR",
+      "slug": "xlr",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

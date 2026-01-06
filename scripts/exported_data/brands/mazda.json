@@ -1,0 +1,590 @@
+{
+  "brandInfo": {
+    "id": 693,
+    "documentId": "k8tqnqn6euugo89hg9p74hyt",
+    "name": "MAZDA",
+    "slug": "mazda",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 72,
+  "exportDate": "2026-01-06T19:34:16.914Z",
+  "models": [
+    {
+      "id": 28223,
+      "documentId": "lt2u8pfwwbqlpphbsmsjqrmt",
+      "name": "121",
+      "slug": "121",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28224,
+      "documentId": "lj5djpdillggnzgdxk1ied0j",
+      "name": "121 I",
+      "slug": "121-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28225,
+      "documentId": "yhivaclios5e2ovel6nepmfj",
+      "name": "121 II",
+      "slug": "121-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28226,
+      "documentId": "l1t891v2igqz69ok7zx76hho",
+      "name": "121 III",
+      "slug": "121-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28228,
+      "documentId": "ve5gyvdg14fnkd3nrichzjhe",
+      "name": "121 L/ LX/ Canvas",
+      "slug": "121-l-lx-canvas",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28345,
+      "documentId": "s69qyi9ubmwmtbffr22rtgyc",
+      "name": "2",
+      "slug": "2",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28361,
+      "documentId": "g3g9gj7e23e8ht2pa2xsssbv",
+      "name": "2 Saloon",
+      "slug": "2-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28496,
+      "documentId": "kgkqg8uuiqwt9cb6ilk1n2ei",
+      "name": "3",
+      "slug": "3",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28506,
+      "documentId": "opkbhvk76g2613rvx8ruczui",
+      "name": "3 Hatchback",
+      "slug": "3-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28507,
+      "documentId": "c3n2qmci7l9gaejr3dx7rjsi",
+      "name": "3 Hatchback Van",
+      "slug": "3-hatchback-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28508,
+      "documentId": "iqfdq2z33rujx6oreh1il8na",
+      "name": "3 Saloon",
+      "slug": "3-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28602,
+      "documentId": "rdrstfa2m65h0fjo9ru02vqp",
+      "name": "323",
+      "slug": "323",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28603,
+      "documentId": "kphnoudogkeprivhaubk8rhf",
+      "name": "323 C IV",
+      "slug": "323-c-iv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28604,
+      "documentId": "tr9b484q1f52t58wi5r028tw",
+      "name": "323 C V",
+      "slug": "323-c-v",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28605,
+      "documentId": "fndfg1za21457rvdll9f2spm",
+      "name": "323 F IV",
+      "slug": "323-f-iv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28606,
+      "documentId": "r0p8ydg0zc2g81lpc2tk44lv",
+      "name": "323 F V",
+      "slug": "323-f-v",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28607,
+      "documentId": "y0gyhjvyk6sah47wmzxvlg0c",
+      "name": "323 F VI",
+      "slug": "323-f-vi",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28609,
+      "documentId": "mg0zc1llipquecigvcxof8ai",
+      "name": "323 F/ Astina",
+      "slug": "323-f-astina",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28616,
+      "documentId": "fnddzviyh8jq5hbhfhcqtqlg",
+      "name": "323 III Station Wagon",
+      "slug": "323-iii-station-wagon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28617,
+      "documentId": "bcv2e6ckncn51rpfxk5gvswd",
+      "name": "323 P V",
+      "slug": "323-p-v",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28618,
+      "documentId": "hmiq6pdruidp2yfg7s48rcrt",
+      "name": "323 S IV",
+      "slug": "323-s-iv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28619,
+      "documentId": "cm7o586jbs86ktuntftp0ag7",
+      "name": "323 S V",
+      "slug": "323-s-v",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28620,
+      "documentId": "leybng18505ll779vrb1es95",
+      "name": "323 S VI",
+      "slug": "323-s-vi",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28755,
+      "documentId": "otr18ay4bqrjv4zr9g7bt25f",
+      "name": "5",
+      "slug": "5",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28848,
+      "documentId": "tg7m71ahnpex5c9my3cn242k",
+      "name": "6 Estate",
+      "slug": "6-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28849,
+      "documentId": "cywhffn1zkiuxijg3o9xnzfm",
+      "name": "6 Estate Van",
+      "slug": "6-estate-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28852,
+      "documentId": "eu1wlrp2z010g8hica9ebqtq",
+      "name": "6 Hatchback",
+      "slug": "6-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28853,
+      "documentId": "owr97i1jv1qjn7rt8ku1vzex",
+      "name": "6 Saloon",
+      "slug": "6-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28854,
+      "documentId": "lb382zzrg4bqeauhqbkbarf4",
+      "name": "6 Station Wagon",
+      "slug": "6-station-wagon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28872,
+      "documentId": "c4w17cbqe337zwpfv6bkp6qx",
+      "name": "626",
+      "slug": "626",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28880,
+      "documentId": "amwbhjzxro03popq7qvvdzyf",
+      "name": "626 III Hatchback",
+      "slug": "626-iii-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28881,
+      "documentId": "v772wuo83l7ksvtgv92drve7",
+      "name": "626 III Station Wagon",
+      "slug": "626-iii-station-wagon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28882,
+      "documentId": "x07ate825z9vkf516s48t5w3",
+      "name": "626 IV",
+      "slug": "626-iv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28883,
+      "documentId": "dywkl3w9dtksh6oo5wzkarc7",
+      "name": "626 IV Hatchback",
+      "slug": "626-iv-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28884,
+      "documentId": "fat5p44iwi6pl68iwtfhvx1k",
+      "name": "626 V",
+      "slug": "626-v",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28885,
+      "documentId": "r0o1dthfm4npz2sx59mohwis",
+      "name": "626 V Hatchback",
+      "slug": "626-v-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28886,
+      "documentId": "y2jq70r1vvarm8wwrktvvexx",
+      "name": "626 V Station Wagon",
+      "slug": "626-v-station-wagon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29024,
+      "documentId": "x8y4gmcavj35122h3bwgzea8",
+      "name": "929",
+      "slug": "929",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29650,
+      "documentId": "afnw3jdamqwbifr3arhal8e8",
+      "name": "B-SERIE",
+      "slug": "b-serie",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29796,
+      "documentId": "nrwav09mwll76uo91biorc5u",
+      "name": "BT-50 II Pickup (B22,",
+      "slug": "bt-50-ii-pickup-b22",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29797,
+      "documentId": "x8upxpzhho8udqpqxf6pqg47",
+      "name": "BT-50 Pickup",
+      "slug": "bt-50-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29798,
+      "documentId": "c2qsc6gmr09dai1oplpee1bw",
+      "name": "BT-50 Platform/Chassis",
+      "slug": "bt-50-platformchassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30767,
+      "documentId": "uvm8rjn2ku3hospw0d7akrzw",
+      "name": "CX-3",
+      "slug": "cx-3",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30768,
+      "documentId": "wrh2lhuat7358uld061rvkph",
+      "name": "CX-30",
+      "slug": "cx-30",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30769,
+      "documentId": "y9s3xwuhdwx9fs8p0bp2pq07",
+      "name": "CX-5",
+      "slug": "cx-5",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30772,
+      "documentId": "pi7fjw6m8f3uiybmjx4gx4jn",
+      "name": "CX-7",
+      "slug": "cx-7",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30773,
+      "documentId": "lt3kysua3f91ew658kxed8t6",
+      "name": "CX-9",
+      "slug": "cx-9",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30800,
+      "documentId": "af7hvexzei13ezb2ir06wu0o",
+      "name": "Capella",
+      "slug": "capella",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30985,
+      "documentId": "e7gvytq1gkwcww2hb53skxz0",
+      "name": "DEMIO",
+      "slug": "demio",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31231,
+      "documentId": "ibd6delv9qfjtm85hzmljg4y",
+      "name": "E Bus",
+      "slug": "e-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31233,
+      "documentId": "ktc6cnegrpf3cdm7zmo07t8c",
+      "name": "E Van",
+      "slug": "e-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32010,
+      "documentId": "kj38fxt7rpwjebdez3clwv2i",
+      "name": "Familia",
+      "slug": "familia",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33271,
+      "documentId": "xylzu8890ck1g4vif0fj679q",
+      "name": "Luce",
+      "slug": "luce",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33682,
+      "documentId": "dhobrqbn5386p2jtp83bby1b",
+      "name": "MPV",
+      "slug": "mpv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33683,
+      "documentId": "bm2zd7nqxw4scuixz6e1pxzv",
+      "name": "MPV I",
+      "slug": "mpv-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33684,
+      "documentId": "wuib8kdkvvklypsn9er82gnq",
+      "name": "MPV II",
+      "slug": "mpv-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33755,
+      "documentId": "kedy7u7bijvjclooluvpu0fl",
+      "name": "MX-3",
+      "slug": "mx-3",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33756,
+      "documentId": "a3j7a6dlsf20g32nuw8n3m8t",
+      "name": "MX-30",
+      "slug": "mx-30",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33757,
+      "documentId": "zlmjlf0lwd7qu9n276eh72r3",
+      "name": "MX-5 / MX-5 RF",
+      "slug": "mx-5--mx-5-rf",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33758,
+      "documentId": "xcs0f50pcy9zgizspkvk0qja",
+      "name": "MX-5 I",
+      "slug": "mx-5-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33759,
+      "documentId": "v3fc84ikgnuydmn63y6rtnly",
+      "name": "MX-5 II",
+      "slug": "mx-5-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33760,
+      "documentId": "fm8kvh6kdl2y4vqg4n6h6kr6",
+      "name": "MX-5 III",
+      "slug": "mx-5-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33761,
+      "documentId": "uk8os72wwrnuu5ochd2293bz",
+      "name": "MX-5 IV",
+      "slug": "mx-5-iv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33762,
+      "documentId": "sdu6h6i0833dsic22zvc33t2",
+      "name": "MX-5 RF Targa",
+      "slug": "mx-5-rf-targa",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33763,
+      "documentId": "h5a6egqfckmi3dv04h74m967",
+      "name": "MX-6",
+      "slug": "mx-6",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34365,
+      "documentId": "o0rg8bc6w84o7ay33qw3czho",
+      "name": "PREMACY",
+      "slug": "premacy",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34864,
+      "documentId": "tno87g41i5bkww1filbu75qp",
+      "name": "RX-7 III",
+      "slug": "rx-7-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34865,
+      "documentId": "ui34kf1x5wqgv3noxx35f0a3",
+      "name": "RX-8",
+      "slug": "rx-8",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34866,
+      "documentId": "kxwvj0fk87dzp1ee2dm8pym5",
+      "name": "RX7",
+      "slug": "rx7",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36154,
+      "documentId": "rccdlt64de9y3rys2mqpc1jk",
+      "name": "TRIBUTE",
+      "slug": "tribute",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36875,
+      "documentId": "f85oisgwm425fekth0801wop",
+      "name": "XEDOS 6",
+      "slug": "xedos-6",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36876,
+      "documentId": "fach3n8sej4dyca24vye72il",
+      "name": "XEDOS 9",
+      "slug": "xedos-9",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

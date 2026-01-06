@@ -1,0 +1,286 @@
+{
+  "brandInfo": {
+    "id": 745,
+    "documentId": "b8fmmt3rakov0lp6vpzbgjc4",
+    "name": "ROVER",
+    "slug": "rover",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 34,
+  "exportDate": "2026-01-06T19:34:16.976Z",
+  "models": [
+    {
+      "id": 28149,
+      "documentId": "z672oblods4ks3vx2qkc45xa",
+      "name": "100 / METRO Hatchback",
+      "slug": "100-metro-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28159,
+      "documentId": "wcz63ocn287cu2j3rekhbdmm",
+      "name": "100 Convertible",
+      "slug": "100-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28374,
+      "documentId": "p9gfw7836m7mc4z8dbdfxd23",
+      "name": "200 Coupe",
+      "slug": "200-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28376,
+      "documentId": "e70xoz6gy7p4sqs9z9vod50o",
+      "name": "200 II Convertible",
+      "slug": "200-ii-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28377,
+      "documentId": "iws04p7zd5279vhpbnkqz6tn",
+      "name": "200 II Hatchback",
+      "slug": "200-ii-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28468,
+      "documentId": "g7y9tp44kvao78la5pg666ap",
+      "name": "25",
+      "slug": "25",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28470,
+      "documentId": "rf9r4x5ynpyhdjiz48pjhbhy",
+      "name": "25 I Hatchback",
+      "slug": "25-i-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28637,
+      "documentId": "vna4v5x0luknqc6vnjzw0atr",
+      "name": "3500Vit/ Vanden Plas",
+      "slug": "3500vit-vanden-plas",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28676,
+      "documentId": "vgepqv1ea85rg90qimaos16m",
+      "name": "400 II",
+      "slug": "400-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28677,
+      "documentId": "n0f34ajckh84gpjcpjeo4r16",
+      "name": "400 II Hatchback",
+      "slug": "400-ii-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28679,
+      "documentId": "e1ctqeoek66gnnrhb5drzwes",
+      "name": "400 Tourer",
+      "slug": "400-tourer",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28729,
+      "documentId": "kxtvys9sl214rwgfttv9wb3l",
+      "name": "45",
+      "slug": "45",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28731,
+      "documentId": "d4lk8w74u0u23bdi0y5embxh",
+      "name": "45 I Hatchback",
+      "slug": "45-i-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28732,
+      "documentId": "cdnaumxk30dsxnl8glfcydt1",
+      "name": "45 I Saloon",
+      "slug": "45-i-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28860,
+      "documentId": "ixbeysbiibsf819i2nd9q5f3",
+      "name": "600 I",
+      "slug": "600-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28905,
+      "documentId": "o4atc9yyknxzx8amq87hpl7l",
+      "name": "75",
+      "slug": "75",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28906,
+      "documentId": "jm68gzzb70dnfez48nljnob4",
+      "name": "75 I Tourer",
+      "slug": "75-i-tourer",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28926,
+      "documentId": "sjcb21g6idklcqgqihkjtqlw",
+      "name": "800",
+      "slug": "800",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28927,
+      "documentId": "kqoix8d8ee95gvvkg5lq4msi",
+      "name": "800 Coupe",
+      "slug": "800-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28928,
+      "documentId": "xr4t2k3oyt4xrxwws6ij62x5",
+      "name": "800 Hatchback",
+      "slug": "800-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30643,
+      "documentId": "sb2gsf5xbnqup9uoisp3xw41",
+      "name": "COUPE",
+      "slug": "coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33482,
+      "documentId": "qra9lc5v6kdburrl9ao2wtk0",
+      "name": "MG",
+      "slug": "mg",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33540,
+      "documentId": "wri8twuueeaylhyzda7o9j7c",
+      "name": "MINI Convertible",
+      "slug": "mini-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33544,
+      "documentId": "ysl58q25i36yepwo4mkyte0m",
+      "name": "MINI Hatchback",
+      "slug": "mini-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35505,
+      "documentId": "uj5rk2z3ning6lxiewmznhye",
+      "name": "STREETWISE Hatchback",
+      "slug": "streetwise-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35642,
+      "documentId": "gr1uv4cj5vzsjik07arye2p6",
+      "name": "Serie 100",
+      "slug": "serie-100",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35643,
+      "documentId": "eiar2p2kbqugbp3m3gfhewhz",
+      "name": "Serie 200",
+      "slug": "serie-200",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35644,
+      "documentId": "sdajstu9rx3er6uljjm0o2rc",
+      "name": "Serie 400",
+      "slug": "serie-400",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35645,
+      "documentId": "nevajpcopzn78b6413axx5s9",
+      "name": "Serie 600",
+      "slug": "serie-600",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35646,
+      "documentId": "eqqxacvdoto1m6liondku17k",
+      "name": "Serie 800",
+      "slug": "serie-800",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37226,
+      "documentId": "npvmgddlngpm59wvndrvnvce",
+      "name": "ZR",
+      "slug": "zr",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37239,
+      "documentId": "hygdewr797z3mdqadgjsx3kc",
+      "name": "ZS",
+      "slug": "zs",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37240,
+      "documentId": "psu1o3vu58snodnvduqfqka6",
+      "name": "ZT",
+      "slug": "zt",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37241,
+      "documentId": "uhgb3l7g4lqaztl6625jyvij",
+      "name": "ZT-Tourer",
+      "slug": "zt-tourer",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}
