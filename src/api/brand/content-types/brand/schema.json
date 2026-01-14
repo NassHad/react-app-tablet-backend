@@ -25,6 +25,11 @@
       "relation": "oneToMany",
       "target": "api::model.model",
       "mappedBy": "brand"
+    },
+    "vehicle_type": {
+      "type": "enumeration",
+      "enum": ["car", "moto", "car-moto"],
+      "default": "car"
     }
   }
 }

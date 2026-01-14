@@ -83,7 +83,8 @@ export default factories.createCoreController('api::battery-product.battery-prod
         filters: {
           brandSlug: brandSlug,
           isActive: true
-        }
+        },
+        sort: ['name:asc']
       });
 
       const formattedProducts = products.map((product) => ({
@@ -121,7 +122,8 @@ export default factories.createCoreController('api::battery-product.battery-prod
       const products = await strapi.entityService.findMany('api::battery-product.battery-product', {
         filters: {
           isActive: true
-        }
+        },
+        sort: ['name:asc']
       });
 
       // Filter products that contain the battery reference in any of their motorisations

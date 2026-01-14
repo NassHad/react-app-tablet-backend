@@ -75,23 +75,23 @@ async function getSyncData() {
       }).catch(() => []),
       strapi.entityService.findMany('api::brand.brand', {
         populate: '*',
-        sort: 'id:asc'
+        sort: 'name:asc'
       }).catch(() => []),
       strapi.entityService.findMany('api::model.model', {
         populate: '*',
-        sort: 'id:asc'
+        sort: 'name:asc'
       }).catch(() => []),
       strapi.entityService.findMany('api::battery-brand.battery-brand', {
         populate: '*',
-        sort: 'id:asc'
+        sort: 'name:asc'
       }).catch(() => []),
       strapi.entityService.findMany('api::battery-model.battery-model', {
         populate: '*',
-        sort: 'id:asc'
+        sort: 'name:asc'
       }).catch(() => []),
       strapi.entityService.findMany('api::battery-product.battery-product', {
         populate: '*',
-        sort: 'id:asc'
+        sort: 'name:asc'
       }).catch(() => []),
       strapi.entityService.findMany('api::battery-data.battery-data', {
         populate: '*',
@@ -99,7 +99,7 @@ async function getSyncData() {
       }).catch(() => []),
       strapi.entityService.findMany('api::lights-product.lights-product', {
         populate: '*',
-        sort: 'id:asc'
+        sort: 'name:asc'
       }).catch(() => []),
       strapi.entityService.findMany('api::lights-position.lights-position', {
         populate: '*',
@@ -111,7 +111,7 @@ async function getSyncData() {
       }).catch(() => []),
       strapi.entityService.findMany('api::light-data.light-data', {
         populate: '*',
-        sort: 'id:asc'
+        sort: 'ref:asc'
       }).catch(() => []),
       strapi.entityService.findMany('api::compatibility.compatibility', {
         populate: '*',

@@ -26,6 +26,11 @@
     },
     "isActive": {
       "type": "boolean"
+    },
+    "vehicle_type": {
+      "type": "enumeration",
+      "enum": ["car", "moto"],
+      "default": "car"
     }
   }
 }
