@@ -1,0 +1,22 @@
+{
+  "brandInfo": {
+    "id": 642,
+    "documentId": "p28mwo0f6yfh9jva8hbkrrpk",
+    "name": "HONDA (GAC)",
+    "slug": "honda-gac",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 1,
+  "exportDate": "2026-01-07T09:17:53.818Z",
+  "models": [
+    {
+      "id": 34079,
+      "documentId": "etq6d1ilvynfu2nzwn3vy7s1",
+      "name": "ODYSSEY",
+      "slug": "odyssey",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

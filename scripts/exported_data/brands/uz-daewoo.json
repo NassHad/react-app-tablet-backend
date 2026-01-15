@@ -1,0 +1,30 @@
+{
+  "brandInfo": {
+    "id": 778,
+    "documentId": "acpeeipxbjxdtq5npsjap776",
+    "name": "UZ-DAEWOO",
+    "slug": "uz-daewoo",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 2,
+  "exportDate": "2026-01-07T09:17:53.893Z",
+  "models": [
+    {
+      "id": 32127,
+      "documentId": "cwaxqzfvkgnvpwa9pbf5m3b1",
+      "name": "GENTRA Saloon",
+      "slug": "gentra-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33389,
+      "documentId": "ef5kkwi1wi1fksrf58ccbtp9",
+      "name": "MATIZ Hatchback",
+      "slug": "matiz-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

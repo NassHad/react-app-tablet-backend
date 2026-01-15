@@ -1,0 +1,22 @@
+{
+  "brandInfo": {
+    "id": 699,
+    "documentId": "qch8sap9qwbk0qbvsbk8vr5k",
+    "name": "METROCAB",
+    "slug": "metrocab",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 1,
+  "exportDate": "2026-01-07T09:17:53.849Z",
+  "models": [
+    {
+      "id": 35866,
+      "documentId": "t1aptm49fuy0t5r8f35h2cak",
+      "name": "TAXI",
+      "slug": "taxi",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

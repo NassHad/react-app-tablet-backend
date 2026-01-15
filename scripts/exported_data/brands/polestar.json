@@ -1,0 +1,30 @@
+{
+  "brandInfo": {
+    "id": 730,
+    "documentId": "akr3l2adjfywx3l2fauy0x8f",
+    "name": "POLESTAR",
+    "slug": "polestar",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 2,
+  "exportDate": "2026-01-07T09:17:53.867Z",
+  "models": [
+    {
+      "id": 34309,
+      "documentId": "ng26kvj36gxkdsn83kuqdbdv",
+      "name": "POLESTAR 1",
+      "slug": "polestar-1",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34310,
+      "documentId": "tzks613usbbkkc8dmb5xuxyy",
+      "name": "POLESTAR 2",
+      "slug": "polestar-2",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

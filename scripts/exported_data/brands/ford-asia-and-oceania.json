@@ -1,0 +1,22 @@
+{
+  "brandInfo": {
+    "id": 617,
+    "documentId": "zfqszfo8z55r9pc2xn6nkl5x",
+    "name": "FORD ASIA & OCEANIA",
+    "slug": "ford-asia-and-oceania",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 1,
+  "exportDate": "2026-01-07T09:17:53.806Z",
+  "models": [
+    {
+      "id": 31863,
+      "documentId": "v886vfj4fmeqbrjdjuq7w5q4",
+      "name": "FREDA Bus",
+      "slug": "freda-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

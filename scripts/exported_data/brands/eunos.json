@@ -1,0 +1,22 @@
+{
+  "brandInfo": {
+    "id": 612,
+    "documentId": "z7wx12heic1pyn1x0nnih4pg",
+    "name": "EUNOS",
+    "slug": "eunos",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 1,
+  "exportDate": "2026-01-07T09:17:53.803Z",
+  "models": [
+    {
+      "id": 28929,
+      "documentId": "r7qbpw3rr1wtmd5ugzcxz556",
+      "name": "800 Saloon",
+      "slug": "800-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

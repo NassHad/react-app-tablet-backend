@@ -1,0 +1,22 @@
+{
+  "brandInfo": {
+    "id": 651,
+    "documentId": "b6spzxkwq2uqsssyeqkptb4k",
+    "name": "INEOS",
+    "slug": "ineos",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 1,
+  "exportDate": "2026-01-07T09:17:53.823Z",
+  "models": [
+    {
+      "id": 32289,
+      "documentId": "fzt490a9ss22teoubt6wdw35",
+      "name": "GRENADIER Closed Off-Road Vehicle",
+      "slug": "grenadier-closed-off-road-vehicle",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "brandInfo": {
+    "id": 654,
+    "documentId": "u24m1pu3it2ank6w2bi9x1rv",
+    "name": "IRAN KHODRO",
+    "slug": "iran-khodro",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 2,
+  "exportDate": "2026-01-07T09:17:53.824Z",
+  "models": [
+    {
+      "id": 34254,
+      "documentId": "g8nhzms1916kgvv9jyilcnxi",
+      "name": "PAYKAN Saloon",
+      "slug": "paykan-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34989,
+      "documentId": "b2l5u6orelyzm02o5n3pnxrc",
+      "name": "SAMAND Saloon",
+      "slug": "samand-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

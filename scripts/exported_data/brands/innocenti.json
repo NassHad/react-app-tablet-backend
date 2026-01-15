@@ -1,0 +1,30 @@
+{
+  "brandInfo": {
+    "id": 653,
+    "documentId": "xalan0pj5wif2f0aiyyi5jb7",
+    "name": "INNOCENTI",
+    "slug": "innocenti",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 2,
+  "exportDate": "2026-01-07T09:17:53.823Z",
+  "models": [
+    {
+      "id": 31309,
+      "documentId": "j2qo6lu6si2uwnc3p01ut4i1",
+      "name": "ELBA",
+      "slug": "elba",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34696,
+      "documentId": "wlhxlvnt4t1jwf3nen9621ph",
+      "name": "REGENT",
+      "slug": "regent",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

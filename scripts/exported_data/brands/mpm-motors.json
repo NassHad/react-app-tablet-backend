@@ -1,0 +1,22 @@
+{
+  "brandInfo": {
+    "id": 711,
+    "documentId": "cmo2b1v78nmu4i4tfsomgfqw",
+    "name": "MPM MOTORS",
+    "slug": "mpm-motors",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 1,
+  "exportDate": "2026-01-07T09:17:53.856Z",
+  "models": [
+    {
+      "id": 31358,
+      "documentId": "ifil7rb6u98crgo4tbhom442",
+      "name": "ERELIS",
+      "slug": "erelis",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

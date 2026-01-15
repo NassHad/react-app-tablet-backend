@@ -1,0 +1,22 @@
+{
+  "brandInfo": {
+    "id": 751,
+    "documentId": "sh11m3g9ynovv0197g08sjwu",
+    "name": "SATURN",
+    "slug": "saturn",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 1,
+  "exportDate": "2026-01-07T09:17:53.878Z",
+  "models": [
+    {
+      "id": 36654,
+      "documentId": "mp3czirksiqix2s1kn75l217",
+      "name": "VUE SUV",
+      "slug": "vue-suv",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "brandInfo": {
+    "id": 600,
+    "documentId": "idpu381068iuvu16s1b6ef40",
+    "name": "DE LOREAN",
+    "slug": "de-lorean",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 1,
+  "exportDate": "2026-01-07T09:17:53.795Z",
+  "models": [
+    {
+      "id": 31039,
+      "documentId": "nh6f91xekklsgivbuzt4zwla",
+      "name": "DMC-12",
+      "slug": "dmc-12",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

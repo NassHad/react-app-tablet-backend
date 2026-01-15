@@ -1,0 +1,22 @@
+{
+  "brandInfo": {
+    "id": 729,
+    "documentId": "cg4nn7a4os1mz2odvovx7o7p",
+    "name": "POLARIS",
+    "slug": "polaris",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 1,
+  "exportDate": "2026-01-07T09:17:53.867Z",
+  "models": [
+    {
+      "id": 35270,
+      "documentId": "yzar0is4zaw9fqqg9niq0umn",
+      "name": "SLINGSHOT",
+      "slug": "slingshot",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

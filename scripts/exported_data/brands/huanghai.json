@@ -1,0 +1,22 @@
+{
+  "brandInfo": {
+    "id": 643,
+    "documentId": "jis29d2cd060vfhne54zsbho",
+    "name": "HUANGHAI",
+    "slug": "huanghai",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 1,
+  "exportDate": "2026-01-07T09:17:53.819Z",
+  "models": [
+    {
+      "id": 34306,
+      "documentId": "p6hp6cii48xdbnwrh4bzvcqe",
+      "name": "PLUTUS",
+      "slug": "plutus",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

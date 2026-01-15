@@ -1,0 +1,22 @@
+{
+  "brandInfo": {
+    "id": 655,
+    "documentId": "xapyqsjlecs9x3xj6a34o58z",
+    "name": "IRMSCHER",
+    "slug": "irmscher",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 1,
+  "exportDate": "2026-01-07T09:17:53.824Z",
+  "models": [
+    {
+      "id": 34090,
+      "documentId": "d2ll42ex27pdseeylhtnyw6e",
+      "name": "OMEGA Caravan",
+      "slug": "omega-caravan",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

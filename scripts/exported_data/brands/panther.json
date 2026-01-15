@@ -1,0 +1,38 @@
+{
+  "brandInfo": {
+    "id": 723,
+    "documentId": "slqld3pgvvcz7wc6ofsusz78",
+    "name": "PANTHER",
+    "slug": "panther",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 3,
+  "exportDate": "2026-01-07T09:17:53.862Z",
+  "models": [
+    {
+      "id": 32879,
+      "documentId": "k6ks52gmsvxc3qr372ua9gcq",
+      "name": "KALLISTA",
+      "slug": "kallista",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33136,
+      "documentId": "ywvw3e324nvxy37x0s8dpx2w",
+      "name": "LIMA",
+      "slug": "lima",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35317,
+      "documentId": "js5y2xjs62f2f0mqadvbteee",
+      "name": "SOLO Coupe",
+      "slug": "solo-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "brandInfo": {
+    "id": 777,
+    "documentId": "idzvfgnap2vprwp4cjosxdj0",
+    "name": "UMM",
+    "slug": "umm",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 1,
+  "exportDate": "2026-01-07T09:17:53.893Z",
+  "models": [
+    {
+      "id": 29275,
+      "documentId": "am7l5smupq6x6ivhi1twzqsp",
+      "name": "ALTER",
+      "slug": "alter",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

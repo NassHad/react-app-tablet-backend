@@ -1,0 +1,22 @@
+{
+  "brandInfo": {
+    "id": 548,
+    "documentId": "oirh7el3qwvr3g6ijmgdk8ii",
+    "name": "APOLLO",
+    "slug": "apollo",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 1,
+  "exportDate": "2026-01-07T09:17:53.762Z",
+  "models": [
+    {
+      "id": 29339,
+      "documentId": "a02yakew2humcr5o56pidi13",
+      "name": "APOLLO N Coupe",
+      "slug": "apollo-n-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

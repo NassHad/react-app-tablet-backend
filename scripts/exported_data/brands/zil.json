@@ -1,0 +1,22 @@
+{
+  "brandInfo": {
+    "id": 794,
+    "documentId": "m4185jf9apvk0ux92bce60gv",
+    "name": "ZIL",
+    "slug": "zil",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 1,
+  "exportDate": "2026-01-07T09:17:53.903Z",
+  "models": [
+    {
+      "id": 28709,
+      "documentId": "taykfdsj0jbr2v0riayxltu7",
+      "name": "4104",
+      "slug": "4104",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

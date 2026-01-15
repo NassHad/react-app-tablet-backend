@@ -1,0 +1,22 @@
+{
+  "brandInfo": {
+    "id": 606,
+    "documentId": "avz7q65chd9lnxt1xi9gobu1",
+    "name": "DONKERVOORT",
+    "slug": "donkervoort",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 1,
+  "exportDate": "2026-01-07T09:17:53.800Z",
+  "models": [
+    {
+      "id": 30905,
+      "documentId": "ibjrdqoqkgi0na3cb8n2o00k",
+      "name": "D8",
+      "slug": "d8",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

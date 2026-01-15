@@ -1,0 +1,318 @@
+{
+  "brandInfo": {
+    "id": 592,
+    "documentId": "kdir33esx5pxldrpu42d80ld",
+    "name": "DACIA",
+    "slug": "dacia",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 38,
+  "exportDate": "2026-01-07T09:17:53.790Z",
+  "models": [
+    {
+      "id": 28194,
+      "documentId": "ixdrqmgc6iua0ozxbx1s96yl",
+      "name": "1100",
+      "slug": "1100",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28195,
+      "documentId": "otg68lmhczt4axt87kw5c1x3",
+      "name": "1100",
+      "slug": "zastava-1100",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28229,
+      "documentId": "g5sq54jnwut8tux9kjm5yglt",
+      "name": "1210",
+      "slug": "1210",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28267,
+      "documentId": "ny8k5ezq798dmb9bhxmsskcy",
+      "name": "1300 Estate",
+      "slug": "1300-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28270,
+      "documentId": "fxv5uil80wvuz7i457asb343",
+      "name": "1304 Pickup",
+      "slug": "1304-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28271,
+      "documentId": "iukh6od2pji00vhvmmahbdmy",
+      "name": "1307 Platform/Chassis",
+      "slug": "1307-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28273,
+      "documentId": "mxemyv8nsmsm37hfbvkumod3",
+      "name": "1309 Pickup",
+      "slug": "1309-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28274,
+      "documentId": "to845y85y7ricwarby415z3m",
+      "name": "1309 Platform/Chassis",
+      "slug": "1309-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28277,
+      "documentId": "shxlhfaobc66fs1iwqqi2pel",
+      "name": "1310 Coupe",
+      "slug": "1310-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28278,
+      "documentId": "y7mp6xi202zntldhsbkl9awk",
+      "name": "1310 Estate",
+      "slug": "1310-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28279,
+      "documentId": "p4jpgvggkq5755nycj4849zw",
+      "name": "1310 Saloon",
+      "slug": "1310-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28281,
+      "documentId": "x7p1hw23939bl66om4spy5u7",
+      "name": "1325",
+      "slug": "1325",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28287,
+      "documentId": "cy4mmbfn1hqrp3kulj94qjo5",
+      "name": "1410 Estate",
+      "slug": "1410-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28288,
+      "documentId": "d69zycyp023zg09v2kxllu1w",
+      "name": "1410 Saloon",
+      "slug": "1410-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28384,
+      "documentId": "ac7tea7pp1zjgugsmm2x38fo",
+      "name": "2000",
+      "slug": "2000",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31050,
+      "documentId": "qwm5v8cadrdkscis0fmi4fz3",
+      "name": "DOKKER Box Body/MPV",
+      "slug": "dokker-box-body-mpv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31051,
+      "documentId": "w338zw5q0ic0dneulyqxt4xk",
+      "name": "DOKKER Express Box Body/MPV",
+      "slug": "dokker-express-box-bodympv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31052,
+      "documentId": "a6cb3fp9gbi1ic4jnvvunnkg",
+      "name": "DOKKER MPV",
+      "slug": "dokker-mpv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31053,
+      "documentId": "l7x9lf2xi0qh3nikej89e60w",
+      "name": "DOKKER Pickup",
+      "slug": "dokker-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31139,
+      "documentId": "stjp3ii3u7lq94e8tlrlm44w",
+      "name": "DUSTER Box",
+      "slug": "duster-box",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31144,
+      "documentId": "qt2cbexe953gxmcykcd57z88",
+      "name": "DUSTER SUV Van",
+      "slug": "duster-suv-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31205,
+      "documentId": "ijrw0mvime3myddqanw4qfda",
+      "name": "Dokker / Dokker Stepway",
+      "slug": "dokker--dokker-stepway",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31206,
+      "documentId": "i7fo4q2x4fk2iob3gsftzpgo",
+      "name": "Dokker Pick up",
+      "slug": "dokker-pick-up",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32769,
+      "documentId": "nl30fcebi9h9jxso3nn0qt3t",
+      "name": "JOGGER",
+      "slug": "jogger",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33158,
+      "documentId": "hidvidcns1gbgnj5x744qz9q",
+      "name": "LODGY",
+      "slug": "lodgy",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33160,
+      "documentId": "w162ovkulo1vdtfc3aer40aa",
+      "name": "LOGAN",
+      "slug": "logan",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33165,
+      "documentId": "dt20h49myvjrv51y2redevcv",
+      "name": "LOGAN II",
+      "slug": "logan-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33168,
+      "documentId": "odb09kek6w26thsbocgsgmwe",
+      "name": "LOGAN III",
+      "slug": "logan-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33170,
+      "documentId": "e780xh41fnbwtfs9c6u38e20",
+      "name": "LOGAN MCV",
+      "slug": "logan-mcv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33171,
+      "documentId": "cfd5mloqynni9rfdaxwfj6h5",
+      "name": "LOGAN MCV II",
+      "slug": "logan-mcv-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33172,
+      "documentId": "c0f7uqpx6juj76eyh9vsdfhh",
+      "name": "LOGAN Pickup",
+      "slug": "logan-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35001,
+      "documentId": "ely6apdq2o8u3gmcokzdjil3",
+      "name": "SANDERO",
+      "slug": "sandero",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35005,
+      "documentId": "xe0684nuuzcb6j57rfv8jedg",
+      "name": "SANDERO II",
+      "slug": "sandero-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35006,
+      "documentId": "d5ohpzb0jt8apizjpikfdhkx",
+      "name": "SANDERO III",
+      "slug": "sandero-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35316,
+      "documentId": "orrqhfktimfyux7xf6mysee3",
+      "name": "SOLENZA",
+      "slug": "solenza",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35376,
+      "documentId": "amwcgvl3qb44qjc7zhjzvh82",
+      "name": "SPRING",
+      "slug": "spring",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35377,
+      "documentId": "cjb6v0v3yafd4s6z9679ek0b",
+      "name": "SPRING Cargo",
+      "slug": "spring-cargo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35544,
+      "documentId": "txd5mfythonz9qdip548sase",
+      "name": "SUPERNOVA",
+      "slug": "supernova",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+[
+  {
+    "timestamp": "2026-01-07T09:17:40.459Z",
+    "context": "Matching model 28268 \"1300 I\" (strategy: exact_name_exide)",
+    "error": "Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')",
+    "stack": "Error: Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')\n    at Object.<anonymous> (/media/simna/Data/Workspace/projets-code/react-app-tablet-backend/scripts/match-models-to-brands-enhanced.js:296:11)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)\n    at Module.load (node:internal/modules/cjs/loader:1266:32)\n    at Module._load (node:internal/modules/cjs/loader:1091:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)\n    at node:internal/main/run_main_module:28:49"
+  },
+  {
+    "timestamp": "2026-01-07T09:17:40.459Z",
+    "context": "Matching model 28299 \"1500 I\" (strategy: exact_name_exide)",
+    "error": "Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')",
+    "stack": "Error: Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')\n    at Object.<anonymous> (/media/simna/Data/Workspace/projets-code/react-app-tablet-backend/scripts/match-models-to-brands-enhanced.js:296:11)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)\n    at Module.load (node:internal/modules/cjs/loader:1266:32)\n    at Module._load (node:internal/modules/cjs/loader:1091:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)\n    at node:internal/main/run_main_module:28:49"
+  },
+  {
+    "timestamp": "2026-01-07T09:17:40.460Z",
+    "context": "Matching model 28365 \"2.5 PI MK I\" (strategy: exact_name_exide)",
+    "error": "Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')",
+    "stack": "Error: Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')\n    at Object.<anonymous> (/media/simna/Data/Workspace/projets-code/react-app-tablet-backend/scripts/match-models-to-brands-enhanced.js:296:11)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)\n    at Module.load (node:internal/modules/cjs/loader:1266:32)\n    at Module._load (node:internal/modules/cjs/loader:1091:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)\n    at node:internal/main/run_main_module:28:49"
+  },
+  {
+    "timestamp": "2026-01-07T09:17:40.460Z",
+    "context": "Matching model 28366 \"2.5 PI MK I Estate\" (strategy: exact_name_exide)",
+    "error": "Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')",
+    "stack": "Error: Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')\n    at Object.<anonymous> (/media/simna/Data/Workspace/projets-code/react-app-tablet-backend/scripts/match-models-to-brands-enhanced.js:296:11)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)\n    at Module.load (node:internal/modules/cjs/loader:1266:32)\n    at Module._load (node:internal/modules/cjs/loader:1091:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)\n    at node:internal/main/run_main_module:28:49"
+  },
+  {
+    "timestamp": "2026-01-07T09:17:40.462Z",
+    "context": "Matching model 28386 \"2000 MK I\" (strategy: exact_name_exide)",
+    "error": "Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')",
+    "stack": "Error: Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')\n    at Object.<anonymous> (/media/simna/Data/Workspace/projets-code/react-app-tablet-backend/scripts/match-models-to-brands-enhanced.js:296:11)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)\n    at Module.load (node:internal/modules/cjs/loader:1266:32)\n    at Module._load (node:internal/modules/cjs/loader:1091:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)\n    at node:internal/main/run_main_module:28:49"
+  },
+  {
+    "timestamp": "2026-01-07T09:17:40.462Z",
+    "context": "Matching model 28387 \"2000 MK I Estate\" (strategy: exact_name_exide)",
+    "error": "Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')",
+    "stack": "Error: Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')\n    at Object.<anonymous> (/media/simna/Data/Workspace/projets-code/react-app-tablet-backend/scripts/match-models-to-brands-enhanced.js:296:11)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)\n    at Module.load (node:internal/modules/cjs/loader:1266:32)\n    at Module._load (node:internal/modules/cjs/loader:1091:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)\n    at node:internal/main/run_main_module:28:49"
+  },
+  {
+    "timestamp": "2026-01-07T09:17:40.462Z",
+    "context": "Matching model 28388 \"2000 MKII\" (strategy: exact_name_exide)",
+    "error": "Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')",
+    "stack": "Error: Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')\n    at Object.<anonymous> (/media/simna/Data/Workspace/projets-code/react-app-tablet-backend/scripts/match-models-to-brands-enhanced.js:296:11)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)\n    at Module.load (node:internal/modules/cjs/loader:1266:32)\n    at Module._load (node:internal/modules/cjs/loader:1091:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)\n    at node:internal/main/run_main_module:28:49"
+  },
+  {
+    "timestamp": "2026-01-07T09:17:40.462Z",
+    "context": "Matching model 28389 \"2000 MKII Estate\" (strategy: exact_name_exide)",
+    "error": "Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')",
+    "stack": "Error: Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')\n    at Object.<anonymous> (/media/simna/Data/Workspace/projets-code/react-app-tablet-backend/scripts/match-models-to-brands-enhanced.js:296:11)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)\n    at Module.load (node:internal/modules/cjs/loader:1266:32)\n    at Module._load (node:internal/modules/cjs/loader:1091:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)\n    at node:internal/main/run_main_module:28:49"
+  },
+  {
+    "timestamp": "2026-01-07T09:17:40.466Z",
+    "context": "Matching model 28475 \"2500 Estate\" (strategy: exact_name_exide)",
+    "error": "Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')",
+    "stack": "Error: Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')\n    at Object.<anonymous> (/media/simna/Data/Workspace/projets-code/react-app-tablet-backend/scripts/match-models-to-brands-enhanced.js:296:11)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)\n    at Module.load (node:internal/modules/cjs/loader:1266:32)\n    at Module._load (node:internal/modules/cjs/loader:1091:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)\n    at node:internal/main/run_main_module:28:49"
+  },
+  {
+    "timestamp": "2026-01-07T09:17:40.490Z",
+    "context": "Matching model 29163 \"ACCLAIM\" (strategy: exact_name_exide)",
+    "error": "Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')",
+    "stack": "Error: Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')\n    at Object.<anonymous> (/media/simna/Data/Workspace/projets-code/react-app-tablet-backend/scripts/match-models-to-brands-enhanced.js:296:11)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)\n    at Module.load (node:internal/modules/cjs/loader:1266:32)\n    at Module._load (node:internal/modules/cjs/loader:1091:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)\n    at node:internal/main/run_main_module:28:49"
+  },
+  {
+    "timestamp": "2026-01-07T09:17:40.521Z",
+    "context": "Matching model 30350 \"CEVENNES\" (strategy: exact_name_exide)",
+    "error": "Brand slug \"pgo\" not found in database for car (tried 'car' and 'car-moto')",
+    "stack": "Error: Brand slug \"pgo\" not found in database for car (tried 'car' and 'car-moto')\n    at Object.<anonymous> (/media/simna/Data/Workspace/projets-code/react-app-tablet-backend/scripts/match-models-to-brands-enhanced.js:296:11)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)\n    at Module.load (node:internal/modules/cjs/loader:1266:32)\n    at Module._load (node:internal/modules/cjs/loader:1091:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)\n    at node:internal/main/run_main_module:28:49"
+  },
+  {
+    "timestamp": "2026-01-07T09:17:40.547Z",
+    "context": "Matching model 31054 \"DOLOMITE\" (strategy: exact_name_exide)",
+    "error": "Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')",
+    "stack": "Error: Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')\n    at Object.<anonymous> (/media/simna/Data/Workspace/projets-code/react-app-tablet-backend/scripts/match-models-to-brands-enhanced.js:296:11)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)\n    at Module.load (node:internal/modules/cjs/loader:1266:32)\n    at Module._load (node:internal/modules/cjs/loader:1091:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)\n    at node:internal/main/run_main_module:28:49"
+  },
+  {
+    "timestamp": "2026-01-07T09:17:40.558Z",
+    "context": "Matching model 32415 \"GT6 I\" (strategy: exact_name_exide)",
+    "error": "Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')",
+    "stack": "Error: Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')\n    at Object.<anonymous> (/media/simna/Data/Workspace/projets-code/react-app-tablet-backend/scripts/match-models-to-brands-enhanced.js:296:11)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)\n    at Module.load (node:internal/modules/cjs/loader:1266:32)\n    at Module._load (node:internal/modules/cjs/loader:1091:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)\n    at node:internal/main/run_main_module:28:49"
+  },
+  {
+    "timestamp": "2026-01-07T09:17:40.559Z",
+    "context": "Matching model 32497 \"H1 - H1 STAREX - H100\" (strategy: brand_in_name)",
+    "error": "Brand slug \"rex\" not found in database for car (tried 'car' and 'car-moto')",
+    "stack": "Error: Brand slug \"rex\" not found in database for car (tried 'car' and 'car-moto')\n    at Object.<anonymous> (/media/simna/Data/Workspace/projets-code/react-app-tablet-backend/scripts/match-models-to-brands-enhanced.js:296:11)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)\n    at Module.load (node:internal/modules/cjs/loader:1266:32)\n    at Module._load (node:internal/modules/cjs/loader:1091:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)\n    at node:internal/main/run_main_module:28:49"
+  },
+  {
+    "timestamp": "2026-01-07T09:17:40.559Z",
+    "context": "Matching model 32515 \"HEMERA\" (strategy: exact_name_exide)",
+    "error": "Brand slug \"pgo\" not found in database for car (tried 'car' and 'car-moto')",
+    "stack": "Error: Brand slug \"pgo\" not found in database for car (tried 'car' and 'car-moto')\n    at Object.<anonymous> (/media/simna/Data/Workspace/projets-code/react-app-tablet-backend/scripts/match-models-to-brands-enhanced.js:296:11)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)\n    at Module.load (node:internal/modules/cjs/loader:1266:32)\n    at Module._load (node:internal/modules/cjs/loader:1091:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)\n    at node:internal/main/run_main_module:28:49"
+  },
+  {
+    "timestamp": "2026-01-07T09:17:40.559Z",
+    "context": "Matching model 32517 \"HERALD\" (strategy: exact_name_exide)",
+    "error": "Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')",
+    "stack": "Error: Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')\n    at Object.<anonymous> (/media/simna/Data/Workspace/projets-code/react-app-tablet-backend/scripts/match-models-to-brands-enhanced.js:296:11)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)\n    at Module.load (node:internal/modules/cjs/loader:1266:32)\n    at Module._load (node:internal/modules/cjs/loader:1091:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)\n    at node:internal/main/run_main_module:28:49"
+  },
+  {
+    "timestamp": "2026-01-07T09:17:40.559Z",
+    "context": "Matching model 32518 \"HERALD Convertible\" (strategy: exact_name_exide)",
+    "error": "Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')",
+    "stack": "Error: Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')\n    at Object.<anonymous> (/media/simna/Data/Workspace/projets-code/react-app-tablet-backend/scripts/match-models-to-brands-enhanced.js:296:11)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)\n    at Module.load (node:internal/modules/cjs/loader:1266:32)\n    at Module._load (node:internal/modules/cjs/loader:1091:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)\n    at node:internal/main/run_main_module:28:49"
+  },
+  {
+    "timestamp": "2026-01-07T09:17:40.559Z",
+    "context": "Matching model 32519 \"HERALD Estate\" (strategy: exact_name_exide)",
+    "error": "Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')",
+    "stack": "Error: Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')\n    at Object.<anonymous> (/media/simna/Data/Workspace/projets-code/react-app-tablet-backend/scripts/match-models-to-brands-enhanced.js:296:11)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)\n    at Module.load (node:internal/modules/cjs/loader:1266:32)\n    at Module._load (node:internal/modules/cjs/loader:1091:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)\n    at node:internal/main/run_main_module:28:49"
+  },
+  {
+    "timestamp": "2026-01-07T09:17:40.566Z",
+    "context": "Matching model 32721 \"ITALIA\" (strategy: exact_name_exide)",
+    "error": "Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')",
+    "stack": "Error: Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')\n    at Object.<anonymous> (/media/simna/Data/Workspace/projets-code/react-app-tablet-backend/scripts/match-models-to-brands-enhanced.js:296:11)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)\n    at Module.load (node:internal/modules/cjs/loader:1266:32)\n    at Module._load (node:internal/modules/cjs/loader:1091:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)\n    at node:internal/main/run_main_module:28:49"
+  },
+  {
+    "timestamp": "2026-01-07T09:17:40.591Z",
+    "context": "Matching model 34727 \"REX\" (strategy: brand_in_name)",
+    "error": "Brand slug \"rex\" not found in database for car (tried 'car' and 'car-moto')",
+    "stack": "Error: Brand slug \"rex\" not found in database for car (tried 'car' and 'car-moto')\n    at Object.<anonymous> (/media/simna/Data/Workspace/projets-code/react-app-tablet-backend/scripts/match-models-to-brands-enhanced.js:296:11)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)\n    at Module.load (node:internal/modules/cjs/loader:1266:32)\n    at Module._load (node:internal/modules/cjs/loader:1091:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)\n    at node:internal/main/run_main_module:28:49"
+  },
+  {
+    "timestamp": "2026-01-07T09:17:40.603Z",
+    "context": "Matching model 35356 \"SPEEDSTER\" (strategy: exact_name_exide)",
+    "error": "Brand slug \"pgo\" not found in database for car (tried 'car' and 'car-moto')",
+    "stack": "Error: Brand slug \"pgo\" not found in database for car (tried 'car' and 'car-moto')\n    at Object.<anonymous> (/media/simna/Data/Workspace/projets-code/react-app-tablet-backend/scripts/match-models-to-brands-enhanced.js:296:11)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)\n    at Module.load (node:internal/modules/cjs/loader:1266:32)\n    at Module._load (node:internal/modules/cjs/loader:1091:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)\n    at node:internal/main/run_main_module:28:49"
+  },
+  {
+    "timestamp": "2026-01-07T09:17:40.603Z",
+    "context": "Matching model 35360 \"SPITFIRE 1500\" (strategy: exact_name_exide)",
+    "error": "Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')",
+    "stack": "Error: Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')\n    at Object.<anonymous> (/media/simna/Data/Workspace/projets-code/react-app-tablet-backend/scripts/match-models-to-brands-enhanced.js:296:11)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)\n    at Module.load (node:internal/modules/cjs/loader:1266:32)\n    at Module._load (node:internal/modules/cjs/loader:1091:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)\n    at node:internal/main/run_main_module:28:49"
+  },
+  {
+    "timestamp": "2026-01-07T09:17:40.603Z",
+    "context": "Matching model 35361 \"SPITFIRE MK I\" (strategy: exact_name_exide)",
+    "error": "Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')",
+    "stack": "Error: Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')\n    at Object.<anonymous> (/media/simna/Data/Workspace/projets-code/react-app-tablet-backend/scripts/match-models-to-brands-enhanced.js:296:11)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)\n    at Module.load (node:internal/modules/cjs/loader:1266:32)\n    at Module._load (node:internal/modules/cjs/loader:1091:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)\n    at node:internal/main/run_main_module:28:49"
+  },
+  {
+    "timestamp": "2026-01-07T09:17:40.603Z",
+    "context": "Matching model 35362 \"SPITFIRE MK II\" (strategy: exact_name_exide)",
+    "error": "Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')",
+    "stack": "Error: Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')\n    at Object.<anonymous> (/media/simna/Data/Workspace/projets-code/react-app-tablet-backend/scripts/match-models-to-brands-enhanced.js:296:11)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)\n    at Module.load (node:internal/modules/cjs/loader:1266:32)\n    at Module._load (node:internal/modules/cjs/loader:1091:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)\n    at node:internal/main/run_main_module:28:49"
+  },
+  {
+    "timestamp": "2026-01-07T09:17:40.603Z",
+    "context": "Matching model 35363 \"SPITFIRE MK III\" (strategy: exact_name_exide)",
+    "error": "Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')",
+    "stack": "Error: Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')\n    at Object.<anonymous> (/media/simna/Data/Workspace/projets-code/react-app-tablet-backend/scripts/match-models-to-brands-enhanced.js:296:11)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)\n    at Module.load (node:internal/modules/cjs/loader:1266:32)\n    at Module._load (node:internal/modules/cjs/loader:1091:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)\n    at node:internal/main/run_main_module:28:49"
+  },
+  {
+    "timestamp": "2026-01-07T09:17:40.603Z",
+    "context": "Matching model 35364 \"SPITFIRE MK IV\" (strategy: exact_name_exide)",
+    "error": "Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')",
+    "stack": "Error: Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')\n    at Object.<anonymous> (/media/simna/Data/Workspace/projets-code/react-app-tablet-backend/scripts/match-models-to-brands-enhanced.js:296:11)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)\n    at Module.load (node:internal/modules/cjs/loader:1266:32)\n    at Module._load (node:internal/modules/cjs/loader:1091:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)\n    at node:internal/main/run_main_module:28:49"
+  },
+  {
+    "timestamp": "2026-01-07T09:17:40.604Z",
+    "context": "Matching model 35467 \"STAG\" (strategy: exact_name_exide)",
+    "error": "Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')",
+    "stack": "Error: Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')\n    at Object.<anonymous> (/media/simna/Data/Workspace/projets-code/react-app-tablet-backend/scripts/match-models-to-brands-enhanced.js:296:11)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)\n    at Module.load (node:internal/modules/cjs/loader:1266:32)\n    at Module._load (node:internal/modules/cjs/loader:1091:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)\n    at node:internal/main/run_main_module:28:49"
+  },
+  {
+    "timestamp": "2026-01-07T09:17:40.610Z",
+    "context": "Matching model 36039 \"TR 2 I\" (strategy: exact_name_exide)",
+    "error": "Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')",
+    "stack": "Error: Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')\n    at Object.<anonymous> (/media/simna/Data/Workspace/projets-code/react-app-tablet-backend/scripts/match-models-to-brands-enhanced.js:296:11)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)\n    at Module.load (node:internal/modules/cjs/loader:1266:32)\n    at Module._load (node:internal/modules/cjs/loader:1091:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)\n    at node:internal/main/run_main_module:28:49"
+  },
+  {
+    "timestamp": "2026-01-07T09:17:40.610Z",
+    "context": "Matching model 36040 \"TR 3 I\" (strategy: exact_name_exide)",
+    "error": "Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')",
+    "stack": "Error: Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')\n    at Object.<anonymous> (/media/simna/Data/Workspace/projets-code/react-app-tablet-backend/scripts/match-models-to-brands-enhanced.js:296:11)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)\n    at Module.load (node:internal/modules/cjs/loader:1266:32)\n    at Module._load (node:internal/modules/cjs/loader:1091:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)\n    at node:internal/main/run_main_module:28:49"
+  },
+  {
+    "timestamp": "2026-01-07T09:17:40.610Z",
+    "context": "Matching model 36041 \"TR 3A I\" (strategy: exact_name_exide)",
+    "error": "Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')",
+    "stack": "Error: Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')\n    at Object.<anonymous> (/media/simna/Data/Workspace/projets-code/react-app-tablet-backend/scripts/match-models-to-brands-enhanced.js:296:11)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)\n    at Module.load (node:internal/modules/cjs/loader:1266:32)\n    at Module._load (node:internal/modules/cjs/loader:1091:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)\n    at node:internal/main/run_main_module:28:49"
+  },
+  {
+    "timestamp": "2026-01-07T09:17:40.610Z",
+    "context": "Matching model 36042 \"TR 4 I\" (strategy: exact_name_exide)",
+    "error": "Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')",
+    "stack": "Error: Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')\n    at Object.<anonymous> (/media/simna/Data/Workspace/projets-code/react-app-tablet-backend/scripts/match-models-to-brands-enhanced.js:296:11)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)\n    at Module.load (node:internal/modules/cjs/loader:1266:32)\n    at Module._load (node:internal/modules/cjs/loader:1091:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)\n    at node:internal/main/run_main_module:28:49"
+  },
+  {
+    "timestamp": "2026-01-07T09:17:40.610Z",
+    "context": "Matching model 36043 \"TR 4A\" (strategy: exact_name_exide)",
+    "error": "Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')",
+    "stack": "Error: Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')\n    at Object.<anonymous> (/media/simna/Data/Workspace/projets-code/react-app-tablet-backend/scripts/match-models-to-brands-enhanced.js:296:11)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)\n    at Module.load (node:internal/modules/cjs/loader:1266:32)\n    at Module._load (node:internal/modules/cjs/loader:1091:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)\n    at node:internal/main/run_main_module:28:49"
+  },
+  {
+    "timestamp": "2026-01-07T09:17:40.610Z",
+    "context": "Matching model 36044 \"TR 5\" (strategy: exact_name_exide)",
+    "error": "Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')",
+    "stack": "Error: Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')\n    at Object.<anonymous> (/media/simna/Data/Workspace/projets-code/react-app-tablet-backend/scripts/match-models-to-brands-enhanced.js:296:11)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)\n    at Module.load (node:internal/modules/cjs/loader:1266:32)\n    at Module._load (node:internal/modules/cjs/loader:1091:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)\n    at node:internal/main/run_main_module:28:49"
+  },
+  {
+    "timestamp": "2026-01-07T09:17:40.610Z",
+    "context": "Matching model 36046 \"TR 6 I\" (strategy: exact_name_exide)",
+    "error": "Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')",
+    "stack": "Error: Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')\n    at Object.<anonymous> (/media/simna/Data/Workspace/projets-code/react-app-tablet-backend/scripts/match-models-to-brands-enhanced.js:296:11)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)\n    at Module.load (node:internal/modules/cjs/loader:1266:32)\n    at Module._load (node:internal/modules/cjs/loader:1091:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)\n    at node:internal/main/run_main_module:28:49"
+  },
+  {
+    "timestamp": "2026-01-07T09:17:40.610Z",
+    "context": "Matching model 36048 \"TR 7 I Coupe\" (strategy: exact_name_exide)",
+    "error": "Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')",
+    "stack": "Error: Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')\n    at Object.<anonymous> (/media/simna/Data/Workspace/projets-code/react-app-tablet-backend/scripts/match-models-to-brands-enhanced.js:296:11)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)\n    at Module.load (node:internal/modules/cjs/loader:1266:32)\n    at Module._load (node:internal/modules/cjs/loader:1091:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)\n    at node:internal/main/run_main_module:28:49"
+  },
+  {
+    "timestamp": "2026-01-07T09:17:40.610Z",
+    "context": "Matching model 36049 \"TR 7 II\" (strategy: exact_name_exide)",
+    "error": "Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')",
+    "stack": "Error: Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')\n    at Object.<anonymous> (/media/simna/Data/Workspace/projets-code/react-app-tablet-backend/scripts/match-models-to-brands-enhanced.js:296:11)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)\n    at Module.load (node:internal/modules/cjs/loader:1266:32)\n    at Module._load (node:internal/modules/cjs/loader:1091:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)\n    at node:internal/main/run_main_module:28:49"
+  },
+  {
+    "timestamp": "2026-01-07T09:17:40.610Z",
+    "context": "Matching model 36050 \"TR 8\" (strategy: exact_name_exide)",
+    "error": "Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')",
+    "stack": "Error: Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')\n    at Object.<anonymous> (/media/simna/Data/Workspace/projets-code/react-app-tablet-backend/scripts/match-models-to-brands-enhanced.js:296:11)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)\n    at Module.load (node:internal/modules/cjs/loader:1266:32)\n    at Module._load (node:internal/modules/cjs/loader:1091:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)\n    at node:internal/main/run_main_module:28:49"
+  },
+  {
+    "timestamp": "2026-01-07T09:17:40.612Z",
+    "context": "Matching model 36155 \"TRIUMPH\" (strategy: brand_in_name)",
+    "error": "Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')",
+    "stack": "Error: Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')\n    at Object.<anonymous> (/media/simna/Data/Workspace/projets-code/react-app-tablet-backend/scripts/match-models-to-brands-enhanced.js:296:11)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)\n    at Module.load (node:internal/modules/cjs/loader:1266:32)\n    at Module._load (node:internal/modules/cjs/loader:1091:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)\n    at node:internal/main/run_main_module:28:49"
+  },
+  {
+    "timestamp": "2026-01-07T09:17:40.618Z",
+    "context": "Matching model 36511 \"VITESSE Cabriolet\" (strategy: exact_name_exide)",
+    "error": "Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')",
+    "stack": "Error: Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')\n    at Object.<anonymous> (/media/simna/Data/Workspace/projets-code/react-app-tablet-backend/scripts/match-models-to-brands-enhanced.js:296:11)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)\n    at Module.load (node:internal/modules/cjs/loader:1266:32)\n    at Module._load (node:internal/modules/cjs/loader:1091:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)\n    at node:internal/main/run_main_module:28:49"
+  },
+  {
+    "timestamp": "2026-01-07T09:17:40.618Z",
+    "context": "Matching model 36512 \"VITESSE I\" (strategy: exact_name_exide)",
+    "error": "Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')",
+    "stack": "Error: Brand slug \"triumph\" not found in database for car (tried 'car' and 'car-moto')\n    at Object.<anonymous> (/media/simna/Data/Workspace/projets-code/react-app-tablet-backend/scripts/match-models-to-brands-enhanced.js:296:11)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)\n    at Module.load (node:internal/modules/cjs/loader:1266:32)\n    at Module._load (node:internal/modules/cjs/loader:1091:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)\n    at node:internal/main/run_main_module:28:49"
+  },
+  {
+    "timestamp": "2026-01-07T09:17:40.620Z",
+    "context": "Matching model 36788 \"X-Bow Convertible\" (strategy: exact_name_exide)",
+    "error": "Brand slug \"ktm\" not found in database for car (tried 'car' and 'car-moto')",
+    "stack": "Error: Brand slug \"ktm\" not found in database for car (tried 'car' and 'car-moto')\n    at Object.<anonymous> (/media/simna/Data/Workspace/projets-code/react-app-tablet-backend/scripts/match-models-to-brands-enhanced.js:296:11)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)\n    at Module.load (node:internal/modules/cjs/loader:1266:32)\n    at Module._load (node:internal/modules/cjs/loader:1091:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)\n    at node:internal/main/run_main_module:28:49"
+  },
+  {
+    "timestamp": "2026-01-07T09:17:40.620Z",
+    "context": "Matching model 36789 \"X-Bow Coupe\" (strategy: exact_name_exide)",
+    "error": "Brand slug \"ktm\" not found in database for car (tried 'car' and 'car-moto')",
+    "stack": "Error: Brand slug \"ktm\" not found in database for car (tried 'car' and 'car-moto')\n    at Object.<anonymous> (/media/simna/Data/Workspace/projets-code/react-app-tablet-backend/scripts/match-models-to-brands-enhanced.js:296:11)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)\n    at Module.load (node:internal/modules/cjs/loader:1266:32)\n    at Module._load (node:internal/modules/cjs/loader:1091:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)\n    at node:internal/main/run_main_module:28:49"
+  }
+]

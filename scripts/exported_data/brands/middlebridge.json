@@ -1,0 +1,22 @@
+{
+  "brandInfo": {
+    "id": 703,
+    "documentId": "fe7a6xu2iv0zyzwe4wuic7sg",
+    "name": "MIDDLEBRIDGE",
+    "slug": "middlebridge",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 1,
+  "exportDate": "2026-01-07T09:17:53.851Z",
+  "models": [
+    {
+      "id": 35055,
+      "documentId": "yu41hynm49x46r5vr9ziziey",
+      "name": "SCIMITAR GTE",
+      "slug": "scimitar-gte",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

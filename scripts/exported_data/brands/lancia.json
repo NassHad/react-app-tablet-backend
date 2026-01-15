@@ -1,0 +1,374 @@
+{
+  "brandInfo": {
+    "id": 670,
+    "documentId": "n3814qq6um443j86006jzfg0",
+    "name": "LANCIA",
+    "slug": "lancia",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 45,
+  "exportDate": "2026-01-07T09:17:53.836Z",
+  "models": [
+    {
+      "id": 29055,
+      "documentId": "n4gnypxe972846ryc1v6x7iu",
+      "name": "A 112",
+      "slug": "a-112",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29718,
+      "documentId": "r6xxy2bztwww97kbpri678qr",
+      "name": "BETA Coupe",
+      "slug": "beta-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29719,
+      "documentId": "hdr9xbllx5fpmche1f8e1nrx",
+      "name": "BETA H.P.E.",
+      "slug": "beta-h-p-e",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29720,
+      "documentId": "gieznqfoq8ug4yfjqt4vj4w7",
+      "name": "BETA Saloon",
+      "slug": "beta-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29721,
+      "documentId": "c7maze169fqvbmsi7wjck0b4",
+      "name": "BETA Spider",
+      "slug": "beta-spider",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29821,
+      "documentId": "q2bqux5pxwtil99tb0977djo",
+      "name": "Beta",
+      "slug": "beta",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30966,
+      "documentId": "d092kfx6juovvggpv3ku8cgf",
+      "name": "DEDRA",
+      "slug": "dedra",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30967,
+      "documentId": "db4o5myemjpoj6644jvk78yd",
+      "name": "DEDRA SW",
+      "slug": "dedra-sw",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30979,
+      "documentId": "hptn4ahpw2po7tdl3myu3y2i",
+      "name": "DELTA I",
+      "slug": "delta-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30980,
+      "documentId": "m732uayijuaspirrxa01e114",
+      "name": "DELTA II",
+      "slug": "delta-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30981,
+      "documentId": "pksedlgsdzcpr74wm4vngsdb",
+      "name": "DELTA III",
+      "slug": "delta-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31179,
+      "documentId": "v3sizx3ay94cy1gfbpf4x5cx",
+      "name": "Delta HPE",
+      "slug": "delta-hpe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31701,
+      "documentId": "vx600xaiwfe5sqwxgejq9ccp",
+      "name": "FLAMINIA Berlina",
+      "slug": "flaminia-berlina",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31702,
+      "documentId": "vhsmrltjsja70ac661a9djm2",
+      "name": "FLAMINIA Convertible",
+      "slug": "flaminia-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31703,
+      "documentId": "w4xib6nwaqpf0qhabhg6pc6v",
+      "name": "FLAMINIA Coupe",
+      "slug": "flaminia-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31704,
+      "documentId": "y547ax2ffp7nnd19oyqf6dy3",
+      "name": "FLAMINIA GT",
+      "slug": "flaminia-gt",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31705,
+      "documentId": "jc3pwchh19ailcaq0296b62u",
+      "name": "FLAVIA Berlina",
+      "slug": "flavia-berlina",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31706,
+      "documentId": "evtli5yhjdperdykqp1twobc",
+      "name": "FLAVIA Convertible",
+      "slug": "flavia-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31707,
+      "documentId": "ttc4dnlmlplbts20b4bn2hpi",
+      "name": "FLAVIA Coupe",
+      "slug": "flavia-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31892,
+      "documentId": "j5fsb944cnizpoqssciox2cy",
+      "name": "FULVIA Berlina",
+      "slug": "fulvia-berlina",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31893,
+      "documentId": "yh7nr3h05ohxexvfrkbj8kql",
+      "name": "FULVIA Coupe",
+      "slug": "fulvia-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32021,
+      "documentId": "yssrxd9stywdgwbktcocaho8",
+      "name": "Flavia",
+      "slug": "flavia",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32105,
+      "documentId": "a4chqaua9a8yeyg57ywicopd",
+      "name": "GAMMA",
+      "slug": "gamma",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32106,
+      "documentId": "vtzwn8tp8ym1tcr2yrfxjkzb",
+      "name": "GAMMA Coupe",
+      "slug": "gamma-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32900,
+      "documentId": "mjg0u3uzdb0ugfkgy7x85g61",
+      "name": "KAPPA",
+      "slug": "kappa",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32901,
+      "documentId": "l3cbryrxkcuqdjla5ayszh4j",
+      "name": "KAPPA COUPE",
+      "slug": "lancia-kappa-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32902,
+      "documentId": "wp6po9bj91szikueawx45lgx",
+      "name": "KAPPA Coupe",
+      "slug": "kappa-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32903,
+      "documentId": "kfox6oynytawk28sx577pmxa",
+      "name": "KAPPA SW",
+      "slug": "kappa-sw",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33218,
+      "documentId": "vxb7zr1aubg4x7eompjhsabp",
+      "name": "LYBRA",
+      "slug": "lybra",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33219,
+      "documentId": "v0u59k0nslw4taaspjp9kvmq",
+      "name": "LYBRA SW",
+      "slug": "lybra-sw",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33739,
+      "documentId": "yv9lgedheypw3zflwmgq7g5o",
+      "name": "MUSA",
+      "slug": "musa",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34273,
+      "documentId": "o8092dpyg23a95nuxuh6ra5k",
+      "name": "PHEDRA",
+      "slug": "phedra",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34394,
+      "documentId": "tq8gvhzkaq9urw3du6udmese",
+      "name": "PRISMA",
+      "slug": "prisma",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35070,
+      "documentId": "ryecy02lcop5abuje140hyqy",
+      "name": "SCORPION",
+      "slug": "scorpion",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35933,
+      "documentId": "gja1bezker5youa0w2cc21y0",
+      "name": "THEMA",
+      "slug": "thema",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35934,
+      "documentId": "ccchxtq3zbhnnqofdpkzqj9m",
+      "name": "THEMA SW",
+      "slug": "thema-sw",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35935,
+      "documentId": "op0j0zjks3p2lkx6dlymi5im",
+      "name": "THESIS",
+      "slug": "thesis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36149,
+      "documentId": "otd8fjz6xyqneacatsx3zmvs",
+      "name": "TREVI",
+      "slug": "trevi",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36612,
+      "documentId": "a10ou18e8j2j0f2m3zv59rlx",
+      "name": "VOYAGER MPV",
+      "slug": "voyager-mpv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37060,
+      "documentId": "jfw1swoarpdbfydy0mkb2r82",
+      "name": "Y",
+      "slug": "y",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37061,
+      "documentId": "om24xtdvhzbhsbhbwjbg7yi7",
+      "name": "Y10",
+      "slug": "y10",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37062,
+      "documentId": "s1vd39ztfphb5ch7r50df2wi",
+      "name": "Y10",
+      "slug": "lancia-y10",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37111,
+      "documentId": "fqczhnvdladrt9qxjfkkjmk0",
+      "name": "YPSILON",
+      "slug": "ypsilon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37112,
+      "documentId": "l124nndy9p82mz81anmtry3f",
+      "name": "YPSILON",
+      "slug": "chrysler-ypsilon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37218,
+      "documentId": "ujpx3qpoipd54tbguryv9nkw",
+      "name": "ZETA",
+      "slug": "zeta",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

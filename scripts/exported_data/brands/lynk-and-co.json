@@ -1,0 +1,22 @@
+{
+  "brandInfo": {
+    "id": 682,
+    "documentId": "gsczw7qhr5k7diwpwx0bdl6k",
+    "name": "LYNK & CO",
+    "slug": "lynk-and-co",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 1,
+  "exportDate": "2026-01-07T09:17:53.841Z",
+  "models": [
+    {
+      "id": 28135,
+      "documentId": "g7hdcj3rodhy5a45zztcqka0",
+      "name": "01",
+      "slug": "01",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

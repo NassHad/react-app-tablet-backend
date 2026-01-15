@@ -1,0 +1,30 @@
+{
+  "brandInfo": {
+    "id": 771,
+    "documentId": "xj6el3cawvx66o89rygh8o65",
+    "name": "THINK",
+    "slug": "think",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 2,
+  "exportDate": "2026-01-07T09:17:53.889Z",
+  "models": [
+    {
+      "id": 30400,
+      "documentId": "sacc1f0ik7fd3437j90im53c",
+      "name": "CITY",
+      "slug": "city",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30401,
+      "documentId": "p5e7l7474p8su25rlcqaof6u",
+      "name": "CITY",
+      "slug": "mega-aixam-mega-france-city",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

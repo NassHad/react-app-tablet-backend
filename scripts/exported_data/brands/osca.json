@@ -1,0 +1,22 @@
+{
+  "brandInfo": {
+    "id": 720,
+    "documentId": "wr8pvs9x8tqekf3h0attcrd6",
+    "name": "OSCA",
+    "slug": "osca",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 1,
+  "exportDate": "2026-01-07T09:17:53.861Z",
+  "models": [
+    {
+      "id": 28477,
+      "documentId": "wox3l7eim1omvb6po9jnv2p4",
+      "name": "2500 GT",
+      "slug": "2500-gt",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "brandInfo": {
+    "id": 795,
+    "documentId": "s8igrhb630q24229v7c08ppj",
+    "name": "ZOTYE",
+    "slug": "zotye",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 1,
+  "exportDate": "2026-01-07T09:17:53.904Z",
+  "models": [
+    {
+      "id": 35811,
+      "documentId": "hyp08g93368mz2yf88tvhu58",
+      "name": "T600 COUPE",
+      "slug": "t600-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}

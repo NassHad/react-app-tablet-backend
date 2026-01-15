@@ -28,9 +28,6 @@
     "ref": {
       "type": "string"
     },
-    "sortOrder": {
-      "type": "integer"
-    },
     "sort": {
       "type": "integer"
     },
@@ -40,6 +37,9 @@
     "isActive": {
       "type": "boolean",
       "default": true
+    },
+    "vehicleType": {
+      "type": "string"
     }
   }
 }

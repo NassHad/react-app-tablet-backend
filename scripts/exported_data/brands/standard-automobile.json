@@ -1,0 +1,22 @@
+{
+  "brandInfo": {
+    "id": 759,
+    "documentId": "ba37x5t6zi2z6sozb42i0i3s",
+    "name": "STANDARD AUTOMOBILE",
+    "slug": "standard-automobile",
+    "vehicle_type": "car",
+    "isActive": true
+  },
+  "modelCount": 1,
+  "exportDate": "2026-01-07T09:17:53.882Z",
+  "models": [
+    {
+      "id": 32108,
+      "documentId": "n37bwumz21is5p5y4pfxl3bg",
+      "name": "GAZEL",
+      "slug": "gazel",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
+}
