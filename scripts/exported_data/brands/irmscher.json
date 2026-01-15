@@ -7,7 +7,16 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.873Z",
-  "models": []
+  "modelCount": 1,
+  "exportDate": "2026-01-07T09:17:53.824Z",
+  "models": [
+    {
+      "id": 34090,
+      "documentId": "d2ll42ex27pdseeylhtnyw6e",
+      "name": "OMEGA Caravan",
+      "slug": "omega-caravan",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

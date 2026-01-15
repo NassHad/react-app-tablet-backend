@@ -7,7 +7,16 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.860Z",
-  "models": []
+  "modelCount": 1,
+  "exportDate": "2026-01-07T09:17:53.812Z",
+  "models": [
+    {
+      "id": 34672,
+      "documentId": "k4kbp2dw4l7f80ealgg9l75g",
+      "name": "RASCAL Van",
+      "slug": "rascal-van",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

@@ -7,7 +7,56 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:17.001Z",
-  "models": []
+  "modelCount": 6,
+  "exportDate": "2026-01-07T09:17:53.883Z",
+  "models": [
+    {
+      "id": 30535,
+      "documentId": "uyt92rfo2r97up85pk0ih4ym",
+      "name": "COMPACT",
+      "slug": "compact",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36747,
+      "documentId": "bd001j4nl8d7x9glfl8oxck8",
+      "name": "WORK L Platform/Chassis",
+      "slug": "work-l-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36748,
+      "documentId": "xvqgm7kbr5eazcm9nts8hhnu",
+      "name": "WORK L Van",
+      "slug": "work-l-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36749,
+      "documentId": "cclu7gf084p6dv9mn7dxqhqt",
+      "name": "WORK Platform/Chassis",
+      "slug": "work-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36750,
+      "documentId": "twniodjqf3wbpdcnnka5lgbi",
+      "name": "WORK Van",
+      "slug": "work-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36751,
+      "documentId": "fdfhnvvsev4rljo4uyrf31ti",
+      "name": "WORK XL Platform/Chassis",
+      "slug": "work-xl-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

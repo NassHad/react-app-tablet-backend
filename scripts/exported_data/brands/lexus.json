@@ -7,8 +7,8 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 33,
-  "exportDate": "2026-01-06T19:34:16.895Z",
+  "modelCount": 38,
+  "exportDate": "2026-01-07T09:17:53.838Z",
   "models": [
     {
       "id": 30722,
@@ -155,6 +155,14 @@
       "isActive": true
     },
     {
+      "id": 33070,
+      "documentId": "yqyubuvdgk6ncqg5f2l9wstl",
+      "name": "LC Convertible",
+      "slug": "lc-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 33071,
       "documentId": "azusadnqbbc9chj1fv9voizw",
       "name": "LC Coupe",
@@ -243,6 +251,14 @@
       "isActive": true
     },
     {
+      "id": 34851,
+      "documentId": "uq3nabcqm6tlut90lwdv7mvw",
+      "name": "RX",
+      "slug": "mazda-rx",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 34854,
       "documentId": "r2wafht23yike0hghis5npo3",
       "name": "RX 300/ 400h",
@@ -259,10 +275,34 @@
       "isActive": true
     },
     {
+      "id": 34872,
+      "documentId": "en1muj8lccz8os3pf06zaa5b",
+      "name": "RZ",
+      "slug": "rz",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 35043,
       "documentId": "a6x0xd24u074zvy1z7afrly4",
       "name": "SC Convertible",
       "slug": "sc-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35044,
+      "documentId": "idz15exppqi9l99bluh6qfc5",
+      "name": "SC Coupe",
+      "slug": "sc-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36330,
+      "documentId": "qkettz4hqbfqhzye800e9zmt",
+      "name": "UX",
+      "slug": "ux",
       "vehicle_type": "car",
       "isActive": true
     },

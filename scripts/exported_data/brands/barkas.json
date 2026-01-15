@@ -7,7 +7,24 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.781Z",
-  "models": []
+  "modelCount": 2,
+  "exportDate": "2026-01-07T09:17:53.771Z",
+  "models": [
+    {
+      "id": 29640,
+      "documentId": "pppo84q8fkna418mtz2hzmji",
+      "name": "B 1000 Bus",
+      "slug": "b-1000-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29641,
+      "documentId": "iusa8o271uzbhddy9zjonj2j",
+      "name": "B 1000 Van",
+      "slug": "b-1000-van",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

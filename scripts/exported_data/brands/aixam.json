@@ -7,7 +7,160 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.769Z",
-  "models": []
+  "modelCount": 19,
+  "exportDate": "2026-01-07T09:17:53.759Z",
+  "models": [
+    {
+      "id": 28779,
+      "documentId": "mdnfuq7tegy45jcbioadgdaj",
+      "name": "500 Convertible",
+      "slug": "500-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28781,
+      "documentId": "t8esz1bk03h35wj73cpqnatd",
+      "name": "500 Estate Van",
+      "slug": "500-estate-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28782,
+      "documentId": "fyyv63cnd8wi9sntlu2r5s5z",
+      "name": "500 Hatchback",
+      "slug": "500-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28783,
+      "documentId": "z2eisvj5i5kfc89kf9t8h2yp",
+      "name": "500 Hatchback Van",
+      "slug": "500-hatchback-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29058,
+      "documentId": "sobbjw5h1oxkc49u8crsixja",
+      "name": "A.721",
+      "slug": "a-721",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29059,
+      "documentId": "wzco9m1yvfx00w05x3ojt5t9",
+      "name": "A.741",
+      "slug": "a-741",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29060,
+      "documentId": "wpjg930r4m4ien2r806fcd21",
+      "name": "A.751",
+      "slug": "a-751",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29222,
+      "documentId": "hucbyr1mr6ib546w4bxqwhcu",
+      "name": "AIXAM MAC CABRIOLET",
+      "slug": "aixam-mac-cabriolet",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30702,
+      "documentId": "dppjc3094izhbbofp1rvlmma",
+      "name": "CROSSLINE",
+      "slug": "crossline",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30703,
+      "documentId": "gm4unvdc1a5lv6wdb3q4g7ll",
+      "name": "CROSSOVER",
+      "slug": "crossover",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30887,
+      "documentId": "zyv6xhw3hkb8eut9gxl4wfd8",
+      "name": "D-TRUCK Pickup",
+      "slug": "d-truck-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30888,
+      "documentId": "rve2juo7krfgaa88wt75ha05",
+      "name": "D-TRUCK Platform/Chassis",
+      "slug": "d-truck-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30889,
+      "documentId": "aeilvat5akf4d96w6vaqrzfe",
+      "name": "D-TRUCK Van",
+      "slug": "d-truck-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32424,
+      "documentId": "zkxc89l9gfcvt4wl56ljhtdk",
+      "name": "GTO",
+      "slug": "gto",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32425,
+      "documentId": "wmv1uoz40g25g9ji2zmm1jsz",
+      "name": "GTO",
+      "slug": "mega-aixam-mega-france-gto",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33424,
+      "documentId": "syyftf4qbwlfwrmpyne7xp0o",
+      "name": "MEGA",
+      "slug": "mega",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33532,
+      "documentId": "qdy6o0qcoj9vxu1qpxpc34vt",
+      "name": "MINAUTO",
+      "slug": "minauto",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34774,
+      "documentId": "fr40m4llf3zpmjzu13waq1l6",
+      "name": "ROADLINE",
+      "slug": "roadline",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35072,
+      "documentId": "ndcofxyaft39sornr0ufh132",
+      "name": "SCOUTY Convertible",
+      "slug": "scouty-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

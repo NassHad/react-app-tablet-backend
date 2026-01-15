@@ -7,9 +7,41 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 29,
-  "exportDate": "2026-01-06T19:34:16.894Z",
+  "modelCount": 43,
+  "exportDate": "2026-01-07T09:17:53.837Z",
   "models": [
+    {
+      "id": 28193,
+      "documentId": "x9401wyb33z2bxdl9cgvjx1p",
+      "name": "110/127",
+      "slug": "110-127",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28963,
+      "documentId": "odjaghp82xbv2iib3ivr5cpo",
+      "name": "88/109 MK III Closed Off-Road Vehicle",
+      "slug": "88-109-mk-iii-closed-off-road-vehicle",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28964,
+      "documentId": "w9zxh6u6ftckm8jvu8pzlyz4",
+      "name": "88/109 MK III Open Off-Road Vehicle",
+      "slug": "88-109-mk-iii-open-off-road-vehicle",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28995,
+      "documentId": "j9mwdz5vx8n8q0ufodc0nc6c",
+      "name": "90 I",
+      "slug": "90-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
     {
       "id": 30865,
       "documentId": "bl7sds7e194mv2swxojy8fhl",
@@ -51,6 +83,14 @@
       "isActive": true
     },
     {
+      "id": 30973,
+      "documentId": "hua8152tpzo9kp0sti37ee26",
+      "name": "DEFENDER Van",
+      "slug": "defender-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 31004,
       "documentId": "avsg2ltlm89zric9xr69ajp7",
       "name": "DISCOVERY I",
@@ -71,6 +111,14 @@
       "documentId": "gxnct6q83g9dbmdtqhgwprsw",
       "name": "DISCOVERY III",
       "slug": "discovery-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31007,
+      "documentId": "esihrulwqkxj09r0qtlu7sux",
+      "name": "DISCOVERY III VAN",
+      "slug": "discovery-iii-van",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -99,10 +147,26 @@
       "isActive": true
     },
     {
+      "id": 31011,
+      "documentId": "sojcm4058vh1vgneiubua13h",
+      "name": "DISCOVERY SPORT VAN",
+      "slug": "discovery-sport-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 31012,
       "documentId": "ndkl93dgrthw82ycn9cihevz",
       "name": "DISCOVERY V",
       "slug": "discovery-v",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31013,
+      "documentId": "wb7rjug5cmu6tyiynli7znog",
+      "name": "DISCOVERY V VAN",
+      "slug": "discovery-v-van",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -155,6 +219,14 @@
       "isActive": true
     },
     {
+      "id": 31868,
+      "documentId": "pw439q1x4oi0cgwvl2fyeovg",
+      "name": "FREELANDER 2 VAN",
+      "slug": "freelander-2-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 31869,
       "documentId": "lp1tnb8tl9tdw64pp3ajai5b",
       "name": "FREELANDER I",
@@ -171,10 +243,34 @@
       "isActive": true
     },
     {
+      "id": 33050,
+      "documentId": "awcdr3448l1tg5aju28gtytt",
+      "name": "LAND ROVER",
+      "slug": "land-rover",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 34644,
       "documentId": "rb84s8qj651g4anhvdgaoqal",
       "name": "RANGE ROVER EVOQUE",
       "slug": "range-rover-evoque",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34645,
+      "documentId": "bxb252d9h51570wxs0skussq",
+      "name": "RANGE ROVER EVOQUE Convertible",
+      "slug": "range-rover-evoque-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34647,
+      "documentId": "f064ej8anlhe7rc80vur8prd",
+      "name": "RANGE ROVER EVOQUE VAN",
+      "slug": "range-rover-evoque-van",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -223,6 +319,22 @@
       "documentId": "lydw55dtrxgzj5srn65t5rku",
       "name": "RANGE ROVER SPORT I",
       "slug": "range-rover-sport-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34654,
+      "documentId": "smhwdoabiqmk76eop8fyrfa9",
+      "name": "RANGE ROVER SPORT II",
+      "slug": "range-rover-sport-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34655,
+      "documentId": "hcu016r9aeh7wcu4xitj7hik",
+      "name": "RANGE ROVER SPORT III",
+      "slug": "range-rover-sport-iii",
       "vehicle_type": "car",
       "isActive": true
     },

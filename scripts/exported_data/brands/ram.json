@@ -7,7 +7,72 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.958Z",
-  "models": []
+  "modelCount": 8,
+  "exportDate": "2026-01-07T09:17:53.869Z",
+  "models": [
+    {
+      "id": 28215,
+      "documentId": "odysc95ix1pg39hlbevyqwu4",
+      "name": "1200 Double Cab",
+      "slug": "1200-double-cab",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28220,
+      "documentId": "wsj2njwnqjydq0t2gel18a4c",
+      "name": "1200 Single Cab",
+      "slug": "1200-single-cab",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28296,
+      "documentId": "bfobvlil6hkpiy021br1i430",
+      "name": "1500 Crew Cab Pickup",
+      "slug": "1500-crew-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28298,
+      "documentId": "dzb2d7rak5anve1m6jun9gh9",
+      "name": "1500 Extended Cab Pickup",
+      "slug": "1500-extended-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28301,
+      "documentId": "gkhmq4shr5qeahit7nbx977n",
+      "name": "1500 Standard Cab Pickup",
+      "slug": "1500-standard-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28474,
+      "documentId": "bixmhqofmxiorar3r579izp4",
+      "name": "2500 Crew Cab Pickup",
+      "slug": "2500-crew-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28476,
+      "documentId": "h7htzrvm0uywqokzval28ci5",
+      "name": "2500 Extended Crew Cab Pickup",
+      "slug": "2500-extended-crew-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28478,
+      "documentId": "s1kboctv3meiaj307te2ph4f",
+      "name": "2500 Standard Cab Pickup",
+      "slug": "2500-standard-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

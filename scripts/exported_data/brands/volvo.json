@@ -7,9 +7,25 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 59,
-  "exportDate": "2026-01-06T19:34:17.051Z",
+  "modelCount": 93,
+  "exportDate": "2026-01-07T09:17:53.896Z",
   "models": [
+    {
+      "id": 28285,
+      "documentId": "rihvq5szf42lqf3115czlyer",
+      "name": "140",
+      "slug": "140",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28286,
+      "documentId": "s4k6dtexcmr7s9hoa4gltsq4",
+      "name": "140 Estate",
+      "slug": "140-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
     {
       "id": 28289,
       "documentId": "q0m4q0d0i0w7s9w8jsmxh8jo",
@@ -27,10 +43,58 @@
       "isActive": true
     },
     {
+      "id": 28457,
+      "documentId": "mddbc66qjq8n3wfvpf819bnp",
+      "name": "240",
+      "slug": "aro-240",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28458,
+      "documentId": "z89l9t0vi7qzgo6sar3sey7m",
+      "name": "240 Kombi",
+      "slug": "240-kombi",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 28480,
       "documentId": "cwt66f76q6j6cdzxpgg1t2t1",
       "name": "260",
       "slug": "260",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28481,
+      "documentId": "haosarowajm131rhy6drpaxh",
+      "name": "260 Coupe",
+      "slug": "260-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28482,
+      "documentId": "n2xnlkl0ixvuavekryqhk9ne",
+      "name": "260 Estate",
+      "slug": "260-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28627,
+      "documentId": "euo8ongfyznte4efkduzb8pk",
+      "name": "340-360",
+      "slug": "340-360",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28628,
+      "documentId": "y9nfe12sxnszv2pahm0rrujg",
+      "name": "340-360 Saloon",
+      "slug": "340-360-saloon",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -59,6 +123,22 @@
       "isActive": true
     },
     {
+      "id": 28887,
+      "documentId": "gghcgi42h1mmgeh5qd5cd16x",
+      "name": "66",
+      "slug": "66",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28889,
+      "documentId": "b1q0p3rj2gyubocp0wmpow8q",
+      "name": "66 Estate",
+      "slug": "66-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 28903,
       "documentId": "ybriswzj6t49krlnr6kzvjr3",
       "name": "740",
@@ -67,10 +147,34 @@
       "isActive": true
     },
     {
+      "id": 28904,
+      "documentId": "ltrqm49tuuyuwtuc6piq6piw",
+      "name": "740 Kombi",
+      "slug": "740-kombi",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 28909,
       "documentId": "hcfleekrds22okjaw7b5w362",
       "name": "760",
       "slug": "760",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28910,
+      "documentId": "x85yi8bdi6vqzz081am9q1o6",
+      "name": "760 Kombi",
+      "slug": "760-kombi",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28911,
+      "documentId": "ibrq5mdiwr16go1f9d8vesrh",
+      "name": "780",
+      "slug": "780",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -211,6 +315,14 @@
       "isActive": true
     },
     {
+      "id": 31266,
+      "documentId": "t2810ig8g453c0kwh8dw97c7",
+      "name": "EC40",
+      "slug": "ec40",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 31433,
       "documentId": "r7cvic2n785c3n97rfoxk7mo",
       "name": "EX30",
@@ -219,10 +331,82 @@
       "isActive": true
     },
     {
+      "id": 31434,
+      "documentId": "fflvd86qfb6i5inz05kkbhxu",
+      "name": "EX30 Cross Country",
+      "slug": "ex30-cross-country",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 31435,
       "documentId": "c2alflwi289q8itfv4d1vo1r",
       "name": "EX40",
       "slug": "ex40",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31436,
+      "documentId": "sbd7absxqdg0lts7acubjwf9",
+      "name": "EX90",
+      "slug": "ex90",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34135,
+      "documentId": "nkfw0oks05lhazge73dbpen0",
+      "name": "P 121",
+      "slug": "p-121",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34136,
+      "documentId": "yyz87yljpm8442rgo7jd4f4k",
+      "name": "P 122 S AMAZON",
+      "slug": "p-122-s-amazon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34137,
+      "documentId": "syp74fzikyd82yjq60ph8xlc",
+      "name": "P 122 S AMAZON Estate",
+      "slug": "p-122-s-amazon-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34139,
+      "documentId": "uksw3h539sf6nax0s75urdi4",
+      "name": "P 1800",
+      "slug": "p-1800",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34141,
+      "documentId": "l7nof4v3fnwh3smho5r0ae55",
+      "name": "P 210 DUETT",
+      "slug": "p-210-duett",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34142,
+      "documentId": "l7v5reu8k8fh0p7o0imlm0gb",
+      "name": "P 2200 Estate",
+      "slug": "p-2200-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34456,
+      "documentId": "epkgzlo6a60gbpnxs2jrudpg",
+      "name": "PV 544",
+      "slug": "pv-544",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -271,6 +455,14 @@
       "documentId": "dcnthaedfti80mmisiy7sye5",
       "name": "S60 II",
       "slug": "s60-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34970,
+      "documentId": "t3pdp0bg78h2dz7iwrzbzv8x",
+      "name": "S60 II Cross Country",
+      "slug": "s60-ii-cross-country",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -347,6 +539,14 @@
       "isActive": true
     },
     {
+      "id": 36365,
+      "documentId": "zx4snjx4eufvk8vhbp5vob32",
+      "name": "V40 Hatchback Van",
+      "slug": "v40-hatchback-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 36369,
       "documentId": "z5xz3gqovgl166p4yzm638w6",
       "name": "V50",
@@ -363,10 +563,42 @@
       "isActive": true
     },
     {
+      "id": 36372,
+      "documentId": "kpqnr26abn96kreb9ub3bttj",
+      "name": "V60 I",
+      "slug": "v60-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36373,
+      "documentId": "ev93fy6e2mlw9brqgwkzhtds",
+      "name": "V60 I Cross Country",
+      "slug": "v60-i-cross-country",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36374,
+      "documentId": "jtqjpegk8bdm6icyfyz1csej",
+      "name": "V60 I Estate Van",
+      "slug": "v60-i-estate-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 36375,
       "documentId": "ie3nvhicqg8co8fcgodqn4f7",
       "name": "V60 II",
       "slug": "v60-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36376,
+      "documentId": "bgfnkqg5vfhg5emw9bb3la5i",
+      "name": "V60 II Cross Country",
+      "slug": "v60-ii-cross-country",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -395,10 +627,26 @@
       "isActive": true
     },
     {
+      "id": 36387,
+      "documentId": "niupsmw1sshvh02va5sl0dcg",
+      "name": "V70 III Estate Van",
+      "slug": "v70-iii-estate-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 36397,
       "documentId": "hsa03mj671h0y0xnpmh622li",
       "name": "V90 I Estate",
       "slug": "v90-i-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36398,
+      "documentId": "h0hwhxeebeqc8vmh9frf6sul",
+      "name": "V90 II Cross Country",
+      "slug": "v90-ii-cross-country",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -435,6 +683,14 @@
       "isActive": true
     },
     {
+      "id": 36859,
+      "documentId": "nfliy255dr68u47p0wrt3hen",
+      "name": "XC60 I VAN",
+      "slug": "xc60-i-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 36860,
       "documentId": "dt9mgcgqf56dx9572f3lb3rz",
       "name": "XC60 II",
@@ -459,6 +715,14 @@
       "isActive": true
     },
     {
+      "id": 36863,
+      "documentId": "ffpcrw26qm7nxnw3si6i3l22",
+      "name": "XC70 II VAN",
+      "slug": "xc70-ii-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 36864,
       "documentId": "wlf8d7nj3wtcbawf03ja0iu2",
       "name": "XC90",
@@ -471,6 +735,14 @@
       "documentId": "lb5qxf4znu4l32ca4uxv4qd2",
       "name": "XC90 I",
       "slug": "xc90-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36866,
+      "documentId": "x9sk9zpe52inqeiaf921cl20",
+      "name": "XC90 I VAN",
+      "slug": "xc90-i-van",
       "vehicle_type": "car",
       "isActive": true
     },

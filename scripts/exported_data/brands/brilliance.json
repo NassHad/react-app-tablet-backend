@@ -7,7 +7,40 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.797Z",
-  "models": []
+  "modelCount": 4,
+  "exportDate": "2026-01-07T09:17:53.776Z",
+  "models": [
+    {
+      "id": 29791,
+      "documentId": "t8kcc6xwz4yev3kzakqx6321",
+      "name": "BS2",
+      "slug": "bs2",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29792,
+      "documentId": "sbskt3l0dxjl22jv55w29v98",
+      "name": "BS4",
+      "slug": "bs4",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29793,
+      "documentId": "cvr6gqqve2hgztaajtw1ahoi",
+      "name": "BS6",
+      "slug": "bs6",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36367,
+      "documentId": "dh3uffs8xo7il3bpcruxxntd",
+      "name": "V5",
+      "slug": "v5",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

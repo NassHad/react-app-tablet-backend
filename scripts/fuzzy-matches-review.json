@@ -1,0 +1,757 @@
+{
+  "timestamp": "2026-01-07T09:17:40.625Z",
+  "totalFuzzyMatches": 75,
+  "note": "These matches use fuzzy/partial slug matching and should be manually reviewed before applying",
+  "matches": [
+    {
+      "modelId": 28346,
+      "modelName": "2 (DE)",
+      "modelSlug": "2-de",
+      "matchedToBrand": "FIAT",
+      "brandId": 614,
+      "brandSlug": "fiat",
+      "similarity": "fuzzy_slug_75%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 28348,
+      "modelName": "2 (DY)",
+      "modelSlug": "2-dy",
+      "matchedToBrand": "FIAT",
+      "brandId": 614,
+      "brandSlug": "fiat",
+      "similarity": "fuzzy_slug_75%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 28473,
+      "modelName": "2500",
+      "modelSlug": "2500",
+      "matchedToBrand": "FIAT",
+      "brandId": 614,
+      "brandSlug": "fiat",
+      "similarity": "fuzzy_slug_75%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 28491,
+      "modelName": "280 Convertible",
+      "modelSlug": "280-convertible",
+      "matchedToBrand": "LAND ROVER",
+      "brandId": 671,
+      "brandSlug": "land-rover",
+      "similarity": "fuzzy_slug_73%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 28634,
+      "modelName": "350 Convertible",
+      "modelSlug": "350-convertible",
+      "matchedToBrand": "LAND ROVER",
+      "brandId": 671,
+      "brandSlug": "land-rover",
+      "similarity": "fuzzy_slug_73%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 28636,
+      "modelName": "3500",
+      "modelSlug": "3500",
+      "matchedToBrand": "FIAT",
+      "brandId": 614,
+      "brandSlug": "fiat",
+      "similarity": "fuzzy_slug_75%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 28646,
+      "modelName": "365",
+      "modelSlug": "365",
+      "matchedToBrand": "VOLKSWAGEN",
+      "brandId": 136,
+      "brandSlug": "volkswagen",
+      "similarity": "fuzzy_slug_75%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 28671,
+      "modelName": "400",
+      "modelSlug": "400",
+      "matchedToBrand": "PEUGEOT",
+      "brandId": 94,
+      "brandSlug": "peugeot",
+      "similarity": "fuzzy_slug_75%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 28719,
+      "modelName": "420 Convertible",
+      "modelSlug": "420-convertible",
+      "matchedToBrand": "LAND ROVER",
+      "brandId": 671,
+      "brandSlug": "land-rover",
+      "similarity": "fuzzy_slug_73%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 28796,
+      "modelName": "500C",
+      "modelSlug": "500c",
+      "matchedToBrand": "FIAT",
+      "brandId": 614,
+      "brandSlug": "fiat",
+      "similarity": "fuzzy_slug_75%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 28996,
+      "modelName": "900",
+      "modelSlug": "900",
+      "matchedToBrand": "SAAB",
+      "brandId": 747,
+      "brandSlug": "saab",
+      "similarity": "fuzzy_slug_75%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 29216,
+      "modelName": "AGILA I",
+      "modelSlug": "agila-i",
+      "matchedToBrand": "OPEL",
+      "brandId": 719,
+      "brandSlug": "opel",
+      "similarity": "fuzzy_slug_71%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 29246,
+      "modelName": "ALHAMBRA I",
+      "modelSlug": "alhambra-i",
+      "matchedToBrand": "SEAT",
+      "brandId": 753,
+      "brandSlug": "seat",
+      "similarity": "fuzzy_slug_80%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 29247,
+      "modelName": "ALHAMBRA II",
+      "modelSlug": "alhambra-ii",
+      "matchedToBrand": "SEAT",
+      "brandId": 753,
+      "brandSlug": "seat",
+      "similarity": "fuzzy_slug_73%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 29256,
+      "modelName": "ALLROAD",
+      "modelSlug": "allroad",
+      "matchedToBrand": "AUDI",
+      "brandId": 554,
+      "brandSlug": "audi",
+      "similarity": "fuzzy_slug_70%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 29541,
+      "modelName": "AVENSIS I",
+      "modelSlug": "avensis-i",
+      "matchedToBrand": "TOYOTA",
+      "brandId": 773,
+      "brandSlug": "toyota",
+      "similarity": "fuzzy_slug_78%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 29542,
+      "modelName": "AVENSIS II",
+      "modelSlug": "avensis-ii",
+      "matchedToBrand": "TOYOTA",
+      "brandId": 773,
+      "brandSlug": "toyota",
+      "similarity": "fuzzy_slug_70%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 29707,
+      "modelName": "BERLINGO I",
+      "modelSlug": "berlingo-i",
+      "matchedToBrand": "CITROEN",
+      "brandId": 590,
+      "brandSlug": "citroen",
+      "similarity": "fuzzy_slug_80%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 29709,
+      "modelName": "BERLINGO II",
+      "modelSlug": "berlingo-ii",
+      "matchedToBrand": "CITROEN",
+      "brandId": 590,
+      "brandSlug": "citroen",
+      "similarity": "fuzzy_slug_73%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 29944,
+      "modelName": "C1 I",
+      "modelSlug": "c1-i",
+      "matchedToBrand": "CITROEN",
+      "brandId": 590,
+      "brandSlug": "citroen",
+      "similarity": "fuzzy_slug_80%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 30115,
+      "modelName": "CAPTIVA I",
+      "modelSlug": "captiva-i",
+      "matchedToBrand": "CHEVROLET",
+      "brandId": 587,
+      "brandSlug": "chevrolet",
+      "similarity": "fuzzy_slug_78%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 30126,
+      "modelName": "CARENS II",
+      "modelSlug": "carens-ii",
+      "matchedToBrand": "KIA",
+      "brandId": 665,
+      "brandSlug": "kia",
+      "similarity": "fuzzy_slug_89%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 30128,
+      "modelName": "CARENS III",
+      "modelSlug": "carens-iii",
+      "matchedToBrand": "KIA",
+      "brandId": 665,
+      "brandSlug": "kia",
+      "similarity": "fuzzy_slug_80%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 30134,
+      "modelName": "CARINA E",
+      "modelSlug": "carina-e",
+      "matchedToBrand": "TOYOTA",
+      "brandId": 773,
+      "brandSlug": "toyota",
+      "similarity": "fuzzy_slug_73%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 30372,
+      "modelName": "CHEROKEE I",
+      "modelSlug": "cherokee-i",
+      "matchedToBrand": "JEEP",
+      "brandId": 661,
+      "brandSlug": "jeep",
+      "similarity": "fuzzy_slug_80%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 30373,
+      "modelName": "CHEROKEE II",
+      "modelSlug": "cherokee-ii",
+      "matchedToBrand": "JEEP",
+      "brandId": 661,
+      "brandSlug": "jeep",
+      "similarity": "fuzzy_slug_73%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 30505,
+      "modelName": "COLT VII",
+      "modelSlug": "colt-vii",
+      "matchedToBrand": "MITSUBISHI",
+      "brandId": 705,
+      "brandSlug": "mitsubishi",
+      "similarity": "fuzzy_slug_88%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 30516,
+      "modelName": "COMBO MK II",
+      "modelSlug": "combo-mk-ii",
+      "matchedToBrand": "VAUXHALL",
+      "brandId": 779,
+      "brandSlug": "vauxhall",
+      "similarity": "fuzzy_slug_91%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 30517,
+      "modelName": "COMBO MK III",
+      "modelSlug": "combo-mk-iii",
+      "matchedToBrand": "VAUXHALL",
+      "brandId": 779,
+      "brandSlug": "vauxhall",
+      "similarity": "fuzzy_slug_83%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 30518,
+      "modelName": "COMBO MK IV",
+      "modelSlug": "combo-mk-iv",
+      "matchedToBrand": "VAUXHALL",
+      "brandId": 779,
+      "brandSlug": "vauxhall",
+      "similarity": "fuzzy_slug_91%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 30556,
+      "modelName": "CORDOBA I",
+      "modelSlug": "cordoba-i",
+      "matchedToBrand": "SEAT",
+      "brandId": 753,
+      "brandSlug": "seat",
+      "similarity": "fuzzy_slug_78%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 30557,
+      "modelName": "CORDOBA II",
+      "modelSlug": "cordoba-ii",
+      "matchedToBrand": "SEAT",
+      "brandId": 753,
+      "brandSlug": "seat",
+      "similarity": "fuzzy_slug_70%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 30578,
+      "modelName": "COROLLA IV",
+      "modelSlug": "corolla-iv",
+      "matchedToBrand": "TOYOTA",
+      "brandId": 773,
+      "brandSlug": "toyota",
+      "similarity": "fuzzy_slug_70%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 30579,
+      "modelName": "COROLLA IX",
+      "modelSlug": "corolla-ix",
+      "matchedToBrand": "TOYOTA",
+      "brandId": 773,
+      "brandSlug": "toyota",
+      "similarity": "fuzzy_slug_70%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 30584,
+      "modelName": "COROLLA V",
+      "modelSlug": "corolla-v",
+      "matchedToBrand": "TOYOTA",
+      "brandId": 773,
+      "brandSlug": "toyota",
+      "similarity": "fuzzy_slug_78%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 30586,
+      "modelName": "COROLLA VI",
+      "modelSlug": "corolla-vi",
+      "matchedToBrand": "TOYOTA",
+      "brandId": 773,
+      "brandSlug": "toyota",
+      "similarity": "fuzzy_slug_70%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 30590,
+      "modelName": "COROLLA X",
+      "modelSlug": "corolla-x",
+      "matchedToBrand": "TOYOTA",
+      "brandId": 773,
+      "brandSlug": "toyota",
+      "similarity": "fuzzy_slug_78%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 30591,
+      "modelName": "COROLLA XI",
+      "modelSlug": "corolla-xi",
+      "matchedToBrand": "TOYOTA",
+      "brandId": 773,
+      "brandSlug": "toyota",
+      "similarity": "fuzzy_slug_70%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 30691,
+      "modelName": "CROMA I",
+      "modelSlug": "croma-i",
+      "matchedToBrand": "DAIMLER",
+      "brandId": 597,
+      "brandSlug": "daimler",
+      "similarity": "fuzzy_slug_71%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 30705,
+      "modelName": "CROSSTOUR",
+      "modelSlug": "crosstour",
+      "matchedToBrand": "HONDA",
+      "brandId": 641,
+      "brandSlug": "honda",
+      "similarity": "fuzzy_slug_82%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 31140,
+      "modelName": "DUSTER I",
+      "modelSlug": "duster-i",
+      "matchedToBrand": "RENAULT",
+      "brandId": 106,
+      "brandSlug": "renault",
+      "similarity": "fuzzy_slug_75%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 31393,
+      "modelName": "ESCORT VII",
+      "modelSlug": "escort-vii",
+      "matchedToBrand": "DAIMLER",
+      "brandId": 597,
+      "brandSlug": "daimler",
+      "similarity": "fuzzy_slug_90%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 31675,
+      "modelName": "FIORINO I",
+      "modelSlug": "fiorino-i",
+      "matchedToBrand": "DAIMLER",
+      "brandId": 597,
+      "brandSlug": "daimler",
+      "similarity": "fuzzy_slug_78%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 31676,
+      "modelName": "FIORINO II",
+      "modelSlug": "fiorino-ii",
+      "matchedToBrand": "DAIMLER",
+      "brandId": 597,
+      "brandSlug": "daimler",
+      "similarity": "fuzzy_slug_70%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 31871,
+      "modelName": "FREELANDER II",
+      "modelSlug": "freelander-ii",
+      "matchedToBrand": "LAND ROVER",
+      "brandId": 671,
+      "brandSlug": "land-rover",
+      "similarity": "fuzzy_slug_92%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 32135,
+      "modelName": "GHOST II",
+      "modelSlug": "ghost-ii",
+      "matchedToBrand": "ROLLS ROYCE",
+      "brandId": 744,
+      "brandSlug": "rolls-royce",
+      "similarity": "fuzzy_slug_88%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 32271,
+      "modelName": "GRANDE PUNTO 199",
+      "modelSlug": "grande-punto-199",
+      "matchedToBrand": "FIAT",
+      "brandId": 614,
+      "brandSlug": "fiat",
+      "similarity": "fuzzy_slug_75%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 32845,
+      "modelName": "KA II",
+      "modelSlug": "ka-ii",
+      "matchedToBrand": "DAIMLER",
+      "brandId": 597,
+      "brandSlug": "daimler",
+      "similarity": "fuzzy_slug_83%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 33118,
+      "modelName": "LEONE",
+      "modelSlug": "leone",
+      "matchedToBrand": "SEAT",
+      "brandId": 753,
+      "brandSlug": "seat",
+      "similarity": "fuzzy_slug_80%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 34114,
+      "modelName": "OUTBACK I",
+      "modelSlug": "outback-i",
+      "matchedToBrand": "SUBARU",
+      "brandId": 762,
+      "brandSlug": "subaru",
+      "similarity": "fuzzy_slug_78%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 34116,
+      "modelName": "OUTBACK IV",
+      "modelSlug": "outback-iv",
+      "matchedToBrand": "SUBARU",
+      "brandId": 762,
+      "brandSlug": "subaru",
+      "similarity": "fuzzy_slug_70%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 34117,
+      "modelName": "OUTBACK V",
+      "modelSlug": "outback-v",
+      "matchedToBrand": "SUBARU",
+      "brandId": 762,
+      "brandSlug": "subaru",
+      "similarity": "fuzzy_slug_78%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 34179,
+      "modelName": "PANDA I",
+      "modelSlug": "panda-i",
+      "matchedToBrand": "FIAT",
+      "brandId": 614,
+      "brandSlug": "fiat",
+      "similarity": "fuzzy_slug_71%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 34235,
+      "modelName": "PATHFINDER",
+      "modelSlug": "pathfinder",
+      "matchedToBrand": "NISSAN",
+      "brandId": 713,
+      "brandSlug": "nissan",
+      "similarity": "fuzzy_slug_77%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 34272,
+      "modelName": "PHANTOM VIII",
+      "modelSlug": "phantom-viii",
+      "matchedToBrand": "ROLLS ROYCE",
+      "brandId": 744,
+      "brandSlug": "rolls-royce",
+      "similarity": "fuzzy_slug_92%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 34383,
+      "modelName": "PRIMERA II",
+      "modelSlug": "primera-ii",
+      "matchedToBrand": "NISSAN",
+      "brandId": 713,
+      "brandSlug": "nissan",
+      "similarity": "fuzzy_slug_70%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 34448,
+      "modelName": "PUNTO I",
+      "modelSlug": "punto-i",
+      "matchedToBrand": "FIAT",
+      "brandId": 614,
+      "brandSlug": "fiat",
+      "similarity": "fuzzy_slug_71%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 34858,
+      "modelName": "RX II",
+      "modelSlug": "rx-ii",
+      "matchedToBrand": "HONDA",
+      "brandId": 641,
+      "brandSlug": "honda",
+      "similarity": "fuzzy_slug_71%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 35347,
+      "modelName": "SPACETOURER",
+      "modelSlug": "spacetourer",
+      "matchedToBrand": "CITROEN",
+      "brandId": 590,
+      "brandSlug": "citroen",
+      "similarity": "fuzzy_slug_79%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 35367,
+      "modelName": "SPORTAGE I",
+      "modelSlug": "sportage-i",
+      "matchedToBrand": "KIA",
+      "brandId": 665,
+      "brandSlug": "kia",
+      "similarity": "fuzzy_slug_91%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 36009,
+      "modelName": "TOURNEO CONNECT II",
+      "modelSlug": "tourneo-connect-ii",
+      "matchedToBrand": "DAIMLER",
+      "brandId": 597,
+      "brandSlug": "daimler",
+      "similarity": "fuzzy_slug_83%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 36010,
+      "modelName": "TOURNEO CONNECT III",
+      "modelSlug": "tourneo-connect-iii",
+      "matchedToBrand": "DAIMLER",
+      "brandId": 597,
+      "brandSlug": "daimler",
+      "similarity": "fuzzy_slug_79%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 36089,
+      "modelName": "TRANSIT CONNECT I",
+      "modelSlug": "transit-connect-i",
+      "matchedToBrand": "FORD",
+      "brandId": 616,
+      "brandSlug": "ford",
+      "similarity": "fuzzy_slug_88%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 36090,
+      "modelName": "TRANSIT CONNECT II",
+      "modelSlug": "transit-connect-ii",
+      "matchedToBrand": "FORD",
+      "brandId": 616,
+      "brandSlug": "ford",
+      "similarity": "fuzzy_slug_83%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 36091,
+      "modelName": "TRANSIT CONNECT III",
+      "modelSlug": "transit-connect-iii",
+      "matchedToBrand": "FORD",
+      "brandId": 616,
+      "brandSlug": "ford",
+      "similarity": "fuzzy_slug_79%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 36153,
+      "modelName": "TRIBECA B9",
+      "modelSlug": "tribeca-b9",
+      "matchedToBrand": "SUBARU",
+      "brandId": 762,
+      "brandSlug": "subaru",
+      "similarity": "fuzzy_slug_70%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 36185,
+      "modelName": "TUCSON I",
+      "modelSlug": "tucson-i",
+      "matchedToBrand": "HYUNDAI",
+      "brandId": 648,
+      "brandSlug": "hyundai",
+      "similarity": "fuzzy_slug_75%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 36319,
+      "modelName": "ULYSSE I",
+      "modelSlug": "ulysse-i",
+      "matchedToBrand": "DAIMLER",
+      "brandId": 597,
+      "brandSlug": "daimler",
+      "similarity": "fuzzy_slug_75%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 36433,
+      "modelName": "VECTRA MK I",
+      "modelSlug": "vectra-mk-i",
+      "matchedToBrand": "VAUXHALL",
+      "brandId": 779,
+      "brandSlug": "vauxhall",
+      "similarity": "fuzzy_slug_92%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 36857,
+      "modelName": "XC60 I",
+      "modelSlug": "xc60-i",
+      "matchedToBrand": "VOLVO",
+      "brandId": 781,
+      "brandSlug": "volvo",
+      "similarity": "fuzzy_slug_86%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 36874,
+      "modelName": "XEDOS",
+      "modelSlug": "xedos",
+      "matchedToBrand": "MAZDA",
+      "brandId": 693,
+      "brandSlug": "mazda",
+      "similarity": "fuzzy_slug_71%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 37073,
+      "modelName": "YARIS I",
+      "modelSlug": "yaris-i",
+      "matchedToBrand": "TOYOTA",
+      "brandId": 773,
+      "brandSlug": "toyota",
+      "similarity": "fuzzy_slug_71%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 37113,
+      "modelName": "YPSILON I",
+      "modelSlug": "ypsilon-i",
+      "matchedToBrand": "LANCIA",
+      "brandId": 670,
+      "brandSlug": "lancia",
+      "similarity": "fuzzy_slug_78%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 37114,
+      "modelName": "YPSILON II",
+      "modelSlug": "ypsilon-ii",
+      "matchedToBrand": "LANCIA",
+      "brandId": 670,
+      "brandSlug": "lancia",
+      "similarity": "fuzzy_slug_70%",
+      "action": "REVIEW_REQUIRED"
+    },
+    {
+      "modelId": 37203,
+      "modelName": "ZAFIRA Mk I",
+      "modelSlug": "zafira-mk-i",
+      "matchedToBrand": "VAUXHALL",
+      "brandId": 779,
+      "brandSlug": "vauxhall",
+      "similarity": "fuzzy_slug_92%",
+      "action": "REVIEW_REQUIRED"
+    }
+  ]
+}

@@ -7,8 +7,8 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 34,
-  "exportDate": "2026-01-06T19:34:16.976Z",
+  "modelCount": 50,
+  "exportDate": "2026-01-07T09:17:53.875Z",
   "models": [
     {
       "id": 28149,
@@ -35,6 +35,14 @@
       "isActive": true
     },
     {
+      "id": 28375,
+      "documentId": "t8kftxylxxd4da7y2jg4xe1q",
+      "name": "200 I Saloon",
+      "slug": "200-i-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 28376,
       "documentId": "e70xoz6gy7p4sqs9z9vod50o",
       "name": "200 II Convertible",
@@ -51,10 +59,34 @@
       "isActive": true
     },
     {
+      "id": 28390,
+      "documentId": "owkwjtu2t81xnlsxe71kvt84",
+      "name": "2000-3500",
+      "slug": "2000-3500",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28391,
+      "documentId": "jed6dwh72gnbrtv62yau5ip7",
+      "name": "2000-3500 Hatchback",
+      "slug": "2000-3500-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 28468,
       "documentId": "g7y9tp44kvao78la5pg666ap",
       "name": "25",
       "slug": "25",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28469,
+      "documentId": "huxufbu426l7328t1lv8j5pt",
+      "name": "25 COMMERCE",
+      "slug": "25-commerce",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -171,10 +203,66 @@
       "isActive": true
     },
     {
+      "id": 29138,
+      "documentId": "ci6qw6wib8dss8wfabteyzk5",
+      "name": "A60 CAMBRIDGE",
+      "slug": "a60-cambridge",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30302,
+      "documentId": "wwnn2srbd4vb5sb8qem28cbd",
+      "name": "CDV",
+      "slug": "cdv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30410,
+      "documentId": "a7942juch8nkl0p0elhb3mm7",
+      "name": "CITYROVER Hatchback",
+      "slug": "cityrover-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 30643,
       "documentId": "sb2gsf5xbnqup9uoisp3xw41",
       "name": "COUPE",
       "slug": "coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30644,
+      "documentId": "ngghsaxy2ko02ldt6msil3dy",
+      "name": "COUPE",
+      "slug": "hyundai-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30645,
+      "documentId": "mkt0j9kpafmb824x89gi202u",
+      "name": "COUPE",
+      "slug": "mega-aixam-mega-france-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33309,
+      "documentId": "q0jhqoaao7kmknyqgpzv8ihs",
+      "name": "MAESTRO Hatchback",
+      "slug": "maestro-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33473,
+      "documentId": "ya96sfqfv9tzd2z0ug4wm3d2",
+      "name": "METRO Hatchback Van",
+      "slug": "metro-hatchback-van",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -199,6 +287,46 @@
       "documentId": "ysl58q25i36yepwo4mkyte0m",
       "name": "MINI Hatchback",
       "slug": "mini-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33553,
+      "documentId": "avb95v6j2d7fpl433z3e7gqb",
+      "name": "MINI-MOKE",
+      "slug": "mini-moke",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33628,
+      "documentId": "hxilsigxah4q5sqyt14imyix",
+      "name": "MONTEGO",
+      "slug": "montego",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33629,
+      "documentId": "difja19qfftnvp1m2qyg3rxb",
+      "name": "MONTEGO Estate",
+      "slug": "montego-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34646,
+      "documentId": "zwjbfglz2404crb2epavfmif",
+      "name": "RANGE ROVER EVOQUE I",
+      "slug": "range-rover-evoque-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34848,
+      "documentId": "qj4rpcbwhgnbgj7hums78y2i",
+      "name": "RV8",
+      "slug": "rv8",
       "vehicle_type": "car",
       "isActive": true
     },

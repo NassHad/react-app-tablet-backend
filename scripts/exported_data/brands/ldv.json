@@ -7,7 +7,184 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.895Z",
-  "models": []
+  "modelCount": 22,
+  "exportDate": "2026-01-07T09:17:53.838Z",
+  "models": [
+    {
+      "id": 28370,
+      "documentId": "k8hnhnklpnyfokdeikapj9bl",
+      "name": "200 Bus",
+      "slug": "200-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28378,
+      "documentId": "n6rd525nmpnz1fpn4cnjhwvn",
+      "name": "200 Platform/Chassis",
+      "slug": "200-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28380,
+      "documentId": "v07qo8r57r9ufajbm0igj69q",
+      "name": "200 Van",
+      "slug": "200-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28675,
+      "documentId": "zlvozlsac0d05tsa3557ki9t",
+      "name": "400 Bus",
+      "slug": "400-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28678,
+      "documentId": "h8qf2ivw6p39qsp62z8g9lpg",
+      "name": "400 Platform/Chassis",
+      "slug": "400-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28680,
+      "documentId": "tyncv8650i562z8k0mwtiwes",
+      "name": "400 Van",
+      "slug": "400-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30548,
+      "documentId": "jaai51bffa9m28q99eu8u0c3",
+      "name": "CONVOY Bus",
+      "slug": "convoy-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30549,
+      "documentId": "fsy9aa8gv5dydydpmbuig40i",
+      "name": "CONVOY Platform/Chassis",
+      "slug": "convoy-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30550,
+      "documentId": "hqee5apxxcbxzxtj6rkj9k7e",
+      "name": "CONVOY Van",
+      "slug": "convoy-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30734,
+      "documentId": "qx4sdhri3fmph4keqgq0yejh",
+      "name": "CUB",
+      "slug": "cub",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31874,
+      "documentId": "uixdjoedo0tyukwnukt38vk4",
+      "name": "FREIGHT ROVER SHERPA Bus",
+      "slug": "freight-rover-sherpa-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31875,
+      "documentId": "q2ipcd7el8y5q0aedv5901mt",
+      "name": "FREIGHT ROVER SHERPA Platform/Chassis",
+      "slug": "freight-rover-sherpa-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31876,
+      "documentId": "tf7p4bwe0788kmqrmdsawi3i",
+      "name": "FREIGHT ROVER SHERPA Van",
+      "slug": "freight-rover-sherpa-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33409,
+      "documentId": "l55pmfil700w16953g1hjcuo",
+      "name": "MAXUS Bus",
+      "slug": "maxus-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33410,
+      "documentId": "h957sxm85len90mozuhsw7kr",
+      "name": "MAXUS Platform/Chassis",
+      "slug": "maxus-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33411,
+      "documentId": "e9ub5boxvutmfjfl6obduuhe",
+      "name": "MAXUS Van",
+      "slug": "maxus-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34288,
+      "documentId": "fz27j9n5v0syrgxaxuiqjsn5",
+      "name": "PILOT Bus",
+      "slug": "pilot-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34289,
+      "documentId": "jjbc540jfbhtbl0aqixe2bbh",
+      "name": "PILOT Platform/Chassis",
+      "slug": "pilot-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34290,
+      "documentId": "eyvu5498m5rqcx229wnzucw6",
+      "name": "PILOT Van",
+      "slug": "pilot-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35166,
+      "documentId": "ucadiko2esl0i4f686oi08kb",
+      "name": "SHERPA Bus",
+      "slug": "sherpa-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35167,
+      "documentId": "lr1njoog7gw5e8916y3w0eil",
+      "name": "SHERPA Platform/Chassis",
+      "slug": "sherpa-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35168,
+      "documentId": "r9g0w9arjxgrim8hicaxy59r",
+      "name": "SHERPA Van",
+      "slug": "sherpa-van",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

@@ -7,7 +7,48 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.948Z",
-  "models": []
+  "modelCount": 5,
+  "exportDate": "2026-01-07T09:17:53.866Z",
+  "models": [
+    {
+      "id": 29334,
+      "documentId": "fdf44kh51ln64w90hvfwyr8w",
+      "name": "APE CALESSINO Convertible",
+      "slug": "ape-calessino-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29336,
+      "documentId": "j5brez6piym7ojlzdlpsy5qq",
+      "name": "APE CLASSIC Platform/Chassis",
+      "slug": "ape-classic-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29337,
+      "documentId": "scdq794cc3m5h9qgwyxjxz0p",
+      "name": "APE TM Platform/Chassis",
+      "slug": "ape-tm-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29338,
+      "documentId": "o9duud3u564fbdbh3od4bkn0",
+      "name": "APE TM Van",
+      "slug": "ape-tm-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33301,
+      "documentId": "b2b8vr285hsls7dsq6s9bokw",
+      "name": "M500",
+      "slug": "m500",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

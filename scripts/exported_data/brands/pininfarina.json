@@ -7,7 +7,16 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.948Z",
-  "models": []
+  "modelCount": 1,
+  "exportDate": "2026-01-07T09:17:53.866Z",
+  "models": [
+    {
+      "id": 35359,
+      "documentId": "rc0hhn05dxhicf7jfj90uyzo",
+      "name": "SPIDEREUROPA",
+      "slug": "spidereuropa",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

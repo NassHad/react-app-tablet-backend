@@ -7,7 +7,48 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.940Z",
-  "models": []
+  "modelCount": 5,
+  "exportDate": "2026-01-07T09:17:53.862Z",
+  "models": [
+    {
+      "id": 29293,
+      "documentId": "xi6b9nqnuv6ihz39a0i9zs0u",
+      "name": "ALZA",
+      "slug": "alza",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32884,
+      "documentId": "hhg5zeiah4tjw5u6lf60npap",
+      "name": "KANCIL",
+      "slug": "kancil",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32915,
+      "documentId": "k40g09zccb2ilpf95wzm390x",
+      "name": "KELISA",
+      "slug": "kelisa",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32916,
+      "documentId": "lo0tcwvg2s6iyfdtnp5v6zaf",
+      "name": "KENARI",
+      "slug": "kenari",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33772,
+      "documentId": "q9mamr4ell994ycg66gobtwi",
+      "name": "MYVI",
+      "slug": "myvi",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

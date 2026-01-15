@@ -7,7 +7,72 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.851Z",
-  "models": []
+  "modelCount": 8,
+  "exportDate": "2026-01-07T09:17:53.810Z",
+  "models": [
+    {
+      "id": 32070,
+      "documentId": "e4616om5x8eyln7mi9qjf2h2",
+      "name": "G70",
+      "slug": "g70",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32071,
+      "documentId": "zj200gb0kg29gu74ngfoa24j",
+      "name": "G70 Shooting Brake",
+      "slug": "g70-shooting-brake",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32072,
+      "documentId": "qg9366okaau33mnfnf0cbuoo",
+      "name": "G80",
+      "slug": "g80",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32073,
+      "documentId": "u8gcf14y4szx93svgbdzqxq5",
+      "name": "G90/G90L",
+      "slug": "g90-g90l",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32125,
+      "documentId": "rnf4u3qzde3iniakdbd4h4vo",
+      "name": "GENESIS I",
+      "slug": "genesis-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32454,
+      "documentId": "za8maj9kkzog6xxoe5mo0tgw",
+      "name": "GV60",
+      "slug": "gv60",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32455,
+      "documentId": "ornbls8ynsre78m0q1lcccaq",
+      "name": "GV70",
+      "slug": "gv70",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32456,
+      "documentId": "zms0b7oz844knmrgix07lru9",
+      "name": "GV80 SUV",
+      "slug": "gv80-suv",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

@@ -7,9 +7,41 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 4,
-  "exportDate": "2026-01-06T19:34:16.899Z",
+  "modelCount": 18,
+  "exportDate": "2026-01-07T09:17:53.840Z",
   "models": [
+    {
+      "id": 28356,
+      "documentId": "uqrzh0ib8qzu2777rxj0pgd4",
+      "name": "2 ELEVEN",
+      "slug": "2-eleven",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28504,
+      "documentId": "rlvktv6xpehz2dqg36ic8a97",
+      "name": "3 ELEVEN Convertible",
+      "slug": "3-eleven-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31270,
+      "documentId": "ytpxpiqjihsf1rm7gro4vc61",
+      "name": "ECLAT",
+      "slug": "eclat",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31301,
+      "documentId": "a9rjeqvh194mudgvfz10xnox",
+      "name": "ELAN",
+      "slug": "elan",
+      "vehicle_type": "car",
+      "isActive": true
+    },
     {
       "id": 31316,
       "documentId": "gs128dbafek9dgjalbi6t4v3",
@@ -19,10 +51,90 @@
       "isActive": true
     },
     {
+      "id": 31317,
+      "documentId": "d3tm26mu7limax7lj4yvxh05",
+      "name": "ELISE 340 R",
+      "slug": "elise-340-r",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31318,
+      "documentId": "aopxa9hg7mbfq903e3uznvck",
+      "name": "ELITE",
+      "slug": "elite",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31322,
+      "documentId": "pblftyfdm6dl1xkvu85kv994",
+      "name": "EMIRA",
+      "slug": "emira",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31404,
+      "documentId": "xxdc76frr85c8oy14ih5injh",
+      "name": "ESPRIT S2",
+      "slug": "esprit-s2",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31405,
+      "documentId": "vl6hn4ag62ibshkifcm6bvll",
+      "name": "ESPRIT S3",
+      "slug": "esprit-s3",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 31406,
       "documentId": "um070tnrkd79jl8el3rpkv4t",
       "name": "ESPRIT S4",
       "slug": "esprit-s4",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31417,
+      "documentId": "e2enhtyzdnfdu44ormqdjwtp",
+      "name": "EUROPA",
+      "slug": "europa",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31418,
+      "documentId": "l3tz4plimzsvjhimftibzafh",
+      "name": "EUROPA S",
+      "slug": "europa-s",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31458,
+      "documentId": "fiddy312kl3xayl4yytcm38x",
+      "name": "EXCEL",
+      "slug": "hyundai-excel",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31463,
+      "documentId": "qblf49p24kxwyh52zeyig6jk",
+      "name": "EXIGE",
+      "slug": "exige",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31464,
+      "documentId": "pen9em6beb5egc46clr4efuh",
+      "name": "EXIGE Convertible",
+      "slug": "exige-convertible",
       "vehicle_type": "car",
       "isActive": true
     },

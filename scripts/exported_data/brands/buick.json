@@ -7,7 +7,96 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.800Z",
-  "models": []
+  "modelCount": 11,
+  "exportDate": "2026-01-07T09:17:53.778Z",
+  "models": [
+    {
+      "id": 30329,
+      "documentId": "w9q2h99cev6q8s5y7ll6027l",
+      "name": "CENTURY Coupe",
+      "slug": "century-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30330,
+      "documentId": "p31j8nt94fkbtx4yq4wxfgfl",
+      "name": "CENTURY Estate",
+      "slug": "century-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30331,
+      "documentId": "s589dxpsax9kaz5hm3raa0qu",
+      "name": "CENTURY Saloon",
+      "slug": "century-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31312,
+      "documentId": "jfa8i15rol9ejlgingyepcbz",
+      "name": "ELECTRA",
+      "slug": "electra",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33126,
+      "documentId": "niz5kxwk8awl2cyab96kod78",
+      "name": "LESABRE",
+      "slug": "lesabre",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34188,
+      "documentId": "ihl6yegjpch5cc2gxtb6ro5l",
+      "name": "PARK AVENUE",
+      "slug": "park-avenue",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34693,
+      "documentId": "r7jvavro8fx66nwdz70qbnqy",
+      "name": "REGAL",
+      "slug": "regal",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34768,
+      "documentId": "q32p89qpwhhn0pc2vgcg78qi",
+      "name": "RIVIERA Convertible",
+      "slug": "riviera-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34769,
+      "documentId": "t90gwz7ot4217tg2yblcc15b",
+      "name": "RIVIERA Coupe",
+      "slug": "riviera-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35251,
+      "documentId": "to0t6sgzm5yfxign57bo2p0a",
+      "name": "SKYLARK",
+      "slug": "skylark",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35252,
+      "documentId": "soj0ecyrlxa8wjyq55x6krej",
+      "name": "SKYLARK Coupe",
+      "slug": "skylark-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

@@ -7,14 +7,22 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 22,
-  "exportDate": "2026-01-06T19:34:16.996Z",
+  "modelCount": 34,
+  "exportDate": "2026-01-07T09:17:53.882Z",
   "models": [
     {
       "id": 29195,
       "documentId": "qcbk1i29o2s49uq3unk4d8qk",
       "name": "ACTYON I",
       "slug": "actyon-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29196,
+      "documentId": "p7hmyilfsmr6dufm2vrglc2v",
+      "name": "ACTYON II",
+      "slug": "actyon-ii",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -27,6 +35,14 @@
       "isActive": true
     },
     {
+      "id": 29198,
+      "documentId": "ui2jlq0r2letc3zhlv40aoqu",
+      "name": "ACTYON SPORTS II",
+      "slug": "actyon-sports-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 29575,
       "documentId": "jgdhar3wv7dwa2frk4iaycye",
       "name": "Actyon / Pick Up Sport / SUT-1",
@@ -35,10 +51,34 @@
       "isActive": true
     },
     {
+      "id": 30355,
+      "documentId": "jm8x8lrxykhmfyj8lzh0qvjr",
+      "name": "CHAIRMAN",
+      "slug": "chairman",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 32011,
       "documentId": "xzj7pxbdy09l6hd1zllnw3pj",
       "name": "Family",
       "slug": "family",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32717,
+      "documentId": "dts5rkwx5a0qq83k90dcitlw",
+      "name": "ISTANA Bus",
+      "slug": "istana-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32718,
+      "documentId": "vi9t91vh9xrye4xhc8pck1ci",
+      "name": "ISTANA Van",
+      "slug": "istana-van",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -67,10 +107,34 @@
       "isActive": true
     },
     {
+      "id": 32950,
+      "documentId": "nfhzgl8z52y2gh949wvi6lq6",
+      "name": "KORANDO FAMILY",
+      "slug": "korando-family",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32951,
+      "documentId": "wkokp0ekek6mxrps94cz93vg",
+      "name": "KORANDO Open Off-Road Vehicle",
+      "slug": "korando-open-off-road-vehicle",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 32952,
       "documentId": "f6imw3ohnrh220ebd7xeyy20",
       "name": "KORANDO SPORTS",
       "slug": "korando-sports",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32953,
+      "documentId": "nk4ett5w5c22gjt5s6kwv9qd",
+      "name": "KORANDO VAN",
+      "slug": "korando-van",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -115,6 +179,14 @@
       "isActive": true
     },
     {
+      "id": 33951,
+      "documentId": "hs50iywsje6c4hrdhe3oq9tc",
+      "name": "NOMAD",
+      "slug": "nomad",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 34731,
       "documentId": "hq9r86yxa1wx5f9anfmrit0y",
       "name": "REXTON",
@@ -127,6 +199,14 @@
       "documentId": "khs15ea69iawnseybcx2d8dt",
       "name": "REXTON / REXTON II",
       "slug": "rexton-rexton-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34733,
+      "documentId": "wvce57klzwowhszk0up6uuag",
+      "name": "REXTON / REXTON II VAN",
+      "slug": "rexton-rexton-ii-van",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -179,10 +259,26 @@
       "isActive": true
     },
     {
+      "id": 35973,
+      "documentId": "g18x9l15uz0zjxxbwykpbk4z",
+      "name": "TIVOLI GRAND",
+      "slug": "tivoli-grand",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 36966,
       "documentId": "nfvoq2qy0m177oa92g6flfyd",
       "name": "XLV SUV",
       "slug": "xlv-suv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36967,
+      "documentId": "n2xbypd0v1eikopootr3uz8t",
+      "name": "XLV VAN",
+      "slug": "xlv-van",
       "vehicle_type": "car",
       "isActive": true
     }

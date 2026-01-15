@@ -7,7 +7,72 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:17.032Z",
-  "models": []
+  "modelCount": 8,
+  "exportDate": "2026-01-07T09:17:53.891Z",
+  "models": [
+    {
+      "id": 28143,
+      "documentId": "fa1k3afkmyfyy39kah7l59g6",
+      "name": "1.1",
+      "slug": "1-1",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28144,
+      "documentId": "zg3sz5w8iggazjkqpxa4gu4s",
+      "name": "1.1 Tramp",
+      "slug": "1-1-tramp",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28145,
+      "documentId": "dufviia0w26cn7ob2ufoskil",
+      "name": "1.1 Universal",
+      "slug": "1-1-universal",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34144,
+      "documentId": "knn30fh7t87i2za51ljrca7e",
+      "name": "P 601",
+      "slug": "p-601",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34145,
+      "documentId": "d5nzmewmgz36fscu2zmlr7p7",
+      "name": "P 601 Tramp",
+      "slug": "p-601-tramp",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34146,
+      "documentId": "v7336yo6a5i58c0ouogymnsb",
+      "name": "P 601 Universal",
+      "slug": "p-601-universal",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34147,
+      "documentId": "xal8lii1pcn3ymbhhjd2yfkw",
+      "name": "P 601 Van",
+      "slug": "p-601-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36053,
+      "documentId": "zv52hk5z0n2nbgc36af378cs",
+      "name": "TRABANT",
+      "slug": "trabant",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

@@ -7,9 +7,33 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 32,
-  "exportDate": "2026-01-06T19:34:16.922Z",
+  "modelCount": 75,
+  "exportDate": "2026-01-07T09:17:53.848Z",
   "models": [
+    {
+      "id": 28230,
+      "documentId": "ty829o6l28q98424zr0w5n0s",
+      "name": "123 Coupe",
+      "slug": "123-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28231,
+      "documentId": "e80jgw4qkvvx91b9p5dp77y6",
+      "name": "123 Saloon",
+      "slug": "123-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28232,
+      "documentId": "am49yod3zq1vlw983wmdzqe0",
+      "name": "123 T-Model",
+      "slug": "123-t-model",
+      "vehicle_type": "car",
+      "isActive": true
+    },
     {
       "id": 28342,
       "documentId": "z99k8mdxt1g6y4z0e620m66w",
@@ -75,6 +99,14 @@
       "isActive": true
     },
     {
+      "id": 29918,
+      "documentId": "ycpbvgvak80dayjpjfv3hesm",
+      "name": "C-CLASS All-Terrain",
+      "slug": "c-class-all-terrain",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 29921,
       "documentId": "je4hf0c1xszembksch7rnyqs",
       "name": "C-CLASS Coupe C 200 CDI",
@@ -91,6 +123,14 @@
       "isActive": true
     },
     {
+      "id": 30395,
+      "documentId": "zfow60njkd837krlj9csm3qe",
+      "name": "CITAN MPV",
+      "slug": "citan-mpv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 30456,
       "documentId": "tq2nt5zavad9k45fw57v1rsp",
       "name": "CL-Class 500/ 600",
@@ -99,10 +139,34 @@
       "isActive": true
     },
     {
+      "id": 30457,
+      "documentId": "fyn7u9x0xqzo0gl0v1qymg08",
+      "name": "CLA",
+      "slug": "cla",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 30460,
       "documentId": "skf3h3lhwvtc51vnlm6hbwab",
       "name": "CLA-Class",
       "slug": "cla-class",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30464,
+      "documentId": "gpbmq09ac7kqrfdnfmaoyjpq",
+      "name": "CLE",
+      "slug": "cle",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30465,
+      "documentId": "xouesmbh5c0xrwq5xxm20r2z",
+      "name": "CLE Convertible",
+      "slug": "cle-convertible",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -139,6 +203,62 @@
       "isActive": true
     },
     {
+      "id": 31239,
+      "documentId": "m3ykypkcmay90rwjj8nmx4bl",
+      "name": "E-CLASS Platform/Chassis",
+      "slug": "e-class-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31337,
+      "documentId": "ytg76qaxm3xrp8wkrh2gx22o",
+      "name": "EQE SUV",
+      "slug": "eqe-suv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31339,
+      "documentId": "hyjahz5ebdeli7w2iu6vh82k",
+      "name": "EQS SUV",
+      "slug": "eqs-suv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31340,
+      "documentId": "nhvu9jfi3c98nmzqp8k0en9k",
+      "name": "EQT",
+      "slug": "eqt",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31345,
+      "documentId": "mxij2lpwx9hdixrdwyt0y74i",
+      "name": "EQV",
+      "slug": "eqv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32056,
+      "documentId": "phd0l4kicj5ok5dzyotg6lyr",
+      "name": "G-CLASS Closed Off-Road Vehicle",
+      "slug": "g-class-closed-off-road-vehicle",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32057,
+      "documentId": "yqihskw69fflr0uzl05e67a0",
+      "name": "G-CLASS Platform/Chassis",
+      "slug": "g-class-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 32058,
       "documentId": "u7nvjy0so2rjls5ei51zi226",
       "name": "G-Class G / GE / GD",
@@ -171,6 +291,30 @@
       "isActive": true
     },
     {
+      "id": 32452,
+      "documentId": "vbl2oaxf0y9e0tvo7ud3d8sd",
+      "name": "GULLWING",
+      "slug": "gullwing",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32514,
+      "documentId": "ng41fh2cgpzvqos7x622ms24",
+      "name": "HECKFLOSSE",
+      "slug": "heckflosse",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32516,
+      "documentId": "qhcoihsw430hkkfuuc6lz4bh",
+      "name": "HENSCHEL 2-t",
+      "slug": "henschel-2-t",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 33287,
       "documentId": "bqeuvk18tvlj6rc542w6vkcg",
       "name": "M-CLASS",
@@ -187,10 +331,58 @@
       "isActive": true
     },
     {
+      "id": 34151,
+      "documentId": "ses3xvl837itcwe92lq64rlt",
+      "name": "PAGODE",
+      "slug": "pagode",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34337,
+      "documentId": "cgib3lkofdyxjz3dgusxyhll",
+      "name": "PONTON",
+      "slug": "ponton",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34433,
+      "documentId": "u2mk8j2l27ikd81oeuonkgqo",
+      "name": "PULLMANN",
+      "slug": "pullmann",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34945,
+      "documentId": "qcuxu1n44mamea6tdoycqgz5",
+      "name": "S-CLASS Saloon",
+      "slug": "s-class-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 34947,
       "documentId": "fhm45cznqza4tf54t8h93no0",
       "name": "S-Class SE/ SEL",
       "slug": "s-class-se-sel",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35264,
+      "documentId": "efn9atj2zarbomth0ar16j2p",
+      "name": "SL Coupe",
+      "slug": "sl-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35265,
+      "documentId": "a72rifhfyz6bfdbkb03ovtcs",
+      "name": "SL Roadster",
+      "slug": "sl-roadster",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -227,6 +419,14 @@
       "isActive": true
     },
     {
+      "id": 35385,
+      "documentId": "hp9twz4i8n1t2opzfi5c584w",
+      "name": "SPRINTER 3,5-t Platform/Chassis",
+      "slug": "sprinter-3-5-t-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 35393,
       "documentId": "gmxky0dkaq9oy8wu09akc44r",
       "name": "SPRINTER 4",
@@ -235,10 +435,146 @@
       "isActive": true
     },
     {
+      "id": 35395,
+      "documentId": "xxfy5lhfbxhpn35g5sn4ae0n",
+      "name": "SPRINTER 4,6-t Platform/Chassis",
+      "slug": "sprinter-4-6-t-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35400,
+      "documentId": "f9sla291wejdkp6jbngc6a0g",
+      "name": "SPRINTER 4-t Tourer Bus",
+      "slug": "sprinter-4-t-tourer-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35402,
+      "documentId": "g9mnyuxpj9g58f6s7ez00o9t",
+      "name": "SPRINTER 5-t Bus",
+      "slug": "sprinter-5-t-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35404,
+      "documentId": "n9j5qb3tpqmrmepmerlknm0s",
+      "name": "SPRINTER 5-t Platform/Chassis",
+      "slug": "sprinter-5-t-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35405,
+      "documentId": "ylikqk3pkrywh8qz3kbc95l8",
+      "name": "SPRINTER 5-t Tourer Bus",
+      "slug": "sprinter-5-t-tourer-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35409,
+      "documentId": "muhviw6lysthqwn2khbdd4c1",
+      "name": "SPRINTER CLASSIC 3,5-t Van",
+      "slug": "sprinter-classic-3-5-t-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35411,
+      "documentId": "mqdh392u3axxlqpn93g4pcqt",
+      "name": "SPRINTER CLASSIC 4,6-t Bus",
+      "slug": "sprinter-classic-4-6-t-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35412,
+      "documentId": "zj9gacb9qhezd6ldop7t4oh4",
+      "name": "SPRINTER CLASSIC 4,6-t Van",
+      "slug": "sprinter-classic-4-6-t-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 35732,
       "documentId": "u6ycpgy8swz4e344qc3n9xa6",
       "name": "Sprinter",
       "slug": "sprinter",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35784,
+      "documentId": "qnbx7uqievqetsodzqpu49k5",
+      "name": "T-CLASS MPV",
+      "slug": "t-class-mpv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35792,
+      "documentId": "rs1nv14gy836qim0twsi15yy",
+      "name": "T1 Platform/Chassis",
+      "slug": "t1-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35794,
+      "documentId": "mmtwb0wsi4kxbg0fg9ftn21f",
+      "name": "T1 Van",
+      "slug": "t1-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35795,
+      "documentId": "ss4vwwrkst1511ijz2rd0ard",
+      "name": "T1/TN Platform/Chassis",
+      "slug": "t1-tn-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35796,
+      "documentId": "n3rkm6ai7q1ytsp65avmxyk3",
+      "name": "T1/TN Van",
+      "slug": "t1-tn-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35798,
+      "documentId": "bt44gc3pf82s2o03574smarj",
+      "name": "T2/L Municipal Vehicle",
+      "slug": "t2-l-municipal-vehicle",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35799,
+      "documentId": "kt10wx21wh3ea4hfr38kii87",
+      "name": "T2/L Platform/Chassis",
+      "slug": "t2-l-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35800,
+      "documentId": "o8idw1lslvefb2gp3x2n2jcq",
+      "name": "T2/L Van",
+      "slug": "t2-l-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36350,
+      "documentId": "hvqxsyv0qzevbwxi0aa78ebn",
+      "name": "V-CLASS Van",
+      "slug": "v-class-van",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -263,6 +599,14 @@
       "documentId": "m85yqxm6t1rwimcdo108n7oj",
       "name": "VITO Bus",
       "slug": "vito-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36792,
+      "documentId": "k6v9wt2nrzhaw2tjltxvqlho",
+      "name": "X-CLASS Platform/Chassis",
+      "slug": "x-class-platform-chassis",
       "vehicle_type": "car",
       "isActive": true
     }

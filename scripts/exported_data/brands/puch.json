@@ -7,14 +7,38 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 1,
-  "exportDate": "2026-01-06T19:34:16.957Z",
+  "modelCount": 4,
+  "exportDate": "2026-01-07T09:17:53.869Z",
   "models": [
     {
       "id": 32059,
       "documentId": "cea1jifhbj8u1w5llqu7psi4",
       "name": "G-MODELL",
       "slug": "g-modell",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32060,
+      "documentId": "ubqmsr28k09m2vklcuucaa4m",
+      "name": "G-MODELL Cabrio",
+      "slug": "g-modell-cabrio",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32061,
+      "documentId": "amp69x2hzp7ilq0gut2xa93k",
+      "name": "G-MODELL Open Off-Road Vehicle",
+      "slug": "g-modell-open-off-road-vehicle",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32062,
+      "documentId": "r175wadxty9s98hsbvuv6o2z",
+      "name": "G-MODELL Van",
+      "slug": "g-modell-van",
       "vehicle_type": "car",
       "isActive": true
     }

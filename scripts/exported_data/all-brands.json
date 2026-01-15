@@ -1,5 +1,5 @@
 {
-  "exportDate": "2026-01-06T19:34:16.763Z",
+  "exportDate": "2026-01-07T09:17:53.755Z",
   "totalBrands": 261,
   "brands": [
     {
@@ -9,7 +9,7 @@
       "slug": "abarth",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 4
+      "modelCount": 5
     },
     {
       "id": 540,
@@ -18,7 +18,7 @@
       "slug": "ac",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 2
     },
     {
       "id": 541,
@@ -27,7 +27,7 @@
       "slug": "acura",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 13
     },
     {
       "id": 542,
@@ -36,7 +36,7 @@
       "slug": "aiways",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 1
     },
     {
       "id": 543,
@@ -45,7 +45,7 @@
       "slug": "aixam",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 19
     },
     {
       "id": 544,
@@ -54,7 +54,7 @@
       "slug": "alfa-romeo",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 28
+      "modelCount": 63
     },
     {
       "id": 545,
@@ -63,7 +63,7 @@
       "slug": "alpina",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 38
+      "modelCount": 49
     },
     {
       "id": 546,
@@ -72,7 +72,7 @@
       "slug": "alpine",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 1
+      "modelCount": 7
     },
     {
       "id": 547,
@@ -81,7 +81,7 @@
       "slug": "anadol",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 1
     },
     {
       "id": 548,
@@ -90,7 +90,7 @@
       "slug": "apollo",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 1
     },
     {
       "id": 549,
@@ -99,7 +99,7 @@
       "slug": "aprilia",
       "vehicle_type": "moto",
       "isActive": true,
-      "modelCount": 182
+      "modelCount": 364
     },
     {
       "id": 550,
@@ -108,7 +108,7 @@
       "slug": "aro",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 12
     },
     {
       "id": 551,
@@ -126,7 +126,7 @@
       "slug": "asia-motors",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 6
     },
     {
       "id": 553,
@@ -135,7 +135,7 @@
       "slug": "aston-martin",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 33
     },
     {
       "id": 554,
@@ -144,7 +144,7 @@
       "slug": "audi",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 91
+      "modelCount": 146
     },
     {
       "id": 555,
@@ -153,7 +153,7 @@
       "slug": "austin",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 27
     },
     {
       "id": 556,
@@ -162,7 +162,7 @@
       "slug": "austin-healey",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 7
     },
     {
       "id": 557,
@@ -171,7 +171,7 @@
       "slug": "auto-union",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 9
     },
     {
       "id": 558,
@@ -180,7 +180,7 @@
       "slug": "autobianchi",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 3
     },
     {
       "id": 559,
@@ -189,7 +189,7 @@
       "slug": "auverland",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 3
     },
     {
       "id": 560,
@@ -198,7 +198,7 @@
       "slug": "avia",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 1
     },
     {
       "id": 561,
@@ -207,7 +207,7 @@
       "slug": "baic",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 1
     },
     {
       "id": 562,
@@ -216,7 +216,7 @@
       "slug": "barkas",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 2
     },
     {
       "id": 563,
@@ -225,7 +225,7 @@
       "slug": "bedford",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 9
     },
     {
       "id": 564,
@@ -234,7 +234,7 @@
       "slug": "benelli",
       "vehicle_type": "moto",
       "isActive": true,
-      "modelCount": 15
+      "modelCount": 30
     },
     {
       "id": 565,
@@ -243,7 +243,7 @@
       "slug": "bentley",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 16
     },
     {
       "id": 566,
@@ -252,7 +252,7 @@
       "slug": "bertone",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 2
     },
     {
       "id": 567,
@@ -261,7 +261,7 @@
       "slug": "besturn-faw",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 1
     },
     {
       "id": 568,
@@ -270,7 +270,7 @@
       "slug": "bitter",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 1
     },
     {
       "id": 569,
@@ -279,7 +279,7 @@
       "slug": "bmw",
       "vehicle_type": "car-moto",
       "isActive": true,
-      "modelCount": 100
+      "modelCount": 122
     },
     {
       "id": 570,
@@ -297,7 +297,7 @@
       "slug": "bogdan",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 4
     },
     {
       "id": 572,
@@ -306,7 +306,7 @@
       "slug": "bond",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 2
     },
     {
       "id": 573,
@@ -315,7 +315,7 @@
       "slug": "brilliance",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 4
     },
     {
       "id": 574,
@@ -324,7 +324,7 @@
       "slug": "bristol",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 10
     },
     {
       "id": 575,
@@ -333,7 +333,7 @@
       "slug": "buell",
       "vehicle_type": "moto",
       "isActive": true,
-      "modelCount": 1
+      "modelCount": 2
     },
     {
       "id": 576,
@@ -342,7 +342,7 @@
       "slug": "bugatti",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 3
     },
     {
       "id": 577,
@@ -351,7 +351,7 @@
       "slug": "buick",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 11
     },
     {
       "id": 578,
@@ -360,7 +360,7 @@
       "slug": "byd",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 3
     },
     {
       "id": 579,
@@ -369,7 +369,7 @@
       "slug": "cadillac",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 10
+      "modelCount": 36
     },
     {
       "id": 580,
@@ -378,7 +378,7 @@
       "slug": "cagiva",
       "vehicle_type": "moto",
       "isActive": true,
-      "modelCount": 31
+      "modelCount": 62
     },
     {
       "id": 581,
@@ -387,7 +387,7 @@
       "slug": "carbodies",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 5
     },
     {
       "id": 582,
@@ -396,7 +396,7 @@
       "slug": "caterham",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 1
     },
     {
       "id": 583,
@@ -405,7 +405,7 @@
       "slug": "cenntro",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 2
     },
     {
       "id": 584,
@@ -414,7 +414,7 @@
       "slug": "changan",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 4
     },
     {
       "id": 585,
@@ -432,7 +432,7 @@
       "slug": "chery",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 28
     },
     {
       "id": 587,
@@ -441,7 +441,7 @@
       "slug": "chevrolet",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 35
+      "modelCount": 116
     },
     {
       "id": 588,
@@ -459,7 +459,7 @@
       "slug": "chrysler",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 22
+      "modelCount": 42
     },
     {
       "id": 590,
@@ -477,7 +477,7 @@
       "slug": "citron",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 229
+      "modelCount": 267
     },
     {
       "id": 591,
@@ -486,7 +486,7 @@
       "slug": "cupra",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 2
+      "modelCount": 4
     },
     {
       "id": 592,
@@ -495,7 +495,7 @@
       "slug": "dacia",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 20
+      "modelCount": 38
     },
     {
       "id": 593,
@@ -504,7 +504,7 @@
       "slug": "daelim",
       "vehicle_type": "moto",
       "isActive": true,
-      "modelCount": 5
+      "modelCount": 10
     },
     {
       "id": 594,
@@ -513,7 +513,7 @@
       "slug": "daewoo",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 19
+      "modelCount": 37
     },
     {
       "id": 595,
@@ -522,7 +522,7 @@
       "slug": "daf",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 10
     },
     {
       "id": 596,
@@ -531,7 +531,7 @@
       "slug": "daihatsu",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 32
+      "modelCount": 61
     },
     {
       "id": 597,
@@ -540,7 +540,7 @@
       "slug": "daimler",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 163
+      "modelCount": 172
     },
     {
       "id": 598,
@@ -549,7 +549,7 @@
       "slug": "dallas",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 1
     },
     {
       "id": 599,
@@ -558,7 +558,7 @@
       "slug": "datsun",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 2
     },
     {
       "id": 600,
@@ -567,7 +567,7 @@
       "slug": "de-lorean",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 1
     },
     {
       "id": 601,
@@ -576,7 +576,7 @@
       "slug": "de-tomaso",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 3
     },
     {
       "id": 602,
@@ -585,7 +585,7 @@
       "slug": "derbi",
       "vehicle_type": "moto",
       "isActive": true,
-      "modelCount": 11
+      "modelCount": 22
     },
     {
       "id": 603,
@@ -594,7 +594,7 @@
       "slug": "dfsk",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 6
     },
     {
       "id": 604,
@@ -603,7 +603,7 @@
       "slug": "dodge",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 29
     },
     {
       "id": 605,
@@ -621,7 +621,7 @@
       "slug": "donkervoort",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 1
     },
     {
       "id": 607,
@@ -630,7 +630,7 @@
       "slug": "ds",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 5
+      "modelCount": 7
     },
     {
       "id": 608,
@@ -639,7 +639,7 @@
       "slug": "ds-capsa",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 1
     },
     {
       "id": 609,
@@ -648,7 +648,7 @@
       "slug": "ducati",
       "vehicle_type": "moto",
       "isActive": true,
-      "modelCount": 212
+      "modelCount": 423
     },
     {
       "id": 610,
@@ -666,7 +666,7 @@
       "slug": "emgrand",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 2
     },
     {
       "id": 612,
@@ -675,7 +675,7 @@
       "slug": "eunos",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 1
     },
     {
       "id": 613,
@@ -684,7 +684,7 @@
       "slug": "ferrari",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 62
     },
     {
       "id": 614,
@@ -693,7 +693,7 @@
       "slug": "fiat",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 39
+      "modelCount": 117
     },
     {
       "id": 615,
@@ -702,7 +702,7 @@
       "slug": "fisker",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 2
     },
     {
       "id": 616,
@@ -711,7 +711,7 @@
       "slug": "ford",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 40
+      "modelCount": 158
     },
     {
       "id": 617,
@@ -720,7 +720,7 @@
       "slug": "ford-asia-and-oceania",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 1
     },
     {
       "id": 618,
@@ -729,7 +729,7 @@
       "slug": "ford-australia",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 3
     },
     {
       "id": 619,
@@ -738,7 +738,7 @@
       "slug": "ford-otosan",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 3
     },
     {
       "id": 620,
@@ -747,7 +747,7 @@
       "slug": "ford-usa",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 8
+      "modelCount": 27
     },
     {
       "id": 621,
@@ -756,7 +756,7 @@
       "slug": "freightliner",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 1
     },
     {
       "id": 622,
@@ -765,7 +765,7 @@
       "slug": "fso",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 15
     },
     {
       "id": 623,
@@ -783,7 +783,7 @@
       "slug": "gas-gas",
       "vehicle_type": "moto",
       "isActive": true,
-      "modelCount": 10
+      "modelCount": 20
     },
     {
       "id": 625,
@@ -792,7 +792,7 @@
       "slug": "gaz",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 16
     },
     {
       "id": 626,
@@ -801,7 +801,7 @@
       "slug": "geely",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 7
     },
     {
       "id": 627,
@@ -810,7 +810,7 @@
       "slug": "genesis",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 8
     },
     {
       "id": 628,
@@ -819,7 +819,7 @@
       "slug": "geo",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 7
     },
     {
       "id": 629,
@@ -828,7 +828,7 @@
       "slug": "gilera",
       "vehicle_type": "moto",
       "isActive": true,
-      "modelCount": 26
+      "modelCount": 52
     },
     {
       "id": 630,
@@ -846,7 +846,7 @@
       "slug": "glas",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 1
     },
     {
       "id": 632,
@@ -855,7 +855,7 @@
       "slug": "gleagle",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 1
     },
     {
       "id": 633,
@@ -864,7 +864,7 @@
       "slug": "gmc",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 9
     },
     {
       "id": 634,
@@ -873,7 +873,7 @@
       "slug": "gme",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 1
     },
     {
       "id": 635,
@@ -882,7 +882,7 @@
       "slug": "great-wall",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 14
     },
     {
       "id": 636,
@@ -891,7 +891,7 @@
       "slug": "grecav",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 3
     },
     {
       "id": 637,
@@ -900,7 +900,7 @@
       "slug": "harley-davidson",
       "vehicle_type": "moto",
       "isActive": true,
-      "modelCount": 210
+      "modelCount": 420
     },
     {
       "id": 638,
@@ -909,7 +909,7 @@
       "slug": "haval",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 1
     },
     {
       "id": 639,
@@ -918,7 +918,7 @@
       "slug": "hillman",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 2
     },
     {
       "id": 640,
@@ -927,7 +927,7 @@
       "slug": "hindustan",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 2
     },
     {
       "id": 641,
@@ -936,7 +936,7 @@
       "slug": "honda",
       "vehicle_type": "car-moto",
       "isActive": true,
-      "modelCount": 669
+      "modelCount": 733
     },
     {
       "id": 642,
@@ -945,7 +945,7 @@
       "slug": "honda-gac",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 1
     },
     {
       "id": 643,
@@ -954,7 +954,7 @@
       "slug": "huanghai",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 1
     },
     {
       "id": 644,
@@ -972,7 +972,7 @@
       "slug": "hummer",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 6
     },
     {
       "id": 646,
@@ -981,7 +981,7 @@
       "slug": "husaberg",
       "vehicle_type": "moto",
       "isActive": true,
-      "modelCount": 8
+      "modelCount": 16
     },
     {
       "id": 647,
@@ -990,7 +990,7 @@
       "slug": "husqvarna",
       "vehicle_type": "moto",
       "isActive": true,
-      "modelCount": 47
+      "modelCount": 94
     },
     {
       "id": 648,
@@ -999,7 +999,7 @@
       "slug": "hyundai",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 98
+      "modelCount": 133
     },
     {
       "id": 649,
@@ -1017,7 +1017,7 @@
       "slug": "indian",
       "vehicle_type": "moto",
       "isActive": true,
-      "modelCount": 9
+      "modelCount": 18
     },
     {
       "id": 651,
@@ -1026,7 +1026,7 @@
       "slug": "ineos",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 1
     },
     {
       "id": 652,
@@ -1035,7 +1035,7 @@
       "slug": "infiniti",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 17
+      "modelCount": 33
     },
     {
       "id": 653,
@@ -1044,7 +1044,7 @@
       "slug": "innocenti",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 2
     },
     {
       "id": 654,
@@ -1053,7 +1053,7 @@
       "slug": "iran-khodro",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 2
     },
     {
       "id": 655,
@@ -1062,7 +1062,7 @@
       "slug": "irmscher",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 1
     },
     {
       "id": 656,
@@ -1071,7 +1071,7 @@
       "slug": "isuzu",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 16
+      "modelCount": 35
     },
     {
       "id": 657,
@@ -1080,7 +1080,7 @@
       "slug": "iveco",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 22
+      "modelCount": 32
     },
     {
       "id": 658,
@@ -1089,7 +1089,7 @@
       "slug": "izh",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 4
     },
     {
       "id": 659,
@@ -1098,7 +1098,7 @@
       "slug": "jac",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 1
     },
     {
       "id": 660,
@@ -1107,7 +1107,7 @@
       "slug": "jaguar",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 24
+      "modelCount": 32
     },
     {
       "id": 661,
@@ -1116,7 +1116,7 @@
       "slug": "jeep",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 20
+      "modelCount": 30
     },
     {
       "id": 662,
@@ -1125,7 +1125,7 @@
       "slug": "jensen",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 8
     },
     {
       "id": 663,
@@ -1134,7 +1134,7 @@
       "slug": "kawasaki",
       "vehicle_type": "moto",
       "isActive": true,
-      "modelCount": 195
+      "modelCount": 390
     },
     {
       "id": 664,
@@ -1152,7 +1152,7 @@
       "slug": "kia",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 101
+      "modelCount": 139
     },
     {
       "id": 666,
@@ -1170,7 +1170,7 @@
       "slug": "kymco",
       "vehicle_type": "moto",
       "isActive": true,
-      "modelCount": 97
+      "modelCount": 194
     },
     {
       "id": 668,
@@ -1179,7 +1179,7 @@
       "slug": "lada",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 29
+      "modelCount": 41
     },
     {
       "id": 669,
@@ -1188,7 +1188,7 @@
       "slug": "lamborghini",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 25
     },
     {
       "id": 670,
@@ -1197,7 +1197,7 @@
       "slug": "lancia",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 23
+      "modelCount": 45
     },
     {
       "id": 671,
@@ -1206,7 +1206,7 @@
       "slug": "land-rover",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 29
+      "modelCount": 43
     },
     {
       "id": 672,
@@ -1215,7 +1215,7 @@
       "slug": "landwind-jmc",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 1
     },
     {
       "id": 673,
@@ -1224,7 +1224,7 @@
       "slug": "ldv",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 22
     },
     {
       "id": 674,
@@ -1233,7 +1233,7 @@
       "slug": "lexus",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 33
+      "modelCount": 38
     },
     {
       "id": 675,
@@ -1242,7 +1242,7 @@
       "slug": "lifan",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 12
     },
     {
       "id": 676,
@@ -1251,7 +1251,7 @@
       "slug": "ligier",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 11
     },
     {
       "id": 677,
@@ -1260,7 +1260,7 @@
       "slug": "lincoln",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 2
+      "modelCount": 6
     },
     {
       "id": 678,
@@ -1278,7 +1278,7 @@
       "slug": "lotus",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 4
+      "modelCount": 18
     },
     {
       "id": 680,
@@ -1287,7 +1287,7 @@
       "slug": "lti",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 3
     },
     {
       "id": 681,
@@ -1296,7 +1296,7 @@
       "slug": "luxgen",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 2
     },
     {
       "id": 682,
@@ -1305,7 +1305,7 @@
       "slug": "lynk-and-co",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 1
     },
     {
       "id": 683,
@@ -1314,7 +1314,7 @@
       "slug": "mahindra",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 11
     },
     {
       "id": 684,
@@ -1323,7 +1323,7 @@
       "slug": "malaguti",
       "vehicle_type": "moto",
       "isActive": true,
-      "modelCount": 46
+      "modelCount": 92
     },
     {
       "id": 685,
@@ -1332,7 +1332,7 @@
       "slug": "man",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 3
+      "modelCount": 7
     },
     {
       "id": 686,
@@ -1341,7 +1341,7 @@
       "slug": "marcos",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 17
     },
     {
       "id": 687,
@@ -1350,7 +1350,7 @@
       "slug": "martin-motors",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 5
     },
     {
       "id": 688,
@@ -1377,7 +1377,7 @@
       "slug": "maserati",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 2
+      "modelCount": 38
     },
     {
       "id": 691,
@@ -1386,7 +1386,7 @@
       "slug": "maxus",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 7
     },
     {
       "id": 692,
@@ -1395,7 +1395,7 @@
       "slug": "maybach",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 1
+      "modelCount": 2
     },
     {
       "id": 693,
@@ -1404,7 +1404,7 @@
       "slug": "mazda",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 72
+      "modelCount": 115
     },
     {
       "id": 694,
@@ -1413,7 +1413,7 @@
       "slug": "mega",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 4
     },
     {
       "id": 695,
@@ -1431,7 +1431,7 @@
       "slug": "mercedes",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 102
+      "modelCount": 105
     },
     {
       "id": 697,
@@ -1449,7 +1449,7 @@
       "slug": "mercedes-benz",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 32
+      "modelCount": 75
     },
     {
       "id": 699,
@@ -1458,7 +1458,7 @@
       "slug": "metrocab",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 1
     },
     {
       "id": 700,
@@ -1467,7 +1467,7 @@
       "slug": "mg",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 16
+      "modelCount": 38
     },
     {
       "id": 701,
@@ -1476,7 +1476,7 @@
       "slug": "micro",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 1
     },
     {
       "id": 702,
@@ -1485,7 +1485,7 @@
       "slug": "microcar",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 9
     },
     {
       "id": 703,
@@ -1494,7 +1494,7 @@
       "slug": "middlebridge",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 1
     },
     {
       "id": 704,
@@ -1503,7 +1503,7 @@
       "slug": "mini",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 12
+      "modelCount": 16
     },
     {
       "id": 705,
@@ -1512,7 +1512,7 @@
       "slug": "mitsubishi",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 92
+      "modelCount": 170
     },
     {
       "id": 706,
@@ -1521,7 +1521,7 @@
       "slug": "morgan",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 11
     },
     {
       "id": 707,
@@ -1530,7 +1530,7 @@
       "slug": "morris",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 19
     },
     {
       "id": 708,
@@ -1539,7 +1539,7 @@
       "slug": "moskvich",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 13
     },
     {
       "id": 709,
@@ -1557,7 +1557,7 @@
       "slug": "moto-guzzi",
       "vehicle_type": "moto",
       "isActive": true,
-      "modelCount": 90
+      "modelCount": 180
     },
     {
       "id": 711,
@@ -1566,7 +1566,7 @@
       "slug": "mpm-motors",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 1
     },
     {
       "id": 712,
@@ -1575,7 +1575,7 @@
       "slug": "mv-agusta",
       "vehicle_type": "moto",
       "isActive": true,
-      "modelCount": 31
+      "modelCount": 62
     },
     {
       "id": 713,
@@ -1584,7 +1584,7 @@
       "slug": "nissan",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 126
+      "modelCount": 249
     },
     {
       "id": 714,
@@ -1593,7 +1593,7 @@
       "slug": "nissan-dfac",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 2
     },
     {
       "id": 715,
@@ -1602,7 +1602,7 @@
       "slug": "noble",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 6
     },
     {
       "id": 716,
@@ -1611,7 +1611,7 @@
       "slug": "nsu",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 3
     },
     {
       "id": 717,
@@ -1620,7 +1620,7 @@
       "slug": "oldsmobile",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 8
     },
     {
       "id": 718,
@@ -1638,7 +1638,7 @@
       "slug": "opel",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 87
+      "modelCount": 223
     },
     {
       "id": 720,
@@ -1647,7 +1647,7 @@
       "slug": "osca",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 1
     },
     {
       "id": 721,
@@ -1656,7 +1656,7 @@
       "slug": "pagani",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 3
     },
     {
       "id": 722,
@@ -1674,7 +1674,7 @@
       "slug": "panther",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 3
     },
     {
       "id": 724,
@@ -1683,7 +1683,7 @@
       "slug": "perodua",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 5
     },
     {
       "id": 94,
@@ -1701,7 +1701,7 @@
       "slug": "pgo",
       "vehicle_type": "moto",
       "isActive": true,
-      "modelCount": 165
+      "modelCount": 166
     },
     {
       "id": 726,
@@ -1710,7 +1710,7 @@
       "slug": "piaggio",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 5
     },
     {
       "id": 727,
@@ -1719,7 +1719,7 @@
       "slug": "pininfarina",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 1
     },
     {
       "id": 728,
@@ -1728,7 +1728,7 @@
       "slug": "plymouth",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 1
+      "modelCount": 4
     },
     {
       "id": 729,
@@ -1737,7 +1737,7 @@
       "slug": "polaris",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 1
     },
     {
       "id": 730,
@@ -1746,7 +1746,7 @@
       "slug": "polestar",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 2
     },
     {
       "id": 731,
@@ -1755,7 +1755,7 @@
       "slug": "pontiac",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 1
+      "modelCount": 25
     },
     {
       "id": 732,
@@ -1764,7 +1764,7 @@
       "slug": "porsche",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 21
+      "modelCount": 33
     },
     {
       "id": 733,
@@ -1773,7 +1773,7 @@
       "slug": "premier",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 2
     },
     {
       "id": 734,
@@ -1782,7 +1782,7 @@
       "slug": "proton",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 7
+      "modelCount": 26
     },
     {
       "id": 735,
@@ -1791,7 +1791,7 @@
       "slug": "puch",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 1
+      "modelCount": 4
     },
     {
       "id": 736,
@@ -1800,7 +1800,7 @@
       "slug": "ram",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 8
     },
     {
       "id": 737,
@@ -1809,7 +1809,7 @@
       "slug": "ranger",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 2
     },
     {
       "id": 738,
@@ -1818,7 +1818,7 @@
       "slug": "ravon",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 1
     },
     {
       "id": 739,
@@ -1827,7 +1827,7 @@
       "slug": "rayton-fissore",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 1
     },
     {
       "id": 740,
@@ -1836,7 +1836,7 @@
       "slug": "reliant",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 13
     },
     {
       "id": 106,
@@ -1845,7 +1845,7 @@
       "slug": "renault",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 395
+      "modelCount": 397
     },
     {
       "id": 741,
@@ -1854,7 +1854,7 @@
       "slug": "renault-trucks",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 9
+      "modelCount": 10
     },
     {
       "id": 742,
@@ -1863,7 +1863,7 @@
       "slug": "rex",
       "vehicle_type": "moto",
       "isActive": true,
-      "modelCount": 15
+      "modelCount": 30
     },
     {
       "id": 743,
@@ -1872,7 +1872,7 @@
       "slug": "riley",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 3
     },
     {
       "id": 744,
@@ -1890,7 +1890,7 @@
       "slug": "rover",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 34
+      "modelCount": 50
     },
     {
       "id": 746,
@@ -1899,7 +1899,7 @@
       "slug": "ruf",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 16
     },
     {
       "id": 747,
@@ -1908,7 +1908,7 @@
       "slug": "saab",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 20
+      "modelCount": 28
     },
     {
       "id": 748,
@@ -1917,7 +1917,7 @@
       "slug": "sachs",
       "vehicle_type": "moto",
       "isActive": true,
-      "modelCount": 8
+      "modelCount": 16
     },
     {
       "id": 749,
@@ -1926,7 +1926,7 @@
       "slug": "santana",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 6
     },
     {
       "id": 750,
@@ -1935,7 +1935,7 @@
       "slug": "sao",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 2
     },
     {
       "id": 751,
@@ -1944,7 +1944,7 @@
       "slug": "saturn",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 1
     },
     {
       "id": 752,
@@ -1953,7 +1953,7 @@
       "slug": "scion",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 3
     },
     {
       "id": 753,
@@ -1962,7 +1962,7 @@
       "slug": "seat",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 35
+      "modelCount": 57
     },
     {
       "id": 754,
@@ -1980,7 +1980,7 @@
       "slug": "skoda",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 50
+      "modelCount": 65
     },
     {
       "id": 756,
@@ -1989,7 +1989,7 @@
       "slug": "smart",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 14
+      "modelCount": 17
     },
     {
       "id": 757,
@@ -1998,7 +1998,7 @@
       "slug": "spectre",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 2
     },
     {
       "id": 758,
@@ -2007,7 +2007,7 @@
       "slug": "ssangyong",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 22
+      "modelCount": 34
     },
     {
       "id": 759,
@@ -2016,7 +2016,7 @@
       "slug": "standard-automobile",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 1
     },
     {
       "id": 760,
@@ -2025,7 +2025,7 @@
       "slug": "steyr",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 3
     },
     {
       "id": 761,
@@ -2034,7 +2034,7 @@
       "slug": "streetscooter",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 6
     },
     {
       "id": 762,
@@ -2043,7 +2043,7 @@
       "slug": "subaru",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 38
+      "modelCount": 57
     },
     {
       "id": 763,
@@ -2052,7 +2052,7 @@
       "slug": "sunbeam",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 4
     },
     {
       "id": 764,
@@ -2061,7 +2061,7 @@
       "slug": "suzuki",
       "vehicle_type": "car-moto",
       "isActive": true,
-      "modelCount": 567
+      "modelCount": 604
     },
     {
       "id": 765,
@@ -2079,7 +2079,7 @@
       "slug": "tagaz",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 7
     },
     {
       "id": 767,
@@ -2088,7 +2088,7 @@
       "slug": "talbot",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 32
     },
     {
       "id": 768,
@@ -2097,7 +2097,7 @@
       "slug": "tata",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 12
     },
     {
       "id": 769,
@@ -2115,7 +2115,7 @@
       "slug": "tesla",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 3
     },
     {
       "id": 771,
@@ -2124,7 +2124,7 @@
       "slug": "think",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 2
     },
     {
       "id": 772,
@@ -2133,7 +2133,7 @@
       "slug": "tofas",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 4
     },
     {
       "id": 773,
@@ -2142,7 +2142,7 @@
       "slug": "toyota",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 93
+      "modelCount": 273
     },
     {
       "id": 774,
@@ -2151,7 +2151,7 @@
       "slug": "trabant",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 8
     },
     {
       "id": 775,
@@ -2169,7 +2169,7 @@
       "slug": "uaz",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 6
+      "modelCount": 19
     },
     {
       "id": 777,
@@ -2178,7 +2178,7 @@
       "slug": "umm",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 1
     },
     {
       "id": 778,
@@ -2187,7 +2187,7 @@
       "slug": "uz-daewoo",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 2
     },
     {
       "id": 779,
@@ -2196,7 +2196,7 @@
       "slug": "vauxhall",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 102
+      "modelCount": 219
     },
     {
       "id": 780,
@@ -2205,7 +2205,7 @@
       "slug": "venturi",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 2
     },
     {
       "id": 136,
@@ -2223,7 +2223,7 @@
       "slug": "volvo",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 59
+      "modelCount": 93
     },
     {
       "id": 782,
@@ -2241,7 +2241,7 @@
       "slug": "vortex",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 1
     },
     {
       "id": 784,
@@ -2250,7 +2250,7 @@
       "slug": "vw",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 90
     },
     {
       "id": 785,
@@ -2259,7 +2259,7 @@
       "slug": "wartburg",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 3
     },
     {
       "id": 786,
@@ -2268,7 +2268,7 @@
       "slug": "westfield",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 6
     },
     {
       "id": 787,
@@ -2277,7 +2277,7 @@
       "slug": "wiesmann",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 5
     },
     {
       "id": 788,
@@ -2286,7 +2286,7 @@
       "slug": "wolseley",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 5
     },
     {
       "id": 789,
@@ -2295,7 +2295,7 @@
       "slug": "yamaha",
       "vehicle_type": "moto",
       "isActive": true,
-      "modelCount": 305
+      "modelCount": 610
     },
     {
       "id": 790,
@@ -2304,7 +2304,7 @@
       "slug": "yugo",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 11
     },
     {
       "id": 791,
@@ -2313,7 +2313,7 @@
       "slug": "zastava",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 11
     },
     {
       "id": 792,
@@ -2322,7 +2322,7 @@
       "slug": "zaz",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 14
     },
     {
       "id": 793,
@@ -2331,7 +2331,7 @@
       "slug": "zero",
       "vehicle_type": "moto",
       "isActive": true,
-      "modelCount": 3
+      "modelCount": 6
     },
     {
       "id": 794,
@@ -2340,7 +2340,7 @@
       "slug": "zil",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 1
     },
     {
       "id": 795,
@@ -2349,7 +2349,7 @@
       "slug": "zotye",
       "vehicle_type": "car",
       "isActive": true,
-      "modelCount": 0
+      "modelCount": 1
     }
   ]
 }

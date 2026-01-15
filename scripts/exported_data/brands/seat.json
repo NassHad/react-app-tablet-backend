@@ -7,14 +7,86 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 35,
-  "exportDate": "2026-01-06T19:34:16.988Z",
+  "modelCount": 57,
+  "exportDate": "2026-01-07T09:17:53.879Z",
   "models": [
+    {
+      "id": 28233,
+      "documentId": "d2bokap8pzuqg84jvc5wuod7",
+      "name": "124",
+      "slug": "124",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28236,
+      "documentId": "r9sgnwa1vq8v85fnqzv9afv8",
+      "name": "124 Estate",
+      "slug": "124-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28251,
+      "documentId": "uhw2jsrhkku60lg841tz7wrj",
+      "name": "127",
+      "slug": "127",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28254,
+      "documentId": "yp0hm1229yhwwihjfgz13xjc",
+      "name": "128",
+      "slug": "128",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28275,
+      "documentId": "bb43sm9vb34hw8uh8hkp2u9w",
+      "name": "131",
+      "slug": "131",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28280,
+      "documentId": "gc8jkdpxdh3dfrbazax0gexv",
+      "name": "132",
+      "slug": "132",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28283,
+      "documentId": "ybzwo3312meq2enlq4hvlgye",
+      "name": "133",
+      "slug": "133",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28858,
+      "documentId": "x1sn9oev1m4oz3d4v30pfut4",
+      "name": "600",
+      "slug": "600",
+      "vehicle_type": "car",
+      "isActive": true
+    },
     {
       "id": 29245,
       "documentId": "h7ae0g5g50pl60n4vko020py",
       "name": "ALHAMBRA",
       "slug": "alhambra",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29248,
+      "documentId": "nksjzsqie9bdaw59cojvpsqc",
+      "name": "ALHAMBRA VAN",
+      "slug": "alhambra-van",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -59,10 +131,26 @@
       "isActive": true
     },
     {
+      "id": 29486,
+      "documentId": "ieq8972lxwsle587ak2hr9ud",
+      "name": "ATECA",
+      "slug": "seat-ateca",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 30555,
       "documentId": "g7hykg871ei2txnp3d02ufsb",
       "name": "CORDOBA",
       "slug": "cordoba",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30559,
+      "documentId": "ygatczt2376oj3i4qica5mta",
+      "name": "CORDOBA VARIO Estate Van",
+      "slug": "cordoba-vario-estate-van",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -91,6 +179,22 @@
       "isActive": true
     },
     {
+      "id": 31896,
+      "documentId": "rxw57kl6wunw1i4sddhpa9bl",
+      "name": "FURA",
+      "slug": "fura",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32613,
+      "documentId": "eqoysdvwtmr8onfelnt0trv6",
+      "name": "IBIZA I",
+      "slug": "ibiza-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 32614,
       "documentId": "uz4wy0pwle8olbmifcai2us5",
       "name": "IBIZA II",
@@ -111,6 +215,22 @@
       "documentId": "wqr4r8mocjfmpv7x90tw9wnw",
       "name": "IBIZA IV",
       "slug": "ibiza-iv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32617,
+      "documentId": "ahi6w8bv26v97tirli48ussh",
+      "name": "IBIZA IV Hatchback Van",
+      "slug": "ibiza-iv-hatchback-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32618,
+      "documentId": "vvg8uhwsrm9pgk0scxqi6sup",
+      "name": "IBIZA IV SC",
+      "slug": "ibiza-iv-sc",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -211,10 +331,26 @@
       "isActive": true
     },
     {
+      "id": 33320,
+      "documentId": "szwq6rnxvpc9w6ixh3rlhqdy",
+      "name": "MALAGA",
+      "slug": "seat-malaga",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 33334,
       "documentId": "s2rtpcvdpga4ngiavugsjnyr",
       "name": "MARBELLA",
       "slug": "marbella",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33335,
+      "documentId": "f1ecwnr19w04vidiztueazv2",
+      "name": "MARBELLA Hatchback Van",
+      "slug": "marbella-hatchback-van",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -231,6 +367,46 @@
       "documentId": "vjmq9w66kvoxb34q55ljkesy",
       "name": "Mii",
       "slug": "mii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34762,
+      "documentId": "iy7czn7qj9v0anzm45rvy2fk",
+      "name": "RITMO",
+      "slug": "ritmo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34798,
+      "documentId": "i58p1oj1050uar7lljfkqszq",
+      "name": "RONDA",
+      "slug": "ronda",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35831,
+      "documentId": "owb2h0bcldxebaq5daz06bwn",
+      "name": "TARRACO",
+      "slug": "seat-tarraco",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35913,
+      "documentId": "vazogcnu0r24jmhknatinc9i",
+      "name": "TERRA",
+      "slug": "seat-terra",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35914,
+      "documentId": "ltg6e2p64vkx0p0l6th9uqfa",
+      "name": "TERRA Estate Van",
+      "slug": "terra-estate-van",
       "vehicle_type": "car",
       "isActive": true
     },

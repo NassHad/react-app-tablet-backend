@@ -7,8 +7,8 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 20,
-  "exportDate": "2026-01-06T19:34:16.980Z",
+  "modelCount": 28,
+  "exportDate": "2026-01-07T09:17:53.876Z",
   "models": [
     {
       "id": 28976,
@@ -47,6 +47,14 @@
       "documentId": "ke0g0wabyc650kdbr33y9i0m",
       "name": "9-3X",
       "slug": "9-3x",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28981,
+      "documentId": "np779rswhaje3mwo0sw316nz",
+      "name": "9-4X",
+      "slug": "9-4x",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -123,6 +131,30 @@
       "isActive": true
     },
     {
+      "id": 29000,
+      "documentId": "r4sigkdfubgmb174h8p417ia",
+      "name": "900 I",
+      "slug": "900-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29001,
+      "documentId": "c5ly9a7izwitt40t47ssafjw",
+      "name": "900 I Combi Coupe",
+      "slug": "900-i-combi-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29002,
+      "documentId": "dmgksc3z7w7u7m320nw65qei",
+      "name": "900 I Convertible",
+      "slug": "900-i-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 29003,
       "documentId": "gfkzcpia7eymnxypdn6muhn4",
       "name": "900 II",
@@ -167,6 +199,38 @@
       "documentId": "z91cq7hdxbwtyn99zojeixhs",
       "name": "9000 Hatchback",
       "slug": "9000-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29040,
+      "documentId": "e8kn7pus84yz30vwxzvis27g",
+      "name": "95 Station Wagon",
+      "slug": "95-station-wagon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29043,
+      "documentId": "ge5vbkwg8q4g508uczmm2gco",
+      "name": "96",
+      "slug": "96",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29050,
+      "documentId": "m5awrg0sit71aegtalvuu8h9",
+      "name": "99",
+      "slug": "99",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29051,
+      "documentId": "o8tgz4tr0blz8hkcj0sufznf",
+      "name": "99 Combi Coupe",
+      "slug": "99-combi-coupe",
       "vehicle_type": "car",
       "isActive": true
     }

@@ -7,8 +7,8 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 14,
-  "exportDate": "2026-01-06T19:34:16.994Z",
+  "modelCount": 17,
+  "exportDate": "2026-01-07T09:17:53.880Z",
   "models": [
     {
       "id": 30056,
@@ -111,6 +111,30 @@
       "documentId": "xiiv5r88ny3cs5ch7jjdreb0",
       "name": "ROADSTER Coupe",
       "slug": "roadster-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35291,
+      "documentId": "nctqhwuyk0uy7w0g0lekwj0i",
+      "name": "SMART COUPE - CABRIO - FORTWO III",
+      "slug": "smart-coupe---cabrio---fortwo-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35292,
+      "documentId": "bukyfc9e4fasnbpkk36l5s5i",
+      "name": "SMART FORFOUR",
+      "slug": "smart-forfour",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35293,
+      "documentId": "v6p4ry61wqff0uaq58w0wxkm",
+      "name": "SMART FORFOUR III",
+      "slug": "smart-forfour-iii",
       "vehicle_type": "car",
       "isActive": true
     },

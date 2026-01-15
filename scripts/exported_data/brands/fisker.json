@@ -7,7 +7,24 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.836Z",
-  "models": []
+  "modelCount": 2,
+  "exportDate": "2026-01-07T09:17:53.805Z",
+  "models": [
+    {
+      "id": 32907,
+      "documentId": "ivi4dn781z9fh5ox136bhcsc",
+      "name": "KARMA",
+      "slug": "karma",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34069,
+      "documentId": "m5gjg194nofw4h32r9moqnva",
+      "name": "OCEAN",
+      "slug": "ocean",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

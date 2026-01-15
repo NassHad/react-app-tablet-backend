@@ -7,7 +7,72 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.880Z",
-  "models": []
+  "modelCount": 8,
+  "exportDate": "2026-01-07T09:17:53.829Z",
+  "models": [
+    {
+      "id": 32410,
+      "documentId": "fdusrxrcvl4qeo4c37696uw9",
+      "name": "GT Coupe",
+      "slug": "gt-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32513,
+      "documentId": "xml6ai0iy8i88egwke1bedgb",
+      "name": "HEALEY",
+      "slug": "healey",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32691,
+      "documentId": "uhz6jxfckrkmvwu54s9twxc8",
+      "name": "INTERCEPTOR MK III",
+      "slug": "interceptor-mk-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32692,
+      "documentId": "mfxhm33wbd68t8q83zbia9n5",
+      "name": "INTERCEPTOR Mk II",
+      "slug": "interceptor-mk-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32693,
+      "documentId": "j74xbl8kgkkuxxwz3zhlyjer",
+      "name": "INTERCEPTOR S4",
+      "slug": "interceptor-s4",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32694,
+      "documentId": "me571fk13ni4ujof9vfr9mq7",
+      "name": "INTERCEPTOR S4 Convertible",
+      "slug": "interceptor-s4-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32695,
+      "documentId": "nr7nicvazyiilntmyhqft6u7",
+      "name": "INTERCEPTOR SP",
+      "slug": "interceptor-sp",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34954,
+      "documentId": "fna7xlro63iyfeqxeasr1b7c",
+      "name": "S-V8",
+      "slug": "s-v8",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

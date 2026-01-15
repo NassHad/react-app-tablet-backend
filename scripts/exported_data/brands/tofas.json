@@ -7,7 +7,40 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:17.029Z",
-  "models": []
+  "modelCount": 4,
+  "exportDate": "2026-01-07T09:17:53.889Z",
+  "models": [
+    {
+      "id": 31048,
+      "documentId": "au8j63c647a4z9lfv8hrq42f",
+      "name": "DOGAN",
+      "slug": "dogan",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32911,
+      "documentId": "gakhee92vs9skdt64yto4mnt",
+      "name": "KARTAL",
+      "slug": "kartal",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34987,
+      "documentId": "d20rvbfubdm8qu6xskrho1jv",
+      "name": "SAHIN Saloon",
+      "slug": "sahin-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35123,
+      "documentId": "zkb6scgqyrk72uw8tov9jpog",
+      "name": "SERCE",
+      "slug": "serce",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

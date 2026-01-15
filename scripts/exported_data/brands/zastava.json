@@ -7,7 +7,96 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:17.066Z",
-  "models": []
+  "modelCount": 11,
+  "exportDate": "2026-01-07T09:17:53.901Z",
+  "models": [
+    {
+      "id": 28146,
+      "documentId": "dtysdpwvub32snvsjurldhe0",
+      "name": "10",
+      "slug": "10",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28171,
+      "documentId": "astxuviyk25gz9ldk1kpma2c",
+      "name": "101",
+      "slug": "101",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28908,
+      "documentId": "jk4abey3t2exha22xbk356x6",
+      "name": "750",
+      "slug": "750",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32947,
+      "documentId": "hgobp39p4yky3rzd5iwyx1fh",
+      "name": "KORAL",
+      "slug": "koral",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34765,
+      "documentId": "md0b63z84po4j9q00lzgc5a7",
+      "name": "RIVAL Bus",
+      "slug": "rival-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34766,
+      "documentId": "kn41jduyowt662qr4ubfgron",
+      "name": "RIVAL Platform/Chassis",
+      "slug": "rival-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34767,
+      "documentId": "nzdgko5e4io81i1k05j3urj4",
+      "name": "RIVAL Van",
+      "slug": "rival-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35248,
+      "documentId": "e2swmmzuaemf7z4k150y9u8s",
+      "name": "SKALA",
+      "slug": "skala",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37122,
+      "documentId": "p2va2g8s4o2z231fqusrv0up",
+      "name": "YUGO",
+      "slug": "yugo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37123,
+      "documentId": "d1d9e8ri1zkut71exq2affbx",
+      "name": "YUGO FLORIDA",
+      "slug": "yugo-florida",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37124,
+      "documentId": "vztljj1nt4mhhe5s9wluprg7",
+      "name": "YUGO TEMPO",
+      "slug": "yugo-tempo",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

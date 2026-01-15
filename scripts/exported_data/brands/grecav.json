@@ -7,7 +7,32 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.860Z",
-  "models": []
+  "modelCount": 3,
+  "exportDate": "2026-01-07T09:17:53.813Z",
+  "models": [
+    {
+      "id": 31296,
+      "documentId": "cdlaxq6991usuc2piogvvpsj",
+      "name": "EKE Estate Van",
+      "slug": "eke-estate-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31297,
+      "documentId": "kyjqt5resslao5otrtuv4gbi",
+      "name": "EKE Hatchback",
+      "slug": "eke-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35328,
+      "documentId": "suaehsj7cktn6m4n0zgzu3mx",
+      "name": "SONIQUE Hatchback",
+      "slug": "sonique-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

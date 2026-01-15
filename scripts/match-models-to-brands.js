@@ -16,7 +16,7 @@ const path = require('path');
  */
 
 // ============ CONFIGURATION ============
-const DRY_RUN = true;  // Set to false to actually update database
+const DRY_RUN = false;  // Set to false to actually update database
 const BATCH_SIZE = 100; // Inserts per batch
 const PROGRESS_INTERVAL = 500; // Log progress every N models
 

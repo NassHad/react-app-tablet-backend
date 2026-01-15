@@ -7,7 +7,256 @@
     "vehicle_type": "moto",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.932Z",
-  "models": []
+  "modelCount": 31,
+  "exportDate": "2026-01-07T09:17:53.856Z",
+  "models": [
+    {
+      "id": 29890,
+      "documentId": "rjueo7xv14qwbxactuj4qtrk",
+      "name": "Brutale 1090 (B520, B521)",
+      "slug": "brutale-1090-b520-b521",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29891,
+      "documentId": "rrt5hu3q7lpee0rmbnlxsll2",
+      "name": "Brutale 1090 R (B520, B521)",
+      "slug": "brutale-1090-r-b520-b521",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29892,
+      "documentId": "q699ehrfoe5mqp2a2gu1loer",
+      "name": "Brutale 1090 RR (B520AA)",
+      "slug": "brutale-1090-rr-b520aa",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29893,
+      "documentId": "rd0eespznusrxfgi4zgado13",
+      "name": "Brutale 675 (B3)",
+      "slug": "brutale-675-b3",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29894,
+      "documentId": "yybtb014889vabqj3fje8k8z",
+      "name": "Brutale 800 (B1)",
+      "slug": "brutale-800-b1",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29895,
+      "documentId": "sszh9bhecqvvth1chpipz9yd",
+      "name": "Brutale 800 (B3)",
+      "slug": "brutale-800-b3",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29896,
+      "documentId": "pii4vaso3y5fw5hiyjq31rp4",
+      "name": "Brutale 800 (B31)",
+      "slug": "brutale-800-b31",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29897,
+      "documentId": "wh5ggiy4spezn4v976busn5l",
+      "name": "Brutale 800 Dragster RR (B3)",
+      "slug": "brutale-800-dragster-rr-b3",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29898,
+      "documentId": "z2j4op4i5a4b42bf8h4qfuo5",
+      "name": "Brutale 800 RR",
+      "slug": "brutale-800-rr",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29899,
+      "documentId": "lvbjbt2ltqpwn3awpqj50yo3",
+      "name": "Brutale 800 RR (B3)",
+      "slug": "brutale-800-rr-b3",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29900,
+      "documentId": "glnzmvlr0eeohb6wtvif4enm",
+      "name": "Brutale 910 (F41)",
+      "slug": "brutale-910-f41",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29901,
+      "documentId": "qmaoy96zg760cu92q153wfqe",
+      "name": "Brutale 910 R (F411AC/AD)",
+      "slug": "brutale-910-r-f411acad",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29902,
+      "documentId": "kb6rk4unneg86t1zuu59r9ts",
+      "name": "Brutale 910 S (F411AC/AD)",
+      "slug": "brutale-910-s-f411acad",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29903,
+      "documentId": "axsnb30f4c1alrr9myupt3mk",
+      "name": "Brutale 920 (B53)",
+      "slug": "brutale-920-b53",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29904,
+      "documentId": "reaicpwbaqnhkyihram0m48g",
+      "name": "Brutale 990 R (B51)",
+      "slug": "brutale-990-r-b51",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29905,
+      "documentId": "ywy3tdmktx97nub0qes8gf36",
+      "name": "Brutale Oro 750 (F41)",
+      "slug": "brutale-oro-750-f41",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31583,
+      "documentId": "mzb0nht58femmzq2bsmoy3vr",
+      "name": "F3 675 (F3)",
+      "slug": "f3-675-f3",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31584,
+      "documentId": "vfyyfmxa7ba8mmhbwj4po883",
+      "name": "F3 800 (F1)",
+      "slug": "f3-800-f1",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31585,
+      "documentId": "tw83u4xo9dian7bkq8cw11f2",
+      "name": "F3 800 (F320, F321)",
+      "slug": "f3-800-f320-f321",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31589,
+      "documentId": "n8y1j1ziou4vye8uhalo7gtu",
+      "name": "F4 1000 Ago",
+      "slug": "f4-1000-ago",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31590,
+      "documentId": "r6rw4vf8p5vxdn05pawdn5zl",
+      "name": "F4 1000 R (F511AB)",
+      "slug": "f4-1000-r-f511ab",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31591,
+      "documentId": "psehowh7xqwmstr8cr0ueybb",
+      "name": "F4 1000 R (F61)",
+      "slug": "f4-1000-r-f61",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31592,
+      "documentId": "bqlfwjm0on68kvf80c6xjhhs",
+      "name": "F4 1000 R (F630)",
+      "slug": "f4-1000-r-f630",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31593,
+      "documentId": "h85qb55x8guszzpijnmt6q8d",
+      "name": "F4 1000 R 312 (F511BB)",
+      "slug": "f4-1000-r-312-f511bb",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31594,
+      "documentId": "ceqdo5wvol8kltq3tmefvako",
+      "name": "F4 1000 RC (F6)",
+      "slug": "f4-1000-rc-f6",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31595,
+      "documentId": "co9b1h0ks8z7rw8qf8d2cqls",
+      "name": "F4 1000 RR (F620, F621)",
+      "slug": "f4-1000-rr-f620-f621",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31596,
+      "documentId": "z3hod05d134u7jrzn8ywi57f",
+      "name": "F4 1078 RR (F511)",
+      "slug": "f4-1078-rr-f511",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34895,
+      "documentId": "cp97ugbskse789apgvwiue68",
+      "name": "Rivale 800 (S310, S311)",
+      "slug": "rivale-800-s310-s311",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35747,
+      "documentId": "suoexnqrt4z2vz0j4neqntct",
+      "name": "Stradale 800",
+      "slug": "stradale-800",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36297,
+      "documentId": "sfy73nn5gk34m72kmmi2xrct",
+      "name": "Turismo Veloce",
+      "slug": "turismo-veloce",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36298,
+      "documentId": "krmtxibb4medcsv6ek13qcc9",
+      "name": "Turismo Veloce 800 Lusso (T3)",
+      "slug": "turismo-veloce-800-lusso-t3",
+      "vehicle_type": "moto",
+      "isActive": true
+    }
+  ]
 }

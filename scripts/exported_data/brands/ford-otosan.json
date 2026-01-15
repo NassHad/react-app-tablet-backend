@@ -7,7 +7,32 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.846Z",
-  "models": []
+  "modelCount": 3,
+  "exportDate": "2026-01-07T09:17:53.807Z",
+  "models": [
+    {
+      "id": 29325,
+      "documentId": "wsupirvgy45c1odm3dk4aylh",
+      "name": "ANADOL",
+      "slug": "anadol",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29326,
+      "documentId": "k3ad3b5d6y19o7ppbc5aqon3",
+      "name": "ANADOL Estate",
+      "slug": "anadol-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35835,
+      "documentId": "j3oci6fi5rhcc741mg1ekqzn",
+      "name": "TAUNUS",
+      "slug": "taunus",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

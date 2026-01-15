@@ -7,9 +7,49 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 50,
-  "exportDate": "2026-01-06T19:34:16.990Z",
+  "modelCount": 65,
+  "exportDate": "2026-01-07T09:17:53.880Z",
   "models": [
+    {
+      "id": 28168,
+      "documentId": "d6sbrhmgx1vdhe1u8c5ecbrd",
+      "name": "1000MB",
+      "slug": "1000mb",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28175,
+      "documentId": "ec1qinu3dxn2bfh7tr52jguz",
+      "name": "105,120",
+      "slug": "105-120",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28192,
+      "documentId": "uc9se87aprggdopvc3v43onl",
+      "name": "110 Coupe",
+      "slug": "110-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28197,
+      "documentId": "xp1oxnpjirqu1qptl5g9zj2l",
+      "name": "1100MB",
+      "slug": "1100mb",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28262,
+      "documentId": "zsk1hyhndflbjrfzqpqb9o0i",
+      "name": "130",
+      "slug": "130",
+      "vehicle_type": "car",
+      "isActive": true
+    },
     {
       "id": 30399,
       "documentId": "x83kzwyq7siqlki2r9ioom5j",
@@ -23,6 +63,22 @@
       "documentId": "g0eertps4r2ip5jrfo09kmcd",
       "name": "E-CITIGO",
       "slug": "e-citigo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31320,
+      "documentId": "fd0axdhrwl6lzg6m9dxzgwxp",
+      "name": "ELROQ",
+      "slug": "elroq",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31328,
+      "documentId": "ajju026gavutq14fimlwyexf",
+      "name": "ENYAQ iV Coupe",
+      "slug": "enyaq-iv-coupe",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -131,6 +187,14 @@
       "isActive": true
     },
     {
+      "id": 31620,
+      "documentId": "an6nb9jyizspd6386q51edye",
+      "name": "FAVORIT Estate Van",
+      "slug": "favorit-estate-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 31621,
       "documentId": "cdv3srkeyw359grophirnhc3",
       "name": "FAVORIT Forman",
@@ -143,6 +207,14 @@
       "documentId": "krebwwbah023epv3slnrap43",
       "name": "FAVORIT Pickup",
       "slug": "favorit-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31634,
+      "documentId": "kc7ymj7azgqgchquv983txch",
+      "name": "FELICIA Cube Van",
+      "slug": "felicia-cube-van",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -243,6 +315,22 @@
       "isActive": true
     },
     {
+      "id": 32940,
+      "documentId": "my0y8l91iktgrn8otud8yell",
+      "name": "KODIAQ I",
+      "slug": "kodiaq-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32941,
+      "documentId": "cmhge6loovmkgv5u1b5sbg9z",
+      "name": "KODIAQ II",
+      "slug": "kodiaq-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 34070,
       "documentId": "nyqpyehv3cu0drpljvvmvu8u",
       "name": "OCTAVIA I",
@@ -255,6 +343,14 @@
       "documentId": "n6t2ai9xgndqs0dxdxpqyp2s",
       "name": "OCTAVIA I Combi",
       "slug": "octavia-i-combi",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34072,
+      "documentId": "fi5c8x6892h9tj3tjdpn1rt7",
+      "name": "OCTAVIA I Estate Van",
+      "slug": "octavia-i-estate-van",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -355,6 +451,14 @@
       "isActive": true
     },
     {
+      "id": 35047,
+      "documentId": "o862thoyjwhrolsecje2vtnx",
+      "name": "SCALA",
+      "slug": "scala",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 35537,
       "documentId": "zwthjfq1klpcuhvy1awjkwcn",
       "name": "SUPERB I",
@@ -391,6 +495,22 @@
       "documentId": "woidp5pivcig11vll0oc9ez7",
       "name": "SUPERB III Estate",
       "slug": "superb-iii-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35542,
+      "documentId": "dqrepmeadczi1eaghfsfkssc",
+      "name": "SUPERB IV",
+      "slug": "superb-iv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35543,
+      "documentId": "cqaj9rsodgoc6b4udp5eikwo",
+      "name": "SUPERB IV Estate",
+      "slug": "superb-iv-estate",
       "vehicle_type": "car",
       "isActive": true
     },

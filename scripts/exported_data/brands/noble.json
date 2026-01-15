@@ -7,7 +7,56 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.934Z",
-  "models": []
+  "modelCount": 6,
+  "exportDate": "2026-01-07T09:17:53.858Z",
+  "models": [
+    {
+      "id": 33291,
+      "documentId": "km2ee1g2bq98eexrb81bkpk2",
+      "name": "M10",
+      "slug": "m10",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33292,
+      "documentId": "mcs3212vu6cu3rsq9aw082zs",
+      "name": "M12",
+      "slug": "m12",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33293,
+      "documentId": "cat0meurd99ifp6bj7xkbg45",
+      "name": "M15",
+      "slug": "m15",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33299,
+      "documentId": "ekf69pbeazln2aqvuy8r2c6c",
+      "name": "M400",
+      "slug": "m400",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33303,
+      "documentId": "u2b2ghh5xsnob1k6h58flu2p",
+      "name": "M600",
+      "slug": "m600",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33304,
+      "documentId": "bgq3rvkmemonfaze8viwfpu6",
+      "name": "M600 Speedster",
+      "slug": "m600-speedster",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

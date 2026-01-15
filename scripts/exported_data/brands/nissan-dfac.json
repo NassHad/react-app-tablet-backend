@@ -7,7 +7,24 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.934Z",
-  "models": []
+  "modelCount": 2,
+  "exportDate": "2026-01-07T09:17:53.858Z",
+  "models": [
+    {
+      "id": 35894,
+      "documentId": "qsjjjw698ej1jzgr5hkug3gw",
+      "name": "TEANA",
+      "slug": "teana",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35962,
+      "documentId": "l9446un0bfcmsqyg38nwafdf",
+      "name": "TIIDA Hatchback",
+      "slug": "tiida-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

@@ -7,7 +7,32 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:17.001Z",
-  "models": []
+  "modelCount": 3,
+  "exportDate": "2026-01-07T09:17:53.883Z",
+  "models": [
+    {
+      "id": 28788,
+      "documentId": "m6oojoqs8lggt874b6ozkaaf",
+      "name": "500/650",
+      "slug": "500-650",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28893,
+      "documentId": "xmwb7xvcg16j5fod726w2082",
+      "name": "700",
+      "slug": "700",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32510,
+      "documentId": "w17b1vsje77yrfwclyi0exz5",
+      "name": "HAFLINGER",
+      "slug": "haflinger",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

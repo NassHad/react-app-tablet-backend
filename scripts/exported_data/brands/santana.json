@@ -7,7 +7,56 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.984Z",
-  "models": []
+  "modelCount": 6,
+  "exportDate": "2026-01-07T09:17:53.877Z",
+  "models": [
+    {
+      "id": 28519,
+      "documentId": "tzurfrbdsua0vmlv9ppob5eh",
+      "name": "300 Open Off-Road Vehicle",
+      "slug": "300-open-off-road-vehicle",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33052,
+      "documentId": "fib8y0q0ylyaq4fln1i1n896",
+      "name": "LANDROVER 1300/2000",
+      "slug": "landrover-1300-2000",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33053,
+      "documentId": "nzw394qcipk4uuuk7xc276hz",
+      "name": "LANDROVER 88/109",
+      "slug": "landrover-88-109",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34427,
+      "documentId": "vuer2vdbg8d6ondi9e1z8bar",
+      "name": "PS10/ANIBAL",
+      "slug": "ps10-anibal",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34428,
+      "documentId": "jg4e8imwfcio9sgufk8x67ha",
+      "name": "PS10/ANIBAL Open Off-Road Vehicle",
+      "slug": "ps10-anibal-open-off-road-vehicle",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34997,
+      "documentId": "qljs4asofanvqj86umiz600m",
+      "name": "SAMURAI",
+      "slug": "samurai",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

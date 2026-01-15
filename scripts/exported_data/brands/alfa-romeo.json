@@ -7,8 +7,8 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 28,
-  "exportDate": "2026-01-06T19:34:16.769Z",
+  "modelCount": 63,
+  "exportDate": "2026-01-07T09:17:53.760Z",
   "models": [
     {
       "id": 28290,
@@ -91,6 +91,54 @@
       "isActive": true
     },
     {
+      "id": 28324,
+      "documentId": "g8r5pq0bckwlhpu3eimloxjq",
+      "name": "1750-2000",
+      "slug": "1750-2000",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28343,
+      "documentId": "rlkyw0i7dj6iwt285eyjaszr",
+      "name": "1900",
+      "slug": "1900",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28451,
+      "documentId": "ttu751zhlmosj33eiitkz4wo",
+      "name": "2300",
+      "slug": "2300",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28484,
+      "documentId": "ex4n8k8s47yhb9194868gytv",
+      "name": "2600 Berlina",
+      "slug": "2600-berlina",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28485,
+      "documentId": "brhqkqmhl50mz8sbneu1tpd1",
+      "name": "2600 Spider",
+      "slug": "2600-spider",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28486,
+      "documentId": "wezdoicu3y0rwrfivq93siv6",
+      "name": "2600 Sprint",
+      "slug": "2600-sprint",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 28624,
       "documentId": "vpfvs42bj3wyy4nca12vsavg",
       "name": "33",
@@ -123,6 +171,94 @@
       "isActive": true
     },
     {
+      "id": 28973,
+      "documentId": "pvdc3231lnuey3nty0v3i4ub",
+      "name": "8C",
+      "slug": "8c",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28974,
+      "documentId": "wthlfa07ebglk3bowivd2sdg",
+      "name": "8C SPIDER",
+      "slug": "8c-spider",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29067,
+      "documentId": "pw2fyu0sl99h51n5jwxcfmmr",
+      "name": "A11 / A12 Platform/Chassis",
+      "slug": "a11-a12-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29241,
+      "documentId": "dyu15yc8nzzxt5yiy0y9cj6l",
+      "name": "ALFASUD",
+      "slug": "alfasud",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29242,
+      "documentId": "vpk3t6yauzp5hna93rlq1a5f",
+      "name": "ALFASUD Giardinetta",
+      "slug": "alfasud-giardinetta",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29243,
+      "documentId": "mijljibc1wyl7jx2w2br07iy",
+      "name": "ALFETTA",
+      "slug": "alfa-romeo-alfetta",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29244,
+      "documentId": "r3f0r68f31iix7yuk999rno3",
+      "name": "ALFETTA GT",
+      "slug": "alfetta-gt",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29346,
+      "documentId": "w5jitoxm47pccmxeub7olme3",
+      "name": "AR 6 Bus",
+      "slug": "ar-6-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29347,
+      "documentId": "gpp6lmnvq28s24wna7dhh69t",
+      "name": "AR 6 Van",
+      "slug": "ar-6-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29348,
+      "documentId": "ldel0rypnayptt9rvw24hxmg",
+      "name": "AR 8 Platform/Chassis",
+      "slug": "ar-8-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29349,
+      "documentId": "z9h4ffgeuuhnnl65igd00dtx",
+      "name": "AR 8 Van",
+      "slug": "ar-8-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 29600,
       "documentId": "fort7uj7kxhiemzgz1yt5ffp",
       "name": "Alfasud Sprint",
@@ -147,10 +283,42 @@
       "isActive": true
     },
     {
+      "id": 29701,
+      "documentId": "oex7b9db6jht894d5dvk5u7e",
+      "name": "BERLINA",
+      "slug": "berlina",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 29782,
       "documentId": "ecm3c6poz578243igtop5i8f",
       "name": "BRERA",
       "slug": "brera",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31003,
+      "documentId": "i6wbh7gn05glzk2a433533o4",
+      "name": "DISCO VOLANTE",
+      "slug": "disco-volante",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31567,
+      "documentId": "u789xvlxhx2g6mjy4npromfw",
+      "name": "F11 / F12 Bus",
+      "slug": "f11-f12-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31568,
+      "documentId": "k6xfk6kaxdujtsdrnlgh1z86",
+      "name": "F11 / F12 Van",
+      "slug": "f11-f12-van",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -163,10 +331,50 @@
       "isActive": true
     },
     {
+      "id": 32138,
+      "documentId": "suley90ya0pabqkckxxfu9c5",
+      "name": "GIULIA GT",
+      "slug": "giulia-gt",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32139,
+      "documentId": "j54tnb7hk3gmin4p0ja8kczm",
+      "name": "GIULIA SPIDER",
+      "slug": "giulia-spider",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 32140,
       "documentId": "l6345nohhj64oe4gnhk26mx6",
       "name": "GIULIETTA",
       "slug": "giulietta",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32142,
+      "documentId": "eovhnkgh2e0ohjw006nnh7a6",
+      "name": "GIULIETTA Berlina",
+      "slug": "giulietta-berlina",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32143,
+      "documentId": "naoizy8eb8phpfcrzavlkpds",
+      "name": "GIULIETTA Coupe",
+      "slug": "giulietta-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32144,
+      "documentId": "pw4p9mzhkr6zv3lduob2wx34",
+      "name": "GIULIETTA Estate",
+      "slug": "giulietta-estate",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -179,10 +387,42 @@
       "isActive": true
     },
     {
+      "id": 32146,
+      "documentId": "tzai7h3tbpzfcc5yvbduvjfn",
+      "name": "GIULIETTA Spider",
+      "slug": "giulietta-spider",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32147,
+      "documentId": "jlw4gjvwemznmg14vyw26y2v",
+      "name": "GIULIETTA Sprint",
+      "slug": "giulietta-sprint",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32148,
+      "documentId": "ln6556870mfgu29xvjr10uri",
+      "name": "GIULIETTA Sprint Speciale",
+      "slug": "giulietta-sprint-speciale",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 32402,
       "documentId": "e4v1ldh84bfodvo3a3i8cbl7",
       "name": "GT",
       "slug": "gt",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32417,
+      "documentId": "uuywpdjxk0aqru1jtr7bg2f3",
+      "name": "GTA Coupe",
+      "slug": "gta-coupe",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -203,10 +443,42 @@
       "isActive": true
     },
     {
+      "id": 33394,
+      "documentId": "y1u64a6tc49jdfv6mt0920vw",
+      "name": "MATTA Open Off-Road Vehicle",
+      "slug": "matta-open-off-road-vehicle",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 33578,
       "documentId": "k3807wqnqu5k7vs7emi16u6g",
       "name": "MITO",
       "slug": "mito",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33634,
+      "documentId": "n8vog6e3yi5vozqdkb9zf1dl",
+      "name": "MONTREAL",
+      "slug": "montreal",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34796,
+      "documentId": "i5f0ru7fhneswylk8whdsgs8",
+      "name": "ROMEO 2 Bus",
+      "slug": "romeo-2-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34797,
+      "documentId": "ker2j4zskxi8kechde3im42y",
+      "name": "ROMEO 2 Van",
+      "slug": "romeo-2-van",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -223,6 +495,14 @@
       "documentId": "b83t4l0ap1aye2fzb9tv06el",
       "name": "STELVIO",
       "slug": "stelvio",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35598,
+      "documentId": "y7zh4w3qy7wjsbnwfhu5o1oi",
+      "name": "SZ",
+      "slug": "sz",
       "vehicle_type": "car",
       "isActive": true
     },

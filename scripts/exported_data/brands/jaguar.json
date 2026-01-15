@@ -7,14 +7,38 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 24,
-  "exportDate": "2026-01-06T19:34:16.877Z",
+  "modelCount": 32,
+  "exportDate": "2026-01-07T09:17:53.827Z",
   "models": [
     {
       "id": 31242,
       "documentId": "tf8iu9txxvutab8rzswk2s91",
       "name": "E-PACE",
       "slug": "e-pace",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31247,
+      "documentId": "htq99ub0dwyo93glzf0foq5w",
+      "name": "E-TYPE",
+      "slug": "e-type",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31248,
+      "documentId": "uywg0diagmotf82sk1s76wi1",
+      "name": "E-TYPE 2+2",
+      "slug": "e-type-2-2",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31249,
+      "documentId": "frqrfgh8hx8785hz9j72ygno",
+      "name": "E-TYPE Convertible",
+      "slug": "e-type-convertible",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -59,6 +83,14 @@
       "isActive": true
     },
     {
+      "id": 34952,
+      "documentId": "dxuywhjo69v9wsblqa0eb2gb",
+      "name": "S-TYPE I",
+      "slug": "s-type-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 34953,
       "documentId": "sszco8otx9m2bdaf4payd1ow",
       "name": "S-TYPE II",
@@ -71,6 +103,14 @@
       "documentId": "n5fs2uepvxitdbm2d2639xby",
       "name": "Sovereign",
       "slug": "sovereign",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36402,
+      "documentId": "o3arpcmldiw495se3zkv0my8",
+      "name": "VANDEN PLAS Saloon",
+      "slug": "vanden-plas-saloon",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -155,10 +195,34 @@
       "isActive": true
     },
     {
+      "id": 36908,
+      "documentId": "qfi68yczx8879cd4wn31nuvq",
+      "name": "XJ Coupe",
+      "slug": "xj-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36909,
+      "documentId": "fa4ij3yf5r644lmene40dssm",
+      "name": "XJ220 Coupe",
+      "slug": "xj220-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 36910,
       "documentId": "fl4eh9vm498k8cl8wobtlq1k",
       "name": "XJ6 / XJ8 / XJR",
       "slug": "xj6--xj8--xjr",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36923,
+      "documentId": "am46qcszwl41ix51wg5srio2",
+      "name": "XJSC Convertible",
+      "slug": "xjsc-convertible",
       "vehicle_type": "car",
       "isActive": true
     },

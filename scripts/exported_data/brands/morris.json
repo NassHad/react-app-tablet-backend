@@ -7,7 +7,160 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.930Z",
-  "models": []
+  "modelCount": 19,
+  "exportDate": "2026-01-07T09:17:53.854Z",
+  "models": [
+    {
+      "id": 32719,
+      "documentId": "x6y8qqanacglv4e2u6jhh1kl",
+      "name": "ITAL",
+      "slug": "ital",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32720,
+      "documentId": "h86ycskilp5w2slzwj8xc6g7",
+      "name": "ITAL Station Wagon",
+      "slug": "ital-station-wagon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33343,
+      "documentId": "hjua6vhz8fiipos0zgzaqkub",
+      "name": "MARINA",
+      "slug": "marina",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33344,
+      "documentId": "appkxlx4gg3x8mjqrlruqtnc",
+      "name": "MARINA Coupe",
+      "slug": "marina-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33345,
+      "documentId": "guj9bkamczmuq9483wx80ejr",
+      "name": "MARINA II Pickup",
+      "slug": "marina-ii-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33346,
+      "documentId": "ehpyidm6j5d3ylc3qj6n321g",
+      "name": "MARINA II Saloon",
+      "slug": "marina-ii-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33347,
+      "documentId": "e5qikfmplod1bymu15hbexbh",
+      "name": "MARINA II Station Wagon",
+      "slug": "marina-ii-station-wagon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33348,
+      "documentId": "dlquba2y8hl6o10t6ep32af9",
+      "name": "MARINA III",
+      "slug": "marina-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33349,
+      "documentId": "frsa9kfjybx0c01u9huqrqtv",
+      "name": "MARINA III Estate",
+      "slug": "marina-iii-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33350,
+      "documentId": "jfl4gb1g2zsixfsi8vjb2p9p",
+      "name": "MARINA Station Wagon",
+      "slug": "marina-station-wagon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33542,
+      "documentId": "r7mvrhu6gec26w7ibv5wrx58",
+      "name": "MINI Estate",
+      "slug": "mini-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33543,
+      "documentId": "sg5wlqudt4rho8sk6cy5vrf8",
+      "name": "MINI Estate Van",
+      "slug": "mini-estate-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33555,
+      "documentId": "urgsroq924nqxs30v4wx2avl",
+      "name": "MINOR Convertible",
+      "slug": "minor-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33556,
+      "documentId": "flh6qchgvt3vcsb10b5pgsjb",
+      "name": "MINOR Estate",
+      "slug": "minor-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33557,
+      "documentId": "jip0lwfi8nz8o54pv7kllsxt",
+      "name": "MINOR Estate Van",
+      "slug": "minor-estate-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33558,
+      "documentId": "mnxsibcxjz4r4ewwtas52anl",
+      "name": "MINOR Pickup",
+      "slug": "minor-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33559,
+      "documentId": "yif39atnng11n2qml8fkpm27",
+      "name": "MINOR Saloon",
+      "slug": "minor-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33638,
+      "documentId": "asbrnrx5ujyz9u7fynmg8gta",
+      "name": "MORRIS",
+      "slug": "morris",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34124,
+      "documentId": "iub86bgmiuhwq1d9a9qz9zwk",
+      "name": "OXFORD",
+      "slug": "oxford",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

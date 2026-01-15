@@ -7,7 +7,128 @@
     "vehicle_type": "moto",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.968Z",
-  "models": []
+  "modelCount": 15,
+  "exportDate": "2026-01-07T09:17:53.873Z",
+  "models": [
+    {
+      "id": 30803,
+      "documentId": "rxa2bsujshozhl3y77u6ruma",
+      "name": "Capriolo 50",
+      "slug": "capriolo-50",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 30834,
+      "documentId": "q3magbuw8q9scy439y9sadwi",
+      "name": "Chopper 125",
+      "slug": "chopper-125",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31527,
+      "documentId": "l0ceeq9mevxh7d99gsm73uvu",
+      "name": "Escape 25",
+      "slug": "escape-25",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31528,
+      "documentId": "uou7cvirsx4dgk3jwljfo1sk",
+      "name": "Escape 50",
+      "slug": "escape-50",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34817,
+      "documentId": "ertgau4ymy140b6lzr6ptzi0",
+      "name": "RS 425 25",
+      "slug": "rs-425-25",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34818,
+      "documentId": "sw5tx8vbyeori7jfuh14rwpm",
+      "name": "RS 450 50",
+      "slug": "rs-450-50",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34889,
+      "documentId": "tzcyfnyiv6b70aa0hetekvu0",
+      "name": "Rex 50",
+      "slug": "rex-50",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34890,
+      "documentId": "f5zo6hmrvp5e4k577z8amnvb",
+      "name": "Rexy 125",
+      "slug": "rexy-125",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34891,
+      "documentId": "gc6ul0oaxkx1pe3tvooyk0bf",
+      "name": "Rexy 25",
+      "slug": "rexy-25",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34892,
+      "documentId": "hcar9ltkmvg93k3eqomkaxah",
+      "name": "Rexy 50",
+      "slug": "rexy-50",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35627,
+      "documentId": "jrw2nd38frvrpa8euyg3rmkp",
+      "name": "Scooter 25",
+      "slug": "scooter-25",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35628,
+      "documentId": "l52jzu6i0jj3hzmh0ncej60c",
+      "name": "Scooter 50",
+      "slug": "scooter-50",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35657,
+      "documentId": "rgj77omk5b4j5rb3as236hes",
+      "name": "Silverstreet 25",
+      "slug": "silverstreet-25",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35658,
+      "documentId": "xqeklycp24m1q7g9go4ao5w5",
+      "name": "Silverstreet 50",
+      "slug": "silverstreet-50",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36284,
+      "documentId": "wp8a7l5mso83i5etv4ul2zs6",
+      "name": "Trophy 50",
+      "slug": "trophy-50",
+      "vehicle_type": "moto",
+      "isActive": true
+    }
+  ]
 }

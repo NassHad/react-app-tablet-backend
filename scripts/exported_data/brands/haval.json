@@ -7,7 +7,16 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.861Z",
-  "models": []
+  "modelCount": 1,
+  "exportDate": "2026-01-07T09:17:53.815Z",
+  "models": [
+    {
+      "id": 32503,
+      "documentId": "yqzykty6hqrbbnz36kcmth0o",
+      "name": "H2",
+      "slug": "h2",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

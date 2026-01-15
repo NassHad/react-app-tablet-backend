@@ -7,7 +7,16 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.858Z",
-  "models": []
+  "modelCount": 1,
+  "exportDate": "2026-01-07T09:17:53.812Z",
+  "models": [
+    {
+      "id": 32458,
+      "documentId": "v2p7utci18ec9t31iusr9qgf",
+      "name": "GX2 / PANDA",
+      "slug": "gx2-panda",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

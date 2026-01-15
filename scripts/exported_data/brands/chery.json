@@ -7,7 +7,232 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.806Z",
-  "models": []
+  "modelCount": 28,
+  "exportDate": "2026-01-07T09:17:53.784Z",
+  "models": [
+    {
+      "id": 29080,
+      "documentId": "nh1y3fa8z16ftj9e1sc793p0",
+      "name": "A3 Hatchback",
+      "slug": "a3-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29083,
+      "documentId": "qc6yyza34wuszhcq21pgaj3k",
+      "name": "A3 Saloon",
+      "slug": "a3-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29367,
+      "documentId": "b0y5t9317leg5n8czzq88x51",
+      "name": "ARRIZO 3",
+      "slug": "arrizo-3",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29368,
+      "documentId": "f69ra8pzzit4mtzmfox9huyk",
+      "name": "ARRIZO 5",
+      "slug": "arrizo-5",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29369,
+      "documentId": "nmxf0zu3vo47n8rfkt82abyl",
+      "name": "ARRIZO 7",
+      "slug": "arrizo-7",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30653,
+      "documentId": "l5gogumg2hgrqves3ydtxizp",
+      "name": "COWIN",
+      "slug": "cowin",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30654,
+      "documentId": "za5v8l9kjwqxcawe1t8xp22h",
+      "name": "COWIN 2",
+      "slug": "cowin-2",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30655,
+      "documentId": "at3rcs52sgi6t5jounuzu0t1",
+      "name": "COWIN 3",
+      "slug": "cowin-3",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30656,
+      "documentId": "zx55iwnleq9sgfx2tg2cfg1p",
+      "name": "COWIN 5",
+      "slug": "cowin-5",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31250,
+      "documentId": "wyjg3eql5empqv5qrsii9mj6",
+      "name": "E3",
+      "slug": "e3",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31251,
+      "documentId": "jsaelhidmzz7rwf9xbqcwxyi",
+      "name": "E5",
+      "slug": "e5",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33748,
+      "documentId": "ypj2c1pbcsxmabnwhm23ocga",
+      "name": "MVM315",
+      "slug": "mvm315",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33749,
+      "documentId": "zdc8qmzq3awbjxu22i1qmkv8",
+      "name": "MVM530",
+      "slug": "mvm530",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33750,
+      "documentId": "pvvyrd5jxltogo17n6qa0xd3",
+      "name": "MVMX33",
+      "slug": "mvmx33",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34106,
+      "documentId": "pyo6w8dqqihhuzg5bd9w9xvi",
+      "name": "ORIENTAL SON",
+      "slug": "oriental-son",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34573,
+      "documentId": "rrfi2zww89vzzf8z9b3ezl6o",
+      "name": "QQ",
+      "slug": "qq",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34574,
+      "documentId": "ruhgitzojthnlugfl7v6umko",
+      "name": "QQ3",
+      "slug": "qq3",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34575,
+      "documentId": "wigvhiut2oublvgdirqapk5x",
+      "name": "QQ6",
+      "slug": "qq6",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35941,
+      "documentId": "vcqegl8i3v8qhqf4eppwntki",
+      "name": "TIGGO",
+      "slug": "tiggo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35942,
+      "documentId": "i6oqvytk9rdse0lcoa7kw7r1",
+      "name": "TIGGO 3",
+      "slug": "tiggo-3",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35943,
+      "documentId": "ht7irgwmzt7y5m3pswf4xyjw",
+      "name": "TIGGO 3x",
+      "slug": "tiggo-3x",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35944,
+      "documentId": "d803dqcidqdeyha5c0xzawdc",
+      "name": "TIGGO 5",
+      "slug": "tiggo-5",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35945,
+      "documentId": "iumhoikfo2yxytiqsevnkbs4",
+      "name": "TIGGO 5x",
+      "slug": "tiggo-5x",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35946,
+      "documentId": "kxg10d75b97e6fcqrvzemye7",
+      "name": "TIGGO 7",
+      "slug": "tiggo-7",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35947,
+      "documentId": "mnrtsia67t8xrkktdku9d30k",
+      "name": "TIGGO 8 PLUS",
+      "slug": "tiggo-8-plus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35948,
+      "documentId": "le1due6gj2ry5a940y6645ry",
+      "name": "TIGGO DR",
+      "slug": "tiggo-dr",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35949,
+      "documentId": "w4s6dlyh5fxd7joarvhfux8z",
+      "name": "TIGGO FL",
+      "slug": "tiggo-fl",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36368,
+      "documentId": "mb2au9tj0uju9lar32weilkb",
+      "name": "V5 MPV",
+      "slug": "v5-mpv",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

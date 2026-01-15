@@ -7,7 +7,728 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:17.056Z",
-  "models": []
+  "modelCount": 90,
+  "exportDate": "2026-01-07T09:17:53.897Z",
+  "models": [
+    {
+      "id": 28302,
+      "documentId": "v4titvh6glswiwgoqv7ij8d7",
+      "name": "1500,1600",
+      "slug": "1500-1600",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28303,
+      "documentId": "w3n6k03zxzft7cjxzpgrnj4u",
+      "name": "1500,1600 Hatchback",
+      "slug": "1500-1600-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28304,
+      "documentId": "po18byqze9wn1tsnlkoa51jo",
+      "name": "1500,1600 Variant",
+      "slug": "1500-1600-variant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28331,
+      "documentId": "pl1ymqjf4x11hfvurf84dm2y",
+      "name": "181",
+      "slug": "181",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28712,
+      "documentId": "hd7cw88d5i8jqr1slp2xyiqc",
+      "name": "411,412",
+      "slug": "411-412",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28715,
+      "documentId": "bvv8yscuuh9olle7t1fmqoa5",
+      "name": "412 Variant",
+      "slug": "412-variant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29372,
+      "documentId": "kt46dkdkto8p6fj22nw4ytg4",
+      "name": "ARTEON SHOOTING BRAKE",
+      "slug": "arteon-shooting-brake",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30062,
+      "documentId": "jn5v9ia5kjtcp879z9zv1cco",
+      "name": "CADDY ALLTRACK IV Box Body/MPV",
+      "slug": "caddy-alltrack-iv-box-body-mpv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30063,
+      "documentId": "gu74sjp90vt4ickr9gytma7s",
+      "name": "CADDY ALLTRACK IV MPV",
+      "slug": "caddy-alltrack-iv-mpv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30065,
+      "documentId": "zyzmdymus03ybf4v8ahuh5mv",
+      "name": "CADDY CALIFORNIA V Camper",
+      "slug": "caddy-california-v-camper",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30091,
+      "documentId": "hkd6hxa4i5q38hm0wa5ojrvf",
+      "name": "CALIFORNIA T4 Camper",
+      "slug": "california-t4-camper",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30092,
+      "documentId": "hwjrnsx4rs49p8bbppuv5rn9",
+      "name": "CALIFORNIA T5 Camper",
+      "slug": "california-t5-camper",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30301,
+      "documentId": "zcdps4niho3fb64om0tkt7dv",
+      "name": "CC B7",
+      "slug": "cc-b7",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31861,
+      "documentId": "ymwb3rmo18xnemvrit2ux6st",
+      "name": "FOX Van",
+      "slug": "fox-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31877,
+      "documentId": "mtfzejsc9jqkb86k4w99gqrb",
+      "name": "FRIDOLIN Van",
+      "slug": "fridolin-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32174,
+      "documentId": "zx35tp6r0u4d4avynm8tynvh",
+      "name": "GOL G3",
+      "slug": "gol-g3",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32175,
+      "documentId": "ks3ioa0mopynp4tdcw2px7fz",
+      "name": "GOL G4",
+      "slug": "gol-g4",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32177,
+      "documentId": "h3jjspviuu5mlqbtz81k7dgd",
+      "name": "GOLF ALLTRACK VIII",
+      "slug": "golf-alltrack-viii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32178,
+      "documentId": "lpwbj8ta92pjzcbep3mz1evl",
+      "name": "GOLF Hatchback Van",
+      "slug": "golf-hatchback-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32180,
+      "documentId": "hhb5nvauh5buje75phmb2w3f",
+      "name": "GOLF I Cabriolet",
+      "slug": "golf-i-cabriolet",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32182,
+      "documentId": "q538xen2xbxoe3iv8ymtrehm",
+      "name": "GOLF II Van",
+      "slug": "golf-ii-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32185,
+      "documentId": "c5mzwfikyjnonafdj1lsmv7s",
+      "name": "GOLF III Van",
+      "slug": "golf-iii-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32189,
+      "documentId": "kdtcmvvsk0qy8h26wuyrnys5",
+      "name": "GOLF IV Van",
+      "slug": "golf-iv-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32192,
+      "documentId": "ea3s3298ybzjjzse5xk0os68",
+      "name": "GOLF PLUS V",
+      "slug": "golf-plus-v",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32193,
+      "documentId": "l31i1drs2c43cawgioxpx0xs",
+      "name": "GOLF PLUS Van",
+      "slug": "golf-plus-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32195,
+      "documentId": "lu61e92spf2rx2hr1u5n70xy",
+      "name": "GOLF SPORTSVAN VII",
+      "slug": "golf-sportsvan-vii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32199,
+      "documentId": "d6bgbxemr0zf61h9ue60ucgm",
+      "name": "GOLF VAN IV Variant",
+      "slug": "golf-van-iv-variant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32200,
+      "documentId": "lanp4wuzlz5jm8d6n5f2rx8t",
+      "name": "GOLF VAN VI Variant",
+      "slug": "golf-van-vi-variant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32205,
+      "documentId": "s0sw23vc2ke17w7x4eq62w8k",
+      "name": "GOLF VI Van",
+      "slug": "golf-vi-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32208,
+      "documentId": "do3sx36jszgjq13gbtwkfztd",
+      "name": "GOLF VII Van",
+      "slug": "golf-vii-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32212,
+      "documentId": "s1he3y0x0wtures70fs3w3lz",
+      "name": "GOLF Van III Variant",
+      "slug": "golf-van-iii-variant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32240,
+      "documentId": "lg7m96nzc01bewuz5cesushj",
+      "name": "GRAND CALIFORNIA Camper",
+      "slug": "grand-california-camper",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32625,
+      "documentId": "c7k4ftbvtnflfkmvms2mf9lz",
+      "name": "ID. Buzz Bus",
+      "slug": "id-buzz-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32626,
+      "documentId": "c1odetkusb68rqylgot1ofyd",
+      "name": "ID. Buzz Cargo",
+      "slug": "id-buzz-cargo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32633,
+      "documentId": "bpypz0qyrzc4o3mcflghthi1",
+      "name": "ID.7 Tourer",
+      "slug": "id-7-tourer",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32765,
+      "documentId": "jlrfh78o8x7r5wl97ywgokbe",
+      "name": "JETTA VII Saloon",
+      "slug": "jetta-vii-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32831,
+      "documentId": "r68mbd0izvdwl5kq3yebubs0",
+      "name": "K 70",
+      "slug": "k-70",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32870,
+      "documentId": "h87r3rmulrtt84xrkq9p6s90",
+      "name": "KAEFER",
+      "slug": "kaefer",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32871,
+      "documentId": "mmm9867wzfqqs4xpji1f2ubh",
+      "name": "KAEFER Convertible",
+      "slug": "kaefer-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32908,
+      "documentId": "pp2g8e7zm2wmjggj6cunvpsj",
+      "name": "KARMANN GHIA Convertible",
+      "slug": "karmann-ghia-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32909,
+      "documentId": "qhojp1y7dki6ievbukasfqx3",
+      "name": "KARMANN GHIA Coupe",
+      "slug": "karmann-ghia-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33189,
+      "documentId": "asup5yykzn0vdhys6svgsyjt",
+      "name": "LT 40-55 I Platform/Chassis",
+      "slug": "lt-40-55-i-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33726,
+      "documentId": "wxty44lvflxbo9olvgz1520c",
+      "name": "MULTIVAN T5",
+      "slug": "multivan-t5",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33727,
+      "documentId": "u7bbyqirluyd3whx9sv3fwt6",
+      "name": "MULTIVAN T6",
+      "slug": "multivan-t6",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34186,
+      "documentId": "vydg10in458lcn33luuzjimk",
+      "name": "PARATI II Variant",
+      "slug": "parati-ii-variant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34187,
+      "documentId": "hycnv0ixbddkymxfah34w4p3",
+      "name": "PARATI III Variant",
+      "slug": "parati-iii-variant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34211,
+      "documentId": "p02xmsp38twcpxrhhob0da7h",
+      "name": "PASSAT ALLTRACK B8 Variant",
+      "slug": "passat-alltrack-b8-variant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34212,
+      "documentId": "ek6sij5uko86faxifeac7d2r",
+      "name": "PASSAT B1",
+      "slug": "passat-b1",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34213,
+      "documentId": "d14cd0lwmfht84gk11zy59aq",
+      "name": "PASSAT B1 Saloon",
+      "slug": "passat-b1-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34214,
+      "documentId": "l5latzzat8iz2urp0cd89t0g",
+      "name": "PASSAT B1 Variant",
+      "slug": "passat-b1-variant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34215,
+      "documentId": "k9qmtawmye0z00rdo0ly6bac",
+      "name": "PASSAT B2",
+      "slug": "passat-b2",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34216,
+      "documentId": "pee6u6jsle6bl1vikh165usw",
+      "name": "PASSAT B2 Saloon",
+      "slug": "passat-b2-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34217,
+      "documentId": "tid8w8t0n5deyev8ds0h8hpa",
+      "name": "PASSAT B2 Variant",
+      "slug": "passat-b2-variant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34221,
+      "documentId": "b3i7qseaek3bwvp7bt2xf5u5",
+      "name": "PASSAT B5 Variant",
+      "slug": "passat-b5-variant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34225,
+      "documentId": "vkz6vsmj90i128gluhjakcgp",
+      "name": "PASSAT B6 Variant",
+      "slug": "passat-b6-variant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34226,
+      "documentId": "uk7f8kweuz6kec63z38pfa9o",
+      "name": "PASSAT B7",
+      "slug": "passat-b7",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34228,
+      "documentId": "vnnx4oc2u0vryr8po8ppax0c",
+      "name": "PASSAT B7 Variant",
+      "slug": "passat-b7-variant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34229,
+      "documentId": "cm6cpy7yglz3ru4g0cezsmlm",
+      "name": "PASSAT B8",
+      "slug": "passat-b8",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34230,
+      "documentId": "j0cjqk0t95gug3s1txx2yzdd",
+      "name": "PASSAT B8 Variant",
+      "slug": "passat-b8-variant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34231,
+      "documentId": "b9xu1dz9yhis5xgskofx2911",
+      "name": "PASSAT B9 Variant",
+      "slug": "passat-b9-variant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34326,
+      "documentId": "tgb88exf4lsdrj7e692a8wh0",
+      "name": "POLO Van Estate Van",
+      "slug": "polo-van-estate-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34328,
+      "documentId": "lsaxttf4n2odfgviilmv47gq",
+      "name": "POLO Van V",
+      "slug": "polo-van-v",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34577,
+      "documentId": "i3adzpap94a1bfn3f1luyfbp",
+      "name": "QUANTUM Variant",
+      "slug": "quantum-variant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35032,
+      "documentId": "veg6yt7ihq7rrbe4wwfj57p6",
+      "name": "SAVEIRO G1",
+      "slug": "saveiro-g1",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35033,
+      "documentId": "zcewun0x229l3t5z3563uxk5",
+      "name": "SAVEIRO G2",
+      "slug": "saveiro-g2",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35062,
+      "documentId": "rpql2ba0gkfzo1zi8bo8p4k2",
+      "name": "SCIROCCO Van",
+      "slug": "scirocco-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35164,
+      "documentId": "tybuzjenw45xxypnq2acpjf8",
+      "name": "SHARAN VAN",
+      "slug": "sharan-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35867,
+      "documentId": "dpoyc28qrlefocstmxsq1yc3",
+      "name": "TAYRON",
+      "slug": "tayron",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35959,
+      "documentId": "axo27b36fqu3h5b7qoij6idk",
+      "name": "TIGUAN SUV Van",
+      "slug": "tiguan-suv-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36000,
+      "documentId": "qtnvo0zt1igqsafq8aujm8kv",
+      "name": "TOUAREG VAN",
+      "slug": "touareg-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36119,
+      "documentId": "f15ed7ex9ran5yi7a6aolsvw",
+      "name": "TRANSPORTER T1 Bus",
+      "slug": "transporter-t1-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36120,
+      "documentId": "lyqzco3yuzmbfgehbdudnnpu",
+      "name": "TRANSPORTER T1 Platform/Chassis",
+      "slug": "transporter-t1-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36121,
+      "documentId": "j28480apckbhwpkr8rr4jmyh",
+      "name": "TRANSPORTER T1 Van",
+      "slug": "transporter-t1-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36122,
+      "documentId": "b5e5r72j6suklaid3zw5x54c",
+      "name": "TRANSPORTER T2 Bus",
+      "slug": "transporter-t2-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36123,
+      "documentId": "jaij8kxlc84mjq0c876kf925",
+      "name": "TRANSPORTER T2 Platform/Chassis",
+      "slug": "transporter-t2-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36124,
+      "documentId": "zqp9if7hurhd4wq8g4ok01o8",
+      "name": "TRANSPORTER T2 Van",
+      "slug": "transporter-t2-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36125,
+      "documentId": "cfzqttm04n8ytbdy2rno3hvf",
+      "name": "TRANSPORTER T3 Bus",
+      "slug": "transporter-t3-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36126,
+      "documentId": "izxe8yrkj3wr26abnghqhanh",
+      "name": "TRANSPORTER T3 Platform/Chassis",
+      "slug": "transporter-t3-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36127,
+      "documentId": "udhnn4g90tvgfqxgmyry75fc",
+      "name": "TRANSPORTER T3 Van",
+      "slug": "transporter-t3-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36128,
+      "documentId": "xdg9eezauixe212rt402zh8o",
+      "name": "TRANSPORTER T4 Bus",
+      "slug": "transporter-t4-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36129,
+      "documentId": "qp3xr4bpnqmfxyqbbaob4nea",
+      "name": "TRANSPORTER T4 Platform/Chassis (70E, 70L, 70M, 7DE, 7DL, 7D",
+      "slug": "transporter-t4-platform-chassis-70e-70l-70m-7de-7dl-7d",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36130,
+      "documentId": "ja5ejsusfzq81uctvzzqwxpm",
+      "name": "TRANSPORTER T4 Van",
+      "slug": "transporter-t4-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36131,
+      "documentId": "azjn9qrqpxa7crb8y3njr9nj",
+      "name": "TRANSPORTER T5 Bus",
+      "slug": "transporter-t5-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36132,
+      "documentId": "qo83lt8c5vdt8v16umczfp7z",
+      "name": "TRANSPORTER T5 Platform/Chassis (7JD, 7JE, 7JL, 7JY, 7JZ, 7F",
+      "slug": "transporter-t5-platform-chassis-7jd-7je-7jl-7jy-7jz-7f",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36133,
+      "documentId": "f9pcas1cxnumhy6984ztkue8",
+      "name": "TRANSPORTER T5 Van",
+      "slug": "transporter-t5-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36134,
+      "documentId": "s778bly8x63uzskv7qqe7o1z",
+      "name": "TRANSPORTER T6 / CARAVELLE T6 Bus",
+      "slug": "transporter-t6-caravelle-t6-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36135,
+      "documentId": "x8urx9etk638ezhobsd9hnu1",
+      "name": "TRANSPORTER T6 Platform/Chassis (SFD, SFE, SFL, SFZ, SJD, SJ",
+      "slug": "transporter-t6-platform-chassis-sfd-sfe-sfl-sfz-sjd-sj",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36136,
+      "documentId": "r63z5hnb63jm5ltikf3n5p36",
+      "name": "TRANSPORTER T6 Van",
+      "slug": "transporter-t6-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36414,
+      "documentId": "s3vy870tcs06bsov3za96kpf",
+      "name": "VARIANT I Variant",
+      "slug": "variant-i-variant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36415,
+      "documentId": "cmd3afwfnt6fpq2couh7sagy",
+      "name": "VARIANT II",
+      "slug": "variant-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

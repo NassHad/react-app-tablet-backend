@@ -7,7 +7,72 @@
     "vehicle_type": "moto",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.982Z",
-  "models": []
+  "modelCount": 8,
+  "exportDate": "2026-01-07T09:17:53.877Z",
+  "models": [
+    {
+      "id": 28751,
+      "documentId": "vn4qb03dd6f5k0xn89xxxh07",
+      "name": "49er 50 2T II",
+      "slug": "49er-50-2t-ii",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28752,
+      "documentId": "p4a63nvt40j9m2x1pobfljeu",
+      "name": "49er 50 4T",
+      "slug": "49er-50-4t",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29809,
+      "documentId": "q5gyps3qgi6ahdt88unrx7fs",
+      "name": "Bee 125",
+      "slug": "bee-125",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34130,
+      "documentId": "eu0evoryw3ssz7fzo1x2qy77",
+      "name": "Optima 50",
+      "slug": "optima-50",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34511,
+      "documentId": "iddkjcz06heznw400avi9494",
+      "name": "Prima 25 4",
+      "slug": "prima-25-4",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34512,
+      "documentId": "z25oneh4e7glw53kjei7gcc7",
+      "name": "Prima 25 5",
+      "slug": "prima-25-5",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34904,
+      "documentId": "t2t4cej0kisysxffidh901cx",
+      "name": "Roadster 650",
+      "slug": "roadster-650",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34905,
+      "documentId": "cnnrlu4a4d4os9fa7h2qf5j5",
+      "name": "Roadster 835",
+      "slug": "roadster-835",
+      "vehicle_type": "moto",
+      "isActive": true
+    }
+  ]
 }

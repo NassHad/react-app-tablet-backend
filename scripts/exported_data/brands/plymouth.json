@@ -7,14 +7,38 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 1,
-  "exportDate": "2026-01-06T19:34:16.950Z",
+  "modelCount": 4,
+  "exportDate": "2026-01-07T09:17:53.866Z",
   "models": [
+    {
+      "id": 29781,
+      "documentId": "jdg3lewkpeeh9jao20t7c32o",
+      "name": "BREEZE",
+      "slug": "breeze",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33925,
+      "documentId": "gnwqtnwlobrj3jyi3c1n2loj",
+      "name": "NEON Coupe",
+      "slug": "neon-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
     {
       "id": 33927,
       "documentId": "fmrnt11p863c176tklanyyhb",
       "name": "NEON II Saloon",
       "slug": "neon-ii-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33928,
+      "documentId": "a2amg59xtps678z290a4fsx9",
+      "name": "NEON Saloon",
+      "slug": "neon-saloon",
       "vehicle_type": "car",
       "isActive": true
     }

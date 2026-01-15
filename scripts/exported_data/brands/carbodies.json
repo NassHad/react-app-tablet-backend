@@ -7,7 +7,48 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.802Z",
-  "models": []
+  "modelCount": 5,
+  "exportDate": "2026-01-07T09:17:53.782Z",
+  "models": [
+    {
+      "id": 31700,
+      "documentId": "egpelf5zfln3gi1z6hwuvzfb",
+      "name": "FL2",
+      "slug": "fl2",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31904,
+      "documentId": "skzu6gahriqqq62lfm3ub8bb",
+      "name": "FX FAIRWAY",
+      "slug": "fx-fairway",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31905,
+      "documentId": "kvcfhb7via4cq01c6gcia062",
+      "name": "FX4",
+      "slug": "fx4",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31906,
+      "documentId": "bi6zcbiz2ws22y14ivrb3w54",
+      "name": "FX4R",
+      "slug": "fx4r",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31907,
+      "documentId": "du7s6s47qabnvfgc3tqr885v",
+      "name": "FX4S",
+      "slug": "fx4s",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

@@ -7,7 +7,16 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.932Z",
-  "models": []
+  "modelCount": 1,
+  "exportDate": "2026-01-07T09:17:53.856Z",
+  "models": [
+    {
+      "id": 31358,
+      "documentId": "ifil7rb6u98crgo4tbhom442",
+      "name": "ERELIS",
+      "slug": "erelis",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

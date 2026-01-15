@@ -7,7 +7,16 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.848Z",
-  "models": []
+  "modelCount": 1,
+  "exportDate": "2026-01-07T09:17:53.807Z",
+  "models": [
+    {
+      "id": 35392,
+      "documentId": "w7eiyyrt8t9q4s638kjv6z60",
+      "name": "SPRINTER 3500 Standard Cargo Van",
+      "slug": "sprinter-3500-standard-cargo-van",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

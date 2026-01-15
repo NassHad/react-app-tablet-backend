@@ -7,7 +7,16 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.787Z",
-  "models": []
+  "modelCount": 1,
+  "exportDate": "2026-01-07T09:17:53.773Z",
+  "models": [
+    {
+      "id": 29675,
+      "documentId": "xz313b1q0pmm8p7gfwm99ub8",
+      "name": "B70",
+      "slug": "b70",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

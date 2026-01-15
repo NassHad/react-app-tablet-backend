@@ -7,14 +7,46 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 21,
-  "exportDate": "2026-01-06T19:34:16.953Z",
+  "modelCount": 33,
+  "exportDate": "2026-01-07T09:17:53.868Z",
   "models": [
+    {
+      "id": 28642,
+      "documentId": "jbp9itfc26gfk7q8456hbee8",
+      "name": "356 Cabriolet/Speedster",
+      "slug": "356-cabriolet-speedster",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28643,
+      "documentId": "jgkj4tneahzzmdss3hb8yg5g",
+      "name": "356 Coupe",
+      "slug": "356-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
     {
       "id": 28899,
       "documentId": "kb1td4b65jeqlg3uymiza74a",
       "name": "718 BOXSTER",
       "slug": "718-boxster",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28900,
+      "documentId": "zuf7hbnrvzbn9792uhgxv8tr",
+      "name": "718 BOXSTER Spyder",
+      "slug": "718-boxster-spyder",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28901,
+      "documentId": "mvp5y9ns722n27volr6qzb01",
+      "name": "718 CAYMAN",
+      "slug": "718-cayman",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -35,10 +67,42 @@
       "isActive": true
     },
     {
+      "id": 29013,
+      "documentId": "f61krxrjl7lf6mcs6dryq4ka",
+      "name": "911 Speedster",
+      "slug": "911-speedster",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 29014,
       "documentId": "d4s9sxc5q52pmejg8g3e3ou6",
       "name": "911 Targa",
       "slug": "911-targa",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29015,
+      "documentId": "c89pwf4bznbx47kq9krv1hbq",
+      "name": "912",
+      "slug": "912",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29016,
+      "documentId": "hs0vl05krnr82ned0sjovgwx",
+      "name": "912 Targa",
+      "slug": "912-targa",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29017,
+      "documentId": "zkvr0pxu2juhkenkcpok2tgl",
+      "name": "914",
+      "slug": "914",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -71,6 +135,30 @@
       "documentId": "axkrodv8gkrv934yh9u57zpx",
       "name": "928/ 928S",
       "slug": "928-928s",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29037,
+      "documentId": "j25pqvphcevosh81wzpdj1fg",
+      "name": "944",
+      "slug": "944",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29038,
+      "documentId": "rnqmlrr2ezq80t5807lihp1s",
+      "name": "944 Convertible",
+      "slug": "944-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29041,
+      "documentId": "o9tsco53v1zhortjo7pf8c7g",
+      "name": "959",
+      "slug": "959",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -119,6 +207,14 @@
       "documentId": "u9kqqtgobzpltmx35x1h1os1",
       "name": "CAYENNE",
       "slug": "cayenne",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30184,
+      "documentId": "c21d9phzoe3yu3s1gzrtdy1i",
+      "name": "CAYENNE Coupe",
+      "slug": "cayenne-coupe",
       "vehicle_type": "car",
       "isActive": true
     },

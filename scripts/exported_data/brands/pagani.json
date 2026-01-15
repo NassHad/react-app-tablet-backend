@@ -7,7 +7,32 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.937Z",
-  "models": []
+  "modelCount": 3,
+  "exportDate": "2026-01-07T09:17:53.861Z",
+  "models": [
+    {
+      "id": 32573,
+      "documentId": "a3gmztce6potzdzevx6lyl1l",
+      "name": "HUAYRA Coupe",
+      "slug": "huayra-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37224,
+      "documentId": "kiln0kohajuz3xujz4t67af9",
+      "name": "ZONDA Coupe",
+      "slug": "zonda-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37225,
+      "documentId": "fzyhxoppg5hzb33bosutgd3e",
+      "name": "ZONDA Roadster",
+      "slug": "zonda-roadster",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

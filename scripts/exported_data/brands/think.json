@@ -7,7 +7,24 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:17.026Z",
-  "models": []
+  "modelCount": 2,
+  "exportDate": "2026-01-07T09:17:53.889Z",
+  "models": [
+    {
+      "id": 30400,
+      "documentId": "sacc1f0ik7fd3437j90im53c",
+      "name": "CITY",
+      "slug": "city",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30401,
+      "documentId": "p5e7l7474p8su25rlcqaof6u",
+      "name": "CITY",
+      "slug": "mega-aixam-mega-france-city",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

@@ -7,7 +7,16 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:17.073Z",
-  "models": []
+  "modelCount": 1,
+  "exportDate": "2026-01-07T09:17:53.904Z",
+  "models": [
+    {
+      "id": 35811,
+      "documentId": "hyp08g93368mz2yf88tvhu58",
+      "name": "T600 COUPE",
+      "slug": "t600-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

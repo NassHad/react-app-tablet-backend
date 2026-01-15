@@ -7,7 +7,120 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.860Z",
-  "models": []
+  "modelCount": 14,
+  "exportDate": "2026-01-07T09:17:53.812Z",
+  "models": [
+    {
+      "id": 30043,
+      "documentId": "sc8jlbpvac8cd5kzt26is17c",
+      "name": "C50",
+      "slug": "c50",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30551,
+      "documentId": "i5dr4su7yilkwjgq4qolpjcd",
+      "name": "COOLBEAR",
+      "slug": "coolbear",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31640,
+      "documentId": "d8hu9mhh03wbumf929y6nxde",
+      "name": "FENGJUN 5 Pickup",
+      "slug": "fengjun-5-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32563,
+      "documentId": "nm3tzo676gm3czdo5sqxlh08",
+      "name": "HOVER",
+      "slug": "hover",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32564,
+      "documentId": "u6va3fmq0c2xpf3kmq5j4a9c",
+      "name": "HOVER H5",
+      "slug": "hover-h5",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32565,
+      "documentId": "euziqlowovvwrdyjc7kr6yu0",
+      "name": "HOVER H6",
+      "slug": "hover-h6",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35481,
+      "documentId": "er4nm8i3tu1nd9bdgur7fj5b",
+      "name": "STEED",
+      "slug": "steed",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35482,
+      "documentId": "v2kbvvzy55ltsujpb4s4krzp",
+      "name": "STEED 5",
+      "slug": "steed-5",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35903,
+      "documentId": "p2gk6j246wqklfa2yp2s1zjt",
+      "name": "TENGYI C10",
+      "slug": "tengyi-c10",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35904,
+      "documentId": "ki8lgmexyom68ladj8rg3ujb",
+      "name": "TENGYI C20R",
+      "slug": "tengyi-c20r",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35905,
+      "documentId": "p4vs1zv41fmbx00jm1qre6n5",
+      "name": "TENGYI C30",
+      "slug": "tengyi-c30",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36738,
+      "documentId": "hjs4s3yvko91qhpo4g0sdnsb",
+      "name": "WINGLE",
+      "slug": "wingle",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36739,
+      "documentId": "wrp6hnwzbqhzk2qyh4445gro",
+      "name": "WINGLE 3",
+      "slug": "wingle-3",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36740,
+      "documentId": "qfc5zzp4mm5s6xp86skaqr1t",
+      "name": "WINGLE 6",
+      "slug": "wingle-6",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

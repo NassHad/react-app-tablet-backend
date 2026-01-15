@@ -7,7 +7,40 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.796Z",
-  "models": []
+  "modelCount": 4,
+  "exportDate": "2026-01-07T09:17:53.775Z",
+  "models": [
+    {
+      "id": 28438,
+      "documentId": "yb0csckocgxri5xcoeos6eeg",
+      "name": "2110",
+      "slug": "2110",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28439,
+      "documentId": "zn4f2mzg6xwaxd974pqjc1qp",
+      "name": "2111",
+      "slug": "2111",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28452,
+      "documentId": "em4xrbichmrewjhs6joxrh17",
+      "name": "2310",
+      "slug": "2310",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28453,
+      "documentId": "js30u6yq667jy770sdlxgx53",
+      "name": "2312",
+      "slug": "2312",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

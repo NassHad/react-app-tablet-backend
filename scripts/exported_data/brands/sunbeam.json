@@ -7,7 +7,40 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:17.004Z",
-  "models": []
+  "modelCount": 4,
+  "exportDate": "2026-01-07T09:17:53.884Z",
+  "models": [
+    {
+      "id": 29270,
+      "documentId": "ouyl55ohtej7nj0f7tpta2vm",
+      "name": "ALPINE I / II / III Convertible",
+      "slug": "alpine-i-ii-iii-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29271,
+      "documentId": "l5jg6qws3jjefyk089oawaed",
+      "name": "ALPINE IV / V Convertible",
+      "slug": "alpine-iv-v-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35510,
+      "documentId": "o2x9mdeipavwxl5arr7mb2pt",
+      "name": "SUNBEAM",
+      "slug": "sunbeam",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35511,
+      "documentId": "xy5hikffkyoh1df4c6cxzcwn",
+      "name": "SUNBEAM",
+      "slug": "talbot-sunbeam",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

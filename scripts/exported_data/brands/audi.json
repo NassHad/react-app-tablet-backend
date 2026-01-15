@@ -7,8 +7,8 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 91,
-  "exportDate": "2026-01-06T19:34:16.775Z",
+  "modelCount": 146,
+  "exportDate": "2026-01-07T09:17:53.767Z",
   "models": [
     {
       "id": 28148,
@@ -23,6 +23,38 @@
       "documentId": "bksxsj14xqw6my0bwmtdaw5a",
       "name": "100 Avant",
       "slug": "100-avant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28151,
+      "documentId": "wgk1s98c2fzod6lbsn10dm29",
+      "name": "100 C1 Coupe",
+      "slug": "100-c1-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28152,
+      "documentId": "huwaegwya4l02dyoiltk71gv",
+      "name": "100 C1 Saloon",
+      "slug": "100-c1-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28153,
+      "documentId": "wc0zf57emoefwv7xxc547esn",
+      "name": "100 C2 Avant",
+      "slug": "100-c2-avant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28154,
+      "documentId": "vchxpengt4f1i3d2nrwqxhux",
+      "name": "100 C2 Saloon",
+      "slug": "100-c2-saloon",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -43,10 +75,34 @@
       "isActive": true
     },
     {
+      "id": 28157,
+      "documentId": "v3cjbejhjrtpbe6e6g198blz",
+      "name": "100 C4 Avant",
+      "slug": "100-c4-avant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 28158,
       "documentId": "o10yc86rgyj5q0lzv7zow1s2",
       "name": "100 C4 Saloon",
       "slug": "100-c4-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28371,
+      "documentId": "xjnr8pas82f5g2vjp7ykeazv",
+      "name": "200 C2 Saloon",
+      "slug": "200-c2-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28372,
+      "documentId": "l5e9hi8a04wvqn3yi829l7su",
+      "name": "200 C3 Avant",
+      "slug": "200-c3-avant",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -67,6 +123,30 @@
       "isActive": true
     },
     {
+      "id": 28856,
+      "documentId": "kjud7zpwmdfq0x7wmn94likw",
+      "name": "60",
+      "slug": "60",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28857,
+      "documentId": "a902upccgd32qh77oqa8ft17",
+      "name": "60 Variant",
+      "slug": "60-variant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28907,
+      "documentId": "v64i71rkoewpg686rt70v4rg",
+      "name": "75 Variant",
+      "slug": "75-variant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 28918,
       "documentId": "j25fntigh2vxxrlgjivdybzl",
       "name": "80",
@@ -83,10 +163,50 @@
       "isActive": true
     },
     {
+      "id": 28920,
+      "documentId": "ymau140ausmbgb5ywmxnger7",
+      "name": "80 B1 Saloon",
+      "slug": "80-b1-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28921,
+      "documentId": "j0pitut2ytawmcgxsrs0g8y9",
+      "name": "80 B2 Saloon",
+      "slug": "80-b2-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28922,
+      "documentId": "lpttbsr676aje1b7dyv7oj4x",
+      "name": "80 B3 Saloon",
+      "slug": "80-b3-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 28923,
       "documentId": "t2zfr44fuq9v414by2grpflb",
       "name": "80 B4 Avant",
       "slug": "80-b4-avant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28924,
+      "documentId": "laiqq0jznd2w7e8tmln9ylvs",
+      "name": "80 B4 Saloon",
+      "slug": "80-b4-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28925,
+      "documentId": "vdzngiet2jkzebpcocq0f349",
+      "name": "80 Variant",
+      "slug": "80-variant",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -107,6 +227,14 @@
       "isActive": true
     },
     {
+      "id": 28993,
+      "documentId": "ji28ifntet2gt9k98d7lav7b",
+      "name": "90 B2",
+      "slug": "90-b2",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 28994,
       "documentId": "exednhwyt66z6m89afmyz6ve",
       "name": "90 B3",
@@ -119,6 +247,14 @@
       "documentId": "aneiqjpc6w0jmxgwdv05va4d",
       "name": "A1",
       "slug": "a1",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29063,
+      "documentId": "uj83apf5s1bk0cnajns4hdt9",
+      "name": "A1 Allstreet",
+      "slug": "a1-allstreet",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -151,6 +287,14 @@
       "documentId": "ek9edq83e6n07llqdbklm2b6",
       "name": "A3",
       "slug": "a3",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29077,
+      "documentId": "b5jtnhxa36tl9n8yv2jslgb4",
+      "name": "A3 Allstreet",
+      "slug": "a3-allstreet",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -199,6 +343,14 @@
       "documentId": "qhrfhbnol8jwo180ekwqnlip",
       "name": "A4 Allroad",
       "slug": "a4-allroad",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29094,
+      "documentId": "fzi6thzr4xblq0tmklia8rt8",
+      "name": "A4 Allroad B8",
+      "slug": "a4-allroad-b8",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -259,10 +411,42 @@
       "isActive": true
     },
     {
+      "id": 29102,
+      "documentId": "ur1gle3lcg4wifpf69dyb98w",
+      "name": "A4 B7",
+      "slug": "a4-b7",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29103,
+      "documentId": "l0dstsjnx4wu7umvyn9yq1id",
+      "name": "A4 B7 Avant",
+      "slug": "a4-b7-avant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 29104,
       "documentId": "lo3yrxe55pcyle5j2sgp2nq1",
       "name": "A4 B7 Convertible",
       "slug": "a4-b7-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29105,
+      "documentId": "q1rj9okaqq74xr2g7o0j7m53",
+      "name": "A4 B8",
+      "slug": "a4-b8",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29106,
+      "documentId": "ysczlachf13to5wdkb5o39wg",
+      "name": "A4 B8 Avant",
+      "slug": "a4-b8-avant",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -295,6 +479,14 @@
       "documentId": "v8b2i704h4lh0d5osswx0bu0",
       "name": "A5",
       "slug": "a5",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29112,
+      "documentId": "daz7u8lt2jbepib7dz07yt8i",
+      "name": "A5 Avant",
+      "slug": "a5-avant",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -411,6 +603,14 @@
       "isActive": true
     },
     {
+      "id": 29131,
+      "documentId": "u944jxxxe2uz70nmc6tf7sg4",
+      "name": "A6 C6 Avant",
+      "slug": "a6-c6-avant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 29132,
       "documentId": "au9clv54uabpjb9u1shm431q",
       "name": "A6 C7",
@@ -439,6 +639,22 @@
       "documentId": "dda0r0sphl9j7hxplsk66cqr",
       "name": "A6 C8 Avant",
       "slug": "a6-c8-avant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29136,
+      "documentId": "enhmrsr25tk3v7echjx7xu5w",
+      "name": "A6 e-tron Avant",
+      "slug": "a6-e-tron-avant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29137,
+      "documentId": "otuyj76eimaupckakr3mrx63",
+      "name": "A6 e-tron Sportback",
+      "slug": "a6-e-tron-sportback",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -475,10 +691,34 @@
       "isActive": true
     },
     {
+      "id": 29147,
+      "documentId": "agbia9ra2q2ntfsry8kk4bb5",
+      "name": "A8 D3",
+      "slug": "a8-d3",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29148,
+      "documentId": "t5ww7upb6za8g76pcc5ploa3",
+      "name": "A8 D4",
+      "slug": "a8-d4",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 29149,
       "documentId": "sra7hr7x69v0zgcpsxmxiad4",
       "name": "A8 D4 (4H2, 4H8, 4HC,",
       "slug": "a8-d4-4h2-4h8-4hc",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29150,
+      "documentId": "nhx1bkz48asctbbelrf113lm",
+      "name": "A8 D5",
+      "slug": "a8-d5",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -499,10 +739,122 @@
       "isActive": true
     },
     {
+      "id": 29494,
+      "documentId": "kt9xic49cl8vj7fabc2v8jnu",
+      "name": "AUDI 100",
+      "slug": "audi-100",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29495,
+      "documentId": "qfk1psxqkftf6qaseeud21ml",
+      "name": "AUDI 200",
+      "slug": "audi-200",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29496,
+      "documentId": "fctxw9ey7l219su507lxi1d6",
+      "name": "AUDI 4000",
+      "slug": "audi-4000",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29497,
+      "documentId": "tercnfx9wbgrpt9aibdatf12",
+      "name": "AUDI 50",
+      "slug": "audi-50",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29498,
+      "documentId": "scdr680u2qxoyp9xw4paxaoc",
+      "name": "AUDI 5000",
+      "slug": "audi-5000",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29499,
+      "documentId": "iwdzixy0a7c3zehxu20stct5",
+      "name": "AUDI 60 - 70 - 75",
+      "slug": "audi-60---70---75",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29500,
+      "documentId": "tkgjawl5hy7ir04ht4d184no",
+      "name": "AUDI 60 70 75",
+      "slug": "audi-60-70-75",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29501,
+      "documentId": "xsl4dpperd4ez3awtriol3gv",
+      "name": "AUDI 80",
+      "slug": "audi-80",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29502,
+      "documentId": "z2744bielp4d4qwzpjroiu6b",
+      "name": "AUDI 90",
+      "slug": "audi-90",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29503,
+      "documentId": "w1zlwaoy5w2mclsx74rcweh7",
+      "name": "AUDI CABRIOLET",
+      "slug": "audi-cabriolet",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29504,
+      "documentId": "kno6g2e2kr43rm8r76pb8l19",
+      "name": "AUDI CABRIOLET 8G B4",
+      "slug": "audi-cabriolet-8g-b4",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29505,
+      "documentId": "frb9l5u79ut0kxs19gygizm1",
+      "name": "AUDI COUPE",
+      "slug": "audi-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29506,
+      "documentId": "afe4zhklacide696lnfec5bc",
+      "name": "AUDI FOX",
+      "slug": "audi-fox",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 30058,
       "documentId": "gschs89011qdntquvwl7xtqk",
       "name": "CABRIOLET B3",
       "slug": "cabriolet-b3",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30646,
+      "documentId": "pfdf0erxqxrz7tmnq3k0tw11",
+      "name": "COUPE B2",
+      "slug": "coupe-b2",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -555,6 +907,22 @@
       "isActive": true
     },
     {
+      "id": 31564,
+      "documentId": "rw4kd9ol7hz3tdn5qhtsw8m4",
+      "name": "F103",
+      "slug": "f103",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31565,
+      "documentId": "cyt09y72z1r5vi7i6tpbuw6b",
+      "name": "F103 Variant",
+      "slug": "f103-variant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 34529,
       "documentId": "xepp2gqre4lioik0l1sl70aw",
       "name": "Q2",
@@ -591,6 +959,22 @@
       "documentId": "cufnhn9s30fx9lc8sjyr6ab1",
       "name": "Q3 Sportback",
       "slug": "q3-sportback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34540,
+      "documentId": "uzjdnqay01dznyv81qsmj5qj",
+      "name": "Q4 E-TRON SUV",
+      "slug": "q4-e-tron-suv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34541,
+      "documentId": "n7b45n0472ce6h55p8tl64mg",
+      "name": "Q4 E-TRON Sportback",
+      "slug": "q4-e-tron-sportback",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -651,6 +1035,22 @@
       "isActive": true
     },
     {
+      "id": 34552,
+      "documentId": "h4oohy0n7yhd3cv6ehknypp9",
+      "name": "Q6 E-TRON",
+      "slug": "q6-e-tron",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34553,
+      "documentId": "yxpx6mq45mtdyacq1tawqss2",
+      "name": "Q6 e-tron Sportback",
+      "slug": "q6-e-tron-sportback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 34556,
       "documentId": "kl4o64h4wzd5v8hnkrsmlvzu",
       "name": "Q7",
@@ -671,6 +1071,30 @@
       "documentId": "b10vamso5yizt2ky38upf47e",
       "name": "Q8",
       "slug": "q8",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34560,
+      "documentId": "kzeyzquzwi5r9f3a351d126q",
+      "name": "Q8 E-TRON SUV",
+      "slug": "q8-e-tron-suv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34561,
+      "documentId": "gg9i0ofiexp7fpzcycwsyg53",
+      "name": "Q8 E-TRON Sportback",
+      "slug": "q8-e-tron-sportback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34579,
+      "documentId": "fza8r22jcu26xz0kvgcty76j",
+      "name": "QUATTRO",
+      "slug": "quattro",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -707,6 +1131,14 @@
       "isActive": true
     },
     {
+      "id": 35532,
+      "documentId": "x8wp7wdph8py3q2tdngapkdc",
+      "name": "SUPER 90",
+      "slug": "super-90",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 36170,
       "documentId": "prlhmy38wcd76x5rk5oott9k",
       "name": "TT",
@@ -727,6 +1159,14 @@
       "documentId": "zu7itidnynk3uhqjv2wjzkji",
       "name": "V8",
       "slug": "v8",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36391,
+      "documentId": "owpqwfwc8k31m3ngi76xmpgl",
+      "name": "V8",
+      "slug": "aston-martin-v8",
       "vehicle_type": "car",
       "isActive": true
     },

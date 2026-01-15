@@ -7,14 +7,46 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 3,
-  "exportDate": "2026-01-06T19:34:16.906Z",
+  "modelCount": 7,
+  "exportDate": "2026-01-07T09:17:53.843Z",
   "models": [
+    {
+      "id": 31846,
+      "documentId": "c47jyp5kitq8o50ufitslex0",
+      "name": "FORMAN",
+      "slug": "forman",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33538,
+      "documentId": "uohtgx8v1b5uolesyinfsawx",
+      "name": "MINI COOPER II - CLUBMAN - COUNTRYMAN",
+      "slug": "mini-cooper-ii---clubman---countryman",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33549,
+      "documentId": "kh4d0jkzoplhnmevxo8s12t9",
+      "name": "MINI ONE II - CLUBMAN - COUNTRYMAN",
+      "slug": "mini-one-ii---clubman---countryman",
+      "vehicle_type": "car",
+      "isActive": true
+    },
     {
       "id": 35926,
       "documentId": "gdl4mwjewo61ed3esql9purp",
       "name": "TGE",
       "slug": "tge",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35927,
+      "documentId": "cktatqjzvd5w07s7jen573fy",
+      "name": "TGE Bus",
+      "slug": "tge-bus",
       "vehicle_type": "car",
       "isActive": true
     },

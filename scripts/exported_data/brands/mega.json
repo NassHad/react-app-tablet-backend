@@ -7,7 +7,40 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.918Z",
-  "models": []
+  "modelCount": 4,
+  "exportDate": "2026-01-07T09:17:53.846Z",
+  "models": [
+    {
+      "id": 30487,
+      "documentId": "bqo1sjrsxt63uehsftm0nteu",
+      "name": "CLUB",
+      "slug": "club",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30489,
+      "documentId": "ojolnqnywl52j8cckq7e4309",
+      "name": "CLUB II",
+      "slug": "club-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30886,
+      "documentId": "bb9rbxvek3o30hm91j2f3u0w",
+      "name": "D-TRUCK",
+      "slug": "d-truck",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34085,
+      "documentId": "xs0vn1pavgjvubbpdc0esq1d",
+      "name": "OMEGA",
+      "slug": "vauxhall-omega",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

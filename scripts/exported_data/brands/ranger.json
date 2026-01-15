@@ -7,7 +7,24 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.958Z",
-  "models": []
+  "modelCount": 2,
+  "exportDate": "2026-01-07T09:17:53.870Z",
+  "models": [
+    {
+      "id": 34697,
+      "documentId": "tdm16gyx2dptmo1x6kb8k801",
+      "name": "REKORD",
+      "slug": "rekord",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34707,
+      "documentId": "a5olsp03mv7rzialwdy79kym",
+      "name": "REKORD Coupe",
+      "slug": "rekord-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

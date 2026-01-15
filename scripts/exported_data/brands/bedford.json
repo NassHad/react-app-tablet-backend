@@ -7,7 +7,80 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.784Z",
-  "models": []
+  "modelCount": 9,
+  "exportDate": "2026-01-07T09:17:53.771Z",
+  "models": [
+    {
+      "id": 29471,
+      "documentId": "do7ra2n54o2fssnuw8s1ucvw",
+      "name": "ASTRA VAN Estate Van",
+      "slug": "astra-van-estate-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29474,
+      "documentId": "hb7weuuhpcmgelwpw952ssp0",
+      "name": "ASTRAMAX Box Body/MPV",
+      "slug": "astramax-box-body-mpv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29734,
+      "documentId": "y1la3v5quu622hqigq8pqoq0",
+      "name": "BLITZ",
+      "slug": "blitz",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29735,
+      "documentId": "ubtwoosvfvplmzc0v7g2mw9p",
+      "name": "BLITZ",
+      "slug": "opel-blitz",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30351,
+      "documentId": "bkb11zos5ifao123llec90km",
+      "name": "CF Bus",
+      "slug": "cf-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30352,
+      "documentId": "mgsj5ktliowrsebvp06clow2",
+      "name": "CF Platform/Chassis",
+      "slug": "cf-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30354,
+      "documentId": "cogeexfwahb3l29se87oy1wl",
+      "name": "CF Van",
+      "slug": "cf-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30380,
+      "documentId": "trkbnps3f5tu4ap9vqudhqg4",
+      "name": "CHEVANNE",
+      "slug": "chevanne",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32509,
+      "documentId": "iyalnsebno5ozkri69hoz7tn",
+      "name": "HA",
+      "slug": "ha",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

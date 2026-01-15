@@ -7,7 +7,104 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.773Z",
-  "models": []
+  "modelCount": 12,
+  "exportDate": "2026-01-07T09:17:53.764Z",
+  "models": [
+    {
+      "id": 28147,
+      "documentId": "npevgsdyin4bj0qn3i9lqa11",
+      "name": "10 Pick Up",
+      "slug": "10-pick-up",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28459,
+      "documentId": "y6tggj41mpqdblq4yg8krvif",
+      "name": "240-244",
+      "slug": "240-244",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30161,
+      "documentId": "pt5kolxyf7akl24w6461ubea",
+      "name": "CARPAT Closed Off-Road Vehicle",
+      "slug": "carpat-closed-off-road-vehicle",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30162,
+      "documentId": "kkrdabbf5j9uljm2aj67k4cq",
+      "name": "CARPAT Pick Up",
+      "slug": "carpat-pick-up",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33080,
+      "documentId": "mk7wc03dqgoqk42li37gwq1c",
+      "name": "LEBARON",
+      "slug": "lebaron",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35353,
+      "documentId": "n9ou0e4iz7wntwusaeuv2u44",
+      "name": "SPARTANA Pick Up",
+      "slug": "spartana-pick-up",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36525,
+      "documentId": "y1u0ib075la37t2m5mluxfft",
+      "name": "VIVARO A",
+      "slug": "vivaro-a",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36530,
+      "documentId": "prijyztl9swn4bclzd7i34q9",
+      "name": "VIVARO B",
+      "slug": "vivaro-b",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36536,
+      "documentId": "js5hb6yi45hs9aot2o9bfqxq",
+      "name": "VIVARO C",
+      "slug": "vauxhall-vivaro-c",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36535,
+      "documentId": "d397l846m9hddepvd3m949kq",
+      "name": "VIVARO C",
+      "slug": "vivaro-c",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36541,
+      "documentId": "peun8cgzqmq8kw9bfbhvj6kg",
+      "name": "VIVARO Mk I",
+      "slug": "vivaro-mk-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36542,
+      "documentId": "dzikei3gbn7x0xxix4ti45eg",
+      "name": "VIVARO Mk II",
+      "slug": "vivaro-mk-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

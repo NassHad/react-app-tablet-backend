@@ -7,14 +7,38 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 16,
-  "exportDate": "2026-01-06T19:34:16.874Z",
+  "modelCount": 35,
+  "exportDate": "2026-01-07T09:17:53.824Z",
   "models": [
+    {
+      "id": 29373,
+      "documentId": "uzdp8wjo5e7boeoxgczjt5ng",
+      "name": "ASCENDER",
+      "slug": "ascender",
+      "vehicle_type": "car",
+      "isActive": true
+    },
     {
       "id": 29612,
       "documentId": "j8g1980f579dayha2t1xrrze",
       "name": "Amigo",
       "slug": "amigo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30877,
+      "documentId": "rfu93ww8x0adsnjcdb3o6teq",
+      "name": "D-MAX I",
+      "slug": "d-max-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30878,
+      "documentId": "kog06zcoa77fo4a2rqzg60an",
+      "name": "D-MAX I Platform/Chassis",
+      "slug": "d-max-i-platform-chassis",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -83,10 +107,74 @@
       "isActive": true
     },
     {
+      "id": 31616,
+      "documentId": "glyhz1kk76hwcpq22o9o0wac",
+      "name": "FARGO Bus",
+      "slug": "fargo-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31617,
+      "documentId": "dr2t8ibna14g65aqxma1mpjv",
+      "name": "FARGO Van",
+      "slug": "fargo-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32118,
+      "documentId": "hamty1zfd2kvmozl5nanfm0d",
+      "name": "GEMINI",
+      "slug": "gemini",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32119,
+      "documentId": "bduwxt16kwq8l32cumlb2fld",
+      "name": "GEMINI Coupe",
+      "slug": "gemini-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32121,
+      "documentId": "id2d6s89pxtbuw1jc7ik4gcw",
+      "name": "GEMINI Saloon",
+      "slug": "gemini-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32654,
+      "documentId": "q83khbrp23zj9nnty2colgcg",
+      "name": "IMPULSE",
+      "slug": "impulse",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32912,
+      "documentId": "g9uxm2y2ag1tf8a4ued6qfgw",
+      "name": "KB",
+      "slug": "kb",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 32996,
       "documentId": "jkesjzkdcl4plqupjgw27432",
       "name": "L35",
       "slug": "l35",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33719,
+      "documentId": "uvk61fq63tynvf0r5nfg01ni",
+      "name": "MU",
+      "slug": "mu",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -99,10 +187,42 @@
       "isActive": true
     },
     {
+      "id": 34276,
+      "documentId": "p75yggysnnap280zdrm5rfn2",
+      "name": "PIAZZA",
+      "slug": "piazza",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 34899,
       "documentId": "aif2zu3mlefszag7ezlfd2jd",
       "name": "Road Vehicle\"",
       "slug": "road-vehicle",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35925,
+      "documentId": "mg38zoysfg1p7np5foxcqmmc",
+      "name": "TF Pickup",
+      "slug": "tf-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36157,
+      "documentId": "azy94t82lgbbl5zdjfgelydp",
+      "name": "TROOPER I",
+      "slug": "trooper-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36158,
+      "documentId": "bpaw4ukto1z5f9tmz18315kh",
+      "name": "TROOPER I Open Off-Road Vehicle",
+      "slug": "trooper-i-open-off-road-vehicle",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -115,10 +235,26 @@
       "isActive": true
     },
     {
+      "id": 36160,
+      "documentId": "y1eawjiccplnztltn76kgq2d",
+      "name": "TROOPER II Open Off-Road Vehicle",
+      "slug": "trooper-ii-open-off-road-vehicle",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 36161,
       "documentId": "gnaxsxnqx5p2kh191vup3g0h",
       "name": "TROOPER III",
       "slug": "trooper-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36162,
+      "documentId": "updon1j3vy4j0x1m8jxn4aim",
+      "name": "TROOPER III Open Off-Road Vehicle",
+      "slug": "trooper-iii-open-off-road-vehicle",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -135,6 +271,22 @@
       "documentId": "l20x5il8no8p9tj6kumoh7y6",
       "name": "Trooper Magic",
       "slug": "trooper-magic",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36445,
+      "documentId": "wewi7cgnhwr3de39py2a1me1",
+      "name": "VEHICROSS",
+      "slug": "vehicross",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36745,
+      "documentId": "eqxe001of06b10n89lwy59ma",
+      "name": "WIZARD",
+      "slug": "wizard",
       "vehicle_type": "car",
       "isActive": true
     }

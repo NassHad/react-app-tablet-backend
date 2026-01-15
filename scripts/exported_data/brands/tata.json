@@ -7,7 +7,104 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:17.019Z",
-  "models": []
+  "modelCount": 12,
+  "exportDate": "2026-01-07T09:17:53.887Z",
+  "models": [
+    {
+      "id": 29357,
+      "documentId": "i06rcu9asik2jzqe6oh2ojsy",
+      "name": "ARIA",
+      "slug": "aria",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32656,
+      "documentId": "oge94ywpki53acrr3u34mgqo",
+      "name": "INDICA",
+      "slug": "indica",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32657,
+      "documentId": "k4q1dgmw3qdcaryluzu612dg",
+      "name": "INDICA VISTA",
+      "slug": "indica-vista",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32658,
+      "documentId": "xxljjbubdmefeelds098o2px",
+      "name": "INDIGO",
+      "slug": "indigo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32659,
+      "documentId": "oc5pwjkhmrmvcqpk8dozy72c",
+      "name": "INDIGO MANZA",
+      "slug": "indigo-manza",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32660,
+      "documentId": "lwzf26r94aox1g7tmyx897he",
+      "name": "INDIGO MARINA",
+      "slug": "indigo-marina",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33157,
+      "documentId": "x0vmkednb4um4r721vj22bl2",
+      "name": "LOADBETA",
+      "slug": "loadbeta",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34978,
+      "documentId": "v6utrm92ytlwu4pv6ljyfqud",
+      "name": "SAFARI",
+      "slug": "safari",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35180,
+      "documentId": "tnjv8n3eulp9zppezrx0jdlw",
+      "name": "SIERRA",
+      "slug": "sierra",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35898,
+      "documentId": "snc0i0iaekitgwkyf9fjs5un",
+      "name": "TELCOLINE",
+      "slug": "telcoline",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36877,
+      "documentId": "aqfyyhpbl7rcil7ngevm9cyn",
+      "name": "XENON Pickup",
+      "slug": "xenon-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36878,
+      "documentId": "w6qm8k3xo5t5m89gveg9d8ux",
+      "name": "XENON Platform/Chassis",
+      "slug": "xenon-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

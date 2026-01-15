@@ -7,8 +7,8 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 38,
-  "exportDate": "2026-01-06T19:34:17.003Z",
+  "modelCount": 57,
+  "exportDate": "2026-01-07T09:17:53.883Z",
   "models": [
     {
       "id": 28330,
@@ -99,6 +99,22 @@
       "isActive": true
     },
     {
+      "id": 32806,
+      "documentId": "cek54myexm6e60pz9s6pshup",
+      "name": "JUSTY I",
+      "slug": "justy-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32807,
+      "documentId": "tfusl2iio4r4rx60hxeu8tvd",
+      "name": "JUSTY I Hatchback Van",
+      "slug": "justy-i-hatchback-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 32808,
       "documentId": "r9p6v6kmeehva8x82f5ebnqv",
       "name": "JUSTY II",
@@ -135,6 +151,22 @@
       "documentId": "kmpvc4dyifn6lgn8wuihualu",
       "name": "Justy G3X",
       "slug": "justy-g3x",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33084,
+      "documentId": "j3xz2bxj6tumm6t1g6mpav96",
+      "name": "LEGACY I",
+      "slug": "legacy-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33085,
+      "documentId": "xgxry8rp46zp2v78cyldqj71",
+      "name": "LEGACY I Estate",
+      "slug": "legacy-i-estate",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -187,6 +219,14 @@
       "isActive": true
     },
     {
+      "id": 33092,
+      "documentId": "mf202nve22qisspkl4295njt",
+      "name": "LEGACY OUTBACK",
+      "slug": "legacy-outback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 33093,
       "documentId": "wv64e2dj4rdcbbdpgvoqqntt",
       "name": "LEGACY V",
@@ -211,6 +251,62 @@
       "isActive": true
     },
     {
+      "id": 33119,
+      "documentId": "xuujfakr6h0e2djswglhyhjn",
+      "name": "LEONE / LOYALE Coupe",
+      "slug": "leone-loyale-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33120,
+      "documentId": "agct0r8blv325t9ukg5etajb",
+      "name": "LEONE Hatchback",
+      "slug": "leone-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33121,
+      "documentId": "omxszow5ztfw7si4s0rm4jsj",
+      "name": "LEONE II",
+      "slug": "leone-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33122,
+      "documentId": "n752epgjyt9ohvjyfrn6ey1w",
+      "name": "LEONE II Estate",
+      "slug": "leone-ii-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33123,
+      "documentId": "vzhjkuj5bd2jgikrtteferyp",
+      "name": "LEONE II Hatchback",
+      "slug": "leone-ii-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33124,
+      "documentId": "f8p24gwcxkdx9fto7i0eg1r4",
+      "name": "LEONE III",
+      "slug": "leone-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33125,
+      "documentId": "r37htrme5zbz89wxq78imrzu",
+      "name": "LEONE III Estate",
+      "slug": "leone-iii-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 33128,
       "documentId": "z473ahgja6555fyg1s9ktgvl",
       "name": "LEVORG",
@@ -223,6 +319,14 @@
       "documentId": "u1rqb4168mv1blkz8y3pdw6u",
       "name": "LIBERO Bus",
       "slug": "libero-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33133,
+      "documentId": "x9cdjwjh6188zrx6hr0h1iqx",
+      "name": "LIBERO Van",
+      "slug": "libero-van",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -243,6 +347,14 @@
       "isActive": true
     },
     {
+      "id": 33747,
+      "documentId": "wv8pnrcdkns7eb50v1qae0y7",
+      "name": "MV",
+      "slug": "mv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 33810,
       "documentId": "kseg3mysnmdrwd7j2lxq76b1",
       "name": "Mini Jumbo",
@@ -255,6 +367,38 @@
       "documentId": "ea9134celsjn4hdczkkuli9z",
       "name": "OUTBACK",
       "slug": "outback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34728,
+      "documentId": "c4et6dyfvd8ojmx2osbpzls2",
+      "name": "REX I",
+      "slug": "rex-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34729,
+      "documentId": "qhnwgmw2dnp7n49xhbieh2z1",
+      "name": "REX II",
+      "slug": "rex-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34730,
+      "documentId": "zjeyolp5s4w6tfd9ta1px0w4",
+      "name": "REX III",
+      "slug": "rex-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35319,
+      "documentId": "q0mjpm6yvecxmioetgtok5gp",
+      "name": "SOLTERRA",
+      "slug": "solterra",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -295,6 +439,14 @@
       "documentId": "zyjl2trvz45osvafde074hfj",
       "name": "VIVIO",
       "slug": "vivio",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36773,
+      "documentId": "chl6oogml5kbz7wk4aoi68ym",
+      "name": "WRX Hatchback",
+      "slug": "wrx-hatchback",
       "vehicle_type": "car",
       "isActive": true
     },

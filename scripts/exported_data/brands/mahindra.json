@@ -7,7 +7,96 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.903Z",
-  "models": []
+  "modelCount": 11,
+  "exportDate": "2026-01-07T09:17:53.841Z",
+  "models": [
+    {
+      "id": 29362,
+      "documentId": "y0cvb9vj2biwmfv3b3srwz87",
+      "name": "ARMADA",
+      "slug": "armada",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29747,
+      "documentId": "t6kjr29ezx575t3sjl6ibzyf",
+      "name": "BOLERO Pickup",
+      "slug": "bolero-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30450,
+      "documentId": "tkkd9q0by0ahyaeu76mewqwx",
+      "name": "CJ 3",
+      "slug": "cj-3",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30451,
+      "documentId": "ly7jw0ktr4onrpcpq2dsadij",
+      "name": "CJ 3 Wagon",
+      "slug": "cj-3-wagon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30452,
+      "documentId": "i4xtf1dbc0jm2xld6je9yxra",
+      "name": "CJ5",
+      "slug": "cj5",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32172,
+      "documentId": "qnp40wzfo33572dftdnl1b92",
+      "name": "GOA",
+      "slug": "goa",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32173,
+      "documentId": "pfb549yr8chle5xifgxq9e1u",
+      "name": "GOA Pickup",
+      "slug": "goa-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34576,
+      "documentId": "csf6objt6eovbwbl77vzgtr1",
+      "name": "QUANTO",
+      "slug": "quanto",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35063,
+      "documentId": "py4pxnvrgkfh5khn2v49v2fk",
+      "name": "SCORPIO",
+      "slug": "scorpio",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35069,
+      "documentId": "czgplt2crazpgqlpvs5gs6na",
+      "name": "SCORPIO Pickup",
+      "slug": "scorpio-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37021,
+      "documentId": "fwj4dii6u8mxzjvi8lr9wlki",
+      "name": "XUV500",
+      "slug": "xuv500",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

@@ -7,8 +7,8 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 12,
-  "exportDate": "2026-01-06T19:34:16.927Z",
+  "modelCount": 16,
+  "exportDate": "2026-01-07T09:17:53.852Z",
   "models": [
     {
       "id": 30855,
@@ -35,10 +35,26 @@
       "isActive": true
     },
     {
+      "id": 32120,
+      "documentId": "rgkg35of6z7kroqtjpedsl7y",
+      "name": "GEMINI FF",
+      "slug": "gemini-ff",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 33533,
       "documentId": "dw1q4u5bepk8kpmx1tnwfrcb",
       "name": "MINI",
       "slug": "mini",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33534,
+      "documentId": "ces488m9hmrfoh4sh9mo4omi",
+      "name": "MINI ACEMAN",
+      "slug": "mini-aceman",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -59,6 +75,14 @@
       "isActive": true
     },
     {
+      "id": 33537,
+      "documentId": "lt2vqzpzok2rdvidhgqvdaqy",
+      "name": "MINI COOPER",
+      "slug": "mini-cooper",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 33539,
       "documentId": "nnbfc1xpf05lmanvpdhi8zei",
       "name": "MINI COUNTRYMAN",
@@ -71,6 +95,14 @@
       "documentId": "dm9lo1oj2joxmgb3yhwclshg",
       "name": "MINI Coupe",
       "slug": "mini-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33548,
+      "documentId": "rqxuwayy6crwdjdyf4fh0brl",
+      "name": "MINI ONE I",
+      "slug": "mini-one-i",
       "vehicle_type": "car",
       "isActive": true
     },

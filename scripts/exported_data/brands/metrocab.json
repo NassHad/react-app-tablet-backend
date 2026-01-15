@@ -7,7 +7,16 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.924Z",
-  "models": []
+  "modelCount": 1,
+  "exportDate": "2026-01-07T09:17:53.849Z",
+  "models": [
+    {
+      "id": 35866,
+      "documentId": "t1aptm49fuy0t5r8f35h2cak",
+      "name": "TAXI",
+      "slug": "taxi",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

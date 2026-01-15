@@ -7,7 +7,16 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.894Z",
-  "models": []
+  "modelCount": 1,
+  "exportDate": "2026-01-07T09:17:53.837Z",
+  "models": [
+    {
+      "id": 30748,
+      "documentId": "xkphof089ops0vsqtmu9v6cl",
+      "name": "CV9",
+      "slug": "cv9",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

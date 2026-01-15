@@ -7,7 +7,32 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.801Z",
-  "models": []
+  "modelCount": 3,
+  "exportDate": "2026-01-07T09:17:53.778Z",
+  "models": [
+    {
+      "id": 33302,
+      "documentId": "mqvj6yhk7bgctiwwyhrnwqbd",
+      "name": "M6",
+      "slug": "m6",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35095,
+      "documentId": "lvhk4bsd5djpdrwyqm9w417x",
+      "name": "SEAL U",
+      "slug": "seal-u",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37121,
+      "documentId": "zzlobytkncg5txwirduy1h9g",
+      "name": "YUAN PLUS",
+      "slug": "yuan-plus",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

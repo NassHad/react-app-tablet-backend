@@ -7,8 +7,8 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 29,
-  "exportDate": "2026-01-06T19:34:16.890Z",
+  "modelCount": 41,
+  "exportDate": "2026-01-07T09:17:53.835Z",
   "models": [
     {
       "id": 28191,
@@ -31,6 +31,22 @@
       "documentId": "r45znigh09depu8tsgncc9qa",
       "name": "112",
       "slug": "112",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28221,
+      "documentId": "b3or78815lb5wg545m78cjk4",
+      "name": "1200-1500 Estate",
+      "slug": "1200-1500-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28222,
+      "documentId": "sjyh1c3qvaf2lj8uay19t4gd",
+      "name": "1200-1600",
+      "slug": "1200-1600",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -131,6 +147,14 @@
       "isActive": true
     },
     {
+      "id": 32878,
+      "documentId": "b9x4utgpkslt3w87v6jd0rmu",
+      "name": "KALINKA Estate Van",
+      "slug": "kalinka-estate-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 32969,
       "documentId": "rvw9p7n0xjo953gsq3oyxpge",
       "name": "Kalina 1117 / 2194",
@@ -163,6 +187,14 @@
       "isActive": true
     },
     {
+      "id": 33904,
+      "documentId": "o8ab0r4m92m4mlwzinwukeum",
+      "name": "NADESCHDA",
+      "slug": "nadeschda",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 33945,
       "documentId": "cgza8egz86z6vpx4x9papzxc",
       "name": "NIVA Closed Off-Road Vehicle",
@@ -175,6 +207,30 @@
       "documentId": "pz1oib59gsyqa3tn847mf8f5",
       "name": "NIVA II",
       "slug": "niva-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33947,
+      "documentId": "xvc17h2wjcjm9t67dc63nhsn",
+      "name": "NIVA II Closed Off-Road Vehicle",
+      "slug": "niva-ii-closed-off-road-vehicle",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33957,
+      "documentId": "kh2gfod2jvkq51l2sokldu2f",
+      "name": "NOVA Estate",
+      "slug": "nova-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34080,
+      "documentId": "h9xj82sik1g93ej2okyy6imc",
+      "name": "OKA",
+      "slug": "oka",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -199,6 +255,46 @@
       "documentId": "qi8t5pc8q84jxvdep4yujj25",
       "name": "PRIORA Saloon",
       "slug": "priora-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34990,
+      "documentId": "u96bag44pa99ltu6e6gz3ia2",
+      "name": "SAMARA",
+      "slug": "samara",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34991,
+      "documentId": "uupm6s2llxldda40iksnp9q0",
+      "name": "SAMARA Convertible",
+      "slug": "samara-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34992,
+      "documentId": "vnsd10dd8v6buxpcmywuid17",
+      "name": "SAMARA Hatchback",
+      "slug": "samara-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34993,
+      "documentId": "aox18kphnwelck3amr89ppo8",
+      "name": "SAMARA Saloon",
+      "slug": "samara-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35998,
+      "documentId": "ueaefpxxctlpb6633oxfc7x3",
+      "name": "TOSCANA",
+      "slug": "toscana",
       "vehicle_type": "car",
       "isActive": true
     },

@@ -7,9 +7,17 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 6,
-  "exportDate": "2026-01-06T19:34:17.037Z",
+  "modelCount": 19,
+  "exportDate": "2026-01-07T09:17:53.892Z",
   "models": [
+    {
+      "id": 28447,
+      "documentId": "gxe0a0uv4eyonmez612ajv01",
+      "name": "2206",
+      "slug": "2206",
+      "vehicle_type": "car",
+      "isActive": true
+    },
     {
       "id": 28448,
       "documentId": "oebb2fy10aybsw9u8a4a8yhb",
@@ -19,10 +27,90 @@
       "isActive": true
     },
     {
+      "id": 28596,
+      "documentId": "kcx2cprmhjbdxmwg027pfmrn",
+      "name": "3151",
+      "slug": "3151",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28597,
+      "documentId": "rwy9m82wdxh85dlfderasp5z",
+      "name": "31512 Open Off-Road Vehicle",
+      "slug": "31512-open-off-road-vehicle",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28598,
+      "documentId": "ln6jbzw6mm5d71fj1x0rm648",
+      "name": "3160 Closed Off-Road Vehicle",
+      "slug": "3160-closed-off-road-vehicle",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28737,
+      "documentId": "w6v6tv2at18uuqj000uq2tax",
+      "name": "452 Bus",
+      "slug": "452-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28738,
+      "documentId": "t1rr1v5l97bcglkoj9xp0s88",
+      "name": "452 Platform/Chassis",
+      "slug": "452-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28739,
+      "documentId": "fhcb7gtqvov3191hfnyik11r",
+      "name": "452 Van",
+      "slug": "452-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28746,
+      "documentId": "pf1j6p6nkhtzgccqnwxvsg5v",
+      "name": "469 / 469 B",
+      "slug": "469-469-b",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29688,
+      "documentId": "sdiskmnas7shzglkys4kwwcy",
+      "name": "BARS",
+      "slug": "bars",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30132,
+      "documentId": "opp86unslq1597pmpbi6mw6b",
+      "name": "CARGO",
+      "slug": "cargo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 32578,
       "documentId": "fonxbb9n01cl5ac43ki6g4yk",
       "name": "HUNTER",
       "slug": "hunter",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32579,
+      "documentId": "vcy8dapy5x51oszuaoafhhia",
+      "name": "HUNTER",
+      "slug": "hillman-hunter",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -51,10 +139,26 @@
       "isActive": true
     },
     {
+      "id": 34284,
+      "documentId": "pwbbbirtqhirtji0ftz4ylej",
+      "name": "PICKUP",
+      "slug": "skoda-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 34421,
       "documentId": "frftd0mvjnohqwe6afgomh09",
       "name": "PROFI Platform/Chassis",
       "slug": "profi-platformchassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35224,
+      "documentId": "twudtjli1lhxyqyn613h8i0i",
+      "name": "SIMBIRClosed Off-Road Vehicle",
+      "slug": "simbirclosed-off-road-vehicle",
       "vehicle_type": "car",
       "isActive": true
     }

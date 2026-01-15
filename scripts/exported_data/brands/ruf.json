@@ -7,7 +7,136 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.977Z",
-  "models": []
+  "modelCount": 16,
+  "exportDate": "2026-01-07T09:17:53.875Z",
+  "models": [
+    {
+      "id": 28653,
+      "documentId": "fcfzeux04k67gox521asxe49",
+      "name": "3800 Coupe",
+      "slug": "3800-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28654,
+      "documentId": "b9qv80bhz7yj1jhvmnquozsy",
+      "name": "3800 Roadster",
+      "slug": "3800-roadster",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30725,
+      "documentId": "yalubu70m905z2yicmn7vw1s",
+      "name": "CTR",
+      "slug": "ctr",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30726,
+      "documentId": "zydqu9q846zhunat4l8o4ioq",
+      "name": "CTR 3 Coupe",
+      "slug": "ctr-3-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34686,
+      "documentId": "wblhwmphj9de24crhft0ngsu",
+      "name": "RCT",
+      "slug": "rct",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34741,
+      "documentId": "fvdr33c3ec91bxyw79gwtvai",
+      "name": "RGT MK I",
+      "slug": "rgt-mk-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34742,
+      "documentId": "et7p4jjncnvjo7d7m70ria9h",
+      "name": "RGT MK II",
+      "slug": "rgt-mk-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34743,
+      "documentId": "q2ve2c0lystc6rjdyc8t9fzm",
+      "name": "RGT MK III",
+      "slug": "rgt-mk-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34914,
+      "documentId": "nq6q5wn0vm8wiofxgvir79lv",
+      "name": "Rt 12 Coupe",
+      "slug": "rt-12-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34915,
+      "documentId": "oxcht0dz8cga3h42not8013a",
+      "name": "Rt 35 Coupe",
+      "slug": "rt-35-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34916,
+      "documentId": "gpzhsubb8q4cdzi303dc9w4x",
+      "name": "Rt 35 Roadster",
+      "slug": "rt-35-roadster",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34917,
+      "documentId": "ijg71v02vrpti4cmoayudolb",
+      "name": "RtR",
+      "slug": "rtr",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35073,
+      "documentId": "a673yw4kb67o6kx9j42fen7u",
+      "name": "SCR",
+      "slug": "scr",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36189,
+      "documentId": "ux27ecqkn3k003q4oez30dhl",
+      "name": "TURBO FLORIO",
+      "slug": "turbo-florio",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36190,
+      "documentId": "fqj8b16xb1kno56a92s95v10",
+      "name": "TURBO R",
+      "slug": "turbo-r",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36316,
+      "documentId": "nsk4ystnfs59xsb6pjb6mykl",
+      "name": "ULTIMATE",
+      "slug": "ultimate",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

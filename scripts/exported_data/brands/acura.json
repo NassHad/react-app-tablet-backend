@@ -7,7 +7,112 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.767Z",
-  "models": []
+  "modelCount": 13,
+  "exportDate": "2026-01-07T09:17:53.758Z",
+  "models": [
+    {
+      "id": 33097,
+      "documentId": "m5dma0jeuqq8xmhfj3ztdq7y",
+      "name": "LEGEND",
+      "slug": "legend",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33098,
+      "documentId": "gidviad5cis6j35cv0maj2ck",
+      "name": "LEGEND Coupe",
+      "slug": "legend-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33421,
+      "documentId": "vkpnery0v8gp5rr0on28m183",
+      "name": "MDX",
+      "slug": "mdx",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33991,
+      "documentId": "io644njtgj29bpuq3gh6wl2z",
+      "name": "NSX Targa",
+      "slug": "nsx-targa",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34691,
+      "documentId": "kusf8tif7rxnufb4dhor80vj",
+      "name": "RDX",
+      "slug": "rdx",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34770,
+      "documentId": "ovurqsszqcffoki3wk5h3h78",
+      "name": "RL",
+      "slug": "rl",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34843,
+      "documentId": "yhbkgcgjygujr2y4srn6h6e8",
+      "name": "RSX Coupe",
+      "slug": "rsx-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35278,
+      "documentId": "gakim4w6y1t2lhzis2pe5l7x",
+      "name": "SLX",
+      "slug": "slx",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35981,
+      "documentId": "d1pjb1ya87xua8zkcxtoq380",
+      "name": "TL",
+      "slug": "tl",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35985,
+      "documentId": "uosroioek0m1intdodq30sfp",
+      "name": "TLX",
+      "slug": "tlx",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36169,
+      "documentId": "u2vonpbf912u49sdkyqzxtqa",
+      "name": "TSX",
+      "slug": "tsx",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36490,
+      "documentId": "qzdy5qdlzfjfa52nbfdj4mhx",
+      "name": "VIGOR",
+      "slug": "vigor",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37211,
+      "documentId": "n39c2vmnph7764b5f8pfw16m",
+      "name": "ZDX",
+      "slug": "zdx",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

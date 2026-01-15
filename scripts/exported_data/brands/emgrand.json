@@ -7,7 +7,24 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.829Z",
-  "models": []
+  "modelCount": 2,
+  "exportDate": "2026-01-07T09:17:53.802Z",
+  "models": [
+    {
+      "id": 31267,
+      "documentId": "svszjljthj7aedmxo2vldhk1",
+      "name": "EC7",
+      "slug": "ec7",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31268,
+      "documentId": "begi45751i5bjr91kij4lp7x",
+      "name": "EC7-RV",
+      "slug": "ec7-rv",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

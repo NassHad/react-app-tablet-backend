@@ -7,8 +7,8 @@
     "vehicle_type": "car-moto",
     "isActive": true
   },
-  "modelCount": 79,
-  "exportDate": "2026-01-06T19:34:16.792Z",
+  "modelCount": 101,
+  "exportDate": "2026-01-07T09:17:53.774Z",
   "models": [
     {
       "id": 28138,
@@ -51,10 +51,58 @@
       "isActive": true
     },
     {
+      "id": 28305,
+      "documentId": "reto30moqjey67wy7wkjr9x8",
+      "name": "1500-2000",
+      "slug": "1500-2000",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28307,
+      "documentId": "pt6tynpwwpjvew18l9hjn9c6",
+      "name": "1502-2002",
+      "slug": "1502-2002",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28308,
+      "documentId": "rmo7coqjb54p4y8lmx0s467y",
+      "name": "1502-2002 Convertible",
+      "slug": "1502-2002-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28309,
+      "documentId": "d41ooljdi5ty03b943nv9bq0",
+      "name": "1502-2002 Touring",
+      "slug": "1502-2002-touring",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28320,
+      "documentId": "acdnc99fbgd6s20k91aqebon",
+      "name": "1600 GT Coupe",
+      "slug": "1600-gt-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 28349,
       "documentId": "sc5wcfwzugfk1x3llbqdzz18",
       "name": "2 Active Tourer",
       "slug": "2-active-tourer",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28350,
+      "documentId": "xezxo82knv6rj7k9cfwmqb39",
+      "name": "2 Active Tourer Van",
+      "slug": "2-active-tourer-van",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -91,6 +139,14 @@
       "isActive": true
     },
     {
+      "id": 28359,
+      "documentId": "zu8axw8aqa3apyexw3ca4qrg",
+      "name": "2 Gran Tourer Van",
+      "slug": "2-gran-tourer-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 28362,
       "documentId": "yfpc8j6arjqllf26jlikjm1k",
       "name": "2-Series",
@@ -111,6 +167,30 @@
       "documentId": "s8rcmikvs99hp86fc6bh3l64",
       "name": "2-Series Gran",
       "slug": "2-series-gran",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28367,
+      "documentId": "wx0ggwfqre9cdcp0sfy2kaym",
+      "name": "2.5-3.2 Coupe",
+      "slug": "2-5-3-2-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28385,
+      "documentId": "z1qr3fwhx8nmwz06919mfkh4",
+      "name": "2000 Coupe",
+      "slug": "2000-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28479,
+      "documentId": "ig1q22nu7z4i80dd2mo34sps",
+      "name": "2500-3.3",
+      "slug": "2500-3-3",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -267,6 +347,14 @@
       "isActive": true
     },
     {
+      "id": 28805,
+      "documentId": "bju5yku45qfmsmq0n1taghya",
+      "name": "503 Convertible",
+      "slug": "503-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 28841,
       "documentId": "tjk9siu1fx56byyn23ypmlbf",
       "name": "6",
@@ -323,10 +411,34 @@
       "isActive": true
     },
     {
+      "id": 28894,
+      "documentId": "jh42o7npww3b1x7hneuct4gq",
+      "name": "700 Coupe",
+      "slug": "700-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 28914,
       "documentId": "z9teg34ayz542fo9wpcfcv6x",
       "name": "8",
       "slug": "8",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28915,
+      "documentId": "ofmxibs3er8kfhvgxg63arhm",
+      "name": "8 Convertible",
+      "slug": "8-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28916,
+      "documentId": "iyam38fsucmcwmwau0beq2ya",
+      "name": "8 Coupe",
+      "slug": "8-coupe",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -459,6 +571,14 @@
       "isActive": true
     },
     {
+      "id": 32161,
+      "documentId": "mfi5dkbjtyvgdtt3lracv59v",
+      "name": "GLAS",
+      "slug": "glas",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 32829,
       "documentId": "y6jjp6j3h10xsulum5qzv35h",
       "name": "K 1200 R (K12R)",
@@ -483,6 +603,14 @@
       "isActive": true
     },
     {
+      "id": 33290,
+      "documentId": "mwl8j5goa9hzu57tnh8id6um",
+      "name": "M1",
+      "slug": "m1",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 33812,
       "documentId": "ud61jpe30pyg29vodttt9v8s",
       "name": "Mito 125",
@@ -496,6 +624,14 @@
       "name": "R 1200 GS Adventure (K51)",
       "slug": "r-1200-gs-adventure-k51",
       "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36392,
+      "documentId": "nzrz0p4wslngso0y80eoumcz",
+      "name": "V8 Coupe",
+      "slug": "v8-coupe",
+      "vehicle_type": "car",
       "isActive": true
     },
     {
@@ -555,10 +691,34 @@
       "isActive": true
     },
     {
+      "id": 36818,
+      "documentId": "wb0vz224vy4qu92lyxbkjci6",
+      "name": "X5 Van",
+      "slug": "x5-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 36820,
       "documentId": "uu1v8kj74wbv5qfigd1ehd75",
       "name": "X6",
       "slug": "x6",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36822,
+      "documentId": "vomakop9yqacaghh0ouxyg2s",
+      "name": "X7",
+      "slug": "x7",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37187,
+      "documentId": "rymtturnrd5a71up9gbicssg",
+      "name": "Z1 Roadster",
+      "slug": "z1-roadster",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -619,6 +779,14 @@
       "isActive": true
     },
     {
+      "id": 37359,
+      "documentId": "loyzjzckh9p7nki76w7tzl31",
+      "name": "i4",
+      "slug": "i4",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 37366,
       "documentId": "xyjc2jdck06339gfe0ci5c0r",
       "name": "i8",
@@ -631,6 +799,14 @@
       "documentId": "mra7qbroq84r6aq563dai8lt",
       "name": "i8 Roadster",
       "slug": "i8-roadster",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37369,
+      "documentId": "fgnapc59l79j5a3nzu3kn19m",
+      "name": "iX",
+      "slug": "ix",
       "vehicle_type": "car",
       "isActive": true
     },

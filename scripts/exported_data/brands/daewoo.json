@@ -7,14 +7,30 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 19,
-  "exportDate": "2026-01-06T19:34:16.815Z",
+  "modelCount": 37,
+  "exportDate": "2026-01-07T09:17:53.791Z",
   "models": [
     {
       "id": 29548,
       "documentId": "wzdojw6b99irg0ujfsuaykuo",
       "name": "AVEO",
       "slug": "aveo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30386,
+      "documentId": "t5a7yixsegstysk2oia1gdzg",
+      "name": "CIELO",
+      "slug": "cielo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30387,
+      "documentId": "kl7x6df6edsgwz0ibiau5966",
+      "name": "CIELO",
+      "slug": "daewoo-cielo",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -35,10 +51,26 @@
       "isActive": true
     },
     {
+      "id": 31426,
+      "documentId": "p5a4f2hh39accv2fvwbnn9dz",
+      "name": "EVANDA",
+      "slug": "daewoo-evanda",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 32880,
       "documentId": "qx7qb15a7glf15wk00b2i1vh",
       "name": "KALOS",
       "slug": "kalos",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32881,
+      "documentId": "nlthln032a5nz6xhg4w5othh",
+      "name": "KALOS",
+      "slug": "daewoo-kalos",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -67,6 +99,14 @@
       "isActive": true
     },
     {
+      "id": 33006,
+      "documentId": "jvx9dze8mvuosmbr9hs4hhk9",
+      "name": "LACETTI PREMIERE Saloon",
+      "slug": "lacetti-premiere-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 33007,
       "documentId": "nhsjxq4ah6d45qj18m34mh55",
       "name": "LACETTI Saloon",
@@ -79,6 +119,14 @@
       "documentId": "n67cb8rpvaist93g3onare71",
       "name": "LANOS",
       "slug": "lanos",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33055,
+      "documentId": "wu87qhc1b5w00ic7bw8pv6rb",
+      "name": "LANOS",
+      "slug": "chevrolet-lanos",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -99,10 +147,58 @@
       "isActive": true
     },
     {
+      "id": 33105,
+      "documentId": "bnr58ew7etmzeh6efkt2geao",
+      "name": "LEMANS",
+      "slug": "lemans",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33195,
+      "documentId": "wy0got1m3442ojjptmhhvg4n",
+      "name": "LUBLIN II Bus",
+      "slug": "lublin-ii-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33196,
+      "documentId": "hc3g02lup204rafrye37zi08",
+      "name": "LUBLIN II Platform/Chassis",
+      "slug": "lublin-ii-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33197,
+      "documentId": "asp6r041j1wj5wwbqus4gv15",
+      "name": "LUBLIN II Van",
+      "slug": "lublin-ii-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 33388,
       "documentId": "gdffb79p7f4n2fgfxqsdanen",
       "name": "MATIZ",
       "slug": "matiz",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33390,
+      "documentId": "zeqln671i6qsfz4ey1inhym9",
+      "name": "MATIZ Hatchback Van",
+      "slug": "matiz-hatchback-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33783,
+      "documentId": "s9o3tmc40smxyn8lgb9863up",
+      "name": "Magnus",
+      "slug": "magnus",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -131,6 +227,14 @@
       "isActive": true
     },
     {
+      "id": 34001,
+      "documentId": "k74ugwg1tpwf2gbya3o7imwl",
+      "name": "NUBIRA",
+      "slug": "chevrolet-nubira",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 34003,
       "documentId": "p6fqntgk3wfcq8sv1walgssl",
       "name": "NUBIRA Saloon",
@@ -147,10 +251,50 @@
       "isActive": true
     },
     {
+      "id": 34387,
+      "documentId": "nb7ijpsib9zd8wh7ofk1ny0i",
+      "name": "PRINCE",
+      "slug": "prince",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34625,
+      "documentId": "wn1wri73e9vf584q04abnbwd",
+      "name": "RACER Hatchback",
+      "slug": "racer-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 34735,
       "documentId": "c5xyqh2uvjo3ljdomin2lahi",
       "name": "REZZO",
       "slug": "rezzo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34736,
+      "documentId": "l58szdyfyad8f6h0mm1dszou",
+      "name": "REZZO",
+      "slug": "chevrolet-rezzo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35939,
+      "documentId": "arml0nauxl782rzkje4tk20b",
+      "name": "TICO",
+      "slug": "tico",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35997,
+      "documentId": "w04yr5ph365ui52cdhv0i4eu",
+      "name": "TOSCA",
+      "slug": "tosca",
       "vehicle_type": "car",
       "isActive": true
     },

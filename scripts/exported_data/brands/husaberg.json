@@ -7,7 +7,72 @@
     "vehicle_type": "moto",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.868Z",
-  "models": []
+  "modelCount": 8,
+  "exportDate": "2026-01-07T09:17:53.820Z",
+  "models": [
+    {
+      "id": 31625,
+      "documentId": "w1sywtzuqswrhl2c9tdsvq6a",
+      "name": "FE 390 (FE02)",
+      "slug": "fe-390-fe02",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31627,
+      "documentId": "lu2v8x1zrozomo7ym54v4to7",
+      "name": "FE 450 (FE01)",
+      "slug": "fe-450-fe01",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31628,
+      "documentId": "km4p9oe2yneumitnjl6w570c",
+      "name": "FE 450 (FE02)",
+      "slug": "fe-450-fe02",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31629,
+      "documentId": "bnoc9c96w2ce1eis6cnm36db",
+      "name": "FE 500 (FE01)",
+      "slug": "fe-500-fe01",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31631,
+      "documentId": "o7r8cbcab1h3zbj3k1j9hyi2",
+      "name": "FE 570 (FE02)",
+      "slug": "fe-570-fe02",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31632,
+      "documentId": "q1ucby4mev6mrqmvglssfky8",
+      "name": "FE 650 (FE01)",
+      "slug": "fe-650-fe01",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35877,
+      "documentId": "filcol2pv0i77mjhi6i4n7md",
+      "name": "TE 125 (TE01)",
+      "slug": "te-125-te01",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35881,
+      "documentId": "jjne0wyrf1sqbkfo2w41d4jc",
+      "name": "TE 300 (TE01)",
+      "slug": "te-300-te01",
+      "vehicle_type": "moto",
+      "isActive": true
+    }
+  ]
 }

@@ -7,7 +7,48 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:17.060Z",
-  "models": []
+  "modelCount": 5,
+  "exportDate": "2026-01-07T09:17:53.899Z",
+  "models": [
+    {
+      "id": 32411,
+      "documentId": "ku8achd0z63i86bel5u480ug",
+      "name": "GT MF4 Coupe",
+      "slug": "gt-mf4-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32412,
+      "documentId": "uj7oj68jfbtp5o9kwshic3kc",
+      "name": "GT MF5 Coupe",
+      "slug": "gt-mf5-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33479,
+      "documentId": "oq0sb6xrw7otm0rfdyjol9ht",
+      "name": "MF3 Roadster",
+      "slug": "mf3-roadster",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33480,
+      "documentId": "llf3xm6rgn05gpxqh9jfz2g7",
+      "name": "MF4 Roadster",
+      "slug": "mf4-roadster",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33481,
+      "documentId": "m7wpar6h5p2r37hrk7jha958",
+      "name": "MF5 Roadster",
+      "slug": "mf5-roadster",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

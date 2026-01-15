@@ -7,7 +7,24 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.954Z",
-  "models": []
+  "modelCount": 2,
+  "exportDate": "2026-01-07T09:17:53.868Z",
+  "models": [
+    {
+      "id": 28201,
+      "documentId": "y2b79nvifcb6j6sy179eihgf",
+      "name": "118 NE",
+      "slug": "118-ne",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34150,
+      "documentId": "uxl0kdic4d19x1i1s1tmdo0l",
+      "name": "PADMINI",
+      "slug": "padmini",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

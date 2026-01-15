@@ -7,8 +7,8 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 5,
-  "exportDate": "2026-01-06T19:34:16.826Z",
+  "modelCount": 7,
+  "exportDate": "2026-01-07T09:17:53.800Z",
   "models": [
     {
       "id": 28658,
@@ -43,10 +43,26 @@
       "isActive": true
     },
     {
+      "id": 31083,
+      "documentId": "a962shb43174afp6xjebad81",
+      "name": "DS 3 / DS 3 CROSSBACK",
+      "slug": "ds-3-ds-3-crossback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 31085,
       "documentId": "e06mbosg946ertjkdnbmf01f",
       "name": "DS 4 / DS 4 CROSSBACK",
       "slug": "ds-4-ds-4-crossback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31089,
+      "documentId": "woymg79565qodutacj304lr9",
+      "name": "DS 7",
+      "slug": "ds-7",
       "vehicle_type": "car",
       "isActive": true
     }

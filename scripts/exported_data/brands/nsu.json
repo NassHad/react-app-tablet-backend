@@ -7,7 +7,32 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.935Z",
-  "models": []
+  "modelCount": 3,
+  "exportDate": "2026-01-07T09:17:53.858Z",
+  "models": [
+    {
+      "id": 33986,
+      "documentId": "ba8hlwcre1t5tfj7dq42f7bd",
+      "name": "NSU",
+      "slug": "nsu",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34772,
+      "documentId": "mjf06v9jlo44jj6862ds1rgw",
+      "name": "RO 80",
+      "slug": "ro-80",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36181,
+      "documentId": "cs0685k8dhkogo45gxiw71t6",
+      "name": "TTS",
+      "slug": "tts",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

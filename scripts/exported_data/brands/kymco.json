@@ -7,7 +7,784 @@
     "vehicle_type": "moto",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.889Z",
-  "models": []
+  "modelCount": 97,
+  "exportDate": "2026-01-07T09:17:53.834Z",
+  "models": [
+    {
+      "id": 29223,
+      "documentId": "pyrg50jx5xi3rr679sx56z37",
+      "name": "AK 550",
+      "slug": "ak-550",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29590,
+      "documentId": "pghg1ne8r37336094bdxbd23",
+      "name": "Agility 125",
+      "slug": "agility-125",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29591,
+      "documentId": "hamgdhn5ipl05nk4fx6jcfpn",
+      "name": "Agility 125 City (C20000)",
+      "slug": "agility-125-city-c20000",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29592,
+      "documentId": "pclnedjswtkawcjzrl1jkaxv",
+      "name": "Agility 125 MMC (U62001)",
+      "slug": "agility-125-mmc-u62001",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29593,
+      "documentId": "fkcaop3rp08xzo9idamf07ai",
+      "name": "Agility 125 One (U62011)",
+      "slug": "agility-125-one-u62011",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29594,
+      "documentId": "sud7scs7c6qqdu1yb2inz7eg",
+      "name": "Agility 200 (KF40)",
+      "slug": "agility-200-kf40",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29595,
+      "documentId": "apvh4d9ynpb5otxe9fp43h5w",
+      "name": "Agility 50 4T",
+      "slug": "agility-50-4t",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29596,
+      "documentId": "l6pt5d17eapves0xxei3d6ij",
+      "name": "Agility 50 4T Basic (U60080)",
+      "slug": "agility-50-4t-basic-u60080",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29597,
+      "documentId": "vua3oendwqeuqof85bpm692g",
+      "name": "Agility 50 City (CK50)",
+      "slug": "agility-50-city-ck50",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 30455,
+      "documentId": "dkoza1d3w12zexh334lqbb6p",
+      "name": "CK 125",
+      "slug": "ck-125",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31015,
+      "documentId": "zyotoy3129rdc4dnihsfbgh5",
+      "name": "DJ 125 S (KN25G)",
+      "slug": "dj-125-s-kn25g",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31016,
+      "documentId": "wr3si6h8f1cjhju80lsvhd4w",
+      "name": "DJ 50",
+      "slug": "dj-50",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31017,
+      "documentId": "o1u4j8jj6wcj49dern3qtdcv",
+      "name": "DJ 50 (GR1)",
+      "slug": "dj-50-gr1",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31018,
+      "documentId": "wnqpggvgdz14orn4zxoecrej",
+      "name": "DJ 50 S 2T (GR1)",
+      "slug": "dj-50-s-2t-gr1",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31019,
+      "documentId": "hf27y8alropxn7vclz5ovprb",
+      "name": "DJ 50 S 4T (KG10B)",
+      "slug": "dj-50-s-4t-kg10b",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31123,
+      "documentId": "zwys5r2a78e24au4dcy47pqc",
+      "name": "DT X360 350i ABS",
+      "slug": "dt-x360-350i-abs",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31193,
+      "documentId": "yaqslu4eiz3369lnbs4d4rqm",
+      "name": "Dink 125",
+      "slug": "dink-125",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31194,
+      "documentId": "gwpup6uvhqnh8xcqtdds4n55",
+      "name": "Dink 200 (T9)",
+      "slug": "dink-200-t9",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31195,
+      "documentId": "iagz4dx9b00ad4h4ft2noogu",
+      "name": "Dink 250 (S7)",
+      "slug": "dink-250-s7",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31196,
+      "documentId": "sw6c92act8e09blgob617wjp",
+      "name": "Dink 50 LC (S8)",
+      "slug": "dink-50-lc-s8",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31212,
+      "documentId": "ys9lxymhzzkgoz1yrpd84tr2",
+      "name": "Downtown",
+      "slug": "downtown",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31213,
+      "documentId": "prj7ft7vi4bq62hrm0s3sv1y",
+      "name": "Downtown 125",
+      "slug": "downtown-125",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31214,
+      "documentId": "jhg4h1y78zs1yoa7drfi28us",
+      "name": "Downtown 125 i (V21000)",
+      "slug": "downtown-125-i-v21000",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31215,
+      "documentId": "upkgkua6yxd13q07rb6unrht",
+      "name": "Downtown 300 i",
+      "slug": "downtown-300-i",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31216,
+      "documentId": "gcubmrdezmifqg4bumlu8d97",
+      "name": "Downtown 350i ABS",
+      "slug": "downtown-350i-abs",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32016,
+      "documentId": "gsr72temty54typlkn2g17mo",
+      "name": "Filly 50 (SD10/SD)",
+      "slug": "filly-50-sd10sd",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32479,
+      "documentId": "ldgyivmsk6n7dtcqrhpca9kk",
+      "name": "Grand Dink",
+      "slug": "grand-dink",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32480,
+      "documentId": "sk3kcyivj6p7tcw4gfeysj2v",
+      "name": "Grand Dink 125 (S4)",
+      "slug": "grand-dink-125-s4",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32481,
+      "documentId": "p3awo64hd97trwxt7a6ic6tm",
+      "name": "Grand Dink 125 S (SH25DH)",
+      "slug": "grand-dink-125-s-sh25dh",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32482,
+      "documentId": "zv24cfd7j6vfuku9fx4mq4ny",
+      "name": "Grand Dink 250 (S4)",
+      "slug": "grand-dink-250-s4",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32483,
+      "documentId": "g5dowpk87l1dih6tej8es28z",
+      "name": "Grand Dink 50",
+      "slug": "grand-dink-50",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32597,
+      "documentId": "apwsof3j2gz4c4wmrpayg2d2",
+      "name": "Hipster 125 (R1)",
+      "slug": "hipster-125-r1",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32834,
+      "documentId": "dgkiiahe6q5926vjm4ks0jnw",
+      "name": "K-XCT",
+      "slug": "k-xct",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32966,
+      "documentId": "vkpeuetlabzn0zb41f8axs90",
+      "name": "KXR 250",
+      "slug": "kxr-250",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33261,
+      "documentId": "hqepyosj6kxzi43nkq2nvmid",
+      "name": "Like",
+      "slug": "like",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33262,
+      "documentId": "d1lg09qe6vgilytw15air1tk",
+      "name": "Like 125 (KN25)",
+      "slug": "like-125-kn25",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33263,
+      "documentId": "nkjr2z9nr55n44m6kzdbecae",
+      "name": "Like 200 (KA40)",
+      "slug": "like-200-ka40",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33264,
+      "documentId": "kykzl5jyqwd3psj2rm86gujg",
+      "name": "Like 50 (KG10)",
+      "slug": "like-50-kg10",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33752,
+      "documentId": "duvdax7wkf2asp42xyssqplo",
+      "name": "MX 150 (L1)",
+      "slug": "mx-150-l1",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33754,
+      "documentId": "o8pzbcdd5s498gbycp1ziqbi",
+      "name": "MX 50 (L2)",
+      "slug": "mx-50-l2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33765,
+      "documentId": "yvlhsg66fowab4z7861a3atr",
+      "name": "MXU 250",
+      "slug": "mxu-250",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33766,
+      "documentId": "aslnev6u3atnbs0iv76533hk",
+      "name": "MXU 300",
+      "slug": "mxu-300",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33767,
+      "documentId": "w643xy7e462amx9tf5kgmeac",
+      "name": "MXU 300 R (A6)",
+      "slug": "mxu-300-r-a6",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33768,
+      "documentId": "zq8rlv7bh4ozzffznd37qx0m",
+      "name": "MXU 400 (A4)",
+      "slug": "mxu-400-a4",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33769,
+      "documentId": "qdjggcc3kp2r6sc2t86z94yj",
+      "name": "MXU 50",
+      "slug": "mxu-50",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33770,
+      "documentId": "lia23com3125gxywhr02e383",
+      "name": "MXU 500",
+      "slug": "mxu-500",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33771,
+      "documentId": "oahrz5o7tx8p9stdudzswlrz",
+      "name": "MXU 500 IRS (A5)",
+      "slug": "mxu-500-irs-a5",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33796,
+      "documentId": "k74m6ofkh6kuq7nmjs2ix3dd",
+      "name": "Maxxer 250 (L3)",
+      "slug": "maxxer-250-l3",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33797,
+      "documentId": "guy1w8jljt66kfs7cennl2m8",
+      "name": "Maxxer 300",
+      "slug": "maxxer-300",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33798,
+      "documentId": "gcrc3fz67gl7ynw9a9l8qfwe",
+      "name": "Maxxer 450 (A4)",
+      "slug": "maxxer-450-a4",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33881,
+      "documentId": "a292352wwj0o6iobsvrm25kt",
+      "name": "Movie 125 XL",
+      "slug": "movie-125-xl",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33882,
+      "documentId": "vdnwse62dpct9otecm9u3rk3",
+      "name": "Movie S 125i (V1)",
+      "slug": "movie-s-125i-v1",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33898,
+      "documentId": "bfpkfysusfy2t5rk9oyok8wt",
+      "name": "Mxer 150",
+      "slug": "mxer-150",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33899,
+      "documentId": "snj8z5zkko27q8ejbtbrppk9",
+      "name": "Mxer 50",
+      "slug": "mxer-50",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33900,
+      "documentId": "zvjtzy9uwqiq0xjhcz1tqril",
+      "name": "Myroad 700 (V3)",
+      "slug": "myroad-700-v3",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34047,
+      "documentId": "d3bb7hdmo9adenvmztul41vp",
+      "name": "NewSento 50i (V7)",
+      "slug": "newsento-50i-v7",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34053,
+      "documentId": "plerinthis4f20auipwgxp52",
+      "name": "Nexxon 50 (CK50Q-B)",
+      "slug": "nexxon-50-ck50q-b",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34488,
+      "documentId": "eryeyqvwy2yofaxlvxzdqhcx",
+      "name": "People",
+      "slug": "people",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34489,
+      "documentId": "hl6mzy9tltehqgfov12swkxv",
+      "name": "People 125 S",
+      "slug": "people-125-s",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34490,
+      "documentId": "kvyiph0urno23nwjw42nopfj",
+      "name": "People 250",
+      "slug": "people-250",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34491,
+      "documentId": "ezqtvsashn8v1s4maxretv8y",
+      "name": "People 50",
+      "slug": "people-50",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34492,
+      "documentId": "l6ms9nro4kgrcxpvxxcpdqj3",
+      "name": "People 50 (B1)",
+      "slug": "people-50-b1",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34493,
+      "documentId": "o8fu99bm13ohu2796od4nszs",
+      "name": "People GT 125 (V4)",
+      "slug": "people-gt-125-v4",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34494,
+      "documentId": "mxodmjlfxbky5pajx9b1fg4d",
+      "name": "People GT 300 (V4)",
+      "slug": "people-gt-300-v4",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34495,
+      "documentId": "e7t1hwfp0rlpgfpmcg4bsrcr",
+      "name": "People S 200 (D1)",
+      "slug": "people-s-200-d1",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34496,
+      "documentId": "oz54jqoc481dpcoi0150knba",
+      "name": "People S 250 (D2)",
+      "slug": "people-s-250-d2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34498,
+      "documentId": "g6tu87s7mskii57xjbarpd8v",
+      "name": "People S 300i ABS",
+      "slug": "people-s-300i-abs",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34525,
+      "documentId": "yzno00yrztr0f18av0jm5zch",
+      "name": "Pulsar 125",
+      "slug": "pulsar-125",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34601,
+      "documentId": "h7ghse136sg0r8cm7dsnrons",
+      "name": "Quannon 125 (R3)",
+      "slug": "quannon-125-r3",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35641,
+      "documentId": "tavmyguv0mxnqvw886s8zbu6",
+      "name": "Sento 50 (U8)",
+      "slug": "sento-50-u8",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35756,
+      "documentId": "hr8nec7uhhzk2h23dxeyk2dv",
+      "name": "Stryker 125",
+      "slug": "stryker-125",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35761,
+      "documentId": "hlc37jj4ibdtsf7av93ykjfy",
+      "name": "Super 8 / 125 4T",
+      "slug": "super-8-125-4t",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35762,
+      "documentId": "d00ckopxjk1l71b79pouvu8s",
+      "name": "Super 8 / 50 2T (KF10AA)",
+      "slug": "super-8-50-2t-kf10aa",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35763,
+      "documentId": "exbmb6q6qon6hy8h86yz5dok",
+      "name": "Super 8 / 50 4T (CK50)",
+      "slug": "super-8-50-4t-ck50",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35764,
+      "documentId": "nv1996p2lrr8g32ogazbw72b",
+      "name": "Super 9 50 AC (S1)",
+      "slug": "super-9-50-ac-s1",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35765,
+      "documentId": "fsickaupz86ygym0ije6lhst",
+      "name": "Super 9 50 LC",
+      "slug": "super-9-50-lc",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35766,
+      "documentId": "qkjuuuvfveq43ef7coyukrem",
+      "name": "Super 9 50 LC (S1)",
+      "slug": "super-9-50-lc-s1",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36250,
+      "documentId": "zq3e78ll1otxu4u6vp2f7vlu",
+      "name": "Top Boy 100",
+      "slug": "top-boy-100",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36251,
+      "documentId": "c50i6xildchupxkdmb9456o4",
+      "name": "Top Boy 50",
+      "slug": "top-boy-50",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36252,
+      "documentId": "vy1ya3qnq7si4kzuccyk1isa",
+      "name": "Top Boy 50 (SF)",
+      "slug": "top-boy-50-sf",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36253,
+      "documentId": "silhdtstofdjt22r5sw4c0gl",
+      "name": "Top Boy 50 (SF10)",
+      "slug": "top-boy-50-sf10",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36335,
+      "documentId": "qowcbymhkh70w6wwg0lx4dec",
+      "name": "UXV 500 (U1)",
+      "slug": "uxv-500-u1",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36677,
+      "documentId": "x0xamhpyhy82ns6k85sd59i3",
+      "name": "Venox 250",
+      "slug": "venox-250",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36691,
+      "documentId": "nszcfytouve765h28u609t3p",
+      "name": "Vitality 50 2T",
+      "slug": "vitality-50-2t",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36692,
+      "documentId": "jw3fyxqc37xbltceerajit8k",
+      "name": "Vitality 50 4T",
+      "slug": "vitality-50-4t",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36693,
+      "documentId": "lp7rj2k2q4pl73pafukgq75m",
+      "name": "Vitality 50 Cross 2T (U3_SF10FA)",
+      "slug": "vitality-50-cross-2t-u3_sf10fa",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 37052,
+      "documentId": "zjxlrppwh1sk81ze1ayfc4c8",
+      "name": "Xciting 250",
+      "slug": "xciting-250",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 37053,
+      "documentId": "yt0xn4eimrwj9hzrfape8vne",
+      "name": "Xciting 250 i (T7)",
+      "slug": "xciting-250-i-t7",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 37054,
+      "documentId": "gkgmat23rhydjfc5sdjawchw",
+      "name": "Xciting 300 R (T7)",
+      "slug": "xciting-300-r-t7",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 37055,
+      "documentId": "d3ex7ruof00fwpajagg3f57r",
+      "name": "Xciting 400 i",
+      "slug": "xciting-400-i",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 37056,
+      "documentId": "lpcajapxpfsfku7y219pixfc",
+      "name": "Xciting 500",
+      "slug": "xciting-500",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 37057,
+      "documentId": "drqs4kbjavrag23wz6rnlf1l",
+      "name": "Xciting 500 i (T7)",
+      "slug": "xciting-500-i-t7",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 37058,
+      "documentId": "lk1gjjkq3e1e3r8agg9z5e7d",
+      "name": "Xciting 500i ABS (T7)",
+      "slug": "xciting-500i-abs-t7",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 37065,
+      "documentId": "dyk23wie003f8du6s79x65wv",
+      "name": "YAGER GT 125 (T9)",
+      "slug": "yager-gt-125-t9",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 37066,
+      "documentId": "e1dvxwnmsxel5zf4xnue6y17",
+      "name": "YAGER GT 200i (T9)",
+      "slug": "yager-gt-200i-t9",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 37067,
+      "documentId": "xeo5bpf1k4jn4keep8piminq",
+      "name": "YAGER GT 50 (U5)",
+      "slug": "yager-gt-50-u5",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 37244,
+      "documentId": "xinksqirvv2zoh482e6xy5pv",
+      "name": "ZX 50 (SC10)",
+      "slug": "zx-50-sc10",
+      "vehicle_type": "moto",
+      "isActive": true
+    }
+  ]
 }

@@ -7,7 +7,32 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.799Z",
-  "models": []
+  "modelCount": 3,
+  "exportDate": "2026-01-07T09:17:53.777Z",
+  "models": [
+    {
+      "id": 31253,
+      "documentId": "tep3qp7fpm3zhhi0gmitrqkj",
+      "name": "EB 110",
+      "slug": "eb-110",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36467,
+      "documentId": "u1iul10tgd3iw2ou167qddi6",
+      "name": "VEYRON EB 16.4",
+      "slug": "veyron-eb-16-4",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36468,
+      "documentId": "syoypa1onlq56nstmq4ku786",
+      "name": "VEYRON Grand Sport EB 16.4",
+      "slug": "veyron-grand-sport-eb-16-4",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

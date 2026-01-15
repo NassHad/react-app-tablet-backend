@@ -7,7 +7,24 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.902Z",
-  "models": []
+  "modelCount": 2,
+  "exportDate": "2026-01-07T09:17:53.841Z",
+  "models": [
+    {
+      "id": 34966,
+      "documentId": "qtcub33swwwjiror8vnn1b11",
+      "name": "S5",
+      "slug": "s5",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36303,
+      "documentId": "ufbidp2etz3wydzw7okbvlng",
+      "name": "U7",
+      "slug": "u7",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

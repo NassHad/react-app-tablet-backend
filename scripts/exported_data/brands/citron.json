@@ -7,8 +7,8 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 165,
-  "exportDate": "2026-01-06T19:34:16.810Z",
+  "modelCount": 203,
+  "exportDate": "2026-01-07T09:17:53.789Z",
   "models": [
     {
       "id": 28351,
@@ -55,6 +55,14 @@
       "documentId": "rgvrr5ua9d9ysjdx9p74es73",
       "name": "AX",
       "slug": "ax",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29556,
+      "documentId": "xwgb5pczcb1gs82u1765wr9b",
+      "name": "AX",
+      "slug": "citroen-ax",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -139,6 +147,14 @@
       "isActive": true
     },
     {
+      "id": 29805,
+      "documentId": "vhwee4c9hy7blxotdsd1yh61",
+      "name": "BX",
+      "slug": "citroen-bx",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 29806,
       "documentId": "vsvu9ux9ec3szdx7ncs82vtl",
       "name": "BX Break",
@@ -179,6 +195,14 @@
       "isActive": true
     },
     {
+      "id": 29924,
+      "documentId": "wved7gcpvefq5xp0jjvjv18g",
+      "name": "C-CROSSER",
+      "slug": "citroen-c-crosser",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 29925,
       "documentId": "tdk5a6us8l1bscp29td9j9yb",
       "name": "C-CROSSER ENTERPRISE",
@@ -203,6 +227,14 @@
       "isActive": true
     },
     {
+      "id": 29928,
+      "documentId": "f9fde8hlcx9yfl61yi2unsha",
+      "name": "C-ELYSEE",
+      "slug": "citroen-c-elysee",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 29938,
       "documentId": "xd7nolmo04gh27m6exj1czkr",
       "name": "C-ZERO",
@@ -223,6 +255,14 @@
       "documentId": "m4b2jh85rsg7cv7th5wnhzsg",
       "name": "C1 II",
       "slug": "c1-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29946,
+      "documentId": "pobw5cu7g94z2387cfhvug98",
+      "name": "C1 II",
+      "slug": "citroen-c1-ii",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -263,6 +303,14 @@
       "documentId": "k17bvua4sxyewcxc7no1d4lu",
       "name": "C2",
       "slug": "c2",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29958,
+      "documentId": "qa2nvdf5wop55fhflcg9fyrd",
+      "name": "C2",
+      "slug": "citroen-c2",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -347,10 +395,26 @@
       "isActive": true
     },
     {
+      "id": 29974,
+      "documentId": "pqeyzfskcq5gvio3sidtz0gy",
+      "name": "C3 I",
+      "slug": "citroen-c3-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 29975,
       "documentId": "p4676bhqkv0y8wjxl5xan2bm",
       "name": "C3 II",
       "slug": "c3-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29976,
+      "documentId": "i9089qldxfvjqkzx02x9th8t",
+      "name": "C3 II",
+      "slug": "citroen-c3-ii",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -367,6 +431,14 @@
       "documentId": "stwc43em5uwyqoghjk9dfzhs",
       "name": "C3 III",
       "slug": "c3-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29979,
+      "documentId": "t9wo7u7vdlf0ifu3rfagympz",
+      "name": "C3 III",
+      "slug": "citroen-c3-iii",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -391,6 +463,22 @@
       "documentId": "nn7qdeibud0wdo4f39ohhjo1",
       "name": "C3 ORIGIN III",
       "slug": "c3-origin-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29983,
+      "documentId": "yf2caxxgeo6oil3klwmq0o2v",
+      "name": "C3 PICASSO",
+      "slug": "citroen-c3-picasso",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29984,
+      "documentId": "swotjxoud7y3wkfjqxebo7ab",
+      "name": "C3 PLURIEL",
+      "slug": "citroen-c3-pluriel",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -459,10 +547,26 @@
       "isActive": true
     },
     {
+      "id": 29997,
+      "documentId": "o6c1j51xqq1tuu711r938tqh",
+      "name": "C4 AIRCROSS",
+      "slug": "citroen-c4-aircross",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 29998,
       "documentId": "mhk6nsyzg0mttox00q1p2wyq",
       "name": "C4 CACTUS",
       "slug": "c4-cactus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29999,
+      "documentId": "rprc683yysc908i0p37n0fp3",
+      "name": "C4 CACTUS",
+      "slug": "citroen-c4-cactus",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -507,6 +611,14 @@
       "isActive": true
     },
     {
+      "id": 30005,
+      "documentId": "tpqckc340x1rh77gsoetasj5",
+      "name": "C4 I",
+      "slug": "citroen-c4-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 30006,
       "documentId": "dkkh8124ac678m2x5esr1kbl",
       "name": "C4 I Hatchback Van",
@@ -531,6 +643,14 @@
       "isActive": true
     },
     {
+      "id": 30009,
+      "documentId": "t4mojsao29hglwocls5f8nmt",
+      "name": "C4 II",
+      "slug": "citroen-c4-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 30010,
       "documentId": "w1a95dyc0c65gi4gd4rc59oj",
       "name": "C4 II Hatchback Van",
@@ -551,6 +671,14 @@
       "documentId": "ht82sfktgs670yk7jlw40x3j",
       "name": "C4 III",
       "slug": "c4-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30015,
+      "documentId": "rhrsjumh5kqpylqxp40lyh4d",
+      "name": "C4 III",
+      "slug": "citroen-c4-iii",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -603,6 +731,14 @@
       "isActive": true
     },
     {
+      "id": 30026,
+      "documentId": "fjzwsffq7naxv1g8h8tnzl87",
+      "name": "C4 X",
+      "slug": "c4-x",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 30028,
       "documentId": "nwccugd8r6kbr693hzgydd6d",
       "name": "C5",
@@ -619,10 +755,26 @@
       "isActive": true
     },
     {
+      "id": 30030,
+      "documentId": "ojlq9ca3qgg0opqc8k5jr068",
+      "name": "C5 AIRCROSS",
+      "slug": "citroen-c5-aircross",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 30031,
       "documentId": "ui1df3gddi13b7e88mps9lmw",
       "name": "C5 I",
       "slug": "c5-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30032,
+      "documentId": "gp52lh2wlm9yvfpd11law97j",
+      "name": "C5 I",
+      "slug": "citroen-c5-i",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -647,6 +799,14 @@
       "documentId": "ndohcl7zxda9ob8c1i1dztjv",
       "name": "C5 II",
       "slug": "c5-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30036,
+      "documentId": "k1htihlh43d48o49cjukfkz6",
+      "name": "C5 II",
+      "slug": "citroen-c5-ii",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -691,6 +851,14 @@
       "isActive": true
     },
     {
+      "id": 30042,
+      "documentId": "qdhjq3xli1h8116m0gf04xpc",
+      "name": "C5 X",
+      "slug": "c5-x",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 30044,
       "documentId": "ylx9widsmewiflozivp80x3e",
       "name": "C6",
@@ -699,10 +867,26 @@
       "isActive": true
     },
     {
+      "id": 30045,
+      "documentId": "qgvcohsu48u5nwk527uk96ab",
+      "name": "C6",
+      "slug": "citroen-c6",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 30050,
       "documentId": "qybrynyfr4cw4x9lw2k2lg64",
       "name": "C8",
       "slug": "c8",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30051,
+      "documentId": "qjqftu4pdajfa8t7t8bhkfkq",
+      "name": "C8",
+      "slug": "citroen-c8",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -787,6 +971,22 @@
       "isActive": true
     },
     {
+      "id": 31095,
+      "documentId": "b56ptcyzn3h59ch9x10rid7s",
+      "name": "DS3",
+      "slug": "citroen-ds3",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31096,
+      "documentId": "qaingkdmtsj9e4vk6veginck",
+      "name": "DS3",
+      "slug": "ds-ds3",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 31097,
       "documentId": "i4nfd6oog6lvdt65oil32ise",
       "name": "DS3 Convertible",
@@ -803,10 +1003,42 @@
       "isActive": true
     },
     {
+      "id": 31100,
+      "documentId": "zuh0x9pazc55qt2fbc68prqh",
+      "name": "DS4",
+      "slug": "citroen-ds4",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31101,
+      "documentId": "izx94mdmp1lq422y4kf144ge",
+      "name": "DS4",
+      "slug": "ds-ds4",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 31103,
       "documentId": "ijqkwugjk70uu5rtzr2oc8oq",
       "name": "DS5",
       "slug": "ds5",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31104,
+      "documentId": "p7qug8xm1slsic19cbp8twe6",
+      "name": "DS5",
+      "slug": "citroen-ds5",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31105,
+      "documentId": "f7mvpcz8w8wl379ylrkyklrr",
+      "name": "DS5",
+      "slug": "ds-ds5",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -1019,6 +1251,14 @@
       "isActive": true
     },
     {
+      "id": 32793,
+      "documentId": "w038o0ymz7x8097uz2wb6v6y",
+      "name": "JUMPY I",
+      "slug": "jumpy-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 32794,
       "documentId": "qjdgz650fqszswisqqzbuqh8",
       "name": "JUMPY I Platform/Chassis",
@@ -1031,6 +1271,14 @@
       "documentId": "be8nar4vpyxnrvccc60718ib",
       "name": "JUMPY I Van",
       "slug": "jumpy-i-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32796,
+      "documentId": "aiq6br9o72ugarj5enaqjsrk",
+      "name": "JUMPY II",
+      "slug": "jumpy-ii",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -1163,6 +1411,14 @@
       "isActive": true
     },
     {
+      "id": 35036,
+      "documentId": "q1ampsw0imv0gpbx6kpqyb13",
+      "name": "SAXO",
+      "slug": "citroen-saxo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 35037,
       "documentId": "qiiupffocjx01j54o7vrm1rs",
       "name": "SAXO Hatchback van",
@@ -1203,6 +1459,14 @@
       "isActive": true
     },
     {
+      "id": 36501,
+      "documentId": "w0fidako9mcxfo59xlhy5yy8",
+      "name": "VISA",
+      "slug": "visa",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 36502,
       "documentId": "wqu1og185jn848qa2mabbovw",
       "name": "VISA Convertible",
@@ -1223,6 +1487,14 @@
       "documentId": "q8c3w3l07fm14uu81p9ao8gk",
       "name": "XANTIA",
       "slug": "xantia",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36842,
+      "documentId": "wayg4rs6ulf1ailmatbnomry",
+      "name": "XANTIA",
+      "slug": "citroen-xantia",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -1251,6 +1523,14 @@
       "isActive": true
     },
     {
+      "id": 36970,
+      "documentId": "rqqe0yzvrsoj7a3tuaa1xq6y",
+      "name": "XM",
+      "slug": "citroen-xm",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 36971,
       "documentId": "s45xhw0r1xj27pw47hciaj17",
       "name": "XM Break",
@@ -1263,6 +1543,14 @@
       "documentId": "zdhvliaelrj38bzk2vtdk22j",
       "name": "XSARA",
       "slug": "xsara",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36990,
+      "documentId": "duvc5w4khl1nf8q0c8if0rrf",
+      "name": "XSARA",
+      "slug": "citroen-xsara",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -1307,10 +1595,26 @@
       "isActive": true
     },
     {
+      "id": 36996,
+      "documentId": "a6bsil0pe5xfcc1zahibzcxb",
+      "name": "XSARA PICASSO",
+      "slug": "citroen-xsara-picasso",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 37242,
       "documentId": "gp2k9ullbcurpfc85eb5i6ie",
       "name": "ZX",
       "slug": "zx",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37243,
+      "documentId": "fpxqxeqvotajxsqtr8a2xdwx",
+      "name": "ZX",
+      "slug": "citroen-zx",
       "vehicle_type": "car",
       "isActive": true
     },

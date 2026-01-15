@@ -7,7 +7,48 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:17.061Z",
-  "models": []
+  "modelCount": 5,
+  "exportDate": "2026-01-07T09:17:53.899Z",
+  "models": [
+    {
+      "id": 28266,
+      "documentId": "dtxwo0pdv4r9zkzqpcqn3f5x",
+      "name": "1300",
+      "slug": "zastava-1300",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28316,
+      "documentId": "uid49h73nskmctfw3zccan3g",
+      "name": "16/60",
+      "slug": "16-60",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28328,
+      "documentId": "tu1sjq22vfe6o0r1eb9xqw83",
+      "name": "18/85",
+      "slug": "18-85",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32562,
+      "documentId": "ksc7us6j86nu2fgpr622al8r",
+      "name": "HORNET",
+      "slug": "hornet",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35242,
+      "documentId": "e51wfoxq2fke8rky6x4a779y",
+      "name": "SIX",
+      "slug": "six",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

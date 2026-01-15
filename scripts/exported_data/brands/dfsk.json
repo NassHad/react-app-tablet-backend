@@ -7,7 +7,56 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.823Z",
-  "models": []
+  "modelCount": 6,
+  "exportDate": "2026-01-07T09:17:53.797Z",
+  "models": [
+    {
+      "id": 29988,
+      "documentId": "xm2k143klyxwmfha1tqcb53j",
+      "name": "C32 Platform/Chassis",
+      "slug": "c32-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31265,
+      "documentId": "c23fsfq0zovh160u9ryygu97",
+      "name": "EC35 Van",
+      "slug": "ec35-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32832,
+      "documentId": "zyjwd06s8aemkac2q7ovvut9",
+      "name": "K SERIES Platform/Chassis",
+      "slug": "k-series-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32833,
+      "documentId": "fwwk9co0h6la5p7csvxf5ev0",
+      "name": "K SERIES Van",
+      "slug": "k-series-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36347,
+      "documentId": "lqr82sc7ch5uq8anm33m6rmg",
+      "name": "V SERIES Platform/Chassis",
+      "slug": "v-series-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36348,
+      "documentId": "x6z8a18t2nwwqgydh4k3cdzh",
+      "name": "V SERIES Van",
+      "slug": "v-series-van",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

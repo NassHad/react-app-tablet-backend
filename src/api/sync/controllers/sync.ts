@@ -55,6 +55,7 @@ async function getSyncData() {
       lightsPositions,
       lightsPositionData,
       lightData,
+      wipersData,
       compatibilities,
       specificQuestions,
       motorisations
@@ -78,7 +79,12 @@ async function getSyncData() {
         sort: 'name:asc'
       }).catch(() => []),
       strapi.entityService.findMany('api::model.model', {
-        populate: '*',
+        status: 'published',
+        populate: {
+          brand: {
+            fields: ['id', 'name', 'slug', 'vehicle_type', 'isActive']
+          }
+        },
         sort: 'name:asc'
       }).catch(() => []),
       strapi.entityService.findMany('api::battery-brand.battery-brand', {
@@ -90,11 +96,16 @@ async function getSyncData() {
         sort: 'name:asc'
       }).catch(() => []),
       strapi.entityService.findMany('api::battery-product.battery-product', {
-        populate: '*',
+        populate: {
+          img: true
+        },
         sort: 'name:asc'
       }).catch(() => []),
       strapi.entityService.findMany('api::battery-data.battery-data', {
-        populate: '*',
+        populate: {
+          img: true,
+          brandImg: true
+        },
         sort: 'id:asc'
       }).catch(() => []),
       strapi.entityService.findMany('api::lights-product.lights-product', {
@@ -110,8 +121,18 @@ async function getSyncData() {
         sort: 'id:asc'
       }).catch(() => []),
       strapi.entityService.findMany('api::light-data.light-data', {
-        populate: '*',
+        populate: {
+          img: true,
+          brandImg: true
+        },
         sort: 'ref:asc'
+      }).catch(() => []),
+      strapi.entityService.findMany('api::wiper-data.wiper-data', {
+        populate: {
+          img: true,
+          brandImg: true
+        },
+        sort: 'id:asc'
       }).catch(() => []),
       strapi.entityService.findMany('api::compatibility.compatibility', {
         populate: '*',
@@ -127,13 +148,78 @@ async function getSyncData() {
       }).catch(() => [])
     ]);
 
+    // Enrichir les models avec leurs brands si la relation n'est pas populée
+    const brandsMap = new Map();
+    const brandsBySlug = new Map();
+    brands.forEach(brand => {
+      brandsMap.set(brand.id, brand);
+      if (brand.slug) {
+        brandsBySlug.set(brand.slug, brand);
+      }
+    });
+
+    const enrichedModels = models.map(model => {
+      // Si le model a déjà un brand complètement populé (avec slug), on le garde
+      if (model.brand && typeof model.brand === 'object' && model.brand.slug) {
+        return model;
+      }
+
+      // Sinon, essayer de trouver le brand par ID
+      let brandId = null;
+      if (model.brand) {
+        // Si brand est un objet avec juste un id (non populé)
+        if (typeof model.brand === 'object' && model.brand.id) {
+          brandId = model.brand.id;
+        }
+        // Si brand est juste un nombre (ID direct)
+        else if (typeof model.brand === 'number') {
+          brandId = model.brand;
+        }
+      }
+
+      // Si on a trouvé un brandId, essayer de le matcher avec la map
+      if (brandId && brandsMap.has(brandId)) {
+        const brandData = brandsMap.get(brandId);
+        model.brand = {
+          id: brandData.id,
+          name: brandData.name,
+          slug: brandData.slug,
+          vehicle_type: brandData.vehicle_type,
+          isActive: brandData.isActive
+        };
+        return model;
+      }
+
+      // Dernier recours: essayer d'inférer le brand depuis le slug du model
+      // Ex: "citroen-zx" -> brand slug "citroen"
+      if (!model.brand && model.slug) {
+        const slugParts = model.slug.split('-');
+        if (slugParts.length > 0) {
+          const possibleBrandSlug = slugParts[0];
+          const inferredBrand = brandsBySlug.get(possibleBrandSlug);
+          if (inferredBrand) {
+            model.brand = {
+              id: inferredBrand.id,
+              name: inferredBrand.name,
+              slug: inferredBrand.slug,
+              vehicle_type: inferredBrand.vehicle_type,
+              isActive: inferredBrand.isActive
+            };
+            return model;
+          }
+        }
+      }
+
+      return model;
+    });
+
     return {
       categories,
       products,
       vehicles,
       vehicleTypes,
       brands,
-      models,
+      models: enrichedModels,
       batteryBrands,
       batteryModels,
       batteryProducts,
@@ -142,6 +228,7 @@ async function getSyncData() {
       lightsPositions,
       lightsPositionData,
       lightData,
+      wipersData,
       compatibilities,
       specificQuestions,
       motorisations

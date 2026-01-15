@@ -7,7 +7,16 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.876Z",
-  "models": []
+  "modelCount": 1,
+  "exportDate": "2026-01-07T09:17:53.826Z",
+  "models": [
+    {
+      "id": 37368,
+      "documentId": "c0wj95xupgdd5soimtrottg4",
+      "name": "iEV6S",
+      "slug": "iev6s",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

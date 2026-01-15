@@ -2,40 +2,8 @@
   "vehicleType": "car",
   "batchNumber": 2,
   "totalInBatch": 1000,
-  "exportDate": "2026-01-06T19:34:17.137Z",
+  "exportDate": "2026-01-07T08:08:51.476Z",
   "models": [
-    {
-      "id": 30402,
-      "documentId": "nvvcrxwea1hh8r7oxwbcstrs",
-      "name": "CITY - JAZZ",
-      "slug": "city---jazz",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 30403,
-      "documentId": "v85zjjwk3tlakodnmg12gr2x",
-      "name": "CITY I Hatchback",
-      "slug": "city-i-hatchback",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 30404,
-      "documentId": "eyp7xgqkdlphd8ggj5f8cay1",
-      "name": "CITY III Saloon",
-      "slug": "city-iii-saloon",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 30405,
-      "documentId": "pvjx6bptbcc8ko851m1o8jx4",
-      "name": "CITY IV Saloon",
-      "slug": "city-iv-saloon",
-      "vehicle_type": "car",
-      "isActive": true
-    },
     {
       "id": 30406,
       "documentId": "fpfmq5l0wh5arkukjtqi8vjf",
@@ -4445,14 +4413,6 @@
       "isActive": true
     },
     {
-      "id": 31890,
-      "documentId": "a2rvt8smqrzhh0pkw3t9ef4u",
-      "name": "FULLBACK Pickup",
-      "slug": "fullback-pickup",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
       "id": 31892,
       "documentId": "j5fsb944cnizpoqssciox2cy",
       "name": "FULVIA Berlina",
@@ -4717,14 +4677,6 @@
       "isActive": true
     },
     {
-      "id": 32080,
-      "documentId": "y58nouivegexqk0zpj9ojlrq",
-      "name": "GALANT IX Saloon",
-      "slug": "galant-ix-saloon",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
       "id": 32082,
       "documentId": "puch6atgs1k5h5dt9jvq9pq5",
       "name": "GALANT V",
@@ -4745,22 +4697,6 @@
       "documentId": "cy9urramfzqzcgr99dkmeipc",
       "name": "GALANT VI Saloon",
       "slug": "galant-vi-saloon",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 32085,
-      "documentId": "p7ff8z7j8d0bi90i4cj5kv0b",
-      "name": "GALANT VII",
-      "slug": "galant-vii",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 32087,
-      "documentId": "dkfvsa19z0cp3y32ixd3icva",
-      "name": "GALANT VII Saloon",
-      "slug": "galant-vii-saloon",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -7589,30 +7525,6 @@
       "isActive": true
     },
     {
-      "id": 32982,
-      "documentId": "mh4c3ghelteeozxapdzzgyeh",
-      "name": "L 300 III Bus",
-      "slug": "l-300-iii-bus",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 32985,
-      "documentId": "rrzfys1187un5o366ut7bv05",
-      "name": "L 300 III Van",
-      "slug": "l-300-iii-van",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 32989,
-      "documentId": "ccu2nc3he3f4mau88y75vls6",
-      "name": "L200 / TRITON",
-      "slug": "l200-triton",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
       "id": 32991,
       "documentId": "c2i7v9gb4x9ka029mduq1xgd",
       "name": "L200 / TRITON Pickup",
@@ -7633,22 +7545,6 @@
       "documentId": "fsopkgkef5kuknijwq3cxdim",
       "name": "L300",
       "slug": "l300",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 32997,
-      "documentId": "aqnvvz2qvhkfdoz7dcdxo76i",
-      "name": "L400 Bus",
-      "slug": "l400-bus",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 32999,
-      "documentId": "vaz97m8y22kvyj6p0ccgb52g",
-      "name": "L400 Van",
-      "slug": "l400-van",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -7769,22 +7665,6 @@
       "documentId": "bh665pklacmm39x4zr8q59l1",
       "name": "LANCER III Station Wagon",
       "slug": "lancer-iii-station-wagon",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 33029,
-      "documentId": "gsrftf8bquwulkv019nykzpj",
-      "name": "LANCER V",
-      "slug": "lancer-v",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 33034,
-      "documentId": "vr0s6x0pxl7j158dx997o60e",
-      "name": "LANCER VII Estate",
-      "slug": "lancer-vii-estate",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -8001,6 +7881,126 @@
       "documentId": "m5dma0jeuqq8xmhfj3ztdq7y",
       "name": "LEGEND",
       "slug": "legend",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33098,
+      "documentId": "gidviad5cis6j35cv0maj2ck",
+      "name": "LEGEND Coupe",
+      "slug": "legend-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33099,
+      "documentId": "mcyw63s9fm7titkw1svdvdk0",
+      "name": "LEGEND I",
+      "slug": "legend-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33100,
+      "documentId": "saemkwvqho3ckwjqj8wt9q16",
+      "name": "LEGEND I Coupe",
+      "slug": "legend-i-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33105,
+      "documentId": "bnr58ew7etmzeh6efkt2geao",
+      "name": "LEMANS",
+      "slug": "lemans",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33106,
+      "documentId": "d7ydmdvb1ez23v773ywikm9q",
+      "name": "LEMANS Estate",
+      "slug": "lemans-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33107,
+      "documentId": "mc7d52dsvxe9q43m5amnjscy",
+      "name": "LEMANS Saloon",
+      "slug": "lemans-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33110,
+      "documentId": "e6rxphb9so4xdszu96pyvoyk",
+      "name": "LEON I",
+      "slug": "leon-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33111,
+      "documentId": "j2imxzatbfdwya4vq2tx91iq",
+      "name": "LEON II",
+      "slug": "leon-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33112,
+      "documentId": "kzz6ic3p5r7slrkjucg54qf3",
+      "name": "LEON III",
+      "slug": "leon-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33113,
+      "documentId": "gg0c3gerigjpwp62o7b3e7al",
+      "name": "LEON IV",
+      "slug": "leon-iv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33118,
+      "documentId": "trywp9mjg3fpi4urkt5eddid",
+      "name": "LEONE",
+      "slug": "leone",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33119,
+      "documentId": "xuujfakr6h0e2djswglhyhjn",
+      "name": "LEONE / LOYALE Coupe",
+      "slug": "leone-loyale-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33120,
+      "documentId": "agct0r8blv325t9ukg5etajb",
+      "name": "LEONE Hatchback",
+      "slug": "leone-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33121,
+      "documentId": "omxszow5ztfw7si4s0rm4jsj",
+      "name": "LEONE II",
+      "slug": "leone-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33122,
+      "documentId": "n752epgjyt9ohvjyfrn6ey1w",
+      "name": "LEONE II Estate",
+      "slug": "leone-ii-estate",
       "vehicle_type": "car",
       "isActive": true
     }

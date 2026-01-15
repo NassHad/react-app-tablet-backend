@@ -7,8 +7,8 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 126,
-  "exportDate": "2026-01-06T19:34:16.933Z",
+  "modelCount": 249,
+  "exportDate": "2026-01-07T09:17:53.857Z",
   "models": [
     {
       "id": 28160,
@@ -35,10 +35,50 @@
       "isActive": true
     },
     {
+      "id": 28396,
+      "documentId": "dqn7oxje9zewnc8zjo0lgf6o",
+      "name": "200SX",
+      "slug": "200sx",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 28397,
       "documentId": "zwau2wkgt0cy16rb43p9ioou",
       "name": "200SX Coupe",
       "slug": "200sx-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28461,
+      "documentId": "p5jvkxdc03ml7opt5u0cbmtw",
+      "name": "240SX",
+      "slug": "240sx",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28462,
+      "documentId": "v22p105bmz4nyyws3eujkq0j",
+      "name": "240Z",
+      "slug": "240z",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28487,
+      "documentId": "c3pbd8cx1gh0gubfi4twu13e",
+      "name": "260Z",
+      "slug": "260z",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28493,
+      "documentId": "lmi9vkagfjxn9ke337kcrdpv",
+      "name": "280ZX,ZXT",
+      "slug": "280zx-zxt",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -63,6 +103,14 @@
       "documentId": "ta11025wux3co0y29s4sn2nn",
       "name": "300ZX",
       "slug": "300zx",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28546,
+      "documentId": "b3cnjszs6bu99dqs6u8jrwtx",
+      "name": "300ZX Coupe",
+      "slug": "300zx-coupe",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -99,10 +147,26 @@
       "isActive": true
     },
     {
+      "id": 28651,
+      "documentId": "stkfd13alzayne7h4lcuhrfw",
+      "name": "370Z Coupe",
+      "slug": "370z-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 28652,
       "documentId": "d1nqtp9jga6ezsqeim125xyy",
       "name": "370Z Roadster",
       "slug": "370z-roadster",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29259,
+      "documentId": "w7si1upn6qnndr7957szzhqc",
+      "name": "ALMERA",
+      "slug": "nissan-almera",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -155,10 +219,34 @@
       "isActive": true
     },
     {
+      "id": 29278,
+      "documentId": "vpurgkf050hi1y1k5i7swlnw",
+      "name": "ALTIMA",
+      "slug": "altima",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29279,
+      "documentId": "bblkdzwmhalzi1t4mr4m25no",
+      "name": "ALTIMA Coupe",
+      "slug": "altima-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 29359,
       "documentId": "w6tfi0f9db5kg4d7cbmp493i",
       "name": "ARIYA",
       "slug": "ariya",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29538,
+      "documentId": "gq364gbrggav9hgnj6mmujy0",
+      "name": "AVENIR",
+      "slug": "avenir",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -179,6 +267,62 @@
       "isActive": true
     },
     {
+      "id": 29738,
+      "documentId": "a6sh87ito6ab191otm6d672t",
+      "name": "BLUEBIRD Hatchback",
+      "slug": "bluebird-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29740,
+      "documentId": "u51jkeh5olj24ydvefz7yguk",
+      "name": "BLUEBIRD SYLPHY / SYLPHY III",
+      "slug": "bluebird-sylphy-sylphy-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29741,
+      "documentId": "ysqzgtngmycs1g41cr3mtdb7",
+      "name": "BLUEBIRD SYLPHY I",
+      "slug": "bluebird-sylphy-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29742,
+      "documentId": "y2ku9gteceppsnz8r4wq7gli",
+      "name": "BLUEBIRD SYLPHY II",
+      "slug": "bluebird-sylphy-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29743,
+      "documentId": "np66hk8c6qf8axrs1xghn2gp",
+      "name": "BLUEBIRD Saloon",
+      "slug": "bluebird-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29744,
+      "documentId": "ncwtrfqk7gu6hzr9bmbg933f",
+      "name": "BLUEBIRD Station Wagon",
+      "slug": "bluebird-station-wagon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29745,
+      "documentId": "os4h6oskhzre5fxivdp0d10l",
+      "name": "BLUEBIRD Traveller",
+      "slug": "bluebird-traveller",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 29864,
       "documentId": "vyjv53gmu2oa363cte7yavpn",
       "name": "Bluebird",
@@ -191,6 +335,126 @@
       "documentId": "rny8e0apsi6wt2dl5ugp7byp",
       "name": "Bluebird Coupe",
       "slug": "bluebird-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30059,
+      "documentId": "js20vonmwqwxqtaalskd49ze",
+      "name": "CABSTAR",
+      "slug": "cabstar",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30060,
+      "documentId": "tq48ppjtnpuh91ajz6o0cona",
+      "name": "CABSTAR E",
+      "slug": "cabstar-e",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30122,
+      "documentId": "hur2qx6byi38uvqeelwc4vxc",
+      "name": "CARAVAN Bus",
+      "slug": "caravan-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30123,
+      "documentId": "kjdayn8o2lgekuaojzc3joce",
+      "name": "CARAVAN VAN",
+      "slug": "caravan-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30303,
+      "documentId": "u6f2613u6yvplgaqwh854vlj",
+      "name": "CEDRIC",
+      "slug": "cedric",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30304,
+      "documentId": "bi94s1qmbkd78ufwhiosrx1j",
+      "name": "CEDRIC Hardtop",
+      "slug": "cedric-hardtop",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30305,
+      "documentId": "nptl1dj7jmdqa9ly13tegnfh",
+      "name": "CEDRIC X",
+      "slug": "cedric-x",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30316,
+      "documentId": "b6fnu7vp3s78u86nb3yotc0a",
+      "name": "CEFIRO II Saloon",
+      "slug": "cefiro-ii-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30318,
+      "documentId": "hod57xo43bm5z7ynfthn2rhb",
+      "name": "CEFIRO III Saloon",
+      "slug": "cefiro-iii-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30375,
+      "documentId": "xs9vsu9xrjp3f1pjlam8h3gb",
+      "name": "CHERRY II Coupe",
+      "slug": "cherry-ii-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30376,
+      "documentId": "vxtderhxprouuiy7bzn23c56",
+      "name": "CHERRY II Hatchback",
+      "slug": "cherry-ii-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30377,
+      "documentId": "txo0nc4jpm5xzzteluh0ukc0",
+      "name": "CHERRY II Traveller",
+      "slug": "cherry-ii-traveller",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30378,
+      "documentId": "l2luvlimyby8qfdi34p3qxgg",
+      "name": "CHERRY III",
+      "slug": "cherry-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30379,
+      "documentId": "qmrraq6rqiw75up3rm1p5dc3",
+      "name": "CHERRYI",
+      "slug": "cherryi",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30388,
+      "documentId": "hdms9wprk1nrsb6nljjiwvbc",
+      "name": "CIMA",
+      "slug": "cima",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -211,10 +475,114 @@
       "isActive": true
     },
     {
+      "id": 30940,
+      "documentId": "i5r9zr6zei5qvjfswl2wumb0",
+      "name": "DATSUN 100A",
+      "slug": "datsun-100a",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30941,
+      "documentId": "sxn40g7o1guicc02g4gotaqy",
+      "name": "DATSUN 100A Coupe",
+      "slug": "datsun-100a-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30942,
+      "documentId": "rxsavvezp6zbjjboyxdcyiot",
+      "name": "DATSUN 100A Estate",
+      "slug": "datsun-100a-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30943,
+      "documentId": "j8olwhm9h8qd6jj532zow26t",
+      "name": "DATSUN 100A Saloon",
+      "slug": "datsun-100a-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30944,
+      "documentId": "jg0j0y9mson9hv2as655cp45",
+      "name": "DATSUN 120 Saloon",
+      "slug": "datsun-120-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30945,
+      "documentId": "alzzfj39d6nn02kqag5pwv15",
+      "name": "DATSUN 120Y Coupe",
+      "slug": "datsun-120y-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30946,
+      "documentId": "e835hmw7iss79zjzrbcetz7x",
+      "name": "DATSUN 140J",
+      "slug": "datsun-140j",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30947,
+      "documentId": "sn3cvvudswe1jyyls08tsbh1",
+      "name": "DATSUN 140Y Estate",
+      "slug": "datsun-140y-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30948,
+      "documentId": "yxkkc20j2wdkufwakec609bk",
+      "name": "DATSUN 160J",
+      "slug": "datsun-160j",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30949,
+      "documentId": "pkyfbldb1yneuz07j35nm5fb",
+      "name": "DATSUN 180B",
+      "slug": "datsun-180b",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30950,
+      "documentId": "iqpw1gcbv0t4e07zpz21dh83",
+      "name": "DATSUN 240 Coupe",
+      "slug": "datsun-240-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31315,
+      "documentId": "xb15q7fhib8ovv5c8d4orusb",
+      "name": "ELGRAND",
+      "slug": "elgrand",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 31500,
       "documentId": "os6dfbhh2zy7k7mjj1wv8bqw",
       "name": "Ebro Furgon F",
       "slug": "ebro-furgon-f",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31671,
+      "documentId": "v9a9x1qe5zd361dommxx5z72",
+      "name": "FIGARO Coupe",
+      "slug": "figaro-coupe",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -231,6 +599,14 @@
       "documentId": "jih01mxeti83e4m9n3tp7tsb",
       "name": "GT-R",
       "slug": "gt-r",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32662,
+      "documentId": "wcfep10aq70uk6bo67evo3f8",
+      "name": "INFINITI Q45",
+      "slug": "infiniti-q45",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -275,6 +651,14 @@
       "isActive": true
     },
     {
+      "id": 32777,
+      "documentId": "esjxoahwfob0zu71eiccn1cu",
+      "name": "JUKE Van",
+      "slug": "juke-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 32919,
       "documentId": "fmjjtfc4mhpmhc2uo29q3t3n",
       "name": "KICKS",
@@ -307,6 +691,14 @@
       "isActive": true
     },
     {
+      "id": 33068,
+      "documentId": "tu1mkwge85a7d2lcch9q10jo",
+      "name": "LAUREL",
+      "slug": "laurel",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 33079,
       "documentId": "jzspxce1xgrihlxq942vhqqf",
       "name": "LEAF",
@@ -323,6 +715,14 @@
       "isActive": true
     },
     {
+      "id": 33402,
+      "documentId": "upoxhmi4f2wn7srbp7mphp0s",
+      "name": "MAXIMA / MAXIMA QX IV Station Wagon",
+      "slug": "maxima-maxima-qx-iv-station-wagon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 33403,
       "documentId": "tlcire54hrzd98issy9k926z",
       "name": "MAXIMA / MAXIMA QX V",
@@ -331,10 +731,58 @@
       "isActive": true
     },
     {
+      "id": 33404,
+      "documentId": "y117ed4qme6wgf6jgbdwt4ne",
+      "name": "MAXIMA II",
+      "slug": "maxima-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33405,
+      "documentId": "o7vxg21jflgahgzr6swdp6h6",
+      "name": "MAXIMA III",
+      "slug": "maxima-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33406,
+      "documentId": "z50wo6hn0gneiabwddifb4ce",
+      "name": "MAXIMA VI",
+      "slug": "maxima-vi",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33407,
+      "documentId": "ta1ursvrf4ziu2a98ag0o4e9",
+      "name": "MAXIMA VII",
+      "slug": "maxima-vii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33408,
+      "documentId": "ww5l8sslha0g8sj13i9zaean",
+      "name": "MAXIMA VIII",
+      "slug": "maxima-viii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 33515,
       "documentId": "pi29hzfubq2407g4rqko415e",
       "name": "MICRA C+C III",
       "slug": "micra-cc-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33517,
+      "documentId": "y71x92f8v7557mnl49wx5pai",
+      "name": "MICRA I",
+      "slug": "micra-i",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -387,6 +835,14 @@
       "isActive": true
     },
     {
+      "id": 33734,
+      "documentId": "mpgh2zeqhxcz8jgdkdlsxtst",
+      "name": "MURANO II VAN",
+      "slug": "murano-ii-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 33735,
       "documentId": "rjelg8yj04gy0tsk41h9cuwn",
       "name": "MURANO III",
@@ -427,6 +883,22 @@
       "isActive": true
     },
     {
+      "id": 33908,
+      "documentId": "f2ui2cyjrh0rls1wccg2sxi6",
+      "name": "NAVARA NP300 Pickup",
+      "slug": "navara-np300-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33909,
+      "documentId": "ya8pt69aj5a4cizjnikns5kq",
+      "name": "NAVARA NP300 Platform/Chassis",
+      "slug": "navara-np300-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 33910,
       "documentId": "f0bjzg0i7h5fz4jk22mmmvkr",
       "name": "NAVARA Platform/Chassis",
@@ -439,6 +911,14 @@
       "documentId": "pe11c2fqx0ntuf7jp94nijph",
       "name": "NOTE",
       "slug": "note",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33953,
+      "documentId": "z7484j3pz5l3a38fkp3rn7ff",
+      "name": "NOTE VAN",
+      "slug": "note-van",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -515,6 +995,14 @@
       "isActive": true
     },
     {
+      "id": 34007,
+      "documentId": "k6nust92nolzqf54om11plye",
+      "name": "NV 2500 Standard Cargo Van",
+      "slug": "nv-2500-standard-cargo-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 34008,
       "documentId": "ssdk309fa9btke2kds5hl8sj",
       "name": "NV 300",
@@ -579,6 +1067,22 @@
       "isActive": true
     },
     {
+      "id": 34019,
+      "documentId": "mc6or97zk8fkb489roo5gw9c",
+      "name": "NV350 / CARAVAN Bus",
+      "slug": "nv350-caravan-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34020,
+      "documentId": "weitmq6l8g1ci2n276i87pkh",
+      "name": "NV350 Van",
+      "slug": "nv350-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 34021,
       "documentId": "cvrbw7vyqa6psowr4q42ymyl",
       "name": "NV400 Bus",
@@ -619,6 +1123,14 @@
       "isActive": true
     },
     {
+      "id": 34236,
+      "documentId": "uz5sg29d1ufr71ot416gxa7c",
+      "name": "PATHFINDER I",
+      "slug": "pathfinder-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 34237,
       "documentId": "amqpjhw27dp569h2z90ds9tj",
       "name": "PATHFINDER II",
@@ -631,6 +1143,14 @@
       "documentId": "q1a42nfppyuksngau2cb953r",
       "name": "PATHFINDER III",
       "slug": "pathfinder-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34239,
+      "documentId": "dgum5n7cydb1xtuq9d5natet",
+      "name": "PATHFINDER III VAN",
+      "slug": "pathfinder-iii-van",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -651,10 +1171,66 @@
       "isActive": true
     },
     {
+      "id": 34245,
+      "documentId": "w3mgxr1taaoafzgm3hmqeexl",
+      "name": "PATROL GR V Pickup",
+      "slug": "patrol-gr-v-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34246,
+      "documentId": "h0bomhmr4kkzn7hfqhcwiq2o",
+      "name": "PATROL GR V Platform/Chassis",
+      "slug": "patrol-gr-v-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 34247,
       "documentId": "r1f2ih1ljycgaf3fi0zsy6zh",
       "name": "PATROL GR V Wagon",
       "slug": "patrol-gr-v-wagon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34248,
+      "documentId": "bjndcnjfmo5900uwj1ymkk4r",
+      "name": "PATROL III/1 Hardtop",
+      "slug": "patrol-iii-1-hardtop",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34249,
+      "documentId": "i8u4lsf1jyea738f0ge7rveu",
+      "name": "PATROL III/1 Platform/Chassis",
+      "slug": "patrol-iii-1-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34250,
+      "documentId": "t2tv73qpwk01mrko38tzl8av",
+      "name": "PATROL III/1 Station Wagon",
+      "slug": "patrol-iii-1-station-wagon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34251,
+      "documentId": "q77ldaierpuvrola926b99a0",
+      "name": "PATROL III/2 Hardtop",
+      "slug": "patrol-iii-2-hardtop",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34252,
+      "documentId": "e4tkjwyjjw5mxxx9te0bfgbg",
+      "name": "PATROL III/2 Station Wagon",
+      "slug": "patrol-iii-2-station-wagon",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -675,10 +1251,26 @@
       "isActive": true
     },
     {
+      "id": 34282,
+      "documentId": "yw5rrbk7bt7om76nxtsx9uiu",
+      "name": "PICK UP",
+      "slug": "dacia-pick-up",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 34291,
       "documentId": "xebmhkaud1jgwrk98na7i14t",
       "name": "PIXO",
       "slug": "pixo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34353,
+      "documentId": "uet60wvv8g3dvkpcp6g47xyc",
+      "name": "PRAIRIE LIBERTY",
+      "slug": "prairie-liberty",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -695,6 +1287,14 @@
       "documentId": "dswmds55pyjc2oduxad3y85p",
       "name": "PRIMASTAR Bus",
       "slug": "primastar-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34378,
+      "documentId": "ffe0p0x6i2msc6jatllgois8",
+      "name": "PRIMASTAR Platform/Chassis",
+      "slug": "primastar-platform-chassis",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -795,10 +1395,50 @@
       "isActive": true
     },
     {
+      "id": 34562,
+      "documentId": "zjiyhy6elyzo9wbw0egmv06a",
+      "name": "QASHQAI +2",
+      "slug": "qashqai-2",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34563,
+      "documentId": "gzj90enxx2jocygrzyvagopd",
+      "name": "QASHQAI +2 VAN",
+      "slug": "qashqai-2-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 34565,
       "documentId": "eyk0lrdku3adxfm9k9of30do",
       "name": "QASHQAI / QASHQAI +2 I",
       "slug": "qashqai-qashqai-2-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34566,
+      "documentId": "np1253342v0rz665t9f67ppn",
+      "name": "QASHQAI I",
+      "slug": "qashqai-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34567,
+      "documentId": "hpk0k871svijmpflq6yis528",
+      "name": "QASHQAI I VAN",
+      "slug": "qashqai-i-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34568,
+      "documentId": "idh8crcwwsn5ov0ln124oidt",
+      "name": "QASHQAI II",
+      "slug": "qashqai-ii",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -811,10 +1451,34 @@
       "isActive": true
     },
     {
+      "id": 34570,
+      "documentId": "bouw1whr0vbnrsodkcnx36bj",
+      "name": "QASHQAI II VAN",
+      "slug": "qashqai-ii-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 34571,
       "documentId": "xloh15i7ayp0trej2ouu0v7s",
       "name": "QASHQAI III",
       "slug": "qashqai-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34588,
+      "documentId": "ekzjdb3ibo2or2l1hs0pn2v0",
+      "name": "QUEST",
+      "slug": "quest",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34589,
+      "documentId": "cd9x924irz4djiljpguk85wb",
+      "name": "QUEST Mini Passenger Van",
+      "slug": "quest-mini-passenger-van",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -827,10 +1491,170 @@
       "isActive": true
     },
     {
+      "id": 34793,
+      "documentId": "yrczc8n8285qfp4ieyu3tixn",
+      "name": "ROGUE",
+      "slug": "rogue",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35116,
+      "documentId": "acoyi22w6hv6zzrmdk1hkdkj",
+      "name": "SENTRA V",
+      "slug": "sentra-v",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35117,
+      "documentId": "z3hpz4aj2a34ojx8a0191ze5",
+      "name": "SENTRA VI",
+      "slug": "sentra-vi",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35118,
+      "documentId": "zlsan29mkh39k1jzkvsrh03n",
+      "name": "SENTRA VII",
+      "slug": "sentra-vii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 35124,
       "documentId": "rygzuwbnlviqlqy19giaptrv",
       "name": "SERENA",
       "slug": "serena",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35125,
+      "documentId": "z9ld2ps2ddjgmzbyvo5qqw4q",
+      "name": "SERENA VAN",
+      "slug": "serena-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35222,
+      "documentId": "ma5wku1yoyrdsj2j98429xpz",
+      "name": "SILVIA",
+      "slug": "silvia",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35223,
+      "documentId": "umorbxz3o4c3326flnek8317",
+      "name": "SILVIA Coupe",
+      "slug": "silvia-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35253,
+      "documentId": "z0fxiwcakxx1eeh1m4grrrod",
+      "name": "SKYLINE Coupe",
+      "slug": "skyline-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35468,
+      "documentId": "v92nzqn2rimn7velcxzzuwl0",
+      "name": "STAGEA",
+      "slug": "stagea",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35469,
+      "documentId": "dy1ifjn171b40rjq80rfe9qn",
+      "name": "STANZA",
+      "slug": "stanza",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35470,
+      "documentId": "txistda3raz54z4g1arh6ob0",
+      "name": "STANZA Hatchback",
+      "slug": "stanza-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35471,
+      "documentId": "wou4ohtem89cxhkgbhyeenl0",
+      "name": "STANZA Saloon",
+      "slug": "stanza-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35515,
+      "documentId": "sw84odxajvxmu3zy77yszwhr",
+      "name": "SUNNY Estate Van",
+      "slug": "sunny-estate-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35516,
+      "documentId": "gnmcfyi1shjmligmm4cxt1l6",
+      "name": "SUNNY I",
+      "slug": "sunny-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35517,
+      "documentId": "nhgjqzx07ytrvv7fxrimq151",
+      "name": "SUNNY I Coupe",
+      "slug": "sunny-i-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35518,
+      "documentId": "ywc54x0z6k1k9dnur5vzoy7k",
+      "name": "SUNNY I Traveller",
+      "slug": "sunny-i-traveller",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35519,
+      "documentId": "nrd9fud0bwtdbnsrtxmzgq0q",
+      "name": "SUNNY II",
+      "slug": "sunny-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35520,
+      "documentId": "k7rgaomsvzommjz1tcpc80h5",
+      "name": "SUNNY II Coupe",
+      "slug": "sunny-ii-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35521,
+      "documentId": "texkxxkhl49ae0ky42o80n17",
+      "name": "SUNNY II Hatchback",
+      "slug": "sunny-ii-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35522,
+      "documentId": "s01owybwdurr6zyso0z8azeg",
+      "name": "SUNNY II Traveller",
+      "slug": "sunny-ii-traveller",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -875,6 +1699,22 @@
       "isActive": true
     },
     {
+      "id": 35528,
+      "documentId": "fnqeemtucsw80pzi8mwgqeug",
+      "name": "SUNNY IV Saloon",
+      "slug": "sunny-iv-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35529,
+      "documentId": "jxpx96v4yabtl2l1dqorbq1r",
+      "name": "SUNNY Traveller",
+      "slug": "sunny-traveller",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 35662,
       "documentId": "kbh0ah5r0dwqy70aswlcpwbc",
       "name": "Skyline",
@@ -907,10 +1747,26 @@
       "isActive": true
     },
     {
+      "id": 35897,
+      "documentId": "rb6t6sbnl3zho84vb6l329zj",
+      "name": "TEANA III",
+      "slug": "teana-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 35918,
       "documentId": "wt7aa83o00ay50wgqidzlz6q",
       "name": "TERRANO",
       "slug": "terrano",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35919,
+      "documentId": "javkh0c67q3lq0scb45s7vou",
+      "name": "TERRANO I",
+      "slug": "terrano-i",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -923,10 +1779,82 @@
       "isActive": true
     },
     {
+      "id": 35921,
+      "documentId": "ybuh5aoxp96s0fsykaz0m0vd",
+      "name": "TERRANO II Van",
+      "slug": "terrano-ii-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35922,
+      "documentId": "mkdvsirzp9sbv6jpvhqqd7o6",
+      "name": "TERRANO REGULUS",
+      "slug": "terrano-regulus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 35963,
       "documentId": "ltedl9rad61pqig43ne4zehj",
       "name": "TIIDA Saloon",
       "slug": "tiida-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35971,
+      "documentId": "i554qevitvshgp31jz4xdk2y",
+      "name": "TITAN",
+      "slug": "titan",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36026,
+      "documentId": "lo98z2yy5bor9npp6j09yihi",
+      "name": "TOWNSTAR Box Body/MPV",
+      "slug": "townstar-box-body-mpv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36027,
+      "documentId": "flj04lie7dnr3hnxxvmmjy68",
+      "name": "TOWNSTAR EVALIA MPV",
+      "slug": "townstar-evalia-mpv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36028,
+      "documentId": "w92i9ntfzv3vapzf69d4glen",
+      "name": "TOWNSTAR MPV",
+      "slug": "townstar-mpv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36059,
+      "documentId": "flqeevvbg9jgckpkaaciay9k",
+      "name": "TRADE Bus",
+      "slug": "trade-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36060,
+      "documentId": "chsnfkdoxx00tu5vw9ugilqu",
+      "name": "TRADE Platform/Chassis",
+      "slug": "trade-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36061,
+      "documentId": "dtqlkxrroskpsc3ywyjr2lnl",
+      "name": "TRADE Van",
+      "slug": "trade-van",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -955,10 +1883,26 @@
       "isActive": true
     },
     {
+      "id": 36329,
+      "documentId": "e2cbz7ggfziskggkh8sz11hw",
+      "name": "URVAN Van",
+      "slug": "urvan-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 36337,
       "documentId": "e3pw86rvjhhcrzj9efbei4ej",
       "name": "Urvan",
       "slug": "urvan",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36404,
+      "documentId": "piwkyzexh39p0cabkskos9r2",
+      "name": "VANETTE Bus",
+      "slug": "vanette-bus",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -975,6 +1919,22 @@
       "documentId": "l0tnu5ucfiq2h22zgtmvswgu",
       "name": "VANETTE CARGO Van",
       "slug": "vanette-cargo-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36407,
+      "documentId": "kkxs7nyla4whkkc7qum0zdsm",
+      "name": "VANETTE Van",
+      "slug": "vanette-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36461,
+      "documentId": "mvlg0e62grxaa05o1z9cksc8",
+      "name": "VERSA II",
+      "slug": "versa-ii",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -1015,6 +1975,30 @@
       "documentId": "mmprp1dbx4cy1fjpehmdu624",
       "name": "X-TRAIL III",
       "slug": "x-trail-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36802,
+      "documentId": "t6yu12oeg3vp72gis2h1dsxl",
+      "name": "X-TRAIL IV",
+      "slug": "x-trail-iv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36803,
+      "documentId": "go0lz2x0x17m2728e4gyclcj",
+      "name": "X-TRAIL VAN",
+      "slug": "x-trail-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37016,
+      "documentId": "v5ix10px2ieh45mo06p8588s",
+      "name": "XTERRA",
+      "slug": "xterra",
       "vehicle_type": "car",
       "isActive": true
     }

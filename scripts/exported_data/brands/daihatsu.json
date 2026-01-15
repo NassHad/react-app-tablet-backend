@@ -7,9 +7,33 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 32,
-  "exportDate": "2026-01-06T19:34:16.817Z",
+  "modelCount": 61,
+  "exportDate": "2026-01-07T09:17:53.792Z",
   "models": [
+    {
+      "id": 28162,
+      "documentId": "z6ppmuqlyn79urjngver9k22",
+      "name": "1000 Bus",
+      "slug": "1000-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28164,
+      "documentId": "dm2zscfoaugvtw7lh916dsa2",
+      "name": "1000 Platform/Chassis",
+      "slug": "1000-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28165,
+      "documentId": "czspar4c6rj2w1ban3xehr3u",
+      "name": "1000 Van",
+      "slug": "1000-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
     {
       "id": 29280,
       "documentId": "ewil401ptr9uacriccj6nx2r",
@@ -35,10 +59,42 @@
       "isActive": true
     },
     {
+      "id": 29490,
+      "documentId": "x9wwtu6wi3v2jexumv602w6u",
+      "name": "ATRAI WAGON Bus",
+      "slug": "atrai-wagon-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 29696,
       "documentId": "neayt53xdiq238bor134qmvh",
       "name": "BEGO",
       "slug": "bego",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30360,
+      "documentId": "atfrgr21r67zl7jjtmpcqj5k",
+      "name": "CHARADE I",
+      "slug": "charade-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30361,
+      "documentId": "ffso9akbqiyqvx0dfhtzkewr",
+      "name": "CHARADE II",
+      "slug": "charade-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30362,
+      "documentId": "e6i90lkqm8scu76sxuptknws",
+      "name": "CHARADE II Hatchback Van",
+      "slug": "charade-ii-hatchback-van",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -75,10 +131,42 @@
       "isActive": true
     },
     {
+      "id": 30367,
+      "documentId": "j8bo3fa4mx5wadwvsq1fqfju",
+      "name": "CHARADE VIII",
+      "slug": "charade-viii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30369,
+      "documentId": "x9sa4yexwv3um930vq6c9ps1",
+      "name": "CHARMANT",
+      "slug": "charmant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 30552,
       "documentId": "wv1l4n4aim5iuucpsx3f5qkb",
       "name": "COPEN",
       "slug": "copen",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30737,
+      "documentId": "whxehc8ombxwdrxh3dz7dqbh",
+      "name": "CUORE I",
+      "slug": "cuore-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30738,
+      "documentId": "kabh2biob7jcbpqphsocifeg",
+      "name": "CUORE II",
+      "slug": "cuore-ii",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -139,6 +227,38 @@
       "isActive": true
     },
     {
+      "id": 30978,
+      "documentId": "vnfanj29srk3ytjzafds2es8",
+      "name": "DELTA Bus",
+      "slug": "delta-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30982,
+      "documentId": "jmbyqthc7tiaizf775ekl17g",
+      "name": "DELTA Van",
+      "slug": "delta-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30983,
+      "documentId": "xkdzd6cno4bds7lk2ukbjhhh",
+      "name": "DELTA WIDE Platform/Chassis",
+      "slug": "delta-wide-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30984,
+      "documentId": "sbbi6vhqczuzbfewnhdbodiy",
+      "name": "DELTA WIDE Van",
+      "slug": "delta-wide-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 31208,
       "documentId": "fe8livzr04yenols7y9177xb",
       "name": "Domino",
@@ -147,10 +267,42 @@
       "isActive": true
     },
     {
+      "id": 31497,
+      "documentId": "j4qvy900xwzc8j78bm0ia2qe",
+      "name": "EXTOL Bus",
+      "slug": "extol-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31498,
+      "documentId": "k6if08hn5mry5pe5kmd7koj3",
+      "name": "EXTOL Van",
+      "slug": "extol-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 31543,
       "documentId": "ihtc43dlnpxbgte5az0hyt7t",
       "name": "Extol",
       "slug": "extol",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31641,
+      "documentId": "ea9kwb087hpj65k5kk86blx3",
+      "name": "FEROZA Hard Top",
+      "slug": "feroza-hard-top",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31642,
+      "documentId": "x7yp40q0jlpjja83o5sw60vi",
+      "name": "FEROZA Soft Top",
+      "slug": "feroza-soft-top",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -171,6 +323,14 @@
       "isActive": true
     },
     {
+      "id": 32541,
+      "documentId": "gkp6atj35xsp9snrkhpm0g6a",
+      "name": "HIJET Platform/Chassis",
+      "slug": "hijet-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 32542,
       "documentId": "vbfyiovxeh4u61adiwjgyr77",
       "name": "HIJET Van",
@@ -183,6 +343,14 @@
       "documentId": "il1r1mqj26o5aeo4ox9m5kef",
       "name": "Hijet",
       "slug": "hijet",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33083,
+      "documentId": "z0pb9aaevz2rmwdwyqandvel",
+      "name": "LEEZA",
+      "slug": "leeza",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -211,6 +379,22 @@
       "isActive": true
     },
     {
+      "id": 33906,
+      "documentId": "cpn7ikaafzlezjsgifd22v4o",
+      "name": "NAKED",
+      "slug": "naked",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34099,
+      "documentId": "koar2b5atf22d9d9r3zyyoh8",
+      "name": "OPTI I",
+      "slug": "opti-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 34783,
       "documentId": "mw015paxnzwei9jsybh8ll6q",
       "name": "ROCKY Hard Top",
@@ -223,6 +407,14 @@
       "documentId": "t73mo46q5v86zdcvxdauwbgd",
       "name": "ROCKY Soft Top",
       "slug": "rocky-soft-top",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34844,
+      "documentId": "tq8i8mczat4x6h3fjhwydnmg",
+      "name": "RUGGER",
+      "slug": "rugger",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -243,6 +435,30 @@
       "isActive": true
     },
     {
+      "id": 35349,
+      "documentId": "svn9upc3fi5hfz9b9cutwabq",
+      "name": "SPARCAR Bus",
+      "slug": "sparcar-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35350,
+      "documentId": "wh6rkws6z2lu0k3wmkx2sg36",
+      "name": "SPARCAR Van",
+      "slug": "sparcar-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35814,
+      "documentId": "uhrtyh9ak2tdfruhyaw5to9i",
+      "name": "TAFT",
+      "slug": "taft",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 35911,
       "documentId": "ggy6uzdimvoi3cz6v2ufxquw",
       "name": "TERIOS",
@@ -251,10 +467,26 @@
       "isActive": true
     },
     {
+      "id": 35912,
+      "documentId": "y9912vjud8ed18nc4m87xdpv",
+      "name": "TERIOS KID",
+      "slug": "terios-kid",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 36150,
       "documentId": "j3tklqu6jq4dwxvuyme44wl4",
       "name": "TREVIS",
       "slug": "trevis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36732,
+      "documentId": "loluy0w00413ye8bci4u8d20",
+      "name": "WILDCAT/ROCKY",
+      "slug": "wildcat-rocky",
       "vehicle_type": "car",
       "isActive": true
     },

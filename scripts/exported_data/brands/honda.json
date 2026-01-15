@@ -7,8 +7,8 @@
     "vehicle_type": "car-moto",
     "isActive": true
   },
-  "modelCount": 374,
-  "exportDate": "2026-01-06T19:34:16.865Z",
+  "modelCount": 438,
+  "exportDate": "2026-01-07T09:17:53.817Z",
   "models": [
     {
       "id": 28898,
@@ -19,10 +19,58 @@
       "isActive": true
     },
     {
+      "id": 29166,
+      "documentId": "sfm1le20rtvsy6zacb6irkuf",
+      "name": "ACCORD Hatchback",
+      "slug": "accord-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29167,
+      "documentId": "sglly95esk1yb3q70q2tjsaf",
+      "name": "ACCORD I",
+      "slug": "accord-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29168,
+      "documentId": "tcuwo1pq2e87haa11urnkzcr",
+      "name": "ACCORD I Hatchback",
+      "slug": "accord-i-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29169,
+      "documentId": "uksz3xq1bu18q6xl46gsx76z",
+      "name": "ACCORD II",
+      "slug": "accord-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29170,
+      "documentId": "akngicr1r8x6lx24yo28pw7r",
+      "name": "ACCORD II Hatchback",
+      "slug": "accord-ii-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 29171,
       "documentId": "dj1exs2rdkwp9xdwkzrw0wpe",
       "name": "ACCORD III",
       "slug": "accord-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29172,
+      "documentId": "mpf0tyht6jh1s6j0eadkm6hw",
+      "name": "ACCORD III Aerodeck",
+      "slug": "accord-iii-aerodeck",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -47,6 +95,14 @@
       "documentId": "y4hq9fzl2am0qwrx47jyjsrh",
       "name": "ACCORD IV Coupe",
       "slug": "accord-iv-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29177,
+      "documentId": "yhk51mwv8tv18qzl3e5hlgpq",
+      "name": "ACCORD IX Coupe",
+      "slug": "accord-ix-coupe",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -139,6 +195,14 @@
       "isActive": true
     },
     {
+      "id": 29189,
+      "documentId": "rdswtcg7ff3libod0pwavwba",
+      "name": "ACCORD VIII Coupe",
+      "slug": "accord-viii-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 29190,
       "documentId": "znialv6zgct8bkuda11l56zf",
       "name": "ACCORD VIII Estate",
@@ -151,6 +215,22 @@
       "documentId": "lguptetgqiwa6wopwa4h0rg4",
       "name": "ACCORD X Saloon",
       "slug": "accord-x-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29193,
+      "documentId": "t0mj1ycfyzcz7g95os7qy0t8",
+      "name": "ACTY",
+      "slug": "acty",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29194,
+      "documentId": "bffpbgusaelsfqj33ipvh06x",
+      "name": "ACTY Platform/Chassis",
+      "slug": "acty-platform-chassis",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -168,6 +248,22 @@
       "name": "ANF 125 (JC37)",
       "slug": "anf-125-jc37",
       "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29379,
+      "documentId": "w9f0bbk3o3pukib2gxy8tmxl",
+      "name": "ASCOT Estate",
+      "slug": "ascot-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29528,
+      "documentId": "pw8srg5ra3woxbdvynrn53hx",
+      "name": "AVANCIER",
+      "slug": "avancier",
+      "vehicle_type": "car",
       "isActive": true
     },
     {
@@ -208,6 +304,14 @@
       "name": "CA 125 80 km/h (JC24)",
       "slug": "ca-125-80-kmh-jc24",
       "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 30105,
+      "documentId": "kjnuah4pxr9p2v8ilfqc2580",
+      "name": "CAPA",
+      "slug": "capa",
+      "vehicle_type": "car",
       "isActive": true
     },
     {
@@ -1123,6 +1227,134 @@
       "isActive": true
     },
     {
+      "id": 30403,
+      "documentId": "v85zjjwk3tlakodnmg12gr2x",
+      "name": "CITY I Hatchback",
+      "slug": "city-i-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30404,
+      "documentId": "eyp7xgqkdlphd8ggj5f8cay1",
+      "name": "CITY III Saloon",
+      "slug": "city-iii-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30405,
+      "documentId": "pvjx6bptbcc8ko851m1o8jx4",
+      "name": "CITY IV Saloon",
+      "slug": "city-iv-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30406,
+      "documentId": "fpfmq5l0wh5arkukjtqi8vjf",
+      "name": "CITY Saloon",
+      "slug": "city-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30407,
+      "documentId": "ljris93tmrojavnbpctqv0ps",
+      "name": "CITY V Saloon",
+      "slug": "city-v-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30408,
+      "documentId": "os08tuwzfcqdxhwajveuqly9",
+      "name": "CITY VI Saloon",
+      "slug": "city-vi-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30411,
+      "documentId": "zt2wt6ov2z1m7ea0ar5m7py5",
+      "name": "CIVIC I Hatchback",
+      "slug": "civic-i-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30412,
+      "documentId": "jjrlk2tacix242z935a0d53l",
+      "name": "CIVIC I Saloon",
+      "slug": "civic-i-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30413,
+      "documentId": "htdhxvw22u1d5eho3u23frvl",
+      "name": "CIVIC II Estate",
+      "slug": "civic-ii-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30414,
+      "documentId": "crltmmolqthxbvkicqlg6sxx",
+      "name": "CIVIC II Hatchback",
+      "slug": "civic-ii-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30416,
+      "documentId": "idjpk2azxotcf7jvsis66rh7",
+      "name": "CIVIC III Hatchback",
+      "slug": "civic-iii-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30417,
+      "documentId": "s7wub2t2dzjkrhc1ivyyxjg3",
+      "name": "CIVIC III Saloon",
+      "slug": "civic-iii-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30418,
+      "documentId": "r7zzuqmyt27i3ap2njecbs3j",
+      "name": "CIVIC III Shuttle",
+      "slug": "civic-iii-shuttle",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30420,
+      "documentId": "wzmku6zwcrsplq7m9vqw1id5",
+      "name": "CIVIC IV Hatchback",
+      "slug": "civic-iv-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30421,
+      "documentId": "zg2d33dh88zkdr24iy4p3sos",
+      "name": "CIVIC IV Saloon",
+      "slug": "civic-iv-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30422,
+      "documentId": "m6c1gejd1z2k47fru9zk03hu",
+      "name": "CIVIC IV Shuttle",
+      "slug": "civic-iv-shuttle",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 30423,
       "documentId": "r6lakc093exac2d5ra4svrlw",
       "name": "CIVIC IX",
@@ -1143,6 +1375,14 @@
       "documentId": "xfzqg5e3yee3b5hjmh9t8siz",
       "name": "CIVIC IX Tourer",
       "slug": "civic-ix-tourer",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30427,
+      "documentId": "bzl0klxlhj7c5q1u9nsh2em1",
+      "name": "CIVIC Saloon",
+      "slug": "civic-saloon",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -1267,6 +1507,14 @@
       "isActive": true
     },
     {
+      "id": 30449,
+      "documentId": "ivgbyvxvn4hlg2ld2o6cqr6a",
+      "name": "CIVIC XI Hatchback",
+      "slug": "civic-xi-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 30484,
       "documentId": "eo5k4gslz6ipls16t6n5tczx",
       "name": "CLR 125 (JD18)",
@@ -1296,6 +1544,22 @@
       "name": "CN 250 (MF02)",
       "slug": "cn-250-mf02",
       "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 30537,
+      "documentId": "f4ky94rj4xud4ik4roow7t0t",
+      "name": "CONCERTO",
+      "slug": "concerto",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30538,
+      "documentId": "glq23yndkkui9lfxeetkrkny",
+      "name": "CONCERTO Saloon",
+      "slug": "concerto-saloon",
+      "vehicle_type": "car",
       "isActive": true
     },
     {
@@ -1347,6 +1611,14 @@
       "isActive": true
     },
     {
+      "id": 30664,
+      "documentId": "k6ngkrwdxpzqkcgik5m5r9l0",
+      "name": "CR-V VI",
+      "slug": "cr-v-vi",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 30665,
       "documentId": "op3mzxgbrjrt1pia4lbn0056",
       "name": "CR-V e:HEV & e:PHEV",
@@ -1387,10 +1659,34 @@
       "isActive": true
     },
     {
+      "id": 30704,
+      "documentId": "uqrz8bv09dxa3wbjaqu7vwx0",
+      "name": "CROSSROAD",
+      "slug": "crossroad",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 30706,
       "documentId": "vqtbmnj7ra796yr2kz5zknzm",
       "name": "CROSSTOUR I",
       "slug": "crosstour-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30713,
+      "documentId": "x29i9kls2xjlkck94ymes14k",
+      "name": "CRX I",
+      "slug": "crx-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30714,
+      "documentId": "bbvfui1ka8xutrt9wj3oj0it",
+      "name": "CRX II",
+      "slug": "crx-ii",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -1495,6 +1791,30 @@
       "documentId": "oc5tn3vado86hys5r2j6ez5n",
       "name": "Civic e:HEV",
       "slug": "civic-ehev",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31055,
+      "documentId": "e1zx61vmkl2iyw0lwgrqrzb9",
+      "name": "DOMANI",
+      "slug": "domani",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31313,
+      "documentId": "nosdfwzussawapxhdzzthu22",
+      "name": "ELEMENT",
+      "slug": "element",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31321,
+      "documentId": "xiy7q41bp2ssy1kagx3cm4qs",
+      "name": "ELYSION",
+      "slug": "elysion",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -1707,10 +2027,42 @@
       "isActive": true
     },
     {
+      "id": 32686,
+      "documentId": "bgdcioy1ize2ica7qek4zrjc",
+      "name": "INSPIRE",
+      "slug": "inspire",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 32688,
       "documentId": "cucstjvysv0yqkyq2efui155",
       "name": "INTEGRA Coupe",
       "slug": "integra-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32689,
+      "documentId": "v52oa8gampnv6sb7unn33uvl",
+      "name": "INTEGRA Hatchback",
+      "slug": "integra-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32690,
+      "documentId": "g6z79hagu3eygo0ttfkfpf8j",
+      "name": "INTEGRA Saloon",
+      "slug": "integra-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32755,
+      "documentId": "uqvmdgoshig5hp0ledgroexn",
+      "name": "JAZZ I",
+      "slug": "jazz-i",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -1739,6 +2091,14 @@
       "isActive": true
     },
     {
+      "id": 32759,
+      "documentId": "y3bq009w9vq2o08o1k01xwap",
+      "name": "JAZZ SHUTTLE",
+      "slug": "jazz-shuttle",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 32760,
       "documentId": "dk7lvh6mgyl2qmlsw8cbnub7",
       "name": "JAZZ V",
@@ -1751,6 +2111,30 @@
       "documentId": "enwiddq528mauxftce1t214z",
       "name": "Jazz",
       "slug": "jazz",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33010,
+      "documentId": "jh4wbfvzih693icszou9givm",
+      "name": "LAGREAT",
+      "slug": "lagreat",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33099,
+      "documentId": "mcyw63s9fm7titkw1svdvdk0",
+      "name": "LEGEND I",
+      "slug": "legend-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33100,
+      "documentId": "saemkwvqho3ckwjqj8wt9q16",
+      "name": "LEGEND I Coupe",
+      "slug": "legend-i-coupe",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -1787,6 +2171,14 @@
       "isActive": true
     },
     {
+      "id": 33135,
+      "documentId": "rxcobr0nl4gqcc9irovkbpd3",
+      "name": "LIFE",
+      "slug": "life",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 33174,
       "documentId": "fdwam6i5dr009l6zohwcb9hl",
       "name": "LOGO",
@@ -1800,6 +2192,14 @@
       "name": "Lead 110 (JF19)",
       "slug": "lead-110-jf19",
       "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33589,
+      "documentId": "t355qkxnnn64grjtn6cwb63z",
+      "name": "MOBILIO",
+      "slug": "mobilio",
+      "vehicle_type": "car",
       "isActive": true
     },
     {
@@ -1864,6 +2264,14 @@
       "name": "Montesa 4-Ride",
       "slug": "montesa-4-ride",
       "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33901,
+      "documentId": "j56elclz08dz0r0poshqj0o2",
+      "name": "N600 III",
+      "slug": "n600-iii",
+      "vehicle_type": "car",
       "isActive": true
     },
     {
@@ -2139,6 +2547,14 @@
       "isActive": true
     },
     {
+      "id": 34112,
+      "documentId": "xaz9c551eelioeadbwi2t0cb",
+      "name": "ORTHIA / PARTNER",
+      "slug": "orthia-partner",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 34266,
       "documentId": "ndi1o33qlzq1vlg6hbs4wt02",
       "name": "PES 125 (JF17)",
@@ -2155,11 +2571,51 @@
       "isActive": true
     },
     {
+      "id": 34287,
+      "documentId": "qp3rjzyx5ke25dpu3qfv902d",
+      "name": "PILOT",
+      "slug": "ldv-pilot",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34286,
+      "documentId": "em5eh2559ktln4izojeputkk",
+      "name": "PILOT",
+      "slug": "pilot",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 34296,
       "documentId": "jcyhttz874a380dvc5orwl4s",
       "name": "PK 50 SM (AB25)",
       "slug": "pk-50-sm-ab25",
       "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34360,
+      "documentId": "xvdka5py5niph7h2bsn9knkx",
+      "name": "PRELUDE I Coupe",
+      "slug": "prelude-i-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34361,
+      "documentId": "q71xj8fvk0fruhsjgvdnwsmn",
+      "name": "PRELUDE II",
+      "slug": "prelude-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34362,
+      "documentId": "n0v5fswl5vq3wkb50o4gnivj",
+      "name": "PRELUDE III",
+      "slug": "prelude-iii",
+      "vehicle_type": "car",
       "isActive": true
     },
     {
@@ -2211,10 +2667,26 @@
       "isActive": true
     },
     {
+      "id": 34590,
+      "documentId": "fidrbttwdxa7o74ijksm8dl4",
+      "name": "QUINTET",
+      "slug": "honda-quintet",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 34603,
       "documentId": "z1i5rm6t2zoqp77sekatvkpd",
       "name": "Quintet",
       "slug": "quintet",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34748,
+      "documentId": "n9g0lxm5wdh7r84ydi4chjfu",
+      "name": "RIDGELINE",
+      "slug": "ridgeline",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -2403,6 +2875,14 @@
       "isActive": true
     },
     {
+      "id": 35306,
+      "documentId": "c28jkcxixq4xuu90s047tjf2",
+      "name": "SMX",
+      "slug": "smx",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 35438,
       "documentId": "nfkcsyfqd6ehegii6hz276iu",
       "name": "SRX 50 (AF42)",
@@ -2443,6 +2923,14 @@
       "isActive": true
     },
     {
+      "id": 35485,
+      "documentId": "kt952n3hgdmdjs9uvnpgct3r",
+      "name": "STEPWGN",
+      "slug": "stepwgn",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 35503,
       "documentId": "cami1ldwq04t486d3gds74a7",
       "name": "STREAM",
@@ -2464,6 +2952,14 @@
       "name": "Silverwing 600",
       "slug": "silverwing-600",
       "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35995,
+      "documentId": "rgweknr2v4tlvgzorx0rkn75",
+      "name": "TORNEO Saloon",
+      "slug": "torneo-saloon",
+      "vehicle_type": "car",
       "isActive": true
     },
     {
@@ -2979,6 +3475,14 @@
       "isActive": true
     },
     {
+      "id": 37233,
+      "documentId": "zqj6omzgu0qlshizahlv6qao",
+      "name": "ZR-V",
+      "slug": "zr-v",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 37234,
       "documentId": "phy1u493f5mhkqssaynb27le",
       "name": "ZR-V e:HEV",
@@ -2999,6 +3503,14 @@
       "documentId": "vg26qxwszxjerpuay73rq66b",
       "name": "e",
       "slug": "e",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37328,
+      "documentId": "upmcdy7tbuft1okh4hqoc404",
+      "name": "e:Ny1",
+      "slug": "e-ny1",
       "vehicle_type": "car",
       "isActive": true
     }

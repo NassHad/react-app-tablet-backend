@@ -7,14 +7,78 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 35,
-  "exportDate": "2026-01-06T19:34:16.806Z",
+  "modelCount": 116,
+  "exportDate": "2026-01-07T09:17:53.785Z",
   "models": [
     {
       "id": 29227,
       "documentId": "yxp6ju356ob9aaubj2jij2ii",
       "name": "ALERO",
       "slug": "alero",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29470,
+      "documentId": "tkg8pjdfz42g7k88gz5gqo7x",
+      "name": "ASTRA Saloon",
+      "slug": "astra-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29479,
+      "documentId": "zdweajkzwrpnqqh34siju9us",
+      "name": "ASTRO Bus",
+      "slug": "astro-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29480,
+      "documentId": "j5v1gq311xvyolji3cbzsz41",
+      "name": "ASTRO Extended Passenger Van",
+      "slug": "astro-extended-passenger-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29481,
+      "documentId": "c6loq744pue02pkt745jg3xf",
+      "name": "ASTRO Standard Passenger Van",
+      "slug": "astro-standard-passenger-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29482,
+      "documentId": "dm1i97xp80alid424gowzp0a",
+      "name": "ASTRO Van",
+      "slug": "astro-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29524,
+      "documentId": "q3nzo3719sjk109jumu9j3xu",
+      "name": "AVALANCHE",
+      "slug": "avalanche",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29525,
+      "documentId": "kaadry8nujk1wt26823720hz",
+      "name": "AVALANCHE 1500 Crew Cab Pickup",
+      "slug": "avalanche-1500-crew-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29526,
+      "documentId": "r5ucc195vbu31lakuth6u46o",
+      "name": "AVALANCHE Crew Cab Pickup",
+      "slug": "avalanche-crew-cab-pickup",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -51,10 +115,98 @@
       "isActive": true
     },
     {
+      "id": 29700,
+      "documentId": "z9sgf7psmbzkwzcq3dqg3068",
+      "name": "BERETTA Coupe",
+      "slug": "beretta-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29730,
+      "documentId": "tv6tm9xvkibe92zxrwvdea3f",
+      "name": "BLAZER",
+      "slug": "blazer",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29731,
+      "documentId": "tpm5cnj7vi2tohrv3mqax1lf",
+      "name": "BLAZER S10",
+      "slug": "blazer-s10",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 29748,
       "documentId": "e1nghgp4erke84ctgrpv89ix",
       "name": "BOLT",
       "slug": "bolt",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29749,
+      "documentId": "wdfnex3yd5753efe3yuumfnq",
+      "name": "BOLT SUV",
+      "slug": "bolt-suv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29932,
+      "documentId": "cs1de2j7s2vd9sd9xeg86faq",
+      "name": "C-K",
+      "slug": "c-k",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29953,
+      "documentId": "vnve6ce9254e19rft7ymsjon",
+      "name": "C1500 Extended Cab Pickup",
+      "slug": "c1500-extended-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29954,
+      "documentId": "v3qmj11mewhkh0hz3csu8pc4",
+      "name": "C1500 Pickup",
+      "slug": "c1500-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29955,
+      "documentId": "jjt9ov8vpu6chdu77ufgben9",
+      "name": "C1500 Standard Cab Pickup",
+      "slug": "c1500-standard-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29966,
+      "documentId": "jve2kw7kbbrofgirjha49jsj",
+      "name": "C2500 Pickup",
+      "slug": "c2500-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29967,
+      "documentId": "cxglva7mli0erlkkdwch4104",
+      "name": "C2500 Standard Cab Pickup",
+      "slug": "c2500-standard-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29993,
+      "documentId": "uoqwntbgfmvf0gh7pvq2g66c",
+      "name": "C3500 Pickup",
+      "slug": "c3500-pickup",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -75,10 +227,114 @@
       "isActive": true
     },
     {
+      "id": 30111,
+      "documentId": "qi0o4o9kgzrhgq569o1u6fub",
+      "name": "CAPRICE",
+      "slug": "caprice",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30112,
+      "documentId": "a2xsg3ceg694um6t8nquq25r",
+      "name": "CAPRICE Coupe",
+      "slug": "caprice-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30113,
+      "documentId": "lcmbvw56mbehs99mvcw1o640",
+      "name": "CAPRICE Estate",
+      "slug": "caprice-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 30114,
       "documentId": "bk5e37ypmts2h0fzz5rzbm9x",
       "name": "CAPTIVA",
       "slug": "captiva",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30116,
+      "documentId": "wwfilowi31ibibqptq2mde8r",
+      "name": "CAPTIVA SPORT",
+      "slug": "captiva-sport",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30117,
+      "documentId": "x2wn9u3hqxnhwtwe196yii17",
+      "name": "CAPTIVA Van",
+      "slug": "captiva-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30174,
+      "documentId": "zcbm6de6r1kyapa39hmz3ksm",
+      "name": "CAVALIER Convertible",
+      "slug": "cavalier-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30494,
+      "documentId": "u79v0qwduhs6hrqv62r9duis",
+      "name": "COBALT",
+      "slug": "cobalt",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30495,
+      "documentId": "ad7ojmyeb1h7v7k2qr56x826",
+      "name": "COBALT Coupe",
+      "slug": "cobalt-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30496,
+      "documentId": "fkt6xf31txfegle0fz3cz2zn",
+      "name": "COLORADO Crew Cab Pickup",
+      "slug": "colorado-crew-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30616,
+      "documentId": "hfresapa8uuz3trbd6539ia5",
+      "name": "CORSA Estate",
+      "slug": "corsa-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30625,
+      "documentId": "w3snffav4xge4tl8mhm2pflp",
+      "name": "CORSA Pickup",
+      "slug": "corsa-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30633,
+      "documentId": "rdl84mcudnyhurmwss8y0ah0",
+      "name": "CORSICA",
+      "slug": "corsica",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30634,
+      "documentId": "c6ujjz0lmgdzqe172g7oa36x",
+      "name": "CORSICA Hatchback",
+      "slug": "corsica-hatchback",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -99,6 +355,14 @@
       "isActive": true
     },
     {
+      "id": 30640,
+      "documentId": "hdf4yemh2mhtmfevyr6d0ssk",
+      "name": "CORVETTE Coupe",
+      "slug": "corvette-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 30709,
       "documentId": "umg106c6q2krexmaoa7ivp46",
       "name": "CRUZE",
@@ -111,6 +375,14 @@
       "documentId": "rz0aulmmuy8qj4pr78ljovv9",
       "name": "CRUZE Hatchback",
       "slug": "cruze-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30711,
+      "documentId": "gq197s4yd072i1psf7btbonq",
+      "name": "CRUZE Saloon",
+      "slug": "cruze-saloon",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -139,6 +411,86 @@
       "isActive": true
     },
     {
+      "id": 31341,
+      "documentId": "n6evxyn4s9k15v8ezl8kaqan",
+      "name": "EQUINOX",
+      "slug": "equinox",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31485,
+      "documentId": "vbp6tqc3tanatx3kx3q8saou",
+      "name": "EXPRESS 1500 Standard Cargo Van",
+      "slug": "express-1500-standard-cargo-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31486,
+      "documentId": "bate7irvd4bjqoffkwo74nrp",
+      "name": "EXPRESS 1500 Standard Passenger Van",
+      "slug": "express-1500-standard-passenger-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31487,
+      "documentId": "l7kq27gekp5kqsaqx3kat2gz",
+      "name": "EXPRESS 2500 Extended Cargo Van",
+      "slug": "express-2500-extended-cargo-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31488,
+      "documentId": "qh4kztklendbs0z9b08ll4br",
+      "name": "EXPRESS 2500 Extended Passenger Van",
+      "slug": "express-2500-extended-passenger-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31489,
+      "documentId": "woplocy2z7pyaou44vhsqycx",
+      "name": "EXPRESS 2500 Standard Cargo Van",
+      "slug": "express-2500-standard-cargo-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31490,
+      "documentId": "rjwrrhfdlbr2xqmc93vxahyw",
+      "name": "EXPRESS 2500 Standard Passenger Van",
+      "slug": "express-2500-standard-passenger-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31491,
+      "documentId": "zvned213is0tfu4j67rho71z",
+      "name": "EXPRESS 3500 Standard Passenger Van",
+      "slug": "express-3500-standard-passenger-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31493,
+      "documentId": "h0ks0hbmwtgde2ug0aebgvpd",
+      "name": "EXPRESS Bus",
+      "slug": "express-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31496,
+      "documentId": "lj788hhcsekvw1bv4kc55f9b",
+      "name": "EXPRESS Van",
+      "slug": "express-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 31522,
       "documentId": "sx1p1tsujbbp59dap1kg8ano",
       "name": "Epica / Tosca",
@@ -147,10 +499,34 @@
       "isActive": true
     },
     {
+      "id": 32067,
+      "documentId": "vgloqsq2bjv5be1whzsme58b",
+      "name": "G10 Extended Cargo Van",
+      "slug": "g10-extended-cargo-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 32520,
       "documentId": "r8ing1qxzqo6nq4mr38lnk7q",
       "name": "HHR",
       "slug": "hhr",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32645,
+      "documentId": "rjzmit35ld6l5ijy35mi3ja7",
+      "name": "IMPALA Coupe",
+      "slug": "impala-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32646,
+      "documentId": "ua6j08n3nhc1ga5jltp3ueqe",
+      "name": "IMPALA Estate",
+      "slug": "impala-estate",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -171,6 +547,62 @@
       "isActive": true
     },
     {
+      "id": 33002,
+      "documentId": "ihuhnm6o5p6pcea9dt6bc1mu",
+      "name": "LACETTI",
+      "slug": "daewoo-lacetti",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33003,
+      "documentId": "cac22mjnonodsjwhhse49a8c",
+      "name": "LACETTI Estate",
+      "slug": "lacetti-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33199,
+      "documentId": "hvxe3y0k4rqvk7bn4mwywf62",
+      "name": "LUMINA APV MPV",
+      "slug": "lumina-apv-mpv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33200,
+      "documentId": "gw8grwxd2c1wcp1ndx6sccl9",
+      "name": "LUMINA APV Mini Cargo Van",
+      "slug": "lumina-apv-mini-cargo-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33201,
+      "documentId": "vaadvf2e1y2s813dq4t31wd2",
+      "name": "LUMINA Coupe",
+      "slug": "lumina-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33202,
+      "documentId": "hjqwot7at6eous1jtubbvd4h",
+      "name": "LUMINA Saloon",
+      "slug": "lumina-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33222,
+      "documentId": "fboxkvn33k32nj29og2hbhzn",
+      "name": "Lacetti",
+      "slug": null,
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 33321,
       "documentId": "gzdd5oaucwo9cjg6wy1bno9l",
       "name": "MALIBU",
@@ -187,10 +619,26 @@
       "isActive": true
     },
     {
+      "id": 33944,
+      "documentId": "q29blhnc3tpd7q332ttx910t",
+      "name": "NIVA",
+      "slug": "lada-niva",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 34002,
       "documentId": "dt3g53unaopuhvnpgpqvcstg",
       "name": "NUBIRA Estate",
       "slug": "nubira-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34103,
+      "documentId": "mishmuzmwy3vobpd10bp55yq",
+      "name": "OPTRA Saloon",
+      "slug": "optra-saloon",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -219,10 +667,202 @@
       "isActive": true
     },
     {
+      "id": 34955,
+      "documentId": "xll0lrhf7wr1ltaawa1a0ml0",
+      "name": "S10 BLAZER",
+      "slug": "s10-blazer",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34956,
+      "documentId": "pa6hoyrul89eumjpz907drqt",
+      "name": "S10 Crew Cab Pickup",
+      "slug": "s10-crew-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34957,
+      "documentId": "aarfu0kfnsyszfotti8hegsq",
+      "name": "S10 Extended Cab Pickup",
+      "slug": "s10-extended-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34958,
+      "documentId": "ux8ogbi7rlcpoufsjjpp6sdj",
+      "name": "S10 Pick Up",
+      "slug": "s10-pick-up",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34959,
+      "documentId": "cnxkp4063nomvs3gtv214oxh",
+      "name": "S10 Pickup",
+      "slug": "s10-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34960,
+      "documentId": "r5lk2lpgyg1szt6erv4xbl4k",
+      "name": "S10 Standard Cab Pickup",
+      "slug": "s10-standard-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35207,
+      "documentId": "mnjmsh4wfheol9noqk1okgwj",
+      "name": "SILVERADO 1500",
+      "slug": "silverado-1500",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35208,
+      "documentId": "kovo7qvp8adhxnz84nkdhh18",
+      "name": "SILVERADO 1500 Crew Cab Pickup",
+      "slug": "silverado-1500-crew-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35209,
+      "documentId": "jh2ndd5kq7wpc5j9ihn5p03i",
+      "name": "SILVERADO 1500 Extended Cab Pickup",
+      "slug": "silverado-1500-extended-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35210,
+      "documentId": "p6y34exvri2156335cpccv2k",
+      "name": "SILVERADO 1500 Standard Cab Pickup",
+      "slug": "silverado-1500-standard-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35211,
+      "documentId": "m7cksxj52vm3xasnn9jav7zr",
+      "name": "SILVERADO 2500",
+      "slug": "silverado-2500",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35212,
+      "documentId": "ac3v8lbab4r1schhkop8o1xe",
+      "name": "SILVERADO 2500 Crew Cab Pickup",
+      "slug": "silverado-2500-crew-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35213,
+      "documentId": "wt1xjgoy1qjue28yum5x38ni",
+      "name": "SILVERADO 2500 HD",
+      "slug": "silverado-2500-hd",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35214,
+      "documentId": "b2kjlni7cmkviv02l0njs8iw",
+      "name": "SILVERADO 2500 HD Crew Cab Pickup",
+      "slug": "silverado-2500-hd-crew-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35215,
+      "documentId": "qj7ol95x9s4g03d46icvhi49",
+      "name": "SILVERADO 2500 HD Extended Cab Pickup",
+      "slug": "silverado-2500-hd-extended-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35216,
+      "documentId": "hoepytj0wx7p1y3sdr9rzxii",
+      "name": "SILVERADO 2500 HD Standard Cab Pickup",
+      "slug": "silverado-2500-hd-standard-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35217,
+      "documentId": "ybsqe0x9bcsbxdcyrfytfjml",
+      "name": "SILVERADO 2500 Standard Cab Pickup",
+      "slug": "silverado-2500-standard-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35218,
+      "documentId": "xe90o4iy1k2jfgzova7xnu7s",
+      "name": "SILVERADO 3500 HD Cab & Chassis",
+      "slug": "silverado-3500-hd-cab-and-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35219,
+      "documentId": "zlx17w791z1xf4j0p7h59npo",
+      "name": "SILVERADO 3500 HD Crew Cab Pickup",
+      "slug": "silverado-3500-hd-crew-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35220,
+      "documentId": "qxf3xtwwfprnfp8eb2qyrkkp",
+      "name": "SILVERADO 3500 HD Extended Cab Pickup",
+      "slug": "silverado-3500-hd-extended-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35221,
+      "documentId": "izquqvrrsc7e3nygqmspgspy",
+      "name": "SILVERADO 3500 HD Standard Cab Pickup",
+      "slug": "silverado-3500-hd-standard-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 35351,
       "documentId": "frlq8971jxq91wdbz9593jdb",
       "name": "SPARK",
       "slug": "spark",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35507,
+      "documentId": "zzo1t86o3uqw2fjxbu397j9x",
+      "name": "SUBURBAN",
+      "slug": "suburban",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35508,
+      "documentId": "r1o2f8eik1ypzg3i0sygyhvp",
+      "name": "SUBURBAN 1500 SUV",
+      "slug": "suburban-1500-suv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35509,
+      "documentId": "zpffa4p5typ16aez6rf2s4rx",
+      "name": "SUBURBAN 2500 SUV",
+      "slug": "suburban-2500-suv",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -247,6 +887,14 @@
       "documentId": "za4eydieimsp8erth37uvofs",
       "name": "TRAILBLAZER",
       "slug": "trailblazer",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36146,
+      "documentId": "gtfhem3en84ph7gdl9f665i9",
+      "name": "TRAVERSE",
+      "slug": "traverse",
       "vehicle_type": "car",
       "isActive": true
     },

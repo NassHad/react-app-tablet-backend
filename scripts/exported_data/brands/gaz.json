@@ -7,7 +7,136 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.851Z",
-  "models": []
+  "modelCount": 16,
+  "exportDate": "2026-01-07T09:17:53.809Z",
+  "models": [
+    {
+      "id": 28890,
+      "documentId": "q066bka61vik2j4nw5jwdqsq",
+      "name": "69",
+      "slug": "69",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32109,
+      "documentId": "yv1v4ixfoyimtpcftszp0kc4",
+      "name": "GAZEL - GAZELLE",
+      "slug": "gazel---gazelle",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32110,
+      "documentId": "na1fx42548wq4wcs9ar865tt",
+      "name": "GAZEL - GAZELLE",
+      "slug": "gazel-gazelle",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32111,
+      "documentId": "n3qt2s79u52cog0hf72jql5o",
+      "name": "GAZELLE Bus",
+      "slug": "gazelle-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32112,
+      "documentId": "cx25gjzb4kabe7yzhufin96i",
+      "name": "GAZELLE NEXT Bus",
+      "slug": "gazelle-next-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32113,
+      "documentId": "civy901bcl5ic1qamjus4mla",
+      "name": "GAZELLE NEXT Platform/Chassis",
+      "slug": "gazelle-next-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32114,
+      "documentId": "d6w43plpe9o5zdvysdh9vw6a",
+      "name": "GAZELLE NEXT Van",
+      "slug": "gazelle-next-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32115,
+      "documentId": "tr7w5388f4hkt0ojq3rphh7k",
+      "name": "GAZELLE Platform/Chassis",
+      "slug": "gazelle-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32116,
+      "documentId": "k9aj3p12y89sadtimsqethwr",
+      "name": "GAZELLE Van",
+      "slug": "gazelle-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35308,
+      "documentId": "poeb4a2vu2lamm7tagm5r21h",
+      "name": "SOBOLBus",
+      "slug": "sobolbus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35309,
+      "documentId": "zhb5qma0qq7vctd4gmgb1lc2",
+      "name": "SOBOLPlatform/Chassis",
+      "slug": "sobolplatform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35310,
+      "documentId": "khw6eihnvpp7972t3y1bq9z8",
+      "name": "SOBOLVan",
+      "slug": "sobolvan",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36400,
+      "documentId": "bbyqcdbdnjkmzwrkiol7sygq",
+      "name": "VALDAJ",
+      "slug": "valdaj",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36596,
+      "documentId": "kc6agsn6tcfve5hhl6xbxz2h",
+      "name": "VOLGA",
+      "slug": "volga",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36597,
+      "documentId": "xtfed660bdm4a9hholbskcrb",
+      "name": "VOLGA Estate",
+      "slug": "volga-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36598,
+      "documentId": "cocl61tczxm6sg3uac0cllr7",
+      "name": "VOLGA SIBER",
+      "slug": "volga-siber",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

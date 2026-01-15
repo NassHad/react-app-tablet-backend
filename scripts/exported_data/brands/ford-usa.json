@@ -7,14 +7,62 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 8,
-  "exportDate": "2026-01-06T19:34:16.847Z",
+  "modelCount": 27,
+  "exportDate": "2026-01-07T09:17:53.807Z",
   "models": [
+    {
+      "id": 29208,
+      "documentId": "a2g6uj4pfc6qpnglan85lu01",
+      "name": "AEROSTAR",
+      "slug": "aerostar",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29209,
+      "documentId": "zc0kmdn71oobyfmuhh8qphrm",
+      "name": "AEROSTAR Mini Cargo Van",
+      "slug": "aerostar-mini-cargo-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29786,
+      "documentId": "uehi44wzf75442w5uy3drn14",
+      "name": "BRONCO II",
+      "slug": "bronco-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
     {
       "id": 31282,
       "documentId": "zmagmsngnga2mwajkh4pbft7",
       "name": "EDGE",
       "slug": "edge",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31283,
+      "documentId": "xy340qnc40wal2gdgx5wyujw",
+      "name": "EDGE",
+      "slug": "ford-edge",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31364,
+      "documentId": "tkz8hf4fargmfg1m0l07ihbd",
+      "name": "ESCAPE",
+      "slug": "escape",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31459,
+      "documentId": "n02rxvw4bt1g7l5p32ilkve3",
+      "name": "EXCURSION",
+      "slug": "excursion",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -27,10 +75,50 @@
       "isActive": true
     },
     {
+      "id": 31478,
+      "documentId": "wre98u3oogdl4tn9h3d7z6pt",
+      "name": "EXPLORER SPORT TRAC Crew Cab Pickup",
+      "slug": "explorer-sport-trac-crew-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31479,
+      "documentId": "fptgmyc2gbxjiva9lx8h9wbk",
+      "name": "EXPLORER SPORT TRAC Pickup",
+      "slug": "explorer-sport-trac-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 31551,
       "documentId": "r7hi5yf9hznwotgs8f0pccjg",
       "name": "F-150",
       "slug": "f-150",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31552,
+      "documentId": "g72y4l61hrj0fqh5bk1f11ju",
+      "name": "F-150 Crew Cab Pickup",
+      "slug": "f-150-crew-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31553,
+      "documentId": "wvi3mgo2yibpa22ffamfaxe8",
+      "name": "F-150 Extended Cab Pickup",
+      "slug": "f-150-extended-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31554,
+      "documentId": "vdciwjw984r7hrp81tv881pa",
+      "name": "F-150 Standard Cab Pickup",
+      "slug": "f-150-standard-cab-pickup",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -59,10 +147,74 @@
       "isActive": true
     },
     {
+      "id": 34415,
+      "documentId": "dr48uy5oiz5joshgwaz1jx3q",
+      "name": "PROBE I",
+      "slug": "probe-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 34416,
       "documentId": "c4zmlox3m5bjecqg4lmcywlw",
       "name": "PROBE II",
       "slug": "probe-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34659,
+      "documentId": "hpg25b2h5oowi3ic26ql4zrt",
+      "name": "RANGER Crew Cab Pickup",
+      "slug": "ranger-crew-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34660,
+      "documentId": "cipa020xpokg1qlg1pip4dqv",
+      "name": "RANGER Extended Cab Pickup",
+      "slug": "ranger-extended-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34663,
+      "documentId": "uyy3m8s5j2pvm4802s4zob9d",
+      "name": "RANGER Standard Cab Pickup",
+      "slug": "ranger-standard-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35860,
+      "documentId": "ms1k77jyow88agx74jkpc3id",
+      "name": "TAURUS",
+      "slug": "taurus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35861,
+      "documentId": "npg2h36v37znb3ithtmuxmtv",
+      "name": "TAURUS Estate",
+      "slug": "taurus-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35862,
+      "documentId": "yf26ehstx9xhn4fxgfoidcjr",
+      "name": "TAURUS Saloon",
+      "slug": "taurus-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35863,
+      "documentId": "ifq3jvm5ud0814v8ysv9sk8z",
+      "name": "TAURUS Wagon",
+      "slug": "taurus-wagon",
       "vehicle_type": "car",
       "isActive": true
     },

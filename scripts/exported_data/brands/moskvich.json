@@ -7,7 +7,112 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.931Z",
-  "models": []
+  "modelCount": 13,
+  "exportDate": "2026-01-07T09:17:53.854Z",
+  "models": [
+    {
+      "id": 28443,
+      "documentId": "fxdawjpjc03j1lp7ccknyj9b",
+      "name": "2138",
+      "slug": "2138",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28444,
+      "documentId": "peputxrcztq0az9e2be3pv4v",
+      "name": "2140",
+      "slug": "2140",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28445,
+      "documentId": "ubl6gy2nn6oz4ivvghwz41h9",
+      "name": "2141",
+      "slug": "2141",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28446,
+      "documentId": "y3j2gr8r5f5eqw6k4jrf1hc2",
+      "name": "2142",
+      "slug": "2142",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28454,
+      "documentId": "qe8garc7wj6zzqx3yw22ci76",
+      "name": "2335 Pickup",
+      "slug": "2335-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28495,
+      "documentId": "v1p8s1p6tb8m1czvdmgg3uuh",
+      "name": "2901 Estate Van",
+      "slug": "2901-estate-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28687,
+      "documentId": "m96er9iiklbbu97a9l8um3j8",
+      "name": "403",
+      "slug": "403",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28713,
+      "documentId": "ap5fk712ob3x61ayuqglkvm0",
+      "name": "412",
+      "slug": "412",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28723,
+      "documentId": "p14v63xhye2s2k3mquhpgkk8",
+      "name": "423 Estate",
+      "slug": "423-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28724,
+      "documentId": "yzzx33len63og51472h3x6va",
+      "name": "427 Estate",
+      "slug": "427-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29226,
+      "documentId": "kv069u2s9h4az4rnhslor3yv",
+      "name": "ALEKO",
+      "slug": "aleko",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29381,
+      "documentId": "b82zf5epsru9hlob2cudq0hh",
+      "name": "ASLK 2137 Estate",
+      "slug": "aslk-2137-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29382,
+      "documentId": "kouyeipadtc35u3c13meuzbd",
+      "name": "ASLK 2140",
+      "slug": "aslk-2140",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

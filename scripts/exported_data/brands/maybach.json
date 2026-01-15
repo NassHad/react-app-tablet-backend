@@ -7,14 +7,22 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 1,
-  "exportDate": "2026-01-06T19:34:16.913Z",
+  "modelCount": 2,
+  "exportDate": "2026-01-07T09:17:53.845Z",
   "models": [
     {
       "id": 28837,
       "documentId": "fo0xq297i1xqog7wj8ygh3ac",
       "name": "57",
       "slug": "57",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28868,
+      "documentId": "v9qrxe744lbgxl7pl71zd904",
+      "name": "62",
+      "slug": "62",
       "vehicle_type": "car",
       "isActive": true
     }

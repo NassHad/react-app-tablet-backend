@@ -7,7 +7,64 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.912Z",
-  "models": []
+  "modelCount": 7,
+  "exportDate": "2026-01-07T09:17:53.845Z",
+  "models": [
+    {
+      "id": 30975,
+      "documentId": "xv7md83n9adk8l9mfw3q8ssx",
+      "name": "DELIVER 9 Platform/Chassis",
+      "slug": "deliver-9-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30976,
+      "documentId": "bsc58xsdkdrjfmz1ua73jfuv",
+      "name": "DELIVER 9 Van",
+      "slug": "deliver-9-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32066,
+      "documentId": "yjqf8b7bhj1mtq35aw27fmde",
+      "name": "G10",
+      "slug": "g10",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36395,
+      "documentId": "mqfk1goemhv6l92v85is87jy",
+      "name": "V80 Platform/Chassis",
+      "slug": "v80-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36396,
+      "documentId": "u5qejvfed6mycdp2upaxkg4f",
+      "name": "V80 Van",
+      "slug": "v80-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37329,
+      "documentId": "a3uop79mamhldqbllrvpsrwo",
+      "name": "eDELIVER 3 Platform/Chassis",
+      "slug": "edeliver-3-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37330,
+      "documentId": "vmm82yfq9zatvdv6tqbzo3ts",
+      "name": "eDELIVER 3 Van",
+      "slug": "edeliver-3-van",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

@@ -7,7 +7,16 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.856Z",
-  "models": []
+  "modelCount": 1,
+  "exportDate": "2026-01-07T09:17:53.811Z",
+  "models": [
+    {
+      "id": 36341,
+      "documentId": "pufmn1bph16p94uaxzgk0d4i",
+      "name": "V 8",
+      "slug": "v-8",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

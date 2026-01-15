@@ -7,7 +7,24 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.862Z",
-  "models": []
+  "modelCount": 2,
+  "exportDate": "2026-01-07T09:17:53.815Z",
+  "models": [
+    {
+      "id": 32643,
+      "documentId": "go5iwhcz22zzdosb40zdaz6s",
+      "name": "IMP I Saloon",
+      "slug": "imp-i-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32644,
+      "documentId": "yp2kj7l6aib079ovnm6pv1nd",
+      "name": "IMP II Saloon",
+      "slug": "imp-ii-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

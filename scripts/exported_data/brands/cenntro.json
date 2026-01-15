@@ -7,7 +7,24 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.804Z",
-  "models": []
+  "modelCount": 2,
+  "exportDate": "2026-01-07T09:17:53.783Z",
+  "models": [
+    {
+      "id": 33475,
+      "documentId": "fjpk4a57zxvfdzgv772dofq5",
+      "name": "METRO Platform/Chassis",
+      "slug": "metro-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33477,
+      "documentId": "zrdhvhhspaggheugimmagkqg",
+      "name": "METRO Van",
+      "slug": "metro-van",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

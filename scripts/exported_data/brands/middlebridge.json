@@ -7,7 +7,16 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.927Z",
-  "models": []
+  "modelCount": 1,
+  "exportDate": "2026-01-07T09:17:53.851Z",
+  "models": [
+    {
+      "id": 35055,
+      "documentId": "yu41hynm49x46r5vr9ziziey",
+      "name": "SCIMITAR GTE",
+      "slug": "scimitar-gte",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

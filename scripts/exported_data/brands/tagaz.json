@@ -7,7 +7,64 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:17.016Z",
-  "models": []
+  "modelCount": 7,
+  "exportDate": "2026-01-07T09:17:53.887Z",
+  "models": [
+    {
+      "id": 29345,
+      "documentId": "eqcnamhwocp9hgglih1azffp",
+      "name": "AQUILA",
+      "slug": "aquila",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29947,
+      "documentId": "wueyz2ypacna78unes81quvw",
+      "name": "C10",
+      "slug": "c10",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29956,
+      "documentId": "oft04seimctpj1m8xcbraprn",
+      "name": "C190",
+      "slug": "c190",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32511,
+      "documentId": "triyecd0ogw786eboih5nocr",
+      "name": "HARDY",
+      "slug": "hardy",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34773,
+      "documentId": "i5jsc50aavsai6rcqp4oqt8z",
+      "name": "ROAD PARTNER",
+      "slug": "road-partner",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35815,
+      "documentId": "hg38aclkg7r65qxg0fd1d45v",
+      "name": "TAGER",
+      "slug": "tager",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36444,
+      "documentId": "gzfp4915hh30p74p0otk8nng",
+      "name": "VEGA",
+      "slug": "vega",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

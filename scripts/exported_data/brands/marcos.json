@@ -7,7 +7,144 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.908Z",
-  "models": []
+  "modelCount": 17,
+  "exportDate": "2026-01-07T09:17:53.843Z",
+  "models": [
+    {
+      "id": 33146,
+      "documentId": "a89fuullzer6sii9cdd6oflx",
+      "name": "LM",
+      "slug": "lm",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33151,
+      "documentId": "s25ogujkiq1avjy0wu93xyaa",
+      "name": "LM Convertible",
+      "slug": "lm-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33326,
+      "documentId": "r5fmmeuaj8puxnewhzlh5j0b",
+      "name": "MANTA RAY",
+      "slug": "manta-ray",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33327,
+      "documentId": "bmkot76wuyvpcgszvc8289dn",
+      "name": "MANTA RAY Convertible",
+      "slug": "manta-ray-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33328,
+      "documentId": "jj4wnuvgwdpwq3b6s3mhf4mj",
+      "name": "MANTARA Convertible",
+      "slug": "mantara-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33329,
+      "documentId": "xwmznxyjq6v8ojn2tcmrx1q5",
+      "name": "MANTARA Coupe",
+      "slug": "mantara-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33330,
+      "documentId": "bxe4qqgt02imxvdfn4rxp7g8",
+      "name": "MANTIS",
+      "slug": "mantis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33331,
+      "documentId": "sz7rknbaqry10m3bitaj8nnb",
+      "name": "MANTIS Convertible",
+      "slug": "mantis-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33332,
+      "documentId": "vy5af1ausra6g4h74vox5pw2",
+      "name": "MANTULA Convertible",
+      "slug": "mantula-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33333,
+      "documentId": "lq3yxutxvo14dyamliexd9j5",
+      "name": "MANTULA Coupe",
+      "slug": "mantula-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33336,
+      "documentId": "xp5j4ubt4ucgwaqpbxif5x4s",
+      "name": "MARCASITE",
+      "slug": "marcasite",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33357,
+      "documentId": "kgsldfwuvtmwxgzkb916pdll",
+      "name": "MARTINA Convertible",
+      "slug": "martina-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33358,
+      "documentId": "djbrzm86dj40m4zdu07yuluw",
+      "name": "MARTINA Coupe",
+      "slug": "martina-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36164,
+      "documentId": "ih2k90gefbj2nyc2oc9so3uk",
+      "name": "TS 250",
+      "slug": "ts-250",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36166,
+      "documentId": "nx24rdadeg7ql75o94pvaqxy",
+      "name": "TS 500",
+      "slug": "ts-500",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36167,
+      "documentId": "wwu4n7rsnwurjpndf4cfwkt5",
+      "name": "TSO Convertible",
+      "slug": "tso-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36168,
+      "documentId": "dgkvnx7ysthz48swrqw5hfkb",
+      "name": "TSO GT2",
+      "slug": "tso-gt2",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

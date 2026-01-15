@@ -7,7 +7,48 @@
     "vehicle_type": "moto",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.814Z",
-  "models": []
+  "modelCount": 5,
+  "exportDate": "2026-01-07T09:17:53.790Z",
+  "models": [
+    {
+      "id": 35256,
+      "documentId": "u19tobc61d9voouru5ystjqh",
+      "name": "SL 125 Otello (SA7)",
+      "slug": "sl-125-otello-sa7",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35561,
+      "documentId": "h4bm9dueslag60tn1azxf1vp",
+      "name": "SV 125 S3 (SAB)",
+      "slug": "sv-125-s3-sab",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35563,
+      "documentId": "zqmxwe5ilp7hqdtu8h3skwbh",
+      "name": "SV 250 S300 (SZ2)",
+      "slug": "sv-250-s300-sz2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36796,
+      "documentId": "n0bth2bcrxee0zsnswe2od88",
+      "name": "X-Raptor 1000",
+      "slug": "x-raptor-1000",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36806,
+      "documentId": "s83qym5ykzro9vgag5lisjwn",
+      "name": "X-Tra Raptor 1000",
+      "slug": "x-tra-raptor-1000",
+      "vehicle_type": "moto",
+      "isActive": true
+    }
+  ]
 }

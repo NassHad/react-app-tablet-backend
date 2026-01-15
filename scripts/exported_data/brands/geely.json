@@ -7,7 +7,64 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.851Z",
-  "models": []
+  "modelCount": 7,
+  "exportDate": "2026-01-07T09:17:53.809Z",
+  "models": [
+    {
+      "id": 29770,
+      "documentId": "z97ry0717vvr6t7pac4wx1yy",
+      "name": "BOYUE",
+      "slug": "boyue",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30454,
+      "documentId": "rwmwuijsv5hcwwqx5kyv3zko",
+      "name": "CK",
+      "slug": "ck",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32566,
+      "documentId": "hjd9cygkworaae7svscbxmtn",
+      "name": "HQ SRV",
+      "slug": "hq-srv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33581,
+      "documentId": "gp04ha3lfho3ocuq9fl1j1g9",
+      "name": "MK Hatchback",
+      "slug": "mk-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33582,
+      "documentId": "yfmty6ez6ntwsibd5rysjl2u",
+      "name": "MK Saloon",
+      "slug": "mk-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33686,
+      "documentId": "fbn4cj2tp7o3oquj6zrr8fhj",
+      "name": "MR Sedan",
+      "slug": "mr-sedan",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34432,
+      "documentId": "cfn74d37fz8gpzbxirq1yn83",
+      "name": "PU",
+      "slug": "pu",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

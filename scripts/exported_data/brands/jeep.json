@@ -7,8 +7,8 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 20,
-  "exportDate": "2026-01-06T19:34:16.879Z",
+  "modelCount": 30,
+  "exportDate": "2026-01-07T09:17:53.827Z",
   "models": [
     {
       "id": 30371,
@@ -19,10 +19,42 @@
       "isActive": true
     },
     {
+      "id": 30374,
+      "documentId": "eqr8c1i0fawp3b1jog45w69m",
+      "name": "CHEROKEE VAN",
+      "slug": "cherokee-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30453,
+      "documentId": "ts7mcas6hbcgdb10ck6wih7k",
+      "name": "CJ5 - CJ8",
+      "slug": "cj5---cj8",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30507,
+      "documentId": "cuo06piy3nli35vsyf5amjxi",
+      "name": "COMANCHE",
+      "slug": "comanche",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 30527,
       "documentId": "uili1cwxor3vebc3gh03em0s",
       "name": "COMMANDER",
       "slug": "commander",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30528,
+      "documentId": "xcubifz02yvu39ndp2u7650a",
+      "name": "COMMANDER VAN",
+      "slug": "commander-van",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -39,6 +71,14 @@
       "documentId": "sjlokk770uqyg7lkxzzfqa8q",
       "name": "Compass 4xe / Compass",
       "slug": "compass-4xe--compass",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32160,
+      "documentId": "r6wtkm4lxecfsh4wyrm2gj3a",
+      "name": "GLADIATOR Pickup",
+      "slug": "gladiator-pickup",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -71,6 +111,38 @@
       "documentId": "ve1c2wfx4nsmm3sa8q608vvw",
       "name": "GRAND CHEROKEE IV",
       "slug": "grand-cherokee-iv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32247,
+      "documentId": "vyqbm3x6hh36ah2oppz7b5io",
+      "name": "GRAND CHEROKEE L V",
+      "slug": "grand-cherokee-l-v",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32248,
+      "documentId": "x1ifb5s4gyh29au6k2jzdbcr",
+      "name": "GRAND CHEROKEE V",
+      "slug": "grand-cherokee-v",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32249,
+      "documentId": "pe30x3gvhx6720wdfjsw7gu4",
+      "name": "GRAND CHEROKEE VAN",
+      "slug": "grand-cherokee-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32268,
+      "documentId": "jsxxrglzlptflbtrz34g0ddg",
+      "name": "GRAND WAGONEER Closed Off-Road Vehicle",
+      "slug": "grand-wagoneer-closed-off-road-vehicle",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -111,6 +183,14 @@
       "documentId": "ej5nvuvj1n2rkzyoo409qw3q",
       "name": "RENEGADE SUV",
       "slug": "renegade-suv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34722,
+      "documentId": "m9olfs5yzaximgohsx58ssm2",
+      "name": "RENEGADE VAN",
+      "slug": "renegade-van",
       "vehicle_type": "car",
       "isActive": true
     },

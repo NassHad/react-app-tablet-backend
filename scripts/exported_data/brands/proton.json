@@ -7,8 +7,8 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 7,
-  "exportDate": "2026-01-06T19:34:16.955Z",
+  "modelCount": 26,
+  "exportDate": "2026-01-07T09:17:53.868Z",
   "models": [
     {
       "id": 28595,
@@ -23,6 +23,46 @@
       "documentId": "il8l3ivb1tbe0ymeygxd20om",
       "name": "413...420",
       "slug": "413420",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29206,
+      "documentId": "c6v1a9eenzau68gjti2vo5gu",
+      "name": "AEROBACK Hatchback",
+      "slug": "aeroback-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31465,
+      "documentId": "o7k0mjixecij21s52317x398",
+      "name": "EXORA",
+      "slug": "exora",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32122,
+      "documentId": "r094bk5ksqhv8xl5d55etx7k",
+      "name": "GEN 2",
+      "slug": "gen-2",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32648,
+      "documentId": "gba5wh4jgm8mn8oteu0c8ihm",
+      "name": "IMPIAN",
+      "slug": "impian",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32778,
+      "documentId": "ot98jg8qymkfamnt12qdk3gv",
+      "name": "JUMBUCK Pickup",
+      "slug": "jumbuck-pickup",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -51,6 +91,38 @@
       "isActive": true
     },
     {
+      "id": 34264,
+      "documentId": "kymjur0y4c21e52vnisq5u4i",
+      "name": "PERSONA Saloon",
+      "slug": "persona-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34370,
+      "documentId": "ttk2grn6rb8dkloamepxdm4h",
+      "name": "PREV�",
+      "slug": "prev",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34423,
+      "documentId": "dzslu34laokfpl613yucs1u0",
+      "name": "PROTON",
+      "slug": "proton",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34455,
+      "documentId": "pti8llub3kjishfwr9g656ba",
+      "name": "PUTRA Coupe",
+      "slug": "putra-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 34499,
       "documentId": "hl4sd8lhwfeyidpw0g9883xs",
       "name": "Persona",
@@ -63,6 +135,86 @@
       "documentId": "ytbjnfwb2fukiglb4b1zbuoc",
       "name": "Persona Compact",
       "slug": "persona-compact",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34982,
+      "documentId": "ikwcnr9zr36zjvde5m3o5anr",
+      "name": "SAGA Hatchback",
+      "slug": "saga-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34983,
+      "documentId": "nef82swvo6vvs1pqbzfvxzus",
+      "name": "SAGA II Saloon",
+      "slug": "saga-ii-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34984,
+      "documentId": "o70zsxn32ca2u2xg67zhdd4a",
+      "name": "SAGA Saloon",
+      "slug": "saga-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34988,
+      "documentId": "pvt7f7qe61gs379isnclvpwl",
+      "name": "SALOON Saloon",
+      "slug": "saloon-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35030,
+      "documentId": "vhhg7n74lp7st33664acm5ig",
+      "name": "SATRIA",
+      "slug": "satria",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35031,
+      "documentId": "v374ovtgzjn8ggg6pmthdxs1",
+      "name": "SATRIA NEO",
+      "slug": "satria-neo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35034,
+      "documentId": "lmn71thqtvjuxtdgtl2zxtu3",
+      "name": "SAVVY",
+      "slug": "savvy",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35546,
+      "documentId": "h0gvt207mayfwx55czfqbdep",
+      "name": "SUPRIMA S Hatchback",
+      "slug": "suprima-s-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36741,
+      "documentId": "r8vkxd3wpcnbwxadhpq9zpxv",
+      "name": "WIRA",
+      "slug": "wira",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36742,
+      "documentId": "m1hd3wey4xwo47q2khdmsgem",
+      "name": "WIRA Hatchback",
+      "slug": "wira-hatchback",
       "vehicle_type": "car",
       "isActive": true
     }

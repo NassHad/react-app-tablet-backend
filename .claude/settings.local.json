@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl:*)",
+      "Bash(node scripts/check-alfa-romeo-product-availability.js:*)",
+      "Bash(NODE_ENV=production node:*)",
+      "Bash(strapi --version:*)",
+      "Bash(npm run strapi:*)",
+      "Bash(ls:*)",
+      "Bash(grep:*)",
+      "Bash(xargs:*)",
+      "Bash(sqlite3:*)",
+      "Bash(iconv:*)",
+      "Bash(node:*)",
+      "Bash(head:*)",
+      "Bash(find:*)",
+      "Bash(ss:*)",
+      "Bash(cat:*)",
+      "Bash(chmod:*)",
+      "Bash(bash scripts/import-exide-brands-models.sh:*)",
+      "Bash(bash:*)",
+      "Bash(wc:*)",
+      "Bash(du:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

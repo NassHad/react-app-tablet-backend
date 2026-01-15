@@ -7,7 +7,88 @@
     "vehicle_type": "moto",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.850Z",
-  "models": []
+  "modelCount": 10,
+  "exportDate": "2026-01-07T09:17:53.809Z",
+  "models": [
+    {
+      "id": 31254,
+      "documentId": "srlndeqvwxlbegq7bbjlsaz8",
+      "name": "EC 125 (EC)",
+      "slug": "ec-125-ec",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31255,
+      "documentId": "i6wfe7ku9q8rvz5k7lx6vo2e",
+      "name": "EC 200 (EC)",
+      "slug": "ec-200-ec",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31256,
+      "documentId": "kzzm2wm0amtmv8zb4ytesl40",
+      "name": "EC 200 Racing",
+      "slug": "ec-200-racing",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31257,
+      "documentId": "chr929ze4zioow953wiv1x33",
+      "name": "EC 250 (EC)",
+      "slug": "ec-250-ec",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31258,
+      "documentId": "fw95j8ud0ji7ridmv8gc7g41",
+      "name": "EC 250 (FS)",
+      "slug": "ec-250-fs",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31259,
+      "documentId": "q1xqnp59dmp3x7qbb1dsnx8k",
+      "name": "EC 300 (EC)",
+      "slug": "ec-300-ec",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31260,
+      "documentId": "or213a90dnpt0wm05unvha9b",
+      "name": "EC 300 (FS)",
+      "slug": "ec-300-fs",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31261,
+      "documentId": "twom6oxqob3yqy6nij4ve1uz",
+      "name": "EC 300 Racing",
+      "slug": "ec-300-racing",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31262,
+      "documentId": "gphev9nhn7r5l0ho6lvt5sad",
+      "name": "EC 450 (FS)",
+      "slug": "ec-450-fs",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31263,
+      "documentId": "xptehrlnhd6jf4dmlwoi19go",
+      "name": "EC 500 (FS)",
+      "slug": "ec-500-fs",
+      "vehicle_type": "moto",
+      "isActive": true
+    }
+  ]
 }

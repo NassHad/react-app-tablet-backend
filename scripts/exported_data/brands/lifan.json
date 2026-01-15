@@ -7,7 +7,104 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.896Z",
-  "models": []
+  "modelCount": 12,
+  "exportDate": "2026-01-07T09:17:53.839Z",
+  "models": [
+    {
+      "id": 28599,
+      "documentId": "bc7uu074ortwbj74bpkrz356",
+      "name": "320",
+      "slug": "320",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28827,
+      "documentId": "xorfpyo75jx2nkwx9m4wtzfw",
+      "name": "520",
+      "slug": "520",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28829,
+      "documentId": "n54fc9c0prnpt5bky30myt9f",
+      "name": "520i",
+      "slug": "520i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28831,
+      "documentId": "t7wsby3av4wi7ji49xpfjqns",
+      "name": "530",
+      "slug": "530",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28869,
+      "documentId": "s0ew5f350zybmv8rjretm6q2",
+      "name": "620",
+      "slug": "620",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28871,
+      "documentId": "ivql7ksjoes6fm3zws0ss24l",
+      "name": "620 II",
+      "slug": "620-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28902,
+      "documentId": "yyoowiytxhkk0v2ogwwfnv7q",
+      "name": "720",
+      "slug": "720",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28941,
+      "documentId": "i9th83yy1d1qoqgli2bqzvqy",
+      "name": "820",
+      "slug": "820",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33773,
+      "documentId": "qyn8ygstve5h3ek3t9l26rd2",
+      "name": "MYWAY",
+      "slug": "myway",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36819,
+      "documentId": "cdyxnqxuld7lcmrb46h3b81d",
+      "name": "X50",
+      "slug": "x50",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36821,
+      "documentId": "sv2m3qpq0ja0t1a8twgdmx3q",
+      "name": "X60",
+      "slug": "x60",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36828,
+      "documentId": "xk759pt17ygnd5pw45octedd",
+      "name": "X70",
+      "slug": "x70",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

@@ -7,7 +7,56 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.774Z",
-  "models": []
+  "modelCount": 6,
+  "exportDate": "2026-01-07T09:17:53.765Z",
+  "models": [
+    {
+      "id": 32522,
+      "documentId": "q99fgbnh0mxcnvxd1p1xl7rw",
+      "name": "HI-TOPIC",
+      "slug": "hi-topic",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32523,
+      "documentId": "kmwgzweo9lhemsm78x0diinl",
+      "name": "HI-TOPIC Van",
+      "slug": "hi-topic-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34786,
+      "documentId": "n6fn2vg1xjzfox74i74ls1hm",
+      "name": "ROCSTA Closed Off-Road Vehicle",
+      "slug": "rocsta-closed-off-road-vehicle",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34787,
+      "documentId": "lvmdx34ayxg21xmjpqk236m3",
+      "name": "ROCSTA Open Off-Road Vehicle",
+      "slug": "rocsta-open-off-road-vehicle",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36023,
+      "documentId": "eud6zosnzt2oatkkr12q6lx0",
+      "name": "TOWNER Bus",
+      "slug": "towner-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36024,
+      "documentId": "nhiz8f891dzkjy0r4m53u0te",
+      "name": "TOWNER Van",
+      "slug": "towner-van",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

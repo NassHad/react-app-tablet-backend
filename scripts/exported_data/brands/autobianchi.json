@@ -7,7 +7,32 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.777Z",
-  "models": []
+  "modelCount": 3,
+  "exportDate": "2026-01-07T09:17:53.769Z",
+  "models": [
+    {
+      "id": 29054,
+      "documentId": "rv6i54utgmplympilbxrh6py",
+      "name": "A 111",
+      "slug": "a-111",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34385,
+      "documentId": "wabzes2s84eap0boq7flpa2u",
+      "name": "PRIMULA Berlina",
+      "slug": "primula-berlina",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34386,
+      "documentId": "ogztx9h2o46tn3zfkmd1fwu5",
+      "name": "PRIMULA Coupe",
+      "slug": "primula-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

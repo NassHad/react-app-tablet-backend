@@ -7,7 +7,1688 @@
     "vehicle_type": "moto",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.861Z",
-  "models": []
+  "modelCount": 210,
+  "exportDate": "2026-01-07T09:17:53.814Z",
+  "models": [
+    {
+      "id": 31698,
+      "documentId": "ablhbs5jtatu0rtnybuzynam",
+      "name": "FL 1200 Elektra Glide",
+      "slug": "fl-1200-elektra-glide",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31708,
+      "documentId": "ymcey778jvljifdwkpmyuvox",
+      "name": "FLD 1700 (FD2)",
+      "slug": "fld-1700-fd2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31713,
+      "documentId": "cftu9ojsh175ysuibvyvahsq",
+      "name": "FLH 1200 Elektra Glide",
+      "slug": "flh-1200-elektra-glide",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31714,
+      "documentId": "kapydk1tgjxhv1ipzqhrji6v",
+      "name": "FLH 1340 Elektra Glide",
+      "slug": "flh-1340-elektra-glide",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31715,
+      "documentId": "wvnm88ontenw5jlktdzuxeuz",
+      "name": "FLH 1340 Elektra Glide Classic",
+      "slug": "flh-1340-elektra-glide-classic",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31716,
+      "documentId": "xd27b54w04p4qntqsglyyk4b",
+      "name": "FLH-80 1340 Elektra Glide",
+      "slug": "flh-80-1340-elektra-glide",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31717,
+      "documentId": "szeajdiz0jkcqj1vvelv6g38",
+      "name": "FLHP 1700 (FL2)",
+      "slug": "flhp-1700-fl2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31718,
+      "documentId": "aiuiicd8k5pweg4dkzn866av",
+      "name": "FLHP 1700 (FL3)",
+      "slug": "flhp-1700-fl3",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31719,
+      "documentId": "meih2suft85nl5cm0feg80kt",
+      "name": "FLHPI 1450 (FL1)",
+      "slug": "flhpi-1450-fl1",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31720,
+      "documentId": "ewv89mbsk8mmda6h94h7s4bm",
+      "name": "FLHR 1340 Road King",
+      "slug": "flhr-1340-road-king",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31721,
+      "documentId": "cegc2goynqrelt4qjwsasxay",
+      "name": "FLHR 1450 Road King",
+      "slug": "flhr-1450-road-king",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31722,
+      "documentId": "lw5xbv2hcgiznqa4ruufo730",
+      "name": "FLHR 1600",
+      "slug": "flhr-1600",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31723,
+      "documentId": "tx8yxxy385ou352c54t0yiue",
+      "name": "FLHR 1700 (FL2)",
+      "slug": "flhr-1700-fl2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31724,
+      "documentId": "tt59ys4clprhi2ezs0mtc13x",
+      "name": "FLHRC 1600",
+      "slug": "flhrc-1600",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31725,
+      "documentId": "um0j0xkn27lpcu3l1rb2vl0x",
+      "name": "FLHRC 1700 (FL2)",
+      "slug": "flhrc-1700-fl2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31726,
+      "documentId": "gmv6a0f28ik75v0rqlpaby9r",
+      "name": "FLHRC 1700 (FL3)",
+      "slug": "flhrc-1700-fl3",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31727,
+      "documentId": "ori8wa5oq51vsn9w1i5nxe2s",
+      "name": "FLHRCI 1340 EFI",
+      "slug": "flhrci-1340-efi",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31728,
+      "documentId": "nsb3dib0emqbhht2wk3q3yxi",
+      "name": "FLHRCI 1450 EFI",
+      "slug": "flhrci-1450-efi",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31729,
+      "documentId": "jbxopgogazhw2xjscys4hf20",
+      "name": "FLHRI 1340 EFI",
+      "slug": "flhri-1340-efi",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31730,
+      "documentId": "xttpi0j6hovdy9ygkbtu8ify",
+      "name": "FLHRI 1450",
+      "slug": "flhri-1450",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31731,
+      "documentId": "rifp8vahn5khp6jujnx4dr2g",
+      "name": "FLHRS 1600",
+      "slug": "flhrs-1600",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31732,
+      "documentId": "pn1cv1qwkk83zrw6e3qzrmd6",
+      "name": "FLHRSE 1600",
+      "slug": "flhrse-1600",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31733,
+      "documentId": "e5dy7j13hmxl6oe1syfp10r9",
+      "name": "FLHRSE 1800 (FL2)",
+      "slug": "flhrse-1800-fl2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31734,
+      "documentId": "kcjcbq1w8s2nzlw7owotklt5",
+      "name": "FLHRSE 1800 (FL3)",
+      "slug": "flhrse-1800-fl3",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31735,
+      "documentId": "pp554wmh0xpm9b9aoxvi9urm",
+      "name": "FLHRSI 1450",
+      "slug": "flhrsi-1450",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31736,
+      "documentId": "fkoxpycv0wg3qzs2fdlutqxg",
+      "name": "FLHS 1200 E-Glide Sport",
+      "slug": "flhs-1200-e-glide-sport",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31737,
+      "documentId": "c87t0mj2ozeisg3x5zbvxd2o",
+      "name": "FLHS 1340 E-Glide Sport",
+      "slug": "flhs-1340-e-glide-sport",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31738,
+      "documentId": "f1zxznw4lz2n2ww5qnitgxty",
+      "name": "FLHS 1340 Elektra Glide",
+      "slug": "flhs-1340-elektra-glide",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31739,
+      "documentId": "vk24uvygjz6u8seifdob5tnu",
+      "name": "FLHT 1340 Elektra Glide",
+      "slug": "flht-1340-elektra-glide",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31740,
+      "documentId": "ngeraaiw626nqnr89wznqy4i",
+      "name": "FLHT 1450 Elektra Glide",
+      "slug": "flht-1450-elektra-glide",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31741,
+      "documentId": "cnifo3pv4wwkba90k7ke1te4",
+      "name": "FLHT 1600",
+      "slug": "flht-1600",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31742,
+      "documentId": "ctlaf6ysxhevl5h6srbblb8x",
+      "name": "FLHTC 1340 E-Glide Classic",
+      "slug": "flhtc-1340-e-glide-classic",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31743,
+      "documentId": "jald2nvqj1a8hh2vyxdnr8uw",
+      "name": "FLHTC 1340 Elektra Glide",
+      "slug": "flhtc-1340-elektra-glide",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31744,
+      "documentId": "ceqh5jgqhynivqduy2odbjhh",
+      "name": "FLHTC 1450",
+      "slug": "flhtc-1450",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31745,
+      "documentId": "c86u9npbnki5iyz6wi1lekho",
+      "name": "FLHTC 1450 E-Glide Classic",
+      "slug": "flhtc-1450-e-glide-classic",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31746,
+      "documentId": "z5awker0kkpfze5dpv9nat6s",
+      "name": "FLHTC 1600",
+      "slug": "flhtc-1600",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31747,
+      "documentId": "l12lfl9nk6y9ekvpbmodo9zv",
+      "name": "FLHTC 1700 (FL2)",
+      "slug": "flhtc-1700-fl2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31748,
+      "documentId": "wlp751jszxu2dhz6qfmdlpf4",
+      "name": "FLHTCI 1340 EFI",
+      "slug": "flhtci-1340-efi",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31749,
+      "documentId": "zb80823s3tt70vmua6jg4swc",
+      "name": "FLHTCU 1340 Elektra Glide",
+      "slug": "flhtcu-1340-elektra-glide",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31750,
+      "documentId": "eaqlsiqm7tmktwvgvwtlv1c0",
+      "name": "FLHTCU 1600",
+      "slug": "flhtcu-1600",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31751,
+      "documentId": "gy1dms8xxlbyjh0nhdxfcvp0",
+      "name": "FLHTCU 1700 (FL2)",
+      "slug": "flhtcu-1700-fl2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31752,
+      "documentId": "jyt0c2bx97kuxmkguuzfrojz",
+      "name": "FLHTCU 1700 (FL3)",
+      "slug": "flhtcu-1700-fl3",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31753,
+      "documentId": "rkybrgnmo3f6vv4tn58vvy4p",
+      "name": "FLHTCUI 1450 EFI",
+      "slug": "flhtcui-1450-efi",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31754,
+      "documentId": "kesp0c19dzqbnmazt3gqcd1g",
+      "name": "FLHTCUSE 1450",
+      "slug": "flhtcuse-1450",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31755,
+      "documentId": "d2jcg3e1mw274746bzal9yg5",
+      "name": "FLHTCUSE 1600",
+      "slug": "flhtcuse-1600",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31756,
+      "documentId": "f5u99wljf8k1hnvrjskxotm1",
+      "name": "FLHTCUSE 1800 CVO",
+      "slug": "flhtcuse-1800-cvo",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31757,
+      "documentId": "awoa2maij5adj79gr8byw2aw",
+      "name": "FLHTI 1450",
+      "slug": "flhti-1450",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31758,
+      "documentId": "s1zl8ea7owsghfnm29n7hhwm",
+      "name": "FLHTK 1700 (FL3)",
+      "slug": "flhtk-1700-fl3",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31759,
+      "documentId": "jgjnvvdjfoilbo7q4057hmil",
+      "name": "FLHTK 1700 ABS",
+      "slug": "flhtk-1700-abs",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31760,
+      "documentId": "wbvq3yews5v25wwyhdy0ek2c",
+      "name": "FLHTKSE 1800 (FL3)",
+      "slug": "flhtkse-1800-fl3",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31761,
+      "documentId": "qigwdx80zfisc8e99rer2t6d",
+      "name": "FLHTP 1700 (FL2)",
+      "slug": "flhtp-1700-fl2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31762,
+      "documentId": "psdtaj3s061b02gc5nfkc1y5",
+      "name": "FLHTP 1700 (FL3)",
+      "slug": "flhtp-1700-fl3",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31763,
+      "documentId": "ij6bgii3zjc32qnzelgbpwsg",
+      "name": "FLHTU 1340",
+      "slug": "flhtu-1340",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31764,
+      "documentId": "klvaf85n2swqsbk4d1636moj",
+      "name": "FLHTUI 1340 EFI",
+      "slug": "flhtui-1340-efi",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31765,
+      "documentId": "n39eeb8d9no47b7fpti242hj",
+      "name": "FLHX 1600",
+      "slug": "flhx-1600",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31766,
+      "documentId": "aof4568m6liix3pbpyc6d2n3",
+      "name": "FLHX 1700 (FL2)",
+      "slug": "flhx-1700-fl2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31767,
+      "documentId": "frwicw7vise7kk1vl5wektyw",
+      "name": "FLHX 1700 (FL3)",
+      "slug": "flhx-1700-fl3",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31768,
+      "documentId": "fnvl4c7664m3vwhqv3j3tqwa",
+      "name": "FLHXI 1450",
+      "slug": "flhxi-1450",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31769,
+      "documentId": "s8ln3hs4pn39x9b1ihkukwh3",
+      "name": "FLHXSE 1800 (FL2)",
+      "slug": "flhxse-1800-fl2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31772,
+      "documentId": "en7eyaz0co8u15rqrrzrsavj",
+      "name": "FLS 1700 (FS2)",
+      "slug": "fls-1700-fs2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31773,
+      "documentId": "zcl3y0umqho38rv5rbrydlkn",
+      "name": "FLST 1340 Heritage Softail",
+      "slug": "flst-1340-heritage-softail",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31774,
+      "documentId": "f5fcyr9vffal59wfwruw0ond",
+      "name": "FLSTBI 1450",
+      "slug": "flstbi-1450",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31775,
+      "documentId": "brwqmh1w2g5b5rtewrwlvqpr",
+      "name": "FLSTC 1340",
+      "slug": "flstc-1340",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31776,
+      "documentId": "ekkvb1t5ta39ww4kab807tq9",
+      "name": "FLSTC 1450",
+      "slug": "flstc-1450",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31777,
+      "documentId": "lmfcahd0mpw349rk083i20ee",
+      "name": "FLSTC 1600",
+      "slug": "flstc-1600",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31778,
+      "documentId": "wc2x6frktg6tvyjoh8fd8gqo",
+      "name": "FLSTC 1700 (FS2)",
+      "slug": "flstc-1700-fs2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31779,
+      "documentId": "u7vukwmxfidjompye8iu58l2",
+      "name": "FLSTCI 1450",
+      "slug": "flstci-1450",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31780,
+      "documentId": "dunrdlo6ieisibqbso00sss5",
+      "name": "FLSTDI 1450",
+      "slug": "flstdi-1450",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31781,
+      "documentId": "tsi7gggewr2803635nfzrd6d",
+      "name": "FLSTF 1340",
+      "slug": "flstf-1340",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31782,
+      "documentId": "ah0ajbu4ttb4knnubxhz1rgi",
+      "name": "FLSTF 1450",
+      "slug": "flstf-1450",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31783,
+      "documentId": "qw5wguwguwbf46lvpssc8rdj",
+      "name": "FLSTF 1600",
+      "slug": "flstf-1600",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31784,
+      "documentId": "ld6mu4p008zyg8fcrc37ia57",
+      "name": "FLSTF 1700 (FS2)",
+      "slug": "flstf-1700-fs2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31785,
+      "documentId": "vlnj6ftup2btymo3l8a7atpt",
+      "name": "FLSTFB 1600 (FS2)",
+      "slug": "flstfb-1600-fs2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31786,
+      "documentId": "ll5kegxhx9h5ev8uqvuuz6ia",
+      "name": "FLSTFB 1700 (FS2)",
+      "slug": "flstfb-1700-fs2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31787,
+      "documentId": "iblz2z2elzwn1yarirctjlpc",
+      "name": "FLSTFI 1450",
+      "slug": "flstfi-1450",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31788,
+      "documentId": "svw28chr4ta7pxipg3s772g5",
+      "name": "FLSTFSE 1700 Fat Boy Screaming Eagle",
+      "slug": "flstfse-1700-fat-boy-screaming-eagle",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31789,
+      "documentId": "s7nvxnvh1j4ylsyqcrg5l24h",
+      "name": "FLSTFSE2 1700 (FS2)",
+      "slug": "flstfse2-1700-fs2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31790,
+      "documentId": "ctquagweqgpuxdez5yxia5wt",
+      "name": "FLSTI 1450",
+      "slug": "flsti-1450",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31791,
+      "documentId": "njqvjsz5qm9ww1km07pqrinq",
+      "name": "FLSTN 1340 Nostalgia",
+      "slug": "flstn-1340-nostalgia",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31792,
+      "documentId": "avb26pa72mflu341yqr9cgi9",
+      "name": "FLSTN 1340 Special",
+      "slug": "flstn-1340-special",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31793,
+      "documentId": "qjt5cqym719v5ivmwf62krvc",
+      "name": "FLSTN 1600 Special",
+      "slug": "flstn-1600-special",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31794,
+      "documentId": "kngwirgsbuthhpx4kn7s503k",
+      "name": "FLSTN 1700 (FS2)",
+      "slug": "flstn-1700-fs2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31795,
+      "documentId": "ytc4yusktgcrw2kcxah2r80m",
+      "name": "FLSTNI 1450 Special",
+      "slug": "flstni-1450-special",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31796,
+      "documentId": "opotyauxjc93hgdklchf8zt7",
+      "name": "FLSTS 1340 Heritage Springer",
+      "slug": "flsts-1340-heritage-springer",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31797,
+      "documentId": "zku3dn8eelvt6wvpqauvq4at",
+      "name": "FLSTS 1450 Heritage Springer",
+      "slug": "flsts-1450-heritage-springer",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31798,
+      "documentId": "xcm6lawgeuazu2x0asv8wx4a",
+      "name": "FLSTSB 1600 (FS2)",
+      "slug": "flstsb-1600-fs2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31799,
+      "documentId": "rxnbdgzmeu22fdlr54dty5m2",
+      "name": "FLSTSC 1600 Heritage Springer",
+      "slug": "flstsc-1600-heritage-springer",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31800,
+      "documentId": "bh1ua10nwx67kk5ab1he5gr5",
+      "name": "FLSTSCI 1450 Softail Springer Classic",
+      "slug": "flstsci-1450-softail-springer-classic",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31801,
+      "documentId": "fbishsb1qx9k3a90un487hmo",
+      "name": "FLSTSE 1800 (FS2)",
+      "slug": "flstse-1800-fs2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31802,
+      "documentId": "hdii9g3joc6s6vuar8n1q0y9",
+      "name": "FLSTSE2 1800 (FS2)",
+      "slug": "flstse2-1800-fs2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31803,
+      "documentId": "aje586pduljllgnnbq9hyhyn",
+      "name": "FLSTSE3 1800 (FS2)",
+      "slug": "flstse3-1800-fs2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31804,
+      "documentId": "ycbl6ttitped8hox1zc7fajd",
+      "name": "FLT 1340",
+      "slug": "flt-1340",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31805,
+      "documentId": "kuz2hkcgyxe59zm2o1cyb83e",
+      "name": "FLTC 1340 Tour Glide Classic",
+      "slug": "fltc-1340-tour-glide-classic",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31806,
+      "documentId": "qn57u5g9qz9kjf9i6uz4dss6",
+      "name": "FLTRI 1450 Road Glide EFI",
+      "slug": "fltri-1450-road-glide-efi",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31807,
+      "documentId": "rs842yu2ht695l1wvzyaek1i",
+      "name": "FLTRSE 1800 (FL2)",
+      "slug": "fltrse-1800-fl2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31808,
+      "documentId": "t61s4pcuhg9x1gmb1ejm1q4o",
+      "name": "FLTRU 1700 (FL2)",
+      "slug": "fltru-1700-fl2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31809,
+      "documentId": "ksjuq1hy1r2vr7xbp2c1xj0c",
+      "name": "FLTRUSE 1800 (FL2)",
+      "slug": "fltruse-1800-fl2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31810,
+      "documentId": "tylxjli3eq2y533tq7qcpr36",
+      "name": "FLTRX 1600 (FL2)",
+      "slug": "fltrx-1600-fl2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31811,
+      "documentId": "db0j7ipzqd7him0cm2an8msi",
+      "name": "FLTRX 1700 (FL2)",
+      "slug": "fltrx-1700-fl2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31812,
+      "documentId": "wcpz8yldnykfxm1dk7xzrafb",
+      "name": "FLTRXSE 1800 (FL2)",
+      "slug": "fltrxse-1800-fl2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31908,
+      "documentId": "uwhr468jy0t49mvqaelz5ia9",
+      "name": "FXB 1340 Sturgis",
+      "slug": "fxb-1340-sturgis",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31909,
+      "documentId": "fsd16ri4vhbyycuazfackz85",
+      "name": "FXCW 1600 (FS2)",
+      "slug": "fxcw-1600-fs2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31910,
+      "documentId": "aiz7lofqipu402j0yegycfw2",
+      "name": "FXCWC 1600 (FS2)",
+      "slug": "fxcwc-1600-fs2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31911,
+      "documentId": "jkagajv94xfew87cxxq38ty2",
+      "name": "FXD 1340",
+      "slug": "fxd-1340",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31912,
+      "documentId": "ewzp32a9w5z5uwbyr0as4dvv",
+      "name": "FXD 1450",
+      "slug": "fxd-1450",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31913,
+      "documentId": "n26lneh2j4hcnsml1ezlq8jw",
+      "name": "FXD 1600 (FD2)",
+      "slug": "fxd-1600-fd2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31914,
+      "documentId": "l10w50kwiae6lxacz96iw2he",
+      "name": "FXDB 1340 Daytona",
+      "slug": "fxdb-1340-daytona",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31915,
+      "documentId": "fxiz41b4tn4xem9d5yd6gxcn",
+      "name": "FXDB 1600",
+      "slug": "fxdb-1600",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31916,
+      "documentId": "nig0lj2sl3miintg66rjlvrm",
+      "name": "FXDB 1700 (FD2)",
+      "slug": "fxdb-1700-fd2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31917,
+      "documentId": "zuadldldktntx5eegiug1xkc",
+      "name": "FXDBA 1700 (FD2)",
+      "slug": "fxdba-1700-fd2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31918,
+      "documentId": "mgkrmakwosn1r11dj5w8mdyi",
+      "name": "FXDBI 1450",
+      "slug": "fxdbi-1450",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31919,
+      "documentId": "hmq2p6d2xofwt0og9z8dx7kr",
+      "name": "FXDC 1600",
+      "slug": "fxdc-1600",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31920,
+      "documentId": "vihfoo539mexdaj1a5dcjctm",
+      "name": "FXDC 1600 Dyna Glide",
+      "slug": "fxdc-1600-dyna-glide",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31921,
+      "documentId": "xcqxw1j7sgsm0u7nryk02393",
+      "name": "FXDC 1700 (FD2)",
+      "slug": "fxdc-1700-fd2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31922,
+      "documentId": "s3rh1qq5ubkorirjwcmyhbww",
+      "name": "FXDCI 1450 Dyna Glide",
+      "slug": "fxdci-1450-dyna-glide",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31923,
+      "documentId": "qhegx7vchtmwl05p23dgl087",
+      "name": "FXDF 1600",
+      "slug": "fxdf-1600",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31924,
+      "documentId": "h5ifnjqnrcuqipb8421rlwvm",
+      "name": "FXDF 1700 (FD2)",
+      "slug": "fxdf-1700-fd2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31925,
+      "documentId": "ia1kgb7tsvpexz826ak59nft",
+      "name": "FXDFSE 1800 CVO",
+      "slug": "fxdfse-1800-cvo",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31926,
+      "documentId": "vaftcbzco4xp2pxwhaa83f69",
+      "name": "FXDI 35th 1450 Dyna Glide",
+      "slug": "fxdi-35th-1450-dyna-glide",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31927,
+      "documentId": "oc4iyovnixhbus6lfegyhrgy",
+      "name": "FXDL 1340 Dyna Low Rider",
+      "slug": "fxdl-1340-dyna-low-rider",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31928,
+      "documentId": "ja9xtcj09i0o4qmfftsbyo4t",
+      "name": "FXDL 1450 Dyna Low Rider",
+      "slug": "fxdl-1450-dyna-low-rider",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31929,
+      "documentId": "ptozgcnggh58brjtex9foe2s",
+      "name": "FXDL 1600 Dyna Low Rider",
+      "slug": "fxdl-1600-dyna-low-rider",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31930,
+      "documentId": "x0nmyln6qqil166oncz4fnkr",
+      "name": "FXDLI 1450 Dyna Low Rider",
+      "slug": "fxdli-1450-dyna-low-rider",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31931,
+      "documentId": "sctqwsye86c7haeqnkaxp5um",
+      "name": "FXDS-CON 1340 Convertible",
+      "slug": "fxds-con-1340-convertible",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31932,
+      "documentId": "lh9d4gpvncgbi0kqfyhjkalp",
+      "name": "FXDSE 1600 Dyna Screaming Eagle",
+      "slug": "fxdse-1600-dyna-screaming-eagle",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31933,
+      "documentId": "q3hjab7hp4sakgakv8koncfq",
+      "name": "FXDSE 1800 (FD2)",
+      "slug": "fxdse-1800-fd2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31934,
+      "documentId": "tfzbd95mqwl1ogsc2a8i88zz",
+      "name": "FXDWG 1340 Dyna Wide Glide",
+      "slug": "fxdwg-1340-dyna-wide-glide",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31935,
+      "documentId": "u9frcejlvb4nhhj6uzqgqbc6",
+      "name": "FXDWG 1450 Dyna Wide Glide",
+      "slug": "fxdwg-1450-dyna-wide-glide",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31936,
+      "documentId": "b0mj16dszhqvl9k8t351ayao",
+      "name": "FXDWG 1600 Dyna Wide Glide",
+      "slug": "fxdwg-1600-dyna-wide-glide",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31937,
+      "documentId": "k66aanz9jnexbkhf29ma9ac4",
+      "name": "FXDWG 1700 (FD2)",
+      "slug": "fxdwg-1700-fd2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31938,
+      "documentId": "u6p509hvsc71wew6puumda0s",
+      "name": "FXDWGI 1450 Dyna Wide Glide",
+      "slug": "fxdwgi-1450-dyna-wide-glide",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31939,
+      "documentId": "bozgtqvr4qar8xz3y660hb0p",
+      "name": "FXDX 1450 Dyna Glide",
+      "slug": "fxdx-1450-dyna-glide",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31940,
+      "documentId": "b2rbespr7lhfw9oa1j6xtih5",
+      "name": "FXDXI 1450 Dyna Glide",
+      "slug": "fxdxi-1450-dyna-glide",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31941,
+      "documentId": "nbfr7g8fi2pz77ysktadzsf1",
+      "name": "FXDXT 1450 Dyna Glide",
+      "slug": "fxdxt-1450-dyna-glide",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31942,
+      "documentId": "fxzrcb4w60u1695q57ueisok",
+      "name": "FXE 1340 Fat Bob",
+      "slug": "fxe-1340-fat-bob",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31943,
+      "documentId": "sl1gbcr6kifszxrq5zrz63nf",
+      "name": "FXEF 1340 Fat Bob",
+      "slug": "fxef-1340-fat-bob",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31944,
+      "documentId": "li6omavs8xbvqz8ulpovuv8y",
+      "name": "FXLR 1340 Low Rider Custom",
+      "slug": "fxlr-1340-low-rider-custom",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31945,
+      "documentId": "fyy93040qljavwy6n7o4dwy2",
+      "name": "FXR 1340",
+      "slug": "fxr-1340",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31946,
+      "documentId": "pnmx64vp2ac9ujtbe26cs0si",
+      "name": "FXR 1340 II",
+      "slug": "fxr-1340-ii",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31947,
+      "documentId": "nnt7h54k0mpoh3fm5m0nxkix",
+      "name": "FXRDG 1340 Dyna Glide",
+      "slug": "fxrdg-1340-dyna-glide",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31948,
+      "documentId": "vloi6rukuwbjkebijlv7anf1",
+      "name": "FXRS 1340 Low Rider",
+      "slug": "fxrs-1340-low-rider",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31949,
+      "documentId": "tf9hn8wf5numv96ywyuovbkx",
+      "name": "FXRS CON. 1340 Convertible",
+      "slug": "fxrs-con-1340-convertible",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31950,
+      "documentId": "xanshx73isbvvdqfsftmr66w",
+      "name": "FXRS-SP 1340 Sport",
+      "slug": "fxrs-sp-1340-sport",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31951,
+      "documentId": "a8shk6phmeefd0rgxui1ggyt",
+      "name": "FXRT 1340 Touring",
+      "slug": "fxrt-1340-touring",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31952,
+      "documentId": "juvaw3dpj68c9lgplwehaq5i",
+      "name": "FXS 1340 Low Rider",
+      "slug": "fxs-1340-low-rider",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31953,
+      "documentId": "pidn9wc1i3ewupqfkuscy3wq",
+      "name": "FXS 1600 (FS2)",
+      "slug": "fxs-1600-fs2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31954,
+      "documentId": "dern02ymjk14hbkngliao7vm",
+      "name": "FXS 1700 (FS2)",
+      "slug": "fxs-1700-fs2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31955,
+      "documentId": "yasutjk9tb1fr532apthwjgv",
+      "name": "FXSB 1340 Low Rider",
+      "slug": "fxsb-1340-low-rider",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31956,
+      "documentId": "kzlm9s7qrzmazv79xkm3ywj7",
+      "name": "FXSB 1700 (FS2)",
+      "slug": "fxsb-1700-fs2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31957,
+      "documentId": "d8nbf3fyd367k45d4ewwijll",
+      "name": "FXSBSE 1800 (FS2)",
+      "slug": "fxsbse-1800-fs2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31958,
+      "documentId": "x2gc2csudqz5mby1eebxv6ex",
+      "name": "FXST 1340 Softail",
+      "slug": "fxst-1340-softail",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31959,
+      "documentId": "yz59rubbhhlbdfnowoy9rna7",
+      "name": "FXST 1340 Softail 4 Gang-Kicker",
+      "slug": "fxst-1340-softail-4-gang-kicker",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31960,
+      "documentId": "tr4ae6ito3eeqy1tdnezb328",
+      "name": "FXST 1450",
+      "slug": "fxst-1450",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31961,
+      "documentId": "ip6kn4gm0k3eltxm3t5x45g1",
+      "name": "FXST 1600 (FS2)",
+      "slug": "fxst-1600-fs2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31962,
+      "documentId": "gxf9j19768tuupybem55a9na",
+      "name": "FXSTB 1340 Bad Boy",
+      "slug": "fxstb-1340-bad-boy",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31963,
+      "documentId": "ycx4mewe8hdmjnw2rsuxjlqy",
+      "name": "FXSTB 1450 Night Train",
+      "slug": "fxstb-1450-night-train",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31964,
+      "documentId": "kts73d7hm30mcntjy774lceb",
+      "name": "FXSTB 1600 Night Train",
+      "slug": "fxstb-1600-night-train",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31965,
+      "documentId": "t70rb6ac3tpsc526b846klhf",
+      "name": "FXSTBI 1450 Softail Night Train",
+      "slug": "fxstbi-1450-softail-night-train",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31966,
+      "documentId": "qkj52r9bjkqcri0vb0y2e17p",
+      "name": "FXSTBIC 1450 Night Train Custom",
+      "slug": "fxstbic-1450-night-train-custom",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31967,
+      "documentId": "nhw833m8fav4sat9rlo7h6g8",
+      "name": "FXSTBIC 1600 Night Train Custom",
+      "slug": "fxstbic-1600-night-train-custom",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31968,
+      "documentId": "v3v91qd5esiugm7k9tnss2x3",
+      "name": "FXSTC 1340 Custom",
+      "slug": "fxstc-1340-custom",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31969,
+      "documentId": "pmss2zqnpiksgplt8pkx4iqc",
+      "name": "FXSTC 1600 Custom",
+      "slug": "fxstc-1600-custom",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31970,
+      "documentId": "t57gmrqvg4orhmqqhg0y6ter",
+      "name": "FXSTD 1450 Deuce",
+      "slug": "fxstd-1450-deuce",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31971,
+      "documentId": "ns1x8oxcqj0me6kr97c74i1w",
+      "name": "FXSTDI 1450 Deuce",
+      "slug": "fxstdi-1450-deuce",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31972,
+      "documentId": "lpieacub0kstbrka16drfxn4",
+      "name": "FXSTI 1450 Standard",
+      "slug": "fxsti-1450-standard",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31973,
+      "documentId": "iv4jzzq2uxauyzic9abb0jf3",
+      "name": "FXSTS 1340 Softail Springer",
+      "slug": "fxsts-1340-softail-springer",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31974,
+      "documentId": "rqi9cuugjr6yrjswgzo9v121",
+      "name": "FXSTS 1450",
+      "slug": "fxsts-1450",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31975,
+      "documentId": "wc2qavb6sbs6zcgx2ajw0d9x",
+      "name": "FXSTSSE 1600 Softail Screaming Eagle",
+      "slug": "fxstsse-1600-softail-screaming-eagle",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31976,
+      "documentId": "kphishcp5n4ixpz6xdqlw3t2",
+      "name": "FXSTSSE 1800 CVO Soft.Spinger",
+      "slug": "fxstsse-1800-cvo-softspinger",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31977,
+      "documentId": "fzxr674dd0xd9919rnfacm24",
+      "name": "FXWG 1340 Wide Glide",
+      "slug": "fxwg-1340-wide-glide",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34898,
+      "documentId": "gx7gzv5q8fhp4bewlr7w3a4l",
+      "name": "Road Glide 1800 CVO",
+      "slug": "road-glide-1800-cvo",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35664,
+      "documentId": "jrkivu6b38jsdv0vy5rhqlec",
+      "name": "Softtail Convertible 1800 CVO",
+      "slug": "softtail-convertible-1800-cvo",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35749,
+      "documentId": "snn4tb3ywkcv10493nhqkcxg",
+      "name": "Street Glide 1800 CVO",
+      "slug": "street-glide-1800-cvo",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36336,
+      "documentId": "vw82pu3em24wjc7fusuyck1m",
+      "name": "Ultra Classic E.Glide 1800 CVO",
+      "slug": "ultra-classic-eglide-1800-cvo",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36616,
+      "documentId": "vm4ks7lrort72lfiui5qu9t4",
+      "name": "VRSCA 1100 V-Rod",
+      "slug": "vrsca-1100-v-rod",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36617,
+      "documentId": "tsv4f5x0qbjyiqzg61z1bvtb",
+      "name": "VRSCAW 1100 V-Rod",
+      "slug": "vrscaw-1100-v-rod",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36618,
+      "documentId": "sjorai35ev61y9hologwemg7",
+      "name": "VRSCAW 1250",
+      "slug": "vrscaw-1250",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36619,
+      "documentId": "qerhb6kpte4aezalppcctt5t",
+      "name": "VRSCB 1100 V-Rod Black Jack",
+      "slug": "vrscb-1100-v-rod-black-jack",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36620,
+      "documentId": "abb4f2pzupb1dv1j638ydmjo",
+      "name": "VRSCD 1100",
+      "slug": "vrscd-1100",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36621,
+      "documentId": "w6d9o94sesd2xejoyhjhxqwa",
+      "name": "VRSCDX 1100 Night Rod Special",
+      "slug": "vrscdx-1100-night-rod-special",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36622,
+      "documentId": "c9qirghugp7oxotbfhqukgkv",
+      "name": "VRSCDX 1250",
+      "slug": "vrscdx-1250",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36623,
+      "documentId": "ek76h1f7h93fjbblv36um79j",
+      "name": "VRSCF 1250 ABS",
+      "slug": "vrscf-1250-abs",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36624,
+      "documentId": "zc82j612mtce9gozccycnomm",
+      "name": "VRSCR 1100 Street Rod",
+      "slug": "vrscr-1100-street-rod",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36625,
+      "documentId": "orjaiop9d0x8v0wncbyk29g2",
+      "name": "VRSCSE 1100 V-Rod Screaming Eagle",
+      "slug": "vrscse-1100-v-rod-screaming-eagle",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36626,
+      "documentId": "cqmpxp3oe5yst0iiuplhuw9o",
+      "name": "VRSCX 1100",
+      "slug": "vrscx-1100",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36933,
+      "documentId": "vvy271czc0y2b9d93s2r2wyb",
+      "name": "XL 1200 C Sportster Custom",
+      "slug": "xl-1200-c-sportster-custom",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36934,
+      "documentId": "j02ii3b1p31c2iuni9it045c",
+      "name": "XL 1200 L Sportster Low",
+      "slug": "xl-1200-l-sportster-low",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36935,
+      "documentId": "n6ye1n9wflrmk4e4tadvrl8m",
+      "name": "XL 1200 N (XL2)",
+      "slug": "xl-1200-n-xl2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36936,
+      "documentId": "jkch9eq4yec4mf3rqgppkgph",
+      "name": "XL 1200 R Sportster Roadster",
+      "slug": "xl-1200-r-sportster-roadster",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36937,
+      "documentId": "f61fook1eer4oki0mx7xpmiw",
+      "name": "XL 1200 V (XL2)",
+      "slug": "xl-1200-v-xl2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36938,
+      "documentId": "yr3k4si4rnxafza1dnqgzxr0",
+      "name": "XL 1200 X (XL2)",
+      "slug": "xl-1200-x-xl2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36941,
+      "documentId": "ytbetd1ibmfesflnyra85dwh",
+      "name": "XL 53 883 C Sportster Custom",
+      "slug": "xl-53-883-c-sportster-custom",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36942,
+      "documentId": "nuj7h1n7ed6rm21qtnkas00r",
+      "name": "XL 53 883 C Sportster Custom 53",
+      "slug": "xl-53-883-c-sportster-custom-53",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36948,
+      "documentId": "amk17wbb6h9utxm8hxz09cn8",
+      "name": "XL 883 C Sportster Custom",
+      "slug": "xl-883-c-sportster-custom",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36949,
+      "documentId": "qdli1ko94pvug5kvkrio4e40",
+      "name": "XL 883 L Sportster Low",
+      "slug": "xl-883-l-sportster-low",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36950,
+      "documentId": "ynyhgh59rdb26hp8os0fkbvl",
+      "name": "XL 883 N (XL2)",
+      "slug": "xl-883-n-xl2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36951,
+      "documentId": "n2wrdqnscmubz62ei61fgwoh",
+      "name": "XL 883 Spotster",
+      "slug": "xl-883-spotster",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36954,
+      "documentId": "m1u7yl5mxafgg111j6mo0o3t",
+      "name": "XLCH 1000 Sportster",
+      "slug": "xlch-1000-sportster",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36955,
+      "documentId": "h673djy5fwwpi4cr4wpfimvu",
+      "name": "XLH 1000 Sportster",
+      "slug": "xlh-1000-sportster",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36956,
+      "documentId": "log40kzdfc24ww0z8w4f7uou",
+      "name": "XLH 1100",
+      "slug": "xlh-1100",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36957,
+      "documentId": "eyx96wltlpqi1g601cjgzskx",
+      "name": "XLH 1200 Sportster",
+      "slug": "xlh-1200-sportster",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36958,
+      "documentId": "pjehgzc8txhfcuetfzymmo1b",
+      "name": "XLH 883",
+      "slug": "xlh-883",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36959,
+      "documentId": "f2ebukd9we842z11skyr1z89",
+      "name": "XLH 883 Sportster",
+      "slug": "xlh-883-sportster",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36960,
+      "documentId": "oxcb9atvy5ytaci904kwzwx8",
+      "name": "XLH 883 Sportster Deluxe",
+      "slug": "xlh-883-sportster-deluxe",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36961,
+      "documentId": "azhopf9jocrsib4s4pho2vdo",
+      "name": "XLH 883 Sportster Hugger",
+      "slug": "xlh-883-sportster-hugger",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36962,
+      "documentId": "z0irsq7dzq5vh23ao1e951xb",
+      "name": "XLH 883 Sportster Hugger Racing",
+      "slug": "xlh-883-sportster-hugger-racing",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36965,
+      "documentId": "el7woxofj5ss300hie0rzt9a",
+      "name": "XLS 1000 Roadster",
+      "slug": "xls-1000-roadster",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36968,
+      "documentId": "mootgevnnkj7h3a2mv4ycfxr",
+      "name": "XLX-61 1000 Sportster",
+      "slug": "xlx-61-1000-sportster",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36978,
+      "documentId": "tccxsxo3o92iiv93aczonynn",
+      "name": "XR 1200",
+      "slug": "xr-1200",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 37320,
+      "documentId": "lznig9v56bnxncsfb76kplb3",
+      "name": "avec phare double 6",
+      "slug": "avec-phare-double-6",
+      "vehicle_type": "moto",
+      "isActive": true
+    }
+  ]
 }

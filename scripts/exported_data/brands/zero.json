@@ -7,7 +7,32 @@
     "vehicle_type": "moto",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:17.070Z",
-  "models": []
+  "modelCount": 3,
+  "exportDate": "2026-01-07T09:17:53.902Z",
+  "models": [
+    {
+      "id": 37298,
+      "documentId": "phe2bs8zis8veikkzeuwenwo",
+      "name": "Zero DS",
+      "slug": "zero-ds",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 37299,
+      "documentId": "cxc5013hrga05lx6sgskoid9",
+      "name": "Zero FX",
+      "slug": "zero-fx",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 37300,
+      "documentId": "uqez5489oo2bmohj3ei4kp51",
+      "name": "Zero S",
+      "slug": "zero-s",
+      "vehicle_type": "moto",
+      "isActive": true
+    }
+  ]
 }

@@ -7,7 +7,128 @@
     "vehicle_type": "moto",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.785Z",
-  "models": []
+  "modelCount": 15,
+  "exportDate": "2026-01-07T09:17:53.771Z",
+  "models": [
+    {
+      "id": 28750,
+      "documentId": "e5mlfa4mpgt50b54wei4pope",
+      "name": "491 50 ST AC",
+      "slug": "491-50-st-ac",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33211,
+      "documentId": "z3b1l8j5x0txtalxkbr4kf3o",
+      "name": "LX 50",
+      "slug": "lx-50",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33244,
+      "documentId": "ntl17sycapzrdpj9v2o73u9p",
+      "name": "Leoncino 500",
+      "slug": "leoncino-500",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35989,
+      "documentId": "fm2vhy88vzbw7uq5z3bcbup0",
+      "name": "TNT 899 S (TN0200)",
+      "slug": "tnt-899-s-tn0200",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35990,
+      "documentId": "cubvj8e1bctm0jjkra9u19b3",
+      "name": "TNT 899 T (TN0200)",
+      "slug": "tnt-899-t-tn0200",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36247,
+      "documentId": "t147i4eyehgv48ao0rk29x7i",
+      "name": "TnT 1130",
+      "slug": "tnt-1130",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36255,
+      "documentId": "rxa7q790hlfxy5oiu1is0t57",
+      "name": "Tornado 1130",
+      "slug": "tornado-1130",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36258,
+      "documentId": "g2wjjfxocgiyzwrnrclqsg4w",
+      "name": "Tornado 900",
+      "slug": "tornado-900",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36259,
+      "documentId": "bn7vjsvjprwxrxfjz2qnw45o",
+      "name": "Tornado 900 L.E.",
+      "slug": "tornado-900-le",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36260,
+      "documentId": "z8iiaecjp91d71flbqwfthfv",
+      "name": "Tornado 900 RS",
+      "slug": "tornado-900-rs",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36272,
+      "documentId": "se0fsmgcxg1nkt5pj7odwn47",
+      "name": "TreK 1130",
+      "slug": "trek-1130",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36273,
+      "documentId": "ice53mgm115a4q8jon7u96za",
+      "name": "TreK 899 (TK0)",
+      "slug": "trek-899-tk0",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36674,
+      "documentId": "pppdpjb6blp2g0gd50wnunkm",
+      "name": "Velvet 125",
+      "slug": "velvet-125",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36675,
+      "documentId": "abgavqgpkptwj73anxq7if1q",
+      "name": "Velvet 150",
+      "slug": "velvet-150",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36676,
+      "documentId": "mhfi7xdhd6ewy0xk6r1wn003",
+      "name": "Velvet 250",
+      "slug": "velvet-250",
+      "vehicle_type": "moto",
+      "isActive": true
+    }
+  ]
 }

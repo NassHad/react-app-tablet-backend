@@ -7,7 +7,88 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.816Z",
-  "models": []
+  "modelCount": 10,
+  "exportDate": "2026-01-07T09:17:53.791Z",
+  "models": [
+    {
+      "id": 28682,
+      "documentId": "atemkg7ephay678zi5wzylc5",
+      "name": "400-Serie Bus",
+      "slug": "400-serie-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28683,
+      "documentId": "ole7dfg6b8ilwdlkx8o7b504",
+      "name": "400-Serie Van",
+      "slug": "400-serie-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28726,
+      "documentId": "nansqdhtv4ckwoaaymn239f2",
+      "name": "44",
+      "slug": "44",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28727,
+      "documentId": "i603xcdr9zysorxhvspbeil8",
+      "name": "44 Estate",
+      "slug": "44-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28743,
+      "documentId": "lvz6tdah3tk4jet76dxepzsk",
+      "name": "46",
+      "slug": "46",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28744,
+      "documentId": "rwpap4vsboyyf91tbb7bc7hv",
+      "name": "46 Estate",
+      "slug": "46-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28832,
+      "documentId": "woxdspbidiiaufif1sc2dtme",
+      "name": "55",
+      "slug": "55",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28833,
+      "documentId": "pf4owsqgdn4035w6m5dpjbcj",
+      "name": "55 Coupe",
+      "slug": "55-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28834,
+      "documentId": "c1srdmpkhuauettnr9soy53f",
+      "name": "55 Estate",
+      "slug": "55-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28888,
+      "documentId": "zhndczf7hkvo1ytw1mr7jv5g",
+      "name": "66 Coupe",
+      "slug": "66-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

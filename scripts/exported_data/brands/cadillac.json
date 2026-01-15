@@ -7,9 +7,33 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 10,
-  "exportDate": "2026-01-06T19:34:16.801Z",
+  "modelCount": 36,
+  "exportDate": "2026-01-07T09:17:53.779Z",
   "models": [
+    {
+      "id": 29249,
+      "documentId": "b5m7pgpc3cvlmbpvwvmaia1p",
+      "name": "ALLANTE Convertible",
+      "slug": "allante-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29250,
+      "documentId": "qicjvym8og4f2jinw7bcwyqd",
+      "name": "ALLANTE Coupe",
+      "slug": "allante-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29491,
+      "documentId": "zwmi0em7dllx66zimz6pjdvw",
+      "name": "ATS",
+      "slug": "ats",
+      "vehicle_type": "car",
+      "isActive": true
+    },
     {
       "id": 29492,
       "documentId": "fw7hxa41ygzf63oycj0kzw2a",
@@ -19,10 +43,50 @@
       "isActive": true
     },
     {
+      "id": 29493,
+      "documentId": "amvae3lmtefr10k8bbtlzu27",
+      "name": "ATS Coupe",
+      "slug": "ats-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 29736,
       "documentId": "ecrhjdceldlzbpksp2x1omgs",
       "name": "BLS",
       "slug": "bls",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29737,
+      "documentId": "nh26mh1udzi1vipykwlrc4xi",
+      "name": "BLS Wagon",
+      "slug": "bls-wagon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29789,
+      "documentId": "eigjmu0tcsyhhxwvonfcyr2l",
+      "name": "BROUGHAM Saloon",
+      "slug": "brougham-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30389,
+      "documentId": "yypeufo92v5zx3kmx1qcu03d",
+      "name": "CIMARRON Saloon",
+      "slug": "cimarron-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30724,
+      "documentId": "e6xluniwtesc8yttwtmc1kqq",
+      "name": "CT6",
+      "slug": "ct6",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -43,10 +107,98 @@
       "isActive": true
     },
     {
+      "id": 30729,
+      "documentId": "ylgad7ueudyyeji6gk5k6fl6",
+      "name": "CTS Coupe",
+      "slug": "cts-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30730,
+      "documentId": "zojzswe11iy8mr9m9zspaxlu",
+      "name": "CTS Sport Wagon",
+      "slug": "cts-sport-wagon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30987,
+      "documentId": "ckvkxz356jeoahp8jhga6bhd",
+      "name": "DEVILLE",
+      "slug": "deville",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30988,
+      "documentId": "y5m3idfdpbrwbusu0s12cj0r",
+      "name": "DEVILLE Coupe",
+      "slug": "deville-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30989,
+      "documentId": "jhc8sf2fq2smk2xldf382mjg",
+      "name": "DEVILLE Saloon",
+      "slug": "deville-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31124,
+      "documentId": "no929n5c3csbnh07zaez6ie5",
+      "name": "DTS",
+      "slug": "dts",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31125,
+      "documentId": "ee1wd9tj9im8aza6wn9rxbmx",
+      "name": "DTS Estate",
+      "slug": "dts-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31310,
+      "documentId": "x0l5ob0wd2reoixaqi0ghs8i",
+      "name": "ELDORADO Convertible",
+      "slug": "eldorado-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31311,
+      "documentId": "b3pxoo54i3espzblxryf4bmv",
+      "name": "ELDORADO Coupe",
+      "slug": "eldorado-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31319,
+      "documentId": "qhmm2cges4j67c1vpn44c8w7",
+      "name": "ELR",
+      "slug": "elr",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 31362,
       "documentId": "k9mibedtblcb84ze5adlwwsg",
       "name": "ESCALADE",
       "slug": "escalade",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31363,
+      "documentId": "rfsaxjtcei1ojk9oz4y0rp6s",
+      "name": "ESCALADE Crew Cab Pickup",
+      "slug": "escalade-crew-cab-pickup",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -59,10 +211,42 @@
       "isActive": true
     },
     {
+      "id": 31709,
+      "documentId": "e1fik2ojuwqizh5fic33vh25",
+      "name": "FLEETWOOD Coupe",
+      "slug": "fleetwood-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31710,
+      "documentId": "ex7lwtvurm1gxmgiwj7dx16j",
+      "name": "FLEETWOOD Saloon",
+      "slug": "fleetwood-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 35141,
       "documentId": "em6z4sx16nhhx1nf9bz33tb7",
       "name": "SEVILLE",
       "slug": "seville",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35142,
+      "documentId": "saqmjfl2sbysrhvr41rts2h5",
+      "name": "SEVILLE II",
+      "slug": "seville-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35143,
+      "documentId": "rvqmksckihwok9d215exyomg",
+      "name": "SEVILLE Saloon",
+      "slug": "seville-saloon",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -87,6 +271,30 @@
       "documentId": "zyvpkmy0oa2vjbo9qfoldh0m",
       "name": "XLR",
       "slug": "xlr",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37014,
+      "documentId": "tkfqtjngg5nr628n4fnss0z4",
+      "name": "XT4",
+      "slug": "xt4",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37015,
+      "documentId": "adum7ijzdcbd2eppuu66t73c",
+      "name": "XT5",
+      "slug": "xt5",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37019,
+      "documentId": "gjlmwdtcsfulej6ltfget4ql",
+      "name": "XTS",
+      "slug": "xts",
       "vehicle_type": "car",
       "isActive": true
     }

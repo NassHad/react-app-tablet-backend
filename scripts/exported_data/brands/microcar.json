@@ -7,7 +7,80 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.926Z",
-  "models": []
+  "modelCount": 9,
+  "exportDate": "2026-01-07T09:17:53.850Z",
+  "models": [
+    {
+      "id": 31132,
+      "documentId": "ik3d4dybi27q1r4g95relnl2",
+      "name": "DUE",
+      "slug": "due",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31601,
+      "documentId": "z42xzhfefew3n6kt9od2bx66",
+      "name": "F8",
+      "slug": "f8",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31711,
+      "documentId": "kvp0x14wt1ax2pcqmjf24t0l",
+      "name": "FLEX Platform/Chassis",
+      "slug": "flex-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31712,
+      "documentId": "m9yugamcdcjez6621dghbzrt",
+      "name": "FLEX Van",
+      "slug": "flex-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33289,
+      "documentId": "xdvdyv5nfvplo2lfxym010lh",
+      "name": "M.GO",
+      "slug": "m-go",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33415,
+      "documentId": "dhh9ksttaefgs3nxfh5ysx79",
+      "name": "MC 1",
+      "slug": "mc-1",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33417,
+      "documentId": "n5eauauazemwd7duq3bgjw57",
+      "name": "MC 2",
+      "slug": "mc-2",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34102,
+      "documentId": "lilm136c2l9xwyv86qfkmksm",
+      "name": "OPTIMAX",
+      "slug": "optimax",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36500,
+      "documentId": "hl9ixyo66zdwyx51tuospwju",
+      "name": "VIRGO",
+      "slug": "virgo",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

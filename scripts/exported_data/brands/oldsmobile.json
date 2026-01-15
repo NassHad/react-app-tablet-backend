@@ -7,7 +7,72 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.935Z",
-  "models": []
+  "modelCount": 8,
+  "exportDate": "2026-01-07T09:17:53.859Z",
+  "models": [
+    {
+      "id": 28960,
+      "documentId": "t6b0bcpwr2ek0n2nvzxny8eb",
+      "name": "88 Saloon",
+      "slug": "88-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29228,
+      "documentId": "h9lowpptzjfjmt5cwb7y3035",
+      "name": "ALERO Coupe",
+      "slug": "alero-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30745,
+      "documentId": "j9w25aq1hm6jg0jnziaq6ptu",
+      "name": "CUTLASS CIERA Estate",
+      "slug": "cutlass-ciera-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30746,
+      "documentId": "plj7l3czcuwt1p1n2fmejoq1",
+      "name": "CUTLASS SUPREME Convertible",
+      "slug": "cutlass-supreme-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30747,
+      "documentId": "uypxnwii1avduxd62ygs28ts",
+      "name": "CUTLASS SUPREME Coupe",
+      "slug": "cutlass-supreme-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30977,
+      "documentId": "ilxqe28biyc02snb2y2k1p18",
+      "name": "DELTA 88",
+      "slug": "delta-88",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32701,
+      "documentId": "vo99zrouekfmpnx52kqb53pv",
+      "name": "INTRIGUE Saloon",
+      "slug": "intrigue-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35198,
+      "documentId": "ke99iq5zxff6yfev4xt475d7",
+      "name": "SILHOUETTE",
+      "slug": "silhouette",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

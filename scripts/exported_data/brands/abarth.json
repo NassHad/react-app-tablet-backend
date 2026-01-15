@@ -7,8 +7,8 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 4,
-  "exportDate": "2026-01-06T19:34:16.766Z",
+  "modelCount": 5,
+  "exportDate": "2026-01-07T09:17:53.757Z",
   "models": [
     {
       "id": 28770,
@@ -39,6 +39,14 @@
       "documentId": "yh0urpz598bu6f2ctem6wqkw",
       "name": "500C / 595C / 695C",
       "slug": "500c-595c-695c",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28798,
+      "documentId": "fc1k3fvanxwttavvp0tcp6xn",
+      "name": "500E Hatchback",
+      "slug": "500e-hatchback",
       "vehicle_type": "car",
       "isActive": true
     }

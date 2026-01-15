@@ -7,9 +7,41 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 2,
-  "exportDate": "2026-01-06T19:34:16.897Z",
+  "modelCount": 6,
+  "exportDate": "2026-01-07T09:17:53.839Z",
   "models": [
+    {
+      "id": 30543,
+      "documentId": "twb9he74h2woyatf8d1l9s5k",
+      "name": "CONTINENTAL",
+      "slug": "continental",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33583,
+      "documentId": "bco1mbdlernd5ryhalpkefxs",
+      "name": "MKC",
+      "slug": "mkc",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33584,
+      "documentId": "g2odijxydps2cm2ofgunjp2e",
+      "name": "MKX",
+      "slug": "mkx",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33585,
+      "documentId": "e9xjgi5j3kub2g9ay9kqi4j7",
+      "name": "MKZ",
+      "slug": "mkz",
+      "vehicle_type": "car",
+      "isActive": true
+    },
     {
       "id": 33789,
       "documentId": "kgjx9dzllh0iscd6l6lq9ljt",

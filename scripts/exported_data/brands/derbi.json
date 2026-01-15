@@ -7,7 +7,96 @@
     "vehicle_type": "moto",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.823Z",
-  "models": []
+  "modelCount": 11,
+  "exportDate": "2026-01-07T09:17:53.796Z",
+  "models": [
+    {
+      "id": 29879,
+      "documentId": "ycswkefemzkdt6w46a29law2",
+      "name": "Boulevard 125 (BL2)",
+      "slug": "boulevard-125-bl2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29880,
+      "documentId": "pxiyn882tgpjosba77hdytvq",
+      "name": "Boulevard 125 (M57)",
+      "slug": "boulevard-125-m57",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31077,
+      "documentId": "zrqy2fvgj4pr9m4ghvirn3xn",
+      "name": "DRD 125 (DR1)",
+      "slug": "drd-125-dr1",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31078,
+      "documentId": "yaji39a3y11ewn2k2g276w4n",
+      "name": "DRD 125 SM (DR1)",
+      "slug": "drd-125-sm-dr1",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32215,
+      "documentId": "jl6wg8dfphqiv2chqk0pxf0t",
+      "name": "GPR 125 (GS1)",
+      "slug": "gpr-125-gs1",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32216,
+      "documentId": "pl0mjjqbbdzdfqxqkvi459gf",
+      "name": "GPR 125 (RG1)",
+      "slug": "gpr-125-rg1",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34875,
+      "documentId": "lgkymhu01rnp54x4nxitnzpt",
+      "name": "Rambla 125 (RA1)",
+      "slug": "rambla-125-ra1",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34876,
+      "documentId": "sjfjaszyz3iqsxothvyzvyeb",
+      "name": "Rambla 250 (RA1)",
+      "slug": "rambla-250-ra1",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34877,
+      "documentId": "l4iybux971k5b3ss89drg0x6",
+      "name": "Rambla 300 (RA1)",
+      "slug": "rambla-300-ra1",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36545,
+      "documentId": "c60zqbultwtvin1rouj19w5q",
+      "name": "VJF 125 Roadwin (BA8)",
+      "slug": "vjf-125-roadwin-ba8",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36549,
+      "documentId": "hckew0vp3stvzfbvahavq1a2",
+      "name": "VL 125 Z Daystar (BA1)",
+      "slug": "vl-125-z-daystar-ba1",
+      "vehicle_type": "moto",
+      "isActive": true
+    }
+  ]
 }

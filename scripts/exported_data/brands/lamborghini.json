@@ -7,7 +7,208 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.891Z",
-  "models": []
+  "modelCount": 25,
+  "exportDate": "2026-01-07T09:17:53.835Z",
+  "models": [
+    {
+      "id": 29546,
+      "documentId": "nzpimmkci48wet2tqexqsuic",
+      "name": "AVENTADOR Coupe",
+      "slug": "aventador-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29547,
+      "documentId": "w1unhfa3fu719gihkv24et6y",
+      "name": "AVENTADOR Targa",
+      "slug": "aventador-targa",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30326,
+      "documentId": "zdt90wbm9y70enge430s5jh4",
+      "name": "CENTENARIO Coupe",
+      "slug": "centenario-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30327,
+      "documentId": "ql8dxt2llqhg46s1x5qwxuiz",
+      "name": "CENTENARIO Roadster",
+      "slug": "centenario-roadster",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30642,
+      "documentId": "d0i78imfe9u9g8jd7yt4n216",
+      "name": "COUNTACH",
+      "slug": "countach",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30990,
+      "documentId": "ciwwrqve0wvadho6nwxh0gwp",
+      "name": "DIABLO",
+      "slug": "diablo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30991,
+      "documentId": "x059t33baaee6cz62blvjegu",
+      "name": "DIABLO Roadster",
+      "slug": "diablo-roadster",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31402,
+      "documentId": "wwy9rbvxdz59atxv4qs9pecj",
+      "name": "ESPADA",
+      "slug": "espada",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32099,
+      "documentId": "xgwf6yp23eprp6fgtegcfepb",
+      "name": "GALLARDO",
+      "slug": "gallardo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32100,
+      "documentId": "xg2qty4hysv7mus3l1lr6omb",
+      "name": "GALLARDO SPYDER",
+      "slug": "gallardo-spyder",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32581,
+      "documentId": "mt5ckgk3loxipd1rf3w1kaew",
+      "name": "HURAC�N",
+      "slug": "hurac-n",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32582,
+      "documentId": "bam6133sc8k0hayk3wagfucl",
+      "name": "HURAC�N SPYDER",
+      "slug": "hurac-n-spyder",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32753,
+      "documentId": "k3h4248zhylv4768y3r7ofcx",
+      "name": "JALPA",
+      "slug": "jalpa",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32754,
+      "documentId": "k0btwcw4a84i8h1hir73kqki",
+      "name": "JARAMA",
+      "slug": "jarama",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33152,
+      "documentId": "bkx075w10eqsqyjgnx4hb1g2",
+      "name": "LM-001",
+      "slug": "lm-001",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33153,
+      "documentId": "c8o26b27a5fwjuzcbfsw76or",
+      "name": "LM-002",
+      "slug": "lm-002",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33579,
+      "documentId": "f0w4yk5ki3jyrbydxk95w60h",
+      "name": "MIURA",
+      "slug": "miura",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33736,
+      "documentId": "t68v79t8i9zuvowooiv3zvwx",
+      "name": "MURCI�LAGO",
+      "slug": "murci-lago",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33737,
+      "documentId": "uebwcl84vma1mwi0hn653zwu",
+      "name": "MURCI�LAGO Roadster",
+      "slug": "murci-lago-roadster",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34725,
+      "documentId": "ufahakv8i7kemv8i3kj33w7a",
+      "name": "REVENTON",
+      "slug": "reventon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34726,
+      "documentId": "tuvqcr6jz15mx136pdpwa9mh",
+      "name": "REVENTON Convertible",
+      "slug": "reventon-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35177,
+      "documentId": "olo455zdm4lrr7mjvhdkkvim",
+      "name": "SIAN FKP 37 Coupe",
+      "slug": "sian-fkp-37-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36327,
+      "documentId": "npoqzyh0radv0xp82mgw8sng",
+      "name": "URRACO",
+      "slug": "urraco",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36450,
+      "documentId": "cn6fzww0yghm1498avsf6hh3",
+      "name": "VENENO",
+      "slug": "veneno",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36451,
+      "documentId": "wbmrdktvg7skw1ki64blzsrz",
+      "name": "VENENO Targa",
+      "slug": "veneno-targa",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

@@ -1,169 +1,9 @@
 {
   "vehicleType": "car",
   "batchNumber": 4,
-  "totalInBatch": 521,
-  "exportDate": "2026-01-06T19:34:17.144Z",
+  "totalInBatch": 497,
+  "exportDate": "2026-01-07T08:08:51.480Z",
   "models": [
-    {
-      "id": 35511,
-      "documentId": "xy5hikffkyoh1df4c6cxzcwn",
-      "name": "SUNBEAM",
-      "slug": "talbot-sunbeam",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 35512,
-      "documentId": "m1ntrfqxnf98vzoiunua0h0r",
-      "name": "SUNBIRD",
-      "slug": "sunbird",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 35513,
-      "documentId": "f6gyhbxe0muv9ye841fymnao",
-      "name": "SUNFIRE",
-      "slug": "sunfire",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 35514,
-      "documentId": "am6j0kxvcnzvhirdr2is23r1",
-      "name": "SUNFIRE Coupe",
-      "slug": "sunfire-coupe",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 35515,
-      "documentId": "sw84odxajvxmu3zy77yszwhr",
-      "name": "SUNNY Estate Van",
-      "slug": "sunny-estate-van",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 35516,
-      "documentId": "gnmcfyi1shjmligmm4cxt1l6",
-      "name": "SUNNY I",
-      "slug": "sunny-i",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 35517,
-      "documentId": "nhgjqzx07ytrvv7fxrimq151",
-      "name": "SUNNY I Coupe",
-      "slug": "sunny-i-coupe",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 35518,
-      "documentId": "ywc54x0z6k1k9dnur5vzoy7k",
-      "name": "SUNNY I Traveller",
-      "slug": "sunny-i-traveller",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 35519,
-      "documentId": "nrd9fud0bwtdbnsrtxmzgq0q",
-      "name": "SUNNY II",
-      "slug": "sunny-ii",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 35520,
-      "documentId": "k7rgaomsvzommjz1tcpc80h5",
-      "name": "SUNNY II Coupe",
-      "slug": "sunny-ii-coupe",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 35521,
-      "documentId": "texkxxkhl49ae0ky42o80n17",
-      "name": "SUNNY II Hatchback",
-      "slug": "sunny-ii-hatchback",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 35522,
-      "documentId": "s01owybwdurr6zyso0z8azeg",
-      "name": "SUNNY II Traveller",
-      "slug": "sunny-ii-traveller",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 35528,
-      "documentId": "fnqeemtucsw80pzi8mwgqeug",
-      "name": "SUNNY IV Saloon",
-      "slug": "sunny-iv-saloon",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 35529,
-      "documentId": "jxpx96v4yabtl2l1dqorbq1r",
-      "name": "SUNNY Traveller",
-      "slug": "sunny-traveller",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 35532,
-      "documentId": "x8wp7wdph8py3q2tdngapkdc",
-      "name": "SUPER 90",
-      "slug": "super-90",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 35534,
-      "documentId": "qbeg9kzznok7g6bpvx98rx0m",
-      "name": "SUPER CARRY Van",
-      "slug": "super-carry-van",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 35535,
-      "documentId": "fzei8i15sian9ozj196mma1n",
-      "name": "SUPER EIGHT",
-      "slug": "super-eight",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 35536,
-      "documentId": "grqo41sxqy5lz3zuw5pt15r2",
-      "name": "SUPERAMERICA",
-      "slug": "superamerica",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 35542,
-      "documentId": "dqrepmeadczi1eaghfsfkssc",
-      "name": "SUPERB IV",
-      "slug": "superb-iv",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 35543,
-      "documentId": "cqaj9rsodgoc6b4udp5eikwo",
-      "name": "SUPERB IV Estate",
-      "slug": "superb-iv-estate",
-      "vehicle_type": "car",
-      "isActive": true
-    },
     {
       "id": 35544,
       "documentId": "txd5mfythonz9qdip548sase",
@@ -2357,14 +2197,6 @@
       "isActive": true
     },
     {
-      "id": 36420,
-      "documentId": "msoze2z864h5kjsoiw36kopj",
-      "name": "VARIO Van",
-      "slug": "vario-van",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
       "id": 36422,
       "documentId": "g43ghvnkuedxh0o9hsp3zcw1",
       "name": "VECTRA A",
@@ -2801,14 +2633,6 @@
       "documentId": "g0ogq9hemc8zt6s2i7w8w2j2",
       "name": "VITESSE I",
       "slug": "vitesse-i",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 36517,
-      "documentId": "fysyosfq66c27xnozmloskr0",
-      "name": "VITO Mixto",
-      "slug": "vito-mixto",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -4013,14 +3837,6 @@
       "isActive": true
     },
     {
-      "id": 37345,
-      "documentId": "iibq6lg35uynfwpltvw85vz9",
-      "name": "i20 II Hatchback Van",
-      "slug": "i20-ii-hatchback-van",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
       "id": 37350,
       "documentId": "y9ixmswhf7k2d9uij64di7br",
       "name": "i30 - i30 SW",
@@ -4041,14 +3857,6 @@
       "documentId": "wcpjamjzo43pdw7b7ysbwin6",
       "name": "i30 - i30 SW III",
       "slug": "i30---i30-sw-iii",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 37355,
-      "documentId": "cpj83gzbdn7w2azgn5nm3h7l",
-      "name": "i30 FASTBACK",
-      "slug": "i30-fastback",
       "vehicle_type": "car",
       "isActive": true
     },

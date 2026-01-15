@@ -7,7 +7,32 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.778Z",
-  "models": []
+  "modelCount": 3,
+  "exportDate": "2026-01-07T09:17:53.769Z",
+  "models": [
+    {
+      "id": 29078,
+      "documentId": "c6zbt1zwiikzrf0w8zl6lt20",
+      "name": "A3 Closed Off-Road Vehicle",
+      "slug": "a3-closed-off-road-vehicle",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29082,
+      "documentId": "orq3jdpvgidi8lp6qb1kc454",
+      "name": "A3 Open Off-Road Vehicle",
+      "slug": "a3-open-off-road-vehicle",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35339,
+      "documentId": "l33bsgguxe5ifapn2t09c4gu",
+      "name": "SOVAMAG",
+      "slug": "sovamag",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

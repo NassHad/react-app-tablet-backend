@@ -7,7 +7,1696 @@
     "vehicle_type": "moto",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.828Z",
-  "models": []
+  "modelCount": 211,
+  "exportDate": "2026-01-07T09:17:53.801Z",
+  "models": [
+    {
+      "id": 28185,
+      "documentId": "h71uy383iwc5l61lej8isrfo",
+      "name": "1098 1098 (H700)",
+      "slug": "1098-1098-h700",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28186,
+      "documentId": "ta1mx524nltuav9fsfjt6dte",
+      "name": "1098 1098 R (H702)",
+      "slug": "1098-1098-r-h702",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28187,
+      "documentId": "dcozo102val710v6h7wr6f43",
+      "name": "1098 1098 S (H700)",
+      "slug": "1098-1098-s-h700",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28188,
+      "documentId": "bceb6xxsnwhbbasi1lux03nh",
+      "name": "1098 R Bayliss Limited Edition",
+      "slug": "1098-r-bayliss-limited-edition",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28202,
+      "documentId": "ggyunpd72kyhruhcquwtphp3",
+      "name": "1198 1198 (H704/705)",
+      "slug": "1198-1198-h704705",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28203,
+      "documentId": "pqr6kwsiclx7dq25i9wgxc67",
+      "name": "1198 1198 R Corse",
+      "slug": "1198-1198-r-corse",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28204,
+      "documentId": "oikk4yyxyc4wpkvfvh3kb9om",
+      "name": "1198 1198 S Corse",
+      "slug": "1198-1198-s-corse",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28205,
+      "documentId": "i3y71nb7mmxb041slio09msm",
+      "name": "1199 Panigale (H8)",
+      "slug": "1199-panigale-h8",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28214,
+      "documentId": "cnciy4l9i3qqr0s25b0zm9j2",
+      "name": "1200",
+      "slug": "1200",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28216,
+      "documentId": "v15dlgiu6n9secz721q8ry68",
+      "name": "1200 S Granturismo",
+      "slug": "1200-s-granturismo",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28217,
+      "documentId": "kptxom0ychjoo1ijxcnbf08s",
+      "name": "1200 S Pikes Peak",
+      "slug": "1200-s-pikes-peak",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28218,
+      "documentId": "ukcmpolrqx44ys2xrj6pde9p",
+      "name": "1200 S Sport",
+      "slug": "1200-s-sport",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28219,
+      "documentId": "z47magwt4eqj5c45vfp1sgej",
+      "name": "1200 S Touring",
+      "slug": "1200-s-touring",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28259,
+      "documentId": "z3cxba5p6dj3oci7dy29zi8x",
+      "name": "1299 PANIGALE (H9)",
+      "slug": "1299-panigale-h9",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28260,
+      "documentId": "n6wy1z65m7m0wizcpksqycva",
+      "name": "1299 PANIGALE R FE",
+      "slug": "1299-panigale-r-fe",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28261,
+      "documentId": "p0h8kzled4b62wqks434saf9",
+      "name": "1299 Superleggera",
+      "slug": "1299-superleggera",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28913,
+      "documentId": "crjoo2vd23qy418oz80n74qx",
+      "name": "796 (B1)",
+      "slug": "796-b1",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28942,
+      "documentId": "btghkhfe4ydwsbornlnqmeof",
+      "name": "848 850 (H600)",
+      "slug": "848-850-h600",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28943,
+      "documentId": "zpqr8ov1od5hqjrtrwcx5thf",
+      "name": "848 Dark",
+      "slug": "848-dark",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28944,
+      "documentId": "t8o4bx89xjyqhcw657wn5q27",
+      "name": "848 Evo (H6)",
+      "slug": "848-evo-h6",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28945,
+      "documentId": "gomzk47rxse1czd5lu2cbhrt",
+      "name": "848 Evo Corse SE",
+      "slug": "848-evo-corse-se",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28946,
+      "documentId": "vgt7kqzx1ykdkaattvc1qyem",
+      "name": "848 Evo Dark",
+      "slug": "848-evo-dark",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28952,
+      "documentId": "tx2whze93m7tdq2j0o7y5mz3",
+      "name": "851 S (ZDM851S)",
+      "slug": "851-s-zdm851s",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28953,
+      "documentId": "gh5blumeowl700v5685jshat",
+      "name": "851 SP (ZDM851S)",
+      "slug": "851-sp-zdm851s",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28954,
+      "documentId": "u6ey3lmvkdumrhwchpo84qbe",
+      "name": "851 SP II (ZDM851S)",
+      "slug": "851-sp-ii-zdm851s",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28955,
+      "documentId": "hrwk05bq3elqtmt7kuqssldc",
+      "name": "851 SP III (ZDM851S)",
+      "slug": "851-sp-iii-zdm851s",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28956,
+      "documentId": "arx6yo7a8cd9zzhg2zi54vqe",
+      "name": "851 SS (ZDM851S)",
+      "slug": "851-ss-zdm851s",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28957,
+      "documentId": "o7ozin97c2xbqln0bhcy4eyd",
+      "name": "851 Strada (ZDM851S)",
+      "slug": "851-strada-zdm851s",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28958,
+      "documentId": "agrn2vphjlokqheyxqg2kemh",
+      "name": "860 GT",
+      "slug": "860-gt",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28959,
+      "documentId": "yyw0kkyxbdnk653lsrjl5naa",
+      "name": "860 GTS",
+      "slug": "860-gts",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28965,
+      "documentId": "ygyg1wz1cf1yd1pj0ptu3use",
+      "name": "888 SP",
+      "slug": "888-sp",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28966,
+      "documentId": "hrxvudvx3azdu4eqiyaz2of2",
+      "name": "888 SP4 (ZDM888S)",
+      "slug": "888-sp4-zdm888s",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28967,
+      "documentId": "bhtg2v6dbs8sxvzl7fycwoub",
+      "name": "888 SP5 (ZDM888S)",
+      "slug": "888-sp5-zdm888s",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28968,
+      "documentId": "xybqu4qcv0wl16equ1l8wx6l",
+      "name": "888 Strada (ZDM888S)",
+      "slug": "888-strada-zdm888s",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28970,
+      "documentId": "a11tyxcgo9ov01zxnc21kp2c",
+      "name": "899 Panigale",
+      "slug": "899-panigale",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28971,
+      "documentId": "eyj5u1z61zde9wdxdbol6lsa",
+      "name": "899 Panigali (H80)",
+      "slug": "899-panigali-h80",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28999,
+      "documentId": "o2tc8udgb09ie56fsr8fbbwy",
+      "name": "900 GT",
+      "slug": "900-gt",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29006,
+      "documentId": "p9oq27plxijbh1v10zja2k7m",
+      "name": "900 S II",
+      "slug": "900-s-ii",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29010,
+      "documentId": "acu7sxu3f9v41cbaxis3sm65",
+      "name": "907 ie",
+      "slug": "907-ie",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29018,
+      "documentId": "lt89sq2ylu1yfgkv53eh2e2r",
+      "name": "916 SP (916)",
+      "slug": "916-sp-916",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29019,
+      "documentId": "a7bw9s061jfoilr3boay0n38",
+      "name": "916 SPS 996 (H1)",
+      "slug": "916-sps-996-h1",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29042,
+      "documentId": "qpgbo9tqwt9ngs65j5yf3mxi",
+      "name": "959 Panigale (HA)",
+      "slug": "959-panigale-ha",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29053,
+      "documentId": "s5clgce2z8j22fptmct3ja4s",
+      "name": "< 2004",
+      "slug": "2004",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29844,
+      "documentId": "apjjxmnojiosk4sx08xks5vl",
+      "name": "Bi/Monop. 748 S (748)",
+      "slug": "bimonop-748-s-748",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29845,
+      "documentId": "j235vtmmp49ygcjv41mrx5qv",
+      "name": "Bi/Monop. 748 S (H3)",
+      "slug": "bimonop-748-s-h3",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29846,
+      "documentId": "cb6dsgckbca51lljj29rx0c8",
+      "name": "Bi/Monop. 749 S",
+      "slug": "bimonop-749-s",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29847,
+      "documentId": "ipg5h8wj5puiwooxkbshc0lb",
+      "name": "Bi/Monop. 749 S (H5)",
+      "slug": "bimonop-749-s-h5",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29848,
+      "documentId": "yf2675im3qmvedyszy2umwqa",
+      "name": "Bi/Monop. 996 (H2)",
+      "slug": "bimonop-996-h2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29849,
+      "documentId": "givy8f2rzqv5ve5stbcuqk9l",
+      "name": "Bi/Monop. 998 (H2)",
+      "slug": "bimonop-998-h2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29850,
+      "documentId": "xxr7tyal7xkws6bdxblgvl2q",
+      "name": "Bi/Monop. 998 S (H2)",
+      "slug": "bimonop-998-s-h2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29851,
+      "documentId": "twsfdnv1b5godh6nhk42q01q",
+      "name": "Bi/Monop. 999",
+      "slug": "bimonop-999",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29852,
+      "documentId": "o6unaiwuhi7y1x2uj7uchn6j",
+      "name": "Bi/Monop. 999 S",
+      "slug": "bimonop-999-s",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29855,
+      "documentId": "ali571u39bamu69p8w97dpej",
+      "name": "Biposto 748 (748)",
+      "slug": "biposto-748-748",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29856,
+      "documentId": "byovyy4ocxowaue4do61t25t",
+      "name": "Biposto 748 (H3)",
+      "slug": "biposto-748-h3",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29857,
+      "documentId": "zzcebeiwvlvypbgzbvstoi0z",
+      "name": "Biposto 749",
+      "slug": "biposto-749",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29858,
+      "documentId": "mz4v6fvep8ttg6yzdhvanka4",
+      "name": "Biposto 749 (H5)",
+      "slug": "biposto-749-h5",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29859,
+      "documentId": "k7ekjha3gn50qzz8ri0vjh72",
+      "name": "Biposto 916 (916)",
+      "slug": "biposto-916-916",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 30993,
+      "documentId": "xyvja5rv5uwu1jzoqyo0vbx7",
+      "name": "DIAVEL 1260",
+      "slug": "diavel-1260",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31080,
+      "documentId": "o570y5m6w94lh3nh2e1jsd5c",
+      "name": "DS 1000",
+      "slug": "ds-1000",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31081,
+      "documentId": "cf1wlasyn2olp1qbv65y6gva",
+      "name": "DS 1000 S",
+      "slug": "ds-1000-s",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31180,
+      "documentId": "oey46bfqp6pz6lzbaogrb26c",
+      "name": "Desmosedici 1000 RR",
+      "slug": "desmosedici-1000-rr",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31181,
+      "documentId": "m03qsp70j8uv0ake1ms09xrx",
+      "name": "Diavel",
+      "slug": "diavel",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31182,
+      "documentId": "t22ot6kp47u4f2j9hdts7ckj",
+      "name": "Diavel (GA)",
+      "slug": "diavel-ga",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31183,
+      "documentId": "uqag6u9slq2k5jmp9s4vb776",
+      "name": "Diavel (GC)",
+      "slug": "diavel-gc",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31184,
+      "documentId": "vp1uq94a7gwe26huvholywph",
+      "name": "Diavel 1198 (G1)",
+      "slug": "diavel-1198-g1",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31185,
+      "documentId": "umhts287vyq0tjzb68gs1t1j",
+      "name": "Diavel AMG",
+      "slug": "diavel-amg",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31186,
+      "documentId": "d3ymigf7njbfvwa2akhluk3r",
+      "name": "Diavel Carbon (GC)",
+      "slug": "diavel-carbon-gc",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31187,
+      "documentId": "k53uujhg8f83128cl8w47j2p",
+      "name": "Diavel Cromo",
+      "slug": "diavel-cromo",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31188,
+      "documentId": "d1fqxirz0fh2yb45re42wc7p",
+      "name": "Diavel Dark",
+      "slug": "diavel-dark",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31189,
+      "documentId": "mo3xmwj3jkz4wkk7mvqrzpk6",
+      "name": "Diavel Diesel",
+      "slug": "diavel-diesel",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31190,
+      "documentId": "mzezzb3oyu2my0s8urojq5ev",
+      "name": "Diavel S (GA)",
+      "slug": "diavel-s-ga",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31191,
+      "documentId": "lw4ery6odutqyjf8mxhntwp3",
+      "name": "Diavel Strada",
+      "slug": "diavel-strada",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31523,
+      "documentId": "it6expzioycbaj1w117i591w",
+      "name": "Eppella 125",
+      "slug": "eppella-125",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31524,
+      "documentId": "hgkz43540ft4xykrm0w5crl1",
+      "name": "Eppella 125 1Z",
+      "slug": "eppella-125-1z",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31525,
+      "documentId": "k1lkuwu4erz3ad6jsaebgkvv",
+      "name": "Eppella 125 2Z",
+      "slug": "eppella-125-2z",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32018,
+      "documentId": "pagjnafzy2ost2xapzle1r6z",
+      "name": "Firejet 100",
+      "slug": "firejet-100",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32019,
+      "documentId": "abhxz3ezmehvk656d2q35uls",
+      "name": "Firejet 25",
+      "slug": "firejet-25",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32020,
+      "documentId": "kpxxgkmqpkk7grmtai3hovex",
+      "name": "Firejet 50",
+      "slug": "firejet-50",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32403,
+      "documentId": "y26x6va4kj0evrhoxia85ngn",
+      "name": "GT 1000",
+      "slug": "gt-1000",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32404,
+      "documentId": "i3wzelqqb2y7uy02e9ybtcr5",
+      "name": "GT 1000 Touring (C103)",
+      "slug": "gt-1000-touring-c103",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32422,
+      "documentId": "sxnqlli5ibb4p7gt366lthkg",
+      "name": "GTL 350",
+      "slug": "gtl-350",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32423,
+      "documentId": "bhzd65yz32e2g77ogzbymlvs",
+      "name": "GTL 500 (DM500GT)",
+      "slug": "gtl-500-dm500gt",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32448,
+      "documentId": "l9sbv9ky477dj4uxugd1v86y",
+      "name": "GTV 350",
+      "slug": "gtv-350",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32449,
+      "documentId": "kn38hiu3ptcsd7eylq6gqppr",
+      "name": "GTV 500 (DM500GT)",
+      "slug": "gtv-500-dm500gt",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32599,
+      "documentId": "qvquggg33gtkvqoajmk05af5",
+      "name": "Hypermotard 1100",
+      "slug": "hypermotard-1100",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32600,
+      "documentId": "n3nxdaq840nk0cizusdtjg1y",
+      "name": "Hypermotard 1100 1098",
+      "slug": "hypermotard-1100-1098",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32601,
+      "documentId": "cfweox1m2lelelap0mxi14g7",
+      "name": "Hypermotard 1100 1098 S",
+      "slug": "hypermotard-1100-1098-s",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32602,
+      "documentId": "sjifutflwd8qg4sm050485s7",
+      "name": "Hypermotard 1100 Evo (B100)",
+      "slug": "hypermotard-1100-evo-b100",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32603,
+      "documentId": "umi32x8b2rad19cdihzievbz",
+      "name": "Hypermotard 796",
+      "slug": "hypermotard-796",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32604,
+      "documentId": "viszynfyrq4a571bvjjfcecp",
+      "name": "Hypermotard 821 (B20)",
+      "slug": "hypermotard-821-b20",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32605,
+      "documentId": "jyq74m6mip8o5u8akb6mxn2i",
+      "name": "Hypermotard 939 (BA)",
+      "slug": "hypermotard-939-ba",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32606,
+      "documentId": "t0nj5gf2z1fp2aa7ieky0ssx",
+      "name": "Hypermotard 939 SP (BA)",
+      "slug": "hypermotard-939-sp-ba",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32607,
+      "documentId": "y0arjl8918hh0vgfq7fbe58r",
+      "name": "Hypermotard 950",
+      "slug": "hypermotard-950",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32608,
+      "documentId": "oi4cihcnz0n55xhr0xurqj0z",
+      "name": "Hypermotard 950 SP",
+      "slug": "hypermotard-950-sp",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32609,
+      "documentId": "jku2tlvild6ukikgm649pxwi",
+      "name": "Hyperstrada 821 (B20)",
+      "slug": "hyperstrada-821-b20",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32729,
+      "documentId": "i8z9icnn5qgr2k661l9efsok",
+      "name": "Indiana 650",
+      "slug": "indiana-650",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32730,
+      "documentId": "ej5awvutng7mdgv35ijj0crb",
+      "name": "Indiana 750",
+      "slug": "indiana-750",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33513,
+      "documentId": "zjqpeac16xdfixdje3m7sz2z",
+      "name": "MH 900 E (V3)",
+      "slug": "mh-900-e-v3",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33808,
+      "documentId": "z3w6ik2yrly6k5m7d3rlh6fq",
+      "name": "Mille 1000 MHR",
+      "slug": "mille-1000-mhr",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33809,
+      "documentId": "arklzweg3ap144zeaytqwuem",
+      "name": "Mille 1000 S2",
+      "slug": "mille-1000-s2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33824,
+      "documentId": "eiwhqr3a46ng454308jcxq2g",
+      "name": "Monop. 748 R (H3)",
+      "slug": "monop-748-r-h3",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33825,
+      "documentId": "vop8272d034gtzwj9awfeh3j",
+      "name": "Monop. 748 SP",
+      "slug": "monop-748-sp",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33826,
+      "documentId": "z2lqz1pnhsl1gil8dj74zwhh",
+      "name": "Monop. 748 SPS",
+      "slug": "monop-748-sps",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33827,
+      "documentId": "gppua22e95vrhb0ote55ruyy",
+      "name": "Monop. 749 R",
+      "slug": "monop-749-r",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33828,
+      "documentId": "lfik5bw9ccbclbjd14tl5fjy",
+      "name": "Monop. 996 R (H2)",
+      "slug": "monop-996-r-h2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33829,
+      "documentId": "ksh2qxzd6o4sc7c2mvxjei4x",
+      "name": "Monop. 996 SPS (H1)",
+      "slug": "monop-996-sps-h1",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33830,
+      "documentId": "nizu7d7x5t8wvgceq919zmcj",
+      "name": "Monop. 999 R",
+      "slug": "monop-999-r",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33831,
+      "documentId": "xg9yxeytxfbtb3lopexq0cvv",
+      "name": "Monop. 999 R (H4)",
+      "slug": "monop-999-r-h4",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33832,
+      "documentId": "u8rj9z7di7ppx2th6mkxv4kv",
+      "name": "Monster",
+      "slug": "monster",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33833,
+      "documentId": "zswgbnnaggak0nhcqgnm5o22",
+      "name": "Monster 1000 S ie",
+      "slug": "monster-1000-s-ie",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33834,
+      "documentId": "rndl1lvzmy51bh5p1nee4a9q",
+      "name": "Monster 1000 S2R",
+      "slug": "monster-1000-s2r",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33835,
+      "documentId": "ud3bzcvqssgidjxvq68anlzx",
+      "name": "Monster 1000 S4R",
+      "slug": "monster-1000-s4r",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33836,
+      "documentId": "tro60y710x5uogpiivyr73bk",
+      "name": "Monster 1000 S4R (4417)",
+      "slug": "monster-1000-s4r-4417",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33837,
+      "documentId": "j1qhbq53r4ir9es2zvsozg05",
+      "name": "Monster 1000 S4R (M405)",
+      "slug": "monster-1000-s4r-m405",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33838,
+      "documentId": "p076lvx0o694nvymdxllggsq",
+      "name": "Monster 1000 S4RS",
+      "slug": "monster-1000-s4rs",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33839,
+      "documentId": "psnyevee4sfdi2udz42rrlfo",
+      "name": "Monster 1000 ie",
+      "slug": "monster-1000-ie",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33840,
+      "documentId": "br2b09pit0p20qi5bdls6o5j",
+      "name": "Monster 1000 ie (M401)",
+      "slug": "monster-1000-ie-m401",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33841,
+      "documentId": "m7rhrnq8oe5eprcivut8wsov",
+      "name": "Monster 1100 (M502)",
+      "slug": "monster-1100-m502",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33842,
+      "documentId": "u0qtiepmjyxsq4qr150mshnv",
+      "name": "Monster 1100 Evo (M5)",
+      "slug": "monster-1100-evo-m5",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33843,
+      "documentId": "grv68210vfk4peuf3ydopxcj",
+      "name": "Monster 1100 S (M502)",
+      "slug": "monster-1100-s-m502",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33844,
+      "documentId": "d85wdqlscn0tfq2xrov3wtca",
+      "name": "Monster 1200 (M6)",
+      "slug": "monster-1200-m6",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33845,
+      "documentId": "c5jy81s4yotm5mo0t5yh9954",
+      "name": "Monster 1200 (MA)",
+      "slug": "monster-1200-ma",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33846,
+      "documentId": "qht12cbhp8p3t2gq5n3lnz56",
+      "name": "Monster 1200 R (MA)",
+      "slug": "monster-1200-r-ma",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33847,
+      "documentId": "eg3ju9qb65m1w7ls3pl5dgip",
+      "name": "Monster 1200 S",
+      "slug": "monster-1200-s",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33848,
+      "documentId": "bfsvffwyskh1jkj1t38xo26z",
+      "name": "Monster 400 (M4)",
+      "slug": "monster-400-m4",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33849,
+      "documentId": "myjtt9ch7rwco5wdqqxyddg9",
+      "name": "Monster 600 (M)",
+      "slug": "monster-600-m",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33850,
+      "documentId": "wijl03fdzywmgqtwg54ry30o",
+      "name": "Monster 600 (M3)",
+      "slug": "monster-600-m3",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33851,
+      "documentId": "b4ve6e4a3byryhat9brea2vl",
+      "name": "Monster 620",
+      "slug": "monster-620",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33852,
+      "documentId": "t3xcev4qhm26xkrndytjjje8",
+      "name": "Monster 620 (M4)",
+      "slug": "monster-620-m4",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33853,
+      "documentId": "guc3v0sf0mr5w78yz11pvv3k",
+      "name": "Monster 620 S (M4)",
+      "slug": "monster-620-s-m4",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33854,
+      "documentId": "vja4dbs6xb6a9jfa5rvmylac",
+      "name": "Monster 659 (M5)",
+      "slug": "monster-659-m5",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33855,
+      "documentId": "h6hefs8u5230sqfom75cjsxa",
+      "name": "Monster 695",
+      "slug": "monster-695",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33856,
+      "documentId": "h9hzhv554dlblc3akz3qducg",
+      "name": "Monster 696 (M500)",
+      "slug": "monster-696-m500",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33857,
+      "documentId": "rc3lx50uh1kj45aw4lkqo3nu",
+      "name": "Monster 750 (M)",
+      "slug": "monster-750-m",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33858,
+      "documentId": "sjyvn0glazuz2agy9v1at42g",
+      "name": "Monster 750 (M1)",
+      "slug": "monster-750-m1",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33859,
+      "documentId": "z3uf20ynau0t5oz68m8arwpk",
+      "name": "Monster 750 ie (M4)",
+      "slug": "monster-750-ie-m4",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33860,
+      "documentId": "ya63a4e461kc878j9ygqdpq3",
+      "name": "Monster 796",
+      "slug": "monster-796",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33861,
+      "documentId": "b3mddmberl92jkobqguylgwk",
+      "name": "Monster 797",
+      "slug": "monster-797",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33862,
+      "documentId": "d9zqgx32inlzrtupm34jy9ci",
+      "name": "Monster 797 (ME)",
+      "slug": "monster-797-me",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33863,
+      "documentId": "vju4l9wnyczz16tz7s9f42ko",
+      "name": "Monster 800 (M4)",
+      "slug": "monster-800-m4",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33864,
+      "documentId": "f2pd09a0lyxro6vfv6gcj92o",
+      "name": "Monster 800 S (M4)",
+      "slug": "monster-800-s-m4",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33865,
+      "documentId": "wbc5l565pobur55pu4nehi2i",
+      "name": "Monster 800 S2R",
+      "slug": "monster-800-s2r",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33866,
+      "documentId": "on7opn3uyewb6dd5rkgpi87x",
+      "name": "Monster 800 S2R (M421)",
+      "slug": "monster-800-s2r-m421",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33867,
+      "documentId": "apa7a1ag9kp4vox4wwmhjikg",
+      "name": "Monster 821 (M6)",
+      "slug": "monster-821-m6",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33868,
+      "documentId": "hauymriflzexqu9t8u3o9rc9",
+      "name": "Monster 821 (M7)",
+      "slug": "monster-821-m7",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33869,
+      "documentId": "ncrn6olvq3hxrud4ub28ti9v",
+      "name": "Monster 821 (MH)",
+      "slug": "monster-821-mh",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33870,
+      "documentId": "hqy69y6gwa5d6twe0mhzuhp8",
+      "name": "Monster 900 (M)",
+      "slug": "monster-900-m",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33871,
+      "documentId": "o0az9ru1328u69nt3c9avuws",
+      "name": "Monster 900 S (M)",
+      "slug": "monster-900-s-m",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33872,
+      "documentId": "ca25wxvd1oaq77jmf0be3nsy",
+      "name": "Monster 900 S ie (M2)",
+      "slug": "monster-900-s-ie-m2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33873,
+      "documentId": "lebixuwlf07tqfdgz3jtru6u",
+      "name": "Monster 900 ie (M2)",
+      "slug": "monster-900-ie-m2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33874,
+      "documentId": "jsukb6u27l75i9q3qo1e2jru",
+      "name": "Monster 916 S4 (M4)",
+      "slug": "monster-916-s4-m4",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33883,
+      "documentId": "dsa7q2vtjtwd2c34hzq5hzw5",
+      "name": "Multistrada 1100",
+      "slug": "multistrada-1100",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33884,
+      "documentId": "m5ozi7c7u8nlt5vx8rrhslv1",
+      "name": "Multistrada 1100 S",
+      "slug": "multistrada-1100-s",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33885,
+      "documentId": "t3k6mt2xxfpt64vb0k0ny290",
+      "name": "Multistrada 1200",
+      "slug": "multistrada-1200",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33886,
+      "documentId": "b37yhh55jroe5y299u10vmef",
+      "name": "Multistrada 1200 Enduro",
+      "slug": "multistrada-1200-enduro",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33887,
+      "documentId": "qa7px79usysvybwruk8en72n",
+      "name": "Multistrada 1200 Enduro Pro",
+      "slug": "multistrada-1200-enduro-pro",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33888,
+      "documentId": "br45aef7tf8wugpeup4dhmma",
+      "name": "Multistrada 1200 S",
+      "slug": "multistrada-1200-s",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33889,
+      "documentId": "uv0tzfeqlisor22hwwzj0hso",
+      "name": "Multistrada 1200 S (A2)",
+      "slug": "multistrada-1200-s-a2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33890,
+      "documentId": "nq3i3jhm6fvaosum7g85ib9a",
+      "name": "Multistrada 1260",
+      "slug": "multistrada-1260",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33891,
+      "documentId": "kx3eperyoiwjybbk4tmb5vh8",
+      "name": "Multistrada 1260 D-Air",
+      "slug": "multistrada-1260-d-air",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33892,
+      "documentId": "rs38xtjnoauasihe4pjd0yov",
+      "name": "Multistrada 1260 Pikes Peak",
+      "slug": "multistrada-1260-pikes-peak",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33893,
+      "documentId": "jy4dotoevwa62h059k8ruwy4",
+      "name": "Multistrada 1260 S",
+      "slug": "multistrada-1260-s",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33894,
+      "documentId": "gu6jf74iwwxhryxlpe8navoa",
+      "name": "Multistrada 620",
+      "slug": "multistrada-620",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33895,
+      "documentId": "kl9haxoc7etvayygg6n7ofpq",
+      "name": "Multistrada 950 (AA)",
+      "slug": "multistrada-950-aa",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33896,
+      "documentId": "g6rel7vrypf6hu5zms9dkq2s",
+      "name": "Multistrada 950 S (AD)",
+      "slug": "multistrada-950-s-ad",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34183,
+      "documentId": "mv0e4y62lbaehr4gtv27i9u4",
+      "name": "PANIGALE V4 R (DA)",
+      "slug": "panigale-v4-r-da",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34184,
+      "documentId": "fg142kurl4n4b98d3v7qxce3",
+      "name": "PANIGALE V4 S (DA)",
+      "slug": "panigale-v4-s-da",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34473,
+      "documentId": "qj8ogozfqlo6ukiijya5158f",
+      "name": "Paso 750",
+      "slug": "paso-750",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34478,
+      "documentId": "rwgl9lslxzrwdji5rd1wseqp",
+      "name": "Paul Smart 1000",
+      "slug": "paul-smart-1000",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34505,
+      "documentId": "ew1qzpozp90g9bswyjei94hb",
+      "name": "Portedefolio 1100 S",
+      "slug": "portedefolio-1100-s",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34939,
+      "documentId": "gctwnwtcshuflmilmiqbbw0v",
+      "name": "S Sport 620 ie (V5)",
+      "slug": "s-sport-620-ie-v5",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34940,
+      "documentId": "d9ry79xc5dugtz9lqu1d5s7j",
+      "name": "S Sport 750 ie (V2)",
+      "slug": "s-sport-750-ie-v2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34941,
+      "documentId": "olw2w1h5eh3vfymuo8ng3big",
+      "name": "S Sport 800 ie (V5)",
+      "slug": "s-sport-800-ie-v5",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35262,
+      "documentId": "ehatbpdex6v72bukvrty2exc",
+      "name": "SL 900 (S)",
+      "slug": "sl-900-s",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35263,
+      "documentId": "hsur2en6ku6aj7wrx5fxl9mc",
+      "name": "SL 900 (ZDM906SC/2/3)",
+      "slug": "sl-900-zdm906sc23",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35439,
+      "documentId": "e86enokafi4udjbftp61o0bv",
+      "name": "SS 1000 DS",
+      "slug": "ss-1000-ds",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35440,
+      "documentId": "uq6nr6atbk9982ijzmy5evm9",
+      "name": "SS 1000 DS ie",
+      "slug": "ss-1000-ds-ie",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35441,
+      "documentId": "ob4pl0zx8owj17biksoy36if",
+      "name": "SS 1000 ie (V5)",
+      "slug": "ss-1000-ie-v5",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35442,
+      "documentId": "kik5wuns8s5puduqkk4mcdu5",
+      "name": "SS 350 (ZDM350J)",
+      "slug": "ss-350-zdm350j",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35443,
+      "documentId": "a1q0t4p7kc0tk2vvi5dbj07a",
+      "name": "SS 400 (ZDM400J)",
+      "slug": "ss-400-zdm400j",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35444,
+      "documentId": "zous7gjqx37jj0s9r17dlqgi",
+      "name": "SS 600 (S)",
+      "slug": "ss-600-s",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35445,
+      "documentId": "y2t3a7df5s3od8pickwnizbt",
+      "name": "SS 750",
+      "slug": "ss-750",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35446,
+      "documentId": "qopv923fzebcbvu4kr8trd1e",
+      "name": "SS 750 (S)",
+      "slug": "ss-750-s",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35447,
+      "documentId": "xyt6s0x0bnmztwtedlstefup",
+      "name": "SS 750 (ZDM750SC)",
+      "slug": "ss-750-zdm750sc",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35448,
+      "documentId": "fz7cztppnmox106w4ng9vmi4",
+      "name": "SS 750 ie (V2)",
+      "slug": "ss-750-ie-v2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35449,
+      "documentId": "zjrrarpso7hzjfr1w8wq9fj1",
+      "name": "SS 800 ie (V5)",
+      "slug": "ss-800-ie-v5",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35450,
+      "documentId": "gke6mirkc90irxslww590toy",
+      "name": "SS 900",
+      "slug": "ss-900",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35451,
+      "documentId": "ff35qppq96e2u8s32slmwdaj",
+      "name": "SS 900 (S)",
+      "slug": "ss-900-s",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35452,
+      "documentId": "c5gi01n0s7v1ertw6sr6dafp",
+      "name": "SS 900 (ZDM906SC2)",
+      "slug": "ss-900-zdm906sc2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35453,
+      "documentId": "k0qpvd62aql2g8qrebe3l4dx",
+      "name": "SS 900 FE (S)",
+      "slug": "ss-900-fe-s",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35454,
+      "documentId": "mhiq1qgvvzrjx913m2mri2tz",
+      "name": "SS 900 MHR",
+      "slug": "ss-900-mhr",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35455,
+      "documentId": "yx651cl2s22yy7k9kr763pe8",
+      "name": "SS 900 MHR II",
+      "slug": "ss-900-mhr-ii",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35456,
+      "documentId": "kogtfyj6yadi1yp3wgon30qb",
+      "name": "SS 900 ie (V1)",
+      "slug": "ss-900-ie-v1",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35461,
+      "documentId": "njx7isckzh68ef0du6799z05",
+      "name": "ST2 944 (S1)",
+      "slug": "st2-944-s1",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35462,
+      "documentId": "egjv3dyflbtu26vkoppmsman",
+      "name": "ST3 992",
+      "slug": "st3-992",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35463,
+      "documentId": "gbudueaievd86av5skm84thi",
+      "name": "ST3 992 S",
+      "slug": "st3-992-s",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35464,
+      "documentId": "wctq9qknlnvlmdb8o8okgdvu",
+      "name": "ST4 916 (S2)",
+      "slug": "st4-916-s2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35465,
+      "documentId": "hnpa77qjavp1rd0x1mvwydy1",
+      "name": "ST4S 996",
+      "slug": "st4s-996",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35466,
+      "documentId": "tu06jd6pgqojyn7h1a3lfhli",
+      "name": "ST4S 996 ABS",
+      "slug": "st4s-996-abs",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35632,
+      "documentId": "n99lw0f0pjcjf7u4klf6df12",
+      "name": "Scrambler",
+      "slug": "scrambler",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35638,
+      "documentId": "odel36c7fcie179xvui0hz5j",
+      "name": "Senna 916 I (916)",
+      "slug": "senna-916-i-916",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35639,
+      "documentId": "zy7qu2sdqztjsvbg4mooquvm",
+      "name": "Senna 916 II (916)",
+      "slug": "senna-916-ii-916",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35640,
+      "documentId": "p59x0lgnflrtgphmxiv64izb",
+      "name": "Senna 916 III (916)",
+      "slug": "senna-916-iii-916",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35707,
+      "documentId": "m1khy30iadgz46k7xq39ph5s",
+      "name": "Sport 1000",
+      "slug": "sport-1000",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35708,
+      "documentId": "oibawymj1s2ijphxaid19qxw",
+      "name": "Sport 1000 S",
+      "slug": "sport-1000-s",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35754,
+      "documentId": "et4woi35o9ip2j1brbj8b912",
+      "name": "Streetfighter 1100 (F100AA)",
+      "slug": "streetfighter-1100-f100aa",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35755,
+      "documentId": "rbq5owpukrndl7vvyvsir29c",
+      "name": "Streetfighter 848",
+      "slug": "streetfighter-848",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35770,
+      "documentId": "evck1t1wf7ihtp4ik07sbl0v",
+      "name": "SuperSport",
+      "slug": "supersport",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35772,
+      "documentId": "uc8e1o5k0x4g8bwwzmfv3hlf",
+      "name": "Superbike",
+      "slug": "superbike",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36671,
+      "documentId": "f567llf7r4jatr2aro28qs0i",
+      "name": "Variant",
+      "slug": "variant",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36672,
+      "documentId": "fw35j6gdm7wiw6pf8f8uedo1",
+      "name": "Variant 125 Sport (SG0)",
+      "slug": "variant-125-sport-sg0",
+      "vehicle_type": "moto",
+      "isActive": true
+    }
+  ]
 }

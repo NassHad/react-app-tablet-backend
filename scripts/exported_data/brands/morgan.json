@@ -7,7 +7,96 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.930Z",
-  "models": []
+  "modelCount": 11,
+  "exportDate": "2026-01-07T09:17:53.853Z",
+  "models": [
+    {
+      "id": 28514,
+      "documentId": "s654seo6g32z6rt2wbp69b3h",
+      "name": "3-WHEELER",
+      "slug": "3-wheeler",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29203,
+      "documentId": "jm0rbcf9gf32fdvycp3z43mc",
+      "name": "AERO 8 Convertible",
+      "slug": "aero-8-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29204,
+      "documentId": "x7sincdcamcfeucwgilskuyb",
+      "name": "AERO Coupe",
+      "slug": "aero-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29205,
+      "documentId": "eary66rjygvsxlujwvholdbg",
+      "name": "AERO SUPERSPORTS",
+      "slug": "aero-supersports",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29207,
+      "documentId": "w7npi1bes8rtzhs5gs18em2i",
+      "name": "AEROMAX Coupe",
+      "slug": "aeromax-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31424,
+      "documentId": "ji9yv5ormdggfefjg0r983ij",
+      "name": "EVA",
+      "slug": "eva",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31857,
+      "documentId": "nefnlcfjiyv3xeaz5r4kqk6e",
+      "name": "FOUR FOUR",
+      "slug": "four-four",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34303,
+      "documentId": "fuz9laeb0g3jykxrom6wtimk",
+      "name": "PLUS EIGHT",
+      "slug": "plus-eight",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34304,
+      "documentId": "h5rohddwjlcr35sqktimwgn7",
+      "name": "PLUS FOUR",
+      "slug": "plus-four",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34305,
+      "documentId": "zla8or3cfffdybwsdy1g1g8m",
+      "name": "PLUS SIX",
+      "slug": "plus-six",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34776,
+      "documentId": "uwo2gb4tscxbhz6uq471jque",
+      "name": "ROADSTER Convertible",
+      "slug": "roadster-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

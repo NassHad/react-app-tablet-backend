@@ -7,8 +7,8 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 102,
-  "exportDate": "2026-01-06T19:34:16.920Z",
+  "modelCount": 105,
+  "exportDate": "2026-01-07T09:17:53.847Z",
   "models": [
     {
       "id": 28234,
@@ -127,6 +127,14 @@
       "documentId": "fhk40fmrhn8zqmdyw1c5mjpn",
       "name": "CITAN Combi",
       "slug": "citan-combi",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30396,
+      "documentId": "s57vvumwtaroi16eqi2aiccl",
+      "name": "CITAN Mixto",
+      "slug": "citan-mixto",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -755,6 +763,14 @@
       "isActive": true
     },
     {
+      "id": 36420,
+      "documentId": "msoze2z864h5kjsoiw36kopj",
+      "name": "VARIO Van",
+      "slug": "vario-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 36421,
       "documentId": "lxftv73klf0m70hawiur52m2",
       "name": "VARIO Van (B667, B670,",
@@ -775,6 +791,14 @@
       "documentId": "e2yzeueh3j0qh8k0xak67oa3",
       "name": "VITO / MIXTO Van",
       "slug": "vito-mixto-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36517,
+      "documentId": "fysyosfq66c27xnozmloskr0",
+      "name": "VITO Mixto",
+      "slug": "vito-mixto",
       "vehicle_type": "car",
       "isActive": true
     },

@@ -7,8 +7,8 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 22,
-  "exportDate": "2026-01-06T19:34:16.807Z",
+  "modelCount": 42,
+  "exportDate": "2026-01-07T09:17:53.787Z",
   "models": [
     {
       "id": 28516,
@@ -35,10 +35,26 @@
       "isActive": true
     },
     {
+      "id": 28543,
+      "documentId": "uatzws0ur2173uk6yanl5jqg",
+      "name": "300C Touring",
+      "slug": "300c-touring",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 28544,
       "documentId": "jg3zemkw5zx5ue3r7fb5hx0k",
       "name": "300M",
       "slug": "300m",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30385,
+      "documentId": "vb1nnz999zotx0ydervu275a",
+      "name": "CHRYSLER",
+      "slug": "chrysler",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -59,10 +75,26 @@
       "isActive": true
     },
     {
+      "id": 30952,
+      "documentId": "w8hhzi2i52367ltaq68c88hi",
+      "name": "DAYTONA Coupe",
+      "slug": "daytona-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 31178,
       "documentId": "bovtpvphncfwm7dlbifjaqqz",
       "name": "Delta",
       "slug": "delta",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32266,
+      "documentId": "a1dbo5tt7m8eyixg3fxpy9lh",
+      "name": "GRAND VOYAGER III VAN",
+      "slug": "grand-voyager-iii-van",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -75,10 +107,58 @@
       "isActive": true
     },
     {
+      "id": 33074,
+      "documentId": "d9kw3lvj9pr69egdv0hzwkwk",
+      "name": "LE BARON Convertible",
+      "slug": "le-baron-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33075,
+      "documentId": "vqni3matj83vjas8ppmhzabl",
+      "name": "LE BARON Coupe",
+      "slug": "le-baron-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33076,
+      "documentId": "uzu66tg010w13ysgmd2d3vfd",
+      "name": "LE BARON Estate",
+      "slug": "le-baron-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33077,
+      "documentId": "smexfz6faph427fu27y7zru0",
+      "name": "LE BARON Hatchback",
+      "slug": "le-baron-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33078,
+      "documentId": "aamj6uprlzqup0no02p0rix1",
+      "name": "LE BARON Saloon",
+      "slug": "le-baron-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 33934,
       "documentId": "qctwyfuj9yxd1usgymjqok9l",
       "name": "NEW YORKER",
       "slug": "new-yorker",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34149,
+      "documentId": "a9mrmdhh8ygix9j5cqz9g43t",
+      "name": "PACIFICA",
+      "slug": "pacifica",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -91,10 +171,26 @@
       "isActive": true
     },
     {
+      "id": 34430,
+      "documentId": "tzvntccdggvpusjl9ifqluz6",
+      "name": "PT CRUISER Combi Van",
+      "slug": "pt-cruiser-combi-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 34431,
       "documentId": "pk9pf39q44pa8607icup6h88",
       "name": "PT CRUISER Convertible",
       "slug": "pt-cruiser-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35028,
+      "documentId": "i968icfw2pt6pd5dh3k2oh4h",
+      "name": "SARATOGA",
+      "slug": "saratoga",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -111,6 +207,22 @@
       "documentId": "e4cyc09610uu2vhr9hx7y1r8",
       "name": "SEBRING Convertible",
       "slug": "sebring-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35098,
+      "documentId": "y4ggskv48b7rn47eknzrmvom",
+      "name": "SEBRING Coupe",
+      "slug": "sebring-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35099,
+      "documentId": "byszed3wjnizz91m5zcg8bja",
+      "name": "SEBRING Saloon",
+      "slug": "sebring-saloon",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -147,6 +259,38 @@
       "isActive": true
     },
     {
+      "id": 36603,
+      "documentId": "baq11jmp6oj2lkiy0cbyii36",
+      "name": "VOYAGER / GRAND VOYAGER II",
+      "slug": "voyager-grand-voyager-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36604,
+      "documentId": "kqnpe5pdg4gohkcwxphqogsh",
+      "name": "VOYAGER / GRAND VOYAGER III",
+      "slug": "voyager-grand-voyager-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36605,
+      "documentId": "va8kp9idixg5i8wld8npv44y",
+      "name": "VOYAGER / GRAND VOYAGER IV",
+      "slug": "voyager-grand-voyager-iv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36607,
+      "documentId": "yqorv3zm79a49g0pfxml6svz",
+      "name": "VOYAGER I",
+      "slug": "voyager-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 36608,
       "documentId": "npvvval555s1n005jn1u3i7m",
       "name": "VOYAGER II",
@@ -155,10 +299,26 @@
       "isActive": true
     },
     {
+      "id": 36609,
+      "documentId": "r24pdqbbrzt3z20lpuvawyfz",
+      "name": "VOYAGER III VAN",
+      "slug": "voyager-iii-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 36610,
       "documentId": "wkunrat3psyatv33d3a8x542",
       "name": "VOYAGER IV",
       "slug": "voyager-iv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36611,
+      "documentId": "bwx8beipz24pt4e5j7zhmtw7",
+      "name": "VOYAGER IV VAN",
+      "slug": "voyager-iv-van",
       "vehicle_type": "car",
       "isActive": true
     },

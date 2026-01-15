@@ -7,7 +7,32 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.822Z",
-  "models": []
+  "modelCount": 3,
+  "exportDate": "2026-01-07T09:17:53.796Z",
+  "models": [
+    {
+      "id": 33175,
+      "documentId": "tyv3rzbtqp1h4b7red7va47g",
+      "name": "LONGCHAMP",
+      "slug": "longchamp",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33176,
+      "documentId": "a8spm7b36wp5o6ltgjh18cph",
+      "name": "LONGCHAMP Convertible",
+      "slug": "longchamp-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34185,
+      "documentId": "dlzjnntxca1rf7x2aqlvl60x",
+      "name": "PANTERA",
+      "slug": "pantera",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

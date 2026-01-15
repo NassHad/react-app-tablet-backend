@@ -7,7 +7,240 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.824Z",
-  "models": []
+  "modelCount": 29,
+  "exportDate": "2026-01-07T09:17:53.797Z",
+  "models": [
+    {
+      "id": 29536,
+      "documentId": "idtt69bmt6is73hljs52bo2d",
+      "name": "AVENGER Coupe",
+      "slug": "avenger-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30086,
+      "documentId": "e8cp0jdlejry0pzenhe7s2nu",
+      "name": "CALIBER",
+      "slug": "dodge-caliber",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30356,
+      "documentId": "hs73c7fw3ojs62cr4e89k4nt",
+      "name": "CHALLENGER Coupe",
+      "slug": "challenger-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30938,
+      "documentId": "w9mvthiab9i8fmn0pipdlksb",
+      "name": "DART",
+      "slug": "dodge-dart",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32241,
+      "documentId": "am8q6mbgq2cry76lu5kb94uy",
+      "name": "GRAND CARAVAN",
+      "slug": "grand-caravan",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32242,
+      "documentId": "mp15hnrnq4kflird0uujroy5",
+      "name": "GRAND CARAVAN Mini Passenger Van",
+      "slug": "grand-caravan-mini-passenger-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32700,
+      "documentId": "ft4y9ghvue7g535uwv90jqoy",
+      "name": "INTREPID",
+      "slug": "intrepid",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32772,
+      "documentId": "z1g18i6156m3624stobz4rem",
+      "name": "JOURNEY",
+      "slug": "dodge-journey",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32773,
+      "documentId": "sf1pv1nwcxbv0b5a3m7icqw3",
+      "name": "JOURNEY VAN",
+      "slug": "journey-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33942,
+      "documentId": "ngta039r6l824lxedo7peqnp",
+      "name": "NITRO VAN",
+      "slug": "nitro-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34629,
+      "documentId": "pay6qf1cqxfgeivlx9xeybhq",
+      "name": "RAM 1500 Crew Cab Pickup",
+      "slug": "ram-1500-crew-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34630,
+      "documentId": "la4bpiamvaijsgbx5uvo54eb",
+      "name": "RAM 1500 Extended Crew Cab Pickup",
+      "slug": "ram-1500-extended-crew-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34631,
+      "documentId": "tddqosstrim3r7zapczj7isu",
+      "name": "RAM 1500 Pickup",
+      "slug": "ram-1500-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34632,
+      "documentId": "aarg1m21o2dwaosn4xyid19s",
+      "name": "RAM 1500 Standard Cab Pickup",
+      "slug": "ram-1500-standard-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34633,
+      "documentId": "umwy08v08q5e6to7qq12wms9",
+      "name": "RAM 2500 Cab & Chassis",
+      "slug": "ram-2500-cab-and-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34634,
+      "documentId": "wlfjhyfdb5c16kwwo10f3dv2",
+      "name": "RAM 2500 Crew Cab Pickup",
+      "slug": "ram-2500-crew-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34635,
+      "documentId": "zxgfnfm49ynip5e8myl9kpxu",
+      "name": "RAM 2500 Extended Crew Cab Pickup",
+      "slug": "ram-2500-extended-crew-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34636,
+      "documentId": "pbscjii3sg9o7gebfn13t3ua",
+      "name": "RAM 2500 Pickup",
+      "slug": "ram-2500-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34637,
+      "documentId": "sg1stxhnvez5dtxpbeopxye5",
+      "name": "RAM 2500 Standard Cab Pickup",
+      "slug": "ram-2500-standard-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34638,
+      "documentId": "l5ua7evphjc4ozqj85o86ctn",
+      "name": "RAM 3500 Crew Cab Pickup",
+      "slug": "ram-3500-crew-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34639,
+      "documentId": "ae8avy50xpxokazy86dmxo6i",
+      "name": "RAM 3500 Extended Crew Cab Pickup",
+      "slug": "ram-3500-extended-crew-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34640,
+      "documentId": "gfxh4dvs6hncs7smij7ikfdf",
+      "name": "RAM 3500 Pickup",
+      "slug": "ram-3500-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34641,
+      "documentId": "re14uflar5doczie04wj7mcp",
+      "name": "RAM 3500 Standard Cab Pickup",
+      "slug": "ram-3500-standard-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34642,
+      "documentId": "azwie5caexgx1slosnt0rjmt",
+      "name": "RAM Van",
+      "slug": "ram-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35480,
+      "documentId": "z6u6y052kg1qhj2qt10t8550",
+      "name": "STEALTH Hatchback",
+      "slug": "stealth-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35501,
+      "documentId": "cg6r5rvyrj2oshhnp8v81qh6",
+      "name": "STRATUS Coupe",
+      "slug": "stratus-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35502,
+      "documentId": "jyom98fs6rfcf8irtoxj92l6",
+      "name": "STRATUS II",
+      "slug": "stratus-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36493,
+      "documentId": "aba44q8fy9febuqnhvzswvbx",
+      "name": "VIPER Convertible",
+      "slug": "viper-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36494,
+      "documentId": "io3ywvnh5b5oi3m2l2vwu8a0",
+      "name": "VIPER Coupe",
+      "slug": "viper-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

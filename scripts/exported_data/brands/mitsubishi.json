@@ -7,8 +7,8 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 92,
-  "exportDate": "2026-01-06T19:34:16.928Z",
+  "modelCount": 170,
+  "exportDate": "2026-01-07T09:17:53.852Z",
   "models": [
     {
       "id": 28526,
@@ -75,6 +75,30 @@
       "isActive": true
     },
     {
+      "id": 30498,
+      "documentId": "klhww5xez8z5jaw0894zaevy",
+      "name": "COLT Hatchback Van",
+      "slug": "colt-hatchback-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30499,
+      "documentId": "kqv5k2o7c3b4hxbht7j2tlux",
+      "name": "COLT I",
+      "slug": "colt-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30500,
+      "documentId": "mtw1th62o4hwt8agb57h2vz0",
+      "name": "COLT II",
+      "slug": "colt-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 30501,
       "documentId": "v67v3wu3mw9pmo7zdlcvry99",
       "name": "COLT III",
@@ -103,6 +127,22 @@
       "documentId": "gcrhc9acpvtluer5zff587x5",
       "name": "COLT VI",
       "slug": "colt-vi",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30506,
+      "documentId": "vfguv3qdxllq392a566hlf3h",
+      "name": "COLT VII Hatchback",
+      "slug": "colt-vii-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30554,
+      "documentId": "x70jekz453w6iyexukanclgq",
+      "name": "CORDIA",
+      "slug": "cordia",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -155,10 +195,34 @@
       "isActive": true
     },
     {
+      "id": 30974,
+      "documentId": "ey7g1mypshlvtmtey423jby9",
+      "name": "DELICA / SPACE GEAR",
+      "slug": "delica-space-gear",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30992,
+      "documentId": "jvbwej20bnjdnnqq5b6oo240",
+      "name": "DIAMANTE II Saloon",
+      "slug": "diamante-ii-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 31271,
       "documentId": "nfnm8xujbhvzz2k9hrr3ejo0",
       "name": "ECLIPSE CROSS",
       "slug": "eclipse-cross",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31272,
+      "documentId": "qnfg8i7bkt6jxudywevbxguu",
+      "name": "ECLIPSE Convertible",
+      "slug": "eclipse-convertible",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -179,6 +243,38 @@
       "isActive": true
     },
     {
+      "id": 31275,
+      "documentId": "mbrea8hl0ow20dnqisvu8cc7",
+      "name": "ECLIPSE III",
+      "slug": "eclipse-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31276,
+      "documentId": "hclxg3tij4wnss6l0g9i7bou",
+      "name": "ECLIPSE IV",
+      "slug": "eclipse-iv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31277,
+      "documentId": "ylr07mfruakhp15hk0uevpua",
+      "name": "ECLIPSE IV Convertible",
+      "slug": "eclipse-iv-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31326,
+      "documentId": "sfhliqj9ua8jckc77urgegha",
+      "name": "ENDEAVOR",
+      "slug": "endeavor",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 31501,
       "documentId": "m7w8ufhc4pam1sqblncb0ln6",
       "name": "Eclipse",
@@ -195,6 +291,54 @@
       "isActive": true
     },
     {
+      "id": 31887,
+      "documentId": "cgr0gln687pm9m6q0xfmrl0r",
+      "name": "FTO Coupe",
+      "slug": "fto-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32076,
+      "documentId": "uzrd8vloi3816ca4bmhk98yj",
+      "name": "GALANT III",
+      "slug": "galant-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32077,
+      "documentId": "uch8p5oscnsl2r09nu2p76sp",
+      "name": "GALANT III Station Wagon",
+      "slug": "galant-iii-station-wagon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32078,
+      "documentId": "s0g41vtv2zr1q1xt58fqmx2r",
+      "name": "GALANT IV",
+      "slug": "galant-iv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32079,
+      "documentId": "xeu1cg2k9ca48myibnyho8cx",
+      "name": "GALANT IV Station Wagon",
+      "slug": "galant-iv-station-wagon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32080,
+      "documentId": "y58nouivegexqk0zpj9ojlrq",
+      "name": "GALANT IX Saloon",
+      "slug": "galant-ix-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 32081,
       "documentId": "lcaigcjug05dfyb6xt3dsevp",
       "name": "GALANT IX Saloon (DJ_,",
@@ -203,10 +347,50 @@
       "isActive": true
     },
     {
+      "id": 32082,
+      "documentId": "puch6atgs1k5h5dt9jvq9pq5",
+      "name": "GALANT V",
+      "slug": "galant-v",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32083,
+      "documentId": "tnw1xvqdaj857q2fm4ufhi4o",
+      "name": "GALANT VI",
+      "slug": "galant-vi",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32084,
+      "documentId": "cy9urramfzqzcgr99dkmeipc",
+      "name": "GALANT VI Saloon",
+      "slug": "galant-vi-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32085,
+      "documentId": "p7ff8z7j8d0bi90i4cj5kv0b",
+      "name": "GALANT VII",
+      "slug": "galant-vii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 32086,
       "documentId": "dqf94wgl6v8nhynnqqdf6v9a",
       "name": "GALANT VII (E5_A, E7_A,",
       "slug": "galant-vii-e5a-e7a",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32087,
+      "documentId": "dkfvsa19z0cp3y32ixd3icva",
+      "name": "GALANT VII Saloon",
+      "slug": "galant-vii-saloon",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -243,6 +427,14 @@
       "isActive": true
     },
     {
+      "id": 32102,
+      "documentId": "qp42rfyf4iy7ydz50o9cggh5",
+      "name": "GALLOPER",
+      "slug": "hyundai-galloper",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 32129,
       "documentId": "nbnwbunmnw4r4k759lb5przm",
       "name": "GF_W, ZJ, ZL)",
@@ -255,6 +447,14 @@
       "documentId": "zl7is58upfd1jmg87ld0pjxy",
       "name": "GRANDIS",
       "slug": "grandis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32426,
+      "documentId": "xj7tb2kmr11ouo2ngj61nexh",
+      "name": "GTO Coupe",
+      "slug": "gto-coupe",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -299,6 +499,38 @@
       "isActive": true
     },
     {
+      "id": 32979,
+      "documentId": "tbwep2s4w906v94gwgmh3gvi",
+      "name": "L 300 / DELICA II Bus",
+      "slug": "l-300-delica-ii-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32980,
+      "documentId": "zgg1f1q03glnrplpa97aol3c",
+      "name": "L 300 / DELICA II Platform/Chassis",
+      "slug": "l-300-delica-ii-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32981,
+      "documentId": "l3tot5fw0f9pu5rdbix1k0s0",
+      "name": "L 300 / DELICA II Van",
+      "slug": "l-300-delica-ii-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32982,
+      "documentId": "mh4c3ghelteeozxapdzzgyeh",
+      "name": "L 300 III Bus",
+      "slug": "l-300-iii-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 32983,
       "documentId": "vfqweurohb0iy4e54d73e73w",
       "name": "L 300 III Bus (P0_W,",
@@ -311,6 +543,14 @@
       "documentId": "vysgbquyhipoz84jfsrow4pb",
       "name": "L 300 III Platform/Chassis",
       "slug": "l-300-iii-platformchassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32985,
+      "documentId": "rrzfys1187un5o366ut7bv05",
+      "name": "L 300 III Van",
+      "slug": "l-300-iii-van",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -339,10 +579,26 @@
       "isActive": true
     },
     {
+      "id": 32989,
+      "documentId": "ccu2nc3he3f4mau88y75vls6",
+      "name": "L200 / TRITON",
+      "slug": "l200-triton",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 32990,
       "documentId": "j1sxs11oomtimi2jbsps2stp",
       "name": "L200 / TRITON (KA_T,",
       "slug": "l200-triton-kat",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32991,
+      "documentId": "c2i7v9gb4x9ka029mduq1xgd",
+      "name": "L200 / TRITON Pickup",
+      "slug": "l200-triton-pickup",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -355,10 +611,26 @@
       "isActive": true
     },
     {
+      "id": 32993,
+      "documentId": "npb8bpdmmoiivsxy7d0q5zdw",
+      "name": "L200 / TRITON Platform/Chassis",
+      "slug": "l200-triton-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 32994,
       "documentId": "p5q6jvup7sfjec67id9jwrr5",
       "name": "L200 Platform/Chassis",
       "slug": "l200-platformchassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32997,
+      "documentId": "aqnvvz2qvhkfdoz7dcdxo76i",
+      "name": "L400 Bus",
+      "slug": "l400-bus",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -371,10 +643,82 @@
       "isActive": true
     },
     {
+      "id": 32999,
+      "documentId": "vaz97m8y22kvyj6p0ccgb52g",
+      "name": "L400 Van",
+      "slug": "l400-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 33000,
       "documentId": "px2zqaao14xah9k68s2pp82u",
       "name": "L400 Van (PD_W, PC_W,",
       "slug": "l400-van-pdw-pcw",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33019,
+      "documentId": "slx8ngvdjaumfpb6gqet46ay",
+      "name": "LANCER CARGO Estate Van",
+      "slug": "lancer-cargo-estate-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33020,
+      "documentId": "g2z8gx5pf0yr2kamicfno5t5",
+      "name": "LANCER CELESTE Coupe",
+      "slug": "lancer-celeste-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33021,
+      "documentId": "cmggmnvg1a2wkq1riqng3oy4",
+      "name": "LANCER F",
+      "slug": "lancer-f",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33022,
+      "documentId": "o9dnjcq5nvv23vgedwqf37oo",
+      "name": "LANCER I",
+      "slug": "lancer-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33023,
+      "documentId": "bgznyrwjlnsdsu8ka73nif41",
+      "name": "LANCER I Station Wagon",
+      "slug": "lancer-i-station-wagon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33024,
+      "documentId": "adq7ixxlv0sus3440kl53vs0",
+      "name": "LANCER II",
+      "slug": "lancer-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33025,
+      "documentId": "colva5vqrxfkdbrt2ofg8nlt",
+      "name": "LANCER III",
+      "slug": "lancer-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33026,
+      "documentId": "bh665pklacmm39x4zr8q59l1",
+      "name": "LANCER III Station Wagon",
+      "slug": "lancer-iii-station-wagon",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -391,6 +735,14 @@
       "documentId": "rkacnlyn25vc8qbi3wh6ynof",
       "name": "LANCER IV Hatchback",
       "slug": "lancer-iv-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33029,
+      "documentId": "gsrftf8bquwulkv019nykzpj",
+      "name": "LANCER V",
+      "slug": "lancer-v",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -423,6 +775,14 @@
       "documentId": "c0q778f2zwvsrkcoa51hndqp",
       "name": "LANCER VII",
       "slug": "lancer-vii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33034,
+      "documentId": "vr0s6x0pxl7j158dx997o60e",
+      "name": "LANCER VII Estate",
+      "slug": "lancer-vii-estate",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -483,6 +843,38 @@
       "isActive": true
     },
     {
+      "id": 33228,
+      "documentId": "qkgqbfptxmwejmfp2f28dhmc",
+      "name": "Lancer VIII",
+      "slug": "mitsubishi-lancer-viii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33313,
+      "documentId": "qse1nuntpegr7bhw6dhzzip0",
+      "name": "MAGNA Estate",
+      "slug": "magna-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33314,
+      "documentId": "byzi2cwu2vkuh3mrcz6rgp4d",
+      "name": "MAGNA Saloon",
+      "slug": "magna-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33554,
+      "documentId": "a6e2ftvq92yrum7er3mio4dx",
+      "name": "MINICA",
+      "slug": "minica",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 33562,
       "documentId": "z4o0ij8hk84ues87ymukvyp6",
       "name": "MIRAGE / SPACE STAR VI",
@@ -491,10 +883,98 @@
       "isActive": true
     },
     {
+      "id": 33563,
+      "documentId": "h1oml9kvjmgum7nd3bx9ftbm",
+      "name": "MIRAGE / SPACE STAR VI Hatchback",
+      "slug": "mirage-space-star-vi-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33564,
+      "documentId": "hcd3bh2kzkfdrn0jbth7d3pf",
+      "name": "MIRAGE I Saloon",
+      "slug": "mirage-i-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33565,
+      "documentId": "ry52qk7bwugoltxlnaq9nywo",
+      "name": "MIRAGE II Hatchback",
+      "slug": "mirage-ii-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33566,
+      "documentId": "wodhribw9unqfiywqyawyp96",
+      "name": "MIRAGE II Saloon",
+      "slug": "mirage-ii-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33567,
+      "documentId": "tjmhm1o2ln81r8ztms4lo05f",
+      "name": "MIRAGE III Hatchback",
+      "slug": "mirage-iii-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33568,
+      "documentId": "h30joh0atm7kp7ektxtqj60s",
+      "name": "MIRAGE IV Hatchback",
+      "slug": "mirage-iv-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33569,
+      "documentId": "kjje8q9bksdxu26sj2zea770",
+      "name": "MIRAGE IV Saloon",
+      "slug": "mirage-iv-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 33570,
       "documentId": "uelbv84djy9cgw1l5za2b3ys",
       "name": "MIRAGE Saloon",
       "slug": "mirage-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33571,
+      "documentId": "onzr0g0w6wpsckjzjg6rlnq1",
+      "name": "MIRAGE V Coupe",
+      "slug": "mirage-v-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33572,
+      "documentId": "zg79dprto642xwl5u8hmrzei",
+      "name": "MIRAGE V Hatchback",
+      "slug": "mirage-v-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33573,
+      "documentId": "j1raxb8wx0dy39tq320sn3be",
+      "name": "MIRAGE V Saloon",
+      "slug": "mirage-v-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33574,
+      "documentId": "f20jqqoxuf6cxsxswjsmj47r",
+      "name": "MIRAGE VI Saloon",
+      "slug": "mirage-vi-saloon",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -531,6 +1011,14 @@
       "isActive": true
     },
     {
+      "id": 34121,
+      "documentId": "z4a9merbb5lebvn5typ5m6vp",
+      "name": "OUTLANDER III",
+      "slug": "outlander-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 34122,
       "documentId": "rhxypx3jefdubkz2mjyo9wra",
       "name": "OUTLANDER III (GG_W,",
@@ -555,10 +1043,42 @@
       "isActive": true
     },
     {
+      "id": 34153,
+      "documentId": "zmpzwoiypymewc36iqhi7oxq",
+      "name": "PAJERO CLASSIC",
+      "slug": "pajero-classic",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 34154,
       "documentId": "p0u8ul06and2szwd8csgpymt",
       "name": "PAJERO CLASSIC (V2_W,",
       "slug": "pajero-classic-v2w",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34155,
+      "documentId": "kechts686zgzf0st7dceg2b8",
+      "name": "PAJERO I",
+      "slug": "pajero-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34156,
+      "documentId": "um7hfnl6pfvqe9uvj1siuuq7",
+      "name": "PAJERO I Canvas Top",
+      "slug": "pajero-i-canvas-top",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34157,
+      "documentId": "t1px5zl3tdf66feay6e15t2b",
+      "name": "PAJERO II",
+      "slug": "pajero-ii",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -611,6 +1131,22 @@
       "isActive": true
     },
     {
+      "id": 34164,
+      "documentId": "y59bzk51q8jbcavqyu426eto",
+      "name": "PAJERO JUNIOR I",
+      "slug": "pajero-junior-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34165,
+      "documentId": "o24dbpfqhzlhbye8uvdd5k38",
+      "name": "PAJERO MINI I",
+      "slug": "pajero-mini-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 34166,
       "documentId": "tgnwchi8oorafqzwoalc5kch",
       "name": "PAJERO PININ I",
@@ -651,6 +1187,14 @@
       "isActive": true
     },
     {
+      "id": 34424,
+      "documentId": "gpdoxz4bsj45xy2e0mvhx9wc",
+      "name": "PROUDIA/DIGNITY",
+      "slug": "proudia-dignity",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 34467,
       "documentId": "u0y8rcjwblgrrfgsp5nv9s5g",
       "name": "Pajero",
@@ -667,10 +1211,50 @@
       "isActive": true
     },
     {
+      "id": 35022,
+      "documentId": "xpwdvzvdl5kgrkw4k5r5ebt0",
+      "name": "SANTAMO",
+      "slug": "mitsubishi-santamo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35025,
+      "documentId": "b2w3927pjq12nk9a9nx1j9s1",
+      "name": "SAPPORO I",
+      "slug": "sapporo-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35026,
+      "documentId": "www03vdy1q2t6zc7cbi3iil4",
+      "name": "SAPPORO II",
+      "slug": "sapporo-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35027,
+      "documentId": "q8jdvfebj3mj0h64g4xet4y0",
+      "name": "SAPPORO III",
+      "slug": "sapporo-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 35192,
       "documentId": "t9xezq4fho3yibr7pws00e6t",
       "name": "SIGMA",
       "slug": "sigma",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35193,
+      "documentId": "fm5g9wvqzd9dkfbfu5n8ecp4",
+      "name": "SIGMA Estate",
+      "slug": "sigma-estate",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -691,6 +1275,14 @@
       "isActive": true
     },
     {
+      "id": 35341,
+      "documentId": "w9f06ntdmqnh21mp0fdx96jo",
+      "name": "SPACE RUNNER MPV",
+      "slug": "space-runner-mpv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 35343,
       "documentId": "ubwd5m6ndi4xx7ssn3tant18",
       "name": "SPACE STAR MPV",
@@ -703,6 +1295,22 @@
       "documentId": "lxrdnpyrmdo1plsz200r7czu",
       "name": "SPACE WAGON",
       "slug": "space-wagon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35346,
+      "documentId": "j9p57rrbzn12122m4lzk5bbr",
+      "name": "SPACE WAGON VAN",
+      "slug": "space-wagon-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35474,
+      "documentId": "ik50dys7rc2at04p0rsi681m",
+      "name": "STARION",
+      "slug": "starion",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -727,6 +1335,22 @@
       "documentId": "ja4ulh6xnxfpq2683do7vegf",
       "name": "Space Star",
       "slug": "space-star",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36148,
+      "documentId": "nk784z0rlk29k5khi0d3qj8e",
+      "name": "TREDIA",
+      "slug": "tredia",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36459,
+      "documentId": "terxobhrewvzk4qog8mg2jh3",
+      "name": "VERADA Saloon",
+      "slug": "verada-saloon",
       "vehicle_type": "car",
       "isActive": true
     },

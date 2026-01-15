@@ -7,7 +7,88 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.797Z",
-  "models": []
+  "modelCount": 10,
+  "exportDate": "2026-01-07T09:17:53.776Z",
+  "models": [
+    {
+      "id": 28711,
+      "documentId": "xm1t2rusks2o1g9lih60thbr",
+      "name": "411 Saloon",
+      "slug": "411-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28714,
+      "documentId": "qw2f5vwbntfwedza9i93b4vr",
+      "name": "412 Convertible",
+      "slug": "412-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28862,
+      "documentId": "w4wpqoymnikt4msqqlo0rt4h",
+      "name": "603 Coupe",
+      "slug": "603-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29692,
+      "documentId": "stm7fkyyerrl22exrt7t8k6h",
+      "name": "BEAUFIGHTER",
+      "slug": "beaufighter",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29732,
+      "documentId": "bflcdweqd7urgz9qvnoy7inc",
+      "name": "BLENHEIM",
+      "slug": "blenheim",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29733,
+      "documentId": "fkv55arfcoghhhl8ccnu1vge",
+      "name": "BLENHEIM Convertible",
+      "slug": "blenheim-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29784,
+      "documentId": "phg10s93n0lugk8355j6m5p6",
+      "name": "BRIGAND",
+      "slug": "brigand",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29785,
+      "documentId": "dqmhvp05167bgta2pvy3lymk",
+      "name": "BRITANNIA",
+      "slug": "britannia",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29803,
+      "documentId": "nglqj0y1cr06sxvj0e05jl56",
+      "name": "BULLET",
+      "slug": "bullet",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31672,
+      "documentId": "ylwlmise9g7z176rtp88owtg",
+      "name": "FIGHTER",
+      "slug": "fighter",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

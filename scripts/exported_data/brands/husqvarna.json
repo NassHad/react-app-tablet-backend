@@ -7,7 +7,384 @@
     "vehicle_type": "moto",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.868Z",
-  "models": []
+  "modelCount": 47,
+  "exportDate": "2026-01-07T09:17:53.821Z",
+  "models": [
+    {
+      "id": 28895,
+      "documentId": "guuhs3kweuebys618otoan2a",
+      "name": "701 Enduro",
+      "slug": "701-enduro",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28896,
+      "documentId": "bh14hu37wglpnuclz3xplftk",
+      "name": "701 Supermoto",
+      "slug": "701-supermoto",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 28897,
+      "documentId": "sg71cohm1yt6u89uezr6k41q",
+      "name": "701 Svartpilen",
+      "slug": "701-svartpilen",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31623,
+      "documentId": "q5nn8ssvk1sf22jrf84pg7bc",
+      "name": "FE 250",
+      "slug": "fe-250",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31624,
+      "documentId": "w059xz0m47xudzi6wrjhq305",
+      "name": "FE 350",
+      "slug": "fe-350",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31626,
+      "documentId": "er1362f14q0b1xisylb95mzl",
+      "name": "FE 450",
+      "slug": "fe-450",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31630,
+      "documentId": "k4qkb5gkg5hzwrvnzybvvntj",
+      "name": "FE 501",
+      "slug": "fe-501",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33191,
+      "documentId": "v0w62lwijmpjco1rztj4h7ts",
+      "name": "LT 610 E",
+      "slug": "lt-610-e",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34068,
+      "documentId": "xj0ua31r6ufgqv7xxcfnm2uk",
+      "name": "Nuda 900 (A7)",
+      "slug": "nuda-900-a7",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35280,
+      "documentId": "iq7z1ovnf95stajjs2ktotqi",
+      "name": "SM 125 S",
+      "slug": "sm-125-s",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35281,
+      "documentId": "z1wo8scqa23pawfqcefu25my",
+      "name": "SM 400 R",
+      "slug": "sm-400-r",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35282,
+      "documentId": "me5swcyw037c0uhl73358dm2",
+      "name": "SM 450 R",
+      "slug": "sm-450-r",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35283,
+      "documentId": "t4ilr7awznkj322jodb22we8",
+      "name": "SM 510 R",
+      "slug": "sm-510-r",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35284,
+      "documentId": "f8dbx0yxtqdqwbb1luarpk3m",
+      "name": "SM 570 R",
+      "slug": "sm-570-r",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35285,
+      "documentId": "vhqx6aszgkls557kvlsoxkez",
+      "name": "SM 600 R",
+      "slug": "sm-600-r",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35286,
+      "documentId": "ik254mqvti1vu541ns3kzaop",
+      "name": "SM 610",
+      "slug": "sm-610",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35287,
+      "documentId": "olvo5ad55c3tttyxukzyp52s",
+      "name": "SM 610 E",
+      "slug": "sm-610-e",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35288,
+      "documentId": "dmio64ygy3k5cerowg7yrjxi",
+      "name": "SM 610 R",
+      "slug": "sm-610-r",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35289,
+      "documentId": "r186ne5czleio8gimw11bu9c",
+      "name": "SM 610 S",
+      "slug": "sm-610-s",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35290,
+      "documentId": "geoae683s708ferwcvr06kde",
+      "name": "SM 630 (A4)",
+      "slug": "sm-630-a4",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35297,
+      "documentId": "ix1vxegnwunrsh51w72r23tt",
+      "name": "SMR 125 (A5)",
+      "slug": "smr-125-a5",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35299,
+      "documentId": "myts9f9oq84exewf6xob399f",
+      "name": "SMR 450 (A6)",
+      "slug": "smr-450-a6",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35300,
+      "documentId": "lnx04r7qd526y9lqtnlx8g32",
+      "name": "SMR 500 (A6)",
+      "slug": "smr-500-a6",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35876,
+      "documentId": "kls9p6zqkkqppsd5opqst7dx",
+      "name": "TE 125 (A5)",
+      "slug": "te-125-a5",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35878,
+      "documentId": "zua9t93y9rtb5roqzij0sdpx",
+      "name": "TE 250",
+      "slug": "te-250",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35879,
+      "documentId": "w0msy06cp3mrpypsu45wluff",
+      "name": "TE 250 (H8)",
+      "slug": "te-250-h8",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35880,
+      "documentId": "pfznrlh454xvo3epxf5t07y0",
+      "name": "TE 300",
+      "slug": "te-300",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35882,
+      "documentId": "h0z1ufxpa10hzz9yayz938nf",
+      "name": "TE 310 (A2)",
+      "slug": "te-310-a2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35883,
+      "documentId": "ebnkezl8f9u809tf4fdyuc5p",
+      "name": "TE 310 (A3)",
+      "slug": "te-310-a3",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35884,
+      "documentId": "stqdyyagr1jrb0bx3nyslnoq",
+      "name": "TE 400 (H8)",
+      "slug": "te-400-h8",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35885,
+      "documentId": "kf4rocci7jnta3p143l1ckvp",
+      "name": "TE 450",
+      "slug": "te-450",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35886,
+      "documentId": "qfvjbxxa7h747xb0m9smyfre",
+      "name": "TE 450 (A6)",
+      "slug": "te-450-a6",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35887,
+      "documentId": "btsu925jvjma1nbwmzlapr5r",
+      "name": "TE 450 (H8)",
+      "slug": "te-450-h8",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35888,
+      "documentId": "z0gnhmln5fpvni4h64ndps72",
+      "name": "TE 500 (A6)",
+      "slug": "te-500-a6",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35889,
+      "documentId": "wmexa3w44f2ttx1zt6fkn7cu",
+      "name": "TE 510",
+      "slug": "te-510",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35890,
+      "documentId": "tz6i8xwx57tjhtc6m3kb8sfn",
+      "name": "TE 570",
+      "slug": "te-570",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35891,
+      "documentId": "qa0oat3rewleiyt985j0ixbu",
+      "name": "TE 610",
+      "slug": "te-610",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35892,
+      "documentId": "l85shhgi4fotm64dbz34cft8",
+      "name": "TE 610 E",
+      "slug": "te-610-e",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35893,
+      "documentId": "ygnbklavyle6pkyp1hkkxbt8",
+      "name": "TE 630 (A4)",
+      "slug": "te-630-a4",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36047,
+      "documentId": "fn8jdunzpcx5ovmlws3x8lpi",
+      "name": "TR 650 (A8)",
+      "slug": "tr-650-a8",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36752,
+      "documentId": "le94tcvk3idsyiy2sq6ivdpo",
+      "name": "WR 125",
+      "slug": "wr-125",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36755,
+      "documentId": "y7qc5rfkh75duh6k520n8lyp",
+      "name": "WR 250",
+      "slug": "wr-250",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36759,
+      "documentId": "fh1eg80bjoaqooozgirx208y",
+      "name": "WR 300 (3H)",
+      "slug": "wr-300-3h",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36760,
+      "documentId": "md18q7q2oi3yk8rca7jg9c4a",
+      "name": "WR 360",
+      "slug": "wr-360",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36766,
+      "documentId": "gud7hlarnaa99jeet9sxuhu7",
+      "name": "WR/E 125",
+      "slug": "wre-125",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36767,
+      "documentId": "vio2egbmwragtqxrnlx0y0zd",
+      "name": "WR/E 125 (H2)",
+      "slug": "wre-125-h2",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36775,
+      "documentId": "sry39n5nk14lp19j8i1nmekl",
+      "name": "WSM 125",
+      "slug": "wsm-125",
+      "vehicle_type": "moto",
+      "isActive": true
+    }
+  ]
 }

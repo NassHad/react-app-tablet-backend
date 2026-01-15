@@ -7,7 +7,80 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.777Z",
-  "models": []
+  "modelCount": 9,
+  "exportDate": "2026-01-07T09:17:53.768Z",
+  "models": [
+    {
+      "id": 31020,
+      "documentId": "si6m6l5dhzrk8l95lciciix9",
+      "name": "DKW F10",
+      "slug": "dkw-f10",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31021,
+      "documentId": "mn8i1dsllvozs3o1odki4dcm",
+      "name": "DKW F11",
+      "slug": "dkw-f11",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31022,
+      "documentId": "i417myusmmxtuyt6w4uvoah6",
+      "name": "DKW MEISTERKLASSE F",
+      "slug": "dkw-meisterklasse-f",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31023,
+      "documentId": "rq06wvb29vesscsdzhmavebw",
+      "name": "DKW MEISTERKLASSE Universal",
+      "slug": "dkw-meisterklasse-universal",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31024,
+      "documentId": "c3ebwq1g0jctqq9cpgpw5sg4",
+      "name": "DKW SONDERKLASSE",
+      "slug": "dkw-sonderklasse",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31025,
+      "documentId": "esiabqf32po2w75owf2xlrh9",
+      "name": "DKW SONDERKLASSE F",
+      "slug": "dkw-sonderklasse-f",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31026,
+      "documentId": "cpz6buecvpm403fakq88e0ls",
+      "name": "DKW SONDERKLASSE F Universal",
+      "slug": "dkw-sonderklasse-f-universal",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31027,
+      "documentId": "jsnc6fl4d7efiw12cjo4io30",
+      "name": "DKW SONDERKLASSE Universal",
+      "slug": "dkw-sonderklasse-universal",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33731,
+      "documentId": "qcrhrccvyniq6nf6ioritrsg",
+      "name": "MUNGA",
+      "slug": "munga",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

@@ -7,8 +7,8 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 2,
-  "exportDate": "2026-01-06T19:34:16.812Z",
+  "modelCount": 4,
+  "exportDate": "2026-01-07T09:17:53.790Z",
   "models": [
     {
       "id": 29759,
@@ -23,6 +23,22 @@
       "documentId": "igpbbfaw78us51lx7hxpr4oc",
       "name": "FORMENTOR",
       "slug": "formentor",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35864,
+      "documentId": "qrhn02l3jjx0hvixkpa15ae9",
+      "name": "TAVASCAN",
+      "slug": "tavascan",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35917,
+      "documentId": "lbzy7ep20prz93fzc4tqzcdm",
+      "name": "TERRAMAR",
+      "slug": "terramar",
       "vehicle_type": "car",
       "isActive": true
     }

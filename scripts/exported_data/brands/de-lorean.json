@@ -7,7 +7,16 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.821Z",
-  "models": []
+  "modelCount": 1,
+  "exportDate": "2026-01-07T09:17:53.795Z",
+  "models": [
+    {
+      "id": 31039,
+      "documentId": "nh6f91xekklsgivbuzt4zwla",
+      "name": "DMC-12",
+      "slug": "dmc-12",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

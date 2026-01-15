@@ -7,7 +7,24 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.766Z",
-  "models": []
+  "modelCount": 2,
+  "exportDate": "2026-01-07T09:17:53.757Z",
+  "models": [
+    {
+      "id": 28725,
+      "documentId": "p2emr062kpmkcdliui12mip7",
+      "name": "428 Convertible",
+      "slug": "428-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33422,
+      "documentId": "dv4oebs1hlhsgklnosvs7xpb",
+      "name": "ME",
+      "slug": "me",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

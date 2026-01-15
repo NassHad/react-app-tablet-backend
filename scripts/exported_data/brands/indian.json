@@ -7,7 +7,80 @@
     "vehicle_type": "moto",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.871Z",
-  "models": []
+  "modelCount": 9,
+  "exportDate": "2026-01-07T09:17:53.822Z",
+  "models": [
+    {
+      "id": 30831,
+      "documentId": "efbet2run0k7rsq5z1wyjnhb",
+      "name": "Chief Classic",
+      "slug": "chief-classic",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 30832,
+      "documentId": "zt8ra3e690281z9ief2d99fq",
+      "name": "Chief Dark Horse",
+      "slug": "chief-dark-horse",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 30833,
+      "documentId": "uf2vkzv5nhybujllwde0k69l",
+      "name": "Chieftain Dark Horse",
+      "slug": "chieftain-dark-horse",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33081,
+      "documentId": "iocy05rwad0mu1wemcpqqkb5",
+      "name": "LED",
+      "slug": "led",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34900,
+      "documentId": "goev2v59fbpd6uae6g8rxm4e",
+      "name": "Roadmaster",
+      "slug": "roadmaster",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34901,
+      "documentId": "d6485byyt9cl8enwvcfmh15u",
+      "name": "Roadmaster Classic",
+      "slug": "roadmaster-classic",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34902,
+      "documentId": "z5nfzrvuq5j88lk3s7xhcozg",
+      "name": "Roadmaster Elite",
+      "slug": "roadmaster-elite",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35630,
+      "documentId": "ea5gt42wdvq5qlfyj38wnj6o",
+      "name": "Scout",
+      "slug": "scout",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35631,
+      "documentId": "kv9mf1cmfvog3xzn2v0c5o8e",
+      "name": "Scout Sixty",
+      "slug": "scout-sixty",
+      "vehicle_type": "moto",
+      "isActive": true
+    }
+  ]
 }

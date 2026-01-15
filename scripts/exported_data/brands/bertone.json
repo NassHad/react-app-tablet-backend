@@ -7,7 +7,24 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.787Z",
-  "models": []
+  "modelCount": 2,
+  "exportDate": "2026-01-07T09:17:53.772Z",
+  "models": [
+    {
+      "id": 31864,
+      "documentId": "ub8paol32irj8y8qwrjq1nbe",
+      "name": "FREECLIMBER",
+      "slug": "freeclimber",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31865,
+      "documentId": "h11i63r1na8cj6zdo53mb5du",
+      "name": "FREECLIMBER 2",
+      "slug": "freeclimber-2",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

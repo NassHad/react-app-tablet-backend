@@ -7,8 +7,8 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 17,
-  "exportDate": "2026-01-06T19:34:16.872Z",
+  "modelCount": 33,
+  "exportDate": "2026-01-07T09:17:53.823Z",
   "models": [
     {
       "id": 31432,
@@ -51,6 +51,38 @@
       "isActive": true
     },
     {
+      "id": 32068,
+      "documentId": "ak8kn78rh3mf1feuzhzoscsf",
+      "name": "G20",
+      "slug": "g20",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32611,
+      "documentId": "hqo9ew4czn5m49b8aphvxrch",
+      "name": "I35 Saloon",
+      "slug": "i35-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32739,
+      "documentId": "x4cei4k3voe6em10a5luyg63",
+      "name": "J30",
+      "slug": "j30",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32812,
+      "documentId": "af6u2axo6jjck50a3c9eustc",
+      "name": "JX SUV",
+      "slug": "jx-suv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 33279,
       "documentId": "m83nnkl294dwt0ytfa7rhi2e",
       "name": "M",
@@ -67,10 +99,34 @@
       "isActive": true
     },
     {
+      "id": 33295,
+      "documentId": "vkzofs1ojujc41kxz93rof57",
+      "name": "M30 Convertible",
+      "slug": "m30-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33296,
+      "documentId": "cd166p05urkqojeuwvagdre7",
+      "name": "M30 Coupe",
+      "slug": "m30-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 33297,
       "documentId": "wvfg1jcvmx2nqyz7ox5t77xq",
       "name": "M35",
       "slug": "m35",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33298,
+      "documentId": "gg0nqk920ilba0a5x055cp7g",
+      "name": "M37",
+      "slug": "m37",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -131,6 +187,30 @@
       "isActive": true
     },
     {
+      "id": 34554,
+      "documentId": "nghhg49hhj7mi0jzt5nuy35p",
+      "name": "Q60 Convertible",
+      "slug": "q60-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34555,
+      "documentId": "dm9pcokjazk73d1y0ohm7d9w",
+      "name": "Q60 Coupe",
+      "slug": "q60-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34558,
+      "documentId": "slx45paubqnq1zio8la9vqy5",
+      "name": "Q70",
+      "slug": "q70",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 34592,
       "documentId": "m22k1h41ayd7jth6rhoxihb7",
       "name": "QX30",
@@ -139,10 +219,58 @@
       "isActive": true
     },
     {
+      "id": 34593,
+      "documentId": "qyzc0jsykt7zcha9h0q47yz0",
+      "name": "QX4",
+      "slug": "qx4",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 34594,
       "documentId": "bwmg057bh5y75v6vgq8o8fmk",
       "name": "QX50 I",
       "slug": "qx50-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34595,
+      "documentId": "b3l83jxwkpijh8ku1dmuwp9q",
+      "name": "QX50 II",
+      "slug": "qx50-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34596,
+      "documentId": "vkly3h5r9j07vj2hcae5yi43",
+      "name": "QX56",
+      "slug": "qx56",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34597,
+      "documentId": "jbnbj88y9ub4psezkpwh3odq",
+      "name": "QX60",
+      "slug": "qx60",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34598,
+      "documentId": "ou5us2qg5b3bfmyfu1okitto",
+      "name": "QX70",
+      "slug": "qx70",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34599,
+      "documentId": "lzv2tff44o79dmz0501udzzw",
+      "name": "QX80",
+      "slug": "qx80",
       "vehicle_type": "car",
       "isActive": true
     }

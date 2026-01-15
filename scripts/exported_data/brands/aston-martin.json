@@ -7,7 +7,272 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.774Z",
-  "models": []
+  "modelCount": 33,
+  "exportDate": "2026-01-07T09:17:53.766Z",
+  "models": [
+    {
+      "id": 30776,
+      "documentId": "hes69b6qngphqgya88nn05yb",
+      "name": "CYGNET",
+      "slug": "cygnet",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30954,
+      "documentId": "h2x3vkrje4befqvoju4ow1rn",
+      "name": "DB11 Vantage",
+      "slug": "db11-vantage",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30955,
+      "documentId": "gtwp0iad6pxzdt3ympstyqf0",
+      "name": "DB11 Volante",
+      "slug": "db11-volante",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30956,
+      "documentId": "ojm30po03vh5lo0ncrs6pqei",
+      "name": "DB6 Vantage",
+      "slug": "db6-vantage",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30957,
+      "documentId": "z40pxlv83yp331z4u185mqsy",
+      "name": "DB6 Volante",
+      "slug": "db6-volante",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30958,
+      "documentId": "soqjqw92iq0nifmj4y3b8v2p",
+      "name": "DB7 Vantage",
+      "slug": "db7-vantage",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30959,
+      "documentId": "xg2ft7i3vcp4wpwkikwdav9j",
+      "name": "DB7 Volante",
+      "slug": "db7-volante",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30960,
+      "documentId": "wzlqqcx8tlz4sex3mropenol",
+      "name": "DB9 Vantage",
+      "slug": "db9-vantage",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30961,
+      "documentId": "uih37yf3cf29ao1n0ne8bafx",
+      "name": "DB9 Volante",
+      "slug": "db9-volante",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30962,
+      "documentId": "tcmzvax747ixjcxtxi4gmnfa",
+      "name": "DBS Coupe",
+      "slug": "dbs-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30963,
+      "documentId": "knunvsk6fh3np14zavnucdum",
+      "name": "DBS Vantage",
+      "slug": "dbs-vantage",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30964,
+      "documentId": "i6pjquhhaldsk7n6xb326or5",
+      "name": "DBS Volante",
+      "slug": "dbs-volante",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30965,
+      "documentId": "q530ffgcoirnzsaa0aet7s2a",
+      "name": "DBX",
+      "slug": "dbx",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33008,
+      "documentId": "c2gq8ujuz4q8tbjevqcl7rdv",
+      "name": "LAGONDA I",
+      "slug": "lagonda-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33009,
+      "documentId": "volbwg4m0tgnwl72tnyfsv2a",
+      "name": "LAGONDA I Shooting Brake",
+      "slug": "lagonda-i-shooting-brake",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34096,
+      "documentId": "j7mj6cbkbr7z1rru2xuh3l10",
+      "name": "ONE-77",
+      "slug": "one-77",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34668,
+      "documentId": "f1hto2peydtgvli5thw69mvy",
+      "name": "RAPIDE",
+      "slug": "rapide",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35938,
+      "documentId": "tnolde90a081lp5gfc2s0fz1",
+      "name": "TICKFORD CAPRI",
+      "slug": "tickford-capri",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36393,
+      "documentId": "lnzp14552kcz6x1nxs3zx57w",
+      "name": "V8 Vantage",
+      "slug": "v8-vantage",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36394,
+      "documentId": "oo0oq9nlbp9d66opdkt6feg3",
+      "name": "V8 Volante",
+      "slug": "v8-volante",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36408,
+      "documentId": "vo05obi23nle3arpsgaaxdra",
+      "name": "VANQUISH Vantage",
+      "slug": "vanquish-vantage",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36409,
+      "documentId": "rc3jmkwm9sbnc8zkcvcniefr",
+      "name": "VANQUISH Volante",
+      "slug": "vanquish-volante",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36410,
+      "documentId": "tqn8zp0uxbsg47puy30xt3ov",
+      "name": "VANTAGE Coupe",
+      "slug": "vantage-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36411,
+      "documentId": "y5bd71j42rwa0gh08ep95zgo",
+      "name": "VANTAGE Roadster",
+      "slug": "vantage-roadster",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36412,
+      "documentId": "sbrnonuzzso6xoyqobtx2hh5",
+      "name": "VANTAGE Vantage",
+      "slug": "vantage-vantage",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36413,
+      "documentId": "uyvmqvql3yxsfjcptrx0ysu7",
+      "name": "VANTAGE Volante",
+      "slug": "vantage-volante",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36495,
+      "documentId": "g0nfbsu4w6tb54xkdojihu8w",
+      "name": "VIRAGE Limited Edition Vantage",
+      "slug": "virage-limited-edition-vantage",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36496,
+      "documentId": "n67hdzgulajps2pqoh7r972l",
+      "name": "VIRAGE Saloon",
+      "slug": "virage-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36497,
+      "documentId": "d25d1nkbe1zv1ael3an1va1x",
+      "name": "VIRAGE Shooting Brake",
+      "slug": "virage-shooting-brake",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36498,
+      "documentId": "nais6zu20iqk3ob9oieutkuj",
+      "name": "VIRAGE Vantage",
+      "slug": "virage-vantage",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36499,
+      "documentId": "nb0amny2psgudc631f0639s8",
+      "name": "VIRAGE Volante",
+      "slug": "virage-volante",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37208,
+      "documentId": "rt2s56ul53whsnqa5frzrdeo",
+      "name": "ZAGATO Vantage",
+      "slug": "zagato-vantage",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37209,
+      "documentId": "yctlvk49ot81dyhatcz6ok7m",
+      "name": "ZAGATO Volante",
+      "slug": "zagato-volante",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

@@ -7,7 +7,24 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.796Z",
-  "models": []
+  "modelCount": 2,
+  "exportDate": "2026-01-07T09:17:53.775Z",
+  "models": [
+    {
+      "id": 31342,
+      "documentId": "qpswpwiglpetkv0awke2ipc4",
+      "name": "EQUIPE Mk. II Convertible",
+      "slug": "equipe-mk-ii-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31343,
+      "documentId": "fiqzv3a1hz9d1wy3kn141kht",
+      "name": "EQUIPE Mk. II Coupe",
+      "slug": "equipe-mk-ii-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

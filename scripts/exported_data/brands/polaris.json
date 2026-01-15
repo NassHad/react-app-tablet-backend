@@ -7,7 +7,16 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.950Z",
-  "models": []
+  "modelCount": 1,
+  "exportDate": "2026-01-07T09:17:53.867Z",
+  "models": [
+    {
+      "id": 35270,
+      "documentId": "yzar0is4zaw9fqqg9niq0umn",
+      "name": "SLINGSHOT",
+      "slug": "slingshot",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

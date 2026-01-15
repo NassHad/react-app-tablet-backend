@@ -7,7 +7,376 @@
     "vehicle_type": "moto",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.904Z",
-  "models": []
+  "modelCount": 46,
+  "exportDate": "2026-01-07T09:17:53.842Z",
+  "models": [
+    {
+      "id": 29862,
+      "documentId": "mam5dey0uwkr11tzeif8nwk9",
+      "name": "Blog 125 (89)",
+      "slug": "blog-125-89",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29863,
+      "documentId": "j99zw0felam1ranzbzw1q22r",
+      "name": "Blog 160 (90)",
+      "slug": "blog-160-90",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 30667,
+      "documentId": "mz249tntcy4pu7wapsbkcdmc",
+      "name": "CR1 50 (ZJM43)",
+      "slug": "cr1-50-zjm43",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 30820,
+      "documentId": "yg96bymo707ppd8gqoxmyw4l",
+      "name": "Centro 125 (84)",
+      "slug": "centro-125-84",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 30821,
+      "documentId": "dlrx1fuq3hddt2o9j1eqcvnc",
+      "name": "Centro 160 (85)",
+      "slug": "centro-160-85",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 30822,
+      "documentId": "ddhgob95ryjah4zjrt7k5oxh",
+      "name": "Centro 25 SL (ZJM42/D)",
+      "slug": "centro-25-sl-zjm42d",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 30823,
+      "documentId": "r0ur7la8jlg5t3jjn47u6bn5",
+      "name": "Centro 50",
+      "slug": "centro-50",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 30824,
+      "documentId": "s2vzs0lpeutz0u5k252gpdto",
+      "name": "Centro 50 SL",
+      "slug": "centro-50-sl",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 30825,
+      "documentId": "l77kbhm145qarioo03xt0bn8",
+      "name": "Centro 50 SL (ZJM42/D)",
+      "slug": "centro-50-sl-zjm42d",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 30835,
+      "documentId": "nu1itgwn5ym706ex0oo6s9e6",
+      "name": "Ciak 100 (51)",
+      "slug": "ciak-100-51",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 30836,
+      "documentId": "qfgwuxj6vyxxa761jbqm2xno",
+      "name": "Ciak 125 (59)",
+      "slug": "ciak-125-59",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 30837,
+      "documentId": "zedsj1y4pxx0udnigav4922l",
+      "name": "Ciak 125 (78)",
+      "slug": "ciak-125-78",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 30838,
+      "documentId": "vay9r6e6e0h0tw7afv8wjv4x",
+      "name": "Ciak 50 (52)",
+      "slug": "ciak-50-52",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31217,
+      "documentId": "i3z4us11l9vyytes94qc6enf",
+      "name": "Drakon 50 (72)",
+      "slug": "drakon-50-72",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31559,
+      "documentId": "czrz6b2b3quk09q32b88ro2r",
+      "name": "F10 25",
+      "slug": "f10-25",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31560,
+      "documentId": "fs4g0mhl6ysdf8r3easjk6mz",
+      "name": "F10 50",
+      "slug": "f10-50",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31561,
+      "documentId": "jhqpoythuhqvndumufglr6xk",
+      "name": "F10 50 (48)",
+      "slug": "f10-50-48",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31562,
+      "documentId": "diddpdiq2n7mr0v5f5veesqg",
+      "name": "F10 Wap 50",
+      "slug": "f10-wap-50",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31563,
+      "documentId": "lu6e4nacr9evpuylmmtpava4",
+      "name": "F10 Wap 50 (48)",
+      "slug": "f10-wap-50-48",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31569,
+      "documentId": "hizpa9lx1td7m2stn0vwfwjw",
+      "name": "F12 100 (50)",
+      "slug": "f12-100-50",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31570,
+      "documentId": "thgde1oarg2w3mf02eih7lfv",
+      "name": "F12 125 (66)",
+      "slug": "f12-125-66",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31571,
+      "documentId": "uxy4ci1vfyrjgcyzy9v9opla",
+      "name": "F12 200 (67)",
+      "slug": "f12-200-67",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31572,
+      "documentId": "bui7h3aoz0jwwdx6f585n7re",
+      "name": "F12 25 AC",
+      "slug": "f12-25-ac",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31573,
+      "documentId": "iorxbbi1s5kx7fnx3fa973op",
+      "name": "F12 50 AC",
+      "slug": "f12-50-ac",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31574,
+      "documentId": "vqquq4zs6xc5rqoqyygbinot",
+      "name": "F12 50 AC GP",
+      "slug": "f12-50-ac-gp",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31575,
+      "documentId": "c664wyc2jprih7tyqmyznd06",
+      "name": "F12 50 LC",
+      "slug": "f12-50-lc",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31577,
+      "documentId": "fujrj96hqqncljnl48pnvsmr",
+      "name": "F15 25",
+      "slug": "f15-25",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31578,
+      "documentId": "q6avg8ku0z7559u8huyhkerj",
+      "name": "F15 50",
+      "slug": "f15-50",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31579,
+      "documentId": "u7tykvgojczn9qtzotjo6lkv",
+      "name": "F15 50 (44)",
+      "slug": "f15-50-44",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31580,
+      "documentId": "fnyjp3b1ygfm9rs86miq5901",
+      "name": "F15 Digit 50",
+      "slug": "f15-digit-50",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31581,
+      "documentId": "kx9vnpids8lyggqi5i0uump4",
+      "name": "F15 Digit 50 (44)",
+      "slug": "f15-digit-50-44",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31582,
+      "documentId": "eqm6cmks3jmlizfjzg3sl4oy",
+      "name": "F18 125 (57)",
+      "slug": "f18-125-57",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32407,
+      "documentId": "ukzetsbnl96pr0aio1kguvk8",
+      "name": "GT 500",
+      "slug": "gt-500",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33774,
+      "documentId": "lp486fse6fu1vdt4oqcx2hrc",
+      "name": "Madison 125 (53)",
+      "slug": "madison-125-53",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33775,
+      "documentId": "pngr5w967ixqn5mvl93d5ief",
+      "name": "Madison 125 (81)",
+      "slug": "madison-125-81",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33776,
+      "documentId": "acg1en5bfa7w69t4drj6vzz2",
+      "name": "Madison 180 (63)",
+      "slug": "madison-180-63",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33777,
+      "documentId": "okqvkqj0eywd8zcpvm6kyohh",
+      "name": "Madison 200 (65)",
+      "slug": "madison-200-65",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33778,
+      "documentId": "eo53im824ztr73jrtno577w4",
+      "name": "Madison 250 (54)",
+      "slug": "madison-250-54",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33779,
+      "documentId": "baxuwzwgs7tr4tg5ioe9xlmo",
+      "name": "Madison 250 (65)",
+      "slug": "madison-250-65",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33780,
+      "documentId": "aofo4x95btqoj9jvmeyqyvr7",
+      "name": "Madison 250 (80)",
+      "slug": "madison-250-80",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33781,
+      "documentId": "c1pm9vbhjrg90kqs9ugbh4st",
+      "name": "Madison 400 (61)",
+      "slug": "madison-400-61",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34475,
+      "documentId": "scbn6rgxamq0w0up6r08bmg8",
+      "name": "Password 250 (76)",
+      "slug": "password-250-76",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34501,
+      "documentId": "hzijdzzctwkaz8x2jplov3fg",
+      "name": "Phantom 250 (67)",
+      "slug": "phantom-250-67",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35705,
+      "documentId": "iufb7qang3mkk2ub12lovdvp",
+      "name": "Spidermax 500 (71)",
+      "slug": "spidermax-500-71",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35706,
+      "documentId": "y9z25fyrfdhvy94qxhebmq6y",
+      "name": "Spidermax RS 500 (86)",
+      "slug": "spidermax-rs-500-86",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 37153,
+      "documentId": "w0leg9r9bacpvkb2weeugxjy",
+      "name": "Yesterday 50 (45)",
+      "slug": "yesterday-50-45",
+      "vehicle_type": "moto",
+      "isActive": true
+    }
+  ]
 }

@@ -7,7 +7,224 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.776Z",
-  "models": []
+  "modelCount": 27,
+  "exportDate": "2026-01-07T09:17:53.767Z",
+  "models": [
+    {
+      "id": 28167,
+      "documentId": "q3jmobgkohxlc9kmt4tyqzz4",
+      "name": "1000-Series MK II",
+      "slug": "1000-series-mk-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29139,
+      "documentId": "pt37nqgafsdwj0ad8gfzflcu",
+      "name": "A60 CAMBRIDGE Saloon",
+      "slug": "a60-cambridge-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29251,
+      "documentId": "frd4xjl7w13phyd7gwk2zwux",
+      "name": "ALLEGRO I Estate",
+      "slug": "allegro-i-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29252,
+      "documentId": "w11p5cy2vc5sn4a1e69w2yqc",
+      "name": "ALLEGRO I Hatchback",
+      "slug": "allegro-i-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29253,
+      "documentId": "qnyavprh933tf4pxtkmx0sea",
+      "name": "ALLEGRO I Saloon",
+      "slug": "allegro-i-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29298,
+      "documentId": "uvhaz9srkhjand77kk8mwmu7",
+      "name": "AMBASSADOR I Fastback",
+      "slug": "ambassador-i-fastback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29333,
+      "documentId": "x01wvpirymavnp57molh6v5c",
+      "name": "APACHE",
+      "slug": "apache",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29512,
+      "documentId": "mo86muke7kdtx5zy84lxf1vz",
+      "name": "AUSTIN",
+      "slug": "austin",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29513,
+      "documentId": "oxfexwogvxkuw2sjrtbziu46",
+      "name": "AUSTIN ALLEGRO 1",
+      "slug": "austin-allegro-1",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29514,
+      "documentId": "rcdkodljiul19qrah0gvvd3w",
+      "name": "AUSTIN ALLEGRO 2",
+      "slug": "austin-allegro-2",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29515,
+      "documentId": "c3mfif6fxbc8xw5xuag8gewx",
+      "name": "AUSTIN MAESTRO",
+      "slug": "austin-maestro",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29516,
+      "documentId": "mo4heu33s8rl72bkfr7gqcjt",
+      "name": "AUSTIN MAXI",
+      "slug": "austin-maxi",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29517,
+      "documentId": "inlzxyvlsrrgv20swzgeu2k4",
+      "name": "AUSTIN METRO",
+      "slug": "austin-metro",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29518,
+      "documentId": "nmkoadaifit3w4d5kza83fqq",
+      "name": "AUSTIN MONTEGO",
+      "slug": "austin-montego",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29519,
+      "documentId": "mpc460r0kzao5t1xkmcuhc0g",
+      "name": "AUSTIN PRINCESS",
+      "slug": "austin-princess",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29520,
+      "documentId": "m0p7uvn512pwsdhghcfkwzk0",
+      "name": "AUSTIN TAXI",
+      "slug": "austin-taxi",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33307,
+      "documentId": "gsplgx0au4pwcdre7cti2gq6",
+      "name": "MAESTRO Estate Van",
+      "slug": "maestro-estate-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33308,
+      "documentId": "lmf1l3omwtc14tertu6ys3ry",
+      "name": "MAESTRO Fastback",
+      "slug": "maestro-fastback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33398,
+      "documentId": "rr9k5og37pzyzd9k0psifs0r",
+      "name": "MAXI I Fastback",
+      "slug": "maxi-i-fastback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33399,
+      "documentId": "o0j7k8er88vf2rqw9kk83ko9",
+      "name": "MAXI II Fastback",
+      "slug": "maxi-ii-fastback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33474,
+      "documentId": "sepc1lsju5kay6hf1re62tyl",
+      "name": "METRO I Fastback",
+      "slug": "metro-i-fastback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33545,
+      "documentId": "zth5sddvcdx0jss657b90r7h",
+      "name": "MINI I",
+      "slug": "mini-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33546,
+      "documentId": "i32h90t9kj4iqufy7nvfc6mh",
+      "name": "MINI I Estate Van",
+      "slug": "mini-i-estate-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33547,
+      "documentId": "petq5srgxuar3jezh9vfjq7i",
+      "name": "MINI II",
+      "slug": "mini-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33551,
+      "documentId": "yg1x4yv3vj82fers7mrf79go",
+      "name": "MINI Pickup",
+      "slug": "mini-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34388,
+      "documentId": "ppz1ffzfnozd5htra7bxr64h",
+      "name": "PRINCESS",
+      "slug": "princess",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34389,
+      "documentId": "wpkpuj2mri81vnbqy3er7b6d",
+      "name": "PRINCESS 2",
+      "slug": "princess-2",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

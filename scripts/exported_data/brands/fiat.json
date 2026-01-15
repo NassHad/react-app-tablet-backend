@@ -7,14 +7,110 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 39,
-  "exportDate": "2026-01-06T19:34:16.835Z",
+  "modelCount": 117,
+  "exportDate": "2026-01-07T09:17:53.804Z",
   "models": [
+    {
+      "id": 28196,
+      "documentId": "nniar2r58hv3bi8elx32nqp2",
+      "name": "1100-1900",
+      "slug": "1100-1900",
+      "vehicle_type": "car",
+      "isActive": true
+    },
     {
       "id": 28213,
       "documentId": "poda599t6sfcplai0efkbxuj",
       "name": "120 Multijet 2",
       "slug": "120-multijet-2",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28237,
+      "documentId": "db62cua35kt5ztk09yp8hhs6",
+      "name": "124 Familiare",
+      "slug": "124-familiare",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28245,
+      "documentId": "fvre3ez7vs765y95d3lo2w7c",
+      "name": "125",
+      "slug": "125",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28252,
+      "documentId": "gpydswldm0e9ye0afd5zgsdg",
+      "name": "127 Panorama",
+      "slug": "127-panorama",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28255,
+      "documentId": "bf91l9ds31t02ce7rqurbnm7",
+      "name": "128 Coupe",
+      "slug": "128-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28256,
+      "documentId": "j9aohrk8esasmsotwnpqhwnu",
+      "name": "128 Familiare",
+      "slug": "128-familiare",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28257,
+      "documentId": "hwt49qf0a8yv2j65eh3141h3",
+      "name": "128 Saloon",
+      "slug": "128-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28263,
+      "documentId": "in3l9fe2rgpa5tra9axc5azj",
+      "name": "130 Coupe",
+      "slug": "130-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28276,
+      "documentId": "wabtrmy6f07cx0bs2kz3dsjm",
+      "name": "131 Familiare/Panorama",
+      "slug": "131-familiare-panorama",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28293,
+      "documentId": "ihqwm3i7p76ank27w602qm99",
+      "name": "147 Panorama",
+      "slug": "147-panorama",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28295,
+      "documentId": "uelk6j9grg85ld8ev8iw188u",
+      "name": "1500 Convertible",
+      "slug": "1500-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28306,
+      "documentId": "etlm23ruxsjfq14g61xknnm4",
+      "name": "1500-2300",
+      "slug": "1500-2300",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -27,10 +123,50 @@
       "isActive": true
     },
     {
+      "id": 28344,
+      "documentId": "er1smu2x8t3rmo65v6mb67c8",
+      "name": "1900 Coupe",
+      "slug": "1900-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 28355,
       "documentId": "j5zsxk9x51q7i78wp05kn610",
       "name": "2 D",
       "slug": "2-d",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28455,
+      "documentId": "b12k7x1r2jtv7w5pzzgrr0y1",
+      "name": "238",
+      "slug": "238",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28464,
+      "documentId": "j81xzikrridmqlmp61m2ka9g",
+      "name": "241 Van",
+      "slug": "241-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28466,
+      "documentId": "amtfrrkhibi934l8cj8p9ysb",
+      "name": "242 Bus",
+      "slug": "242-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28467,
+      "documentId": "vusciujbr9ocsxp8baf375o6",
+      "name": "242 Van",
+      "slug": "242-van",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -51,6 +187,30 @@
       "isActive": true
     },
     {
+      "id": 28767,
+      "documentId": "fo7587qr3jvxzoztdh9g5aad",
+      "name": "500",
+      "slug": "mega-aixam-mega-france-500",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28768,
+      "documentId": "xmo59jxzy4ymxyggwpdyf4px",
+      "name": "500",
+      "slug": "subaru-500",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28769,
+      "documentId": "ruj5iqn29tcelyv9qx6tqpoj",
+      "name": "500",
+      "slug": "zastava-500",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 28771,
       "documentId": "ubfcqkyt5n2hysk8u15uaih7",
       "name": "500 / Abarth",
@@ -59,10 +219,50 @@
       "isActive": true
     },
     {
+      "id": 28772,
+      "documentId": "r6o02nu9pejqjuvscd1tznqx",
+      "name": "500 A / B Berlina",
+      "slug": "500-a-b-berlina",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28775,
+      "documentId": "nijb8hzlrwqq45mpv2lwacsx",
+      "name": "500 B Giardiniera",
+      "slug": "500-b-giardiniera",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 28776,
       "documentId": "bagrwukc40l02xa4x8v5li7f",
       "name": "500 C",
       "slug": "500-c",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28777,
+      "documentId": "unroc13vpcj330yaf4kuv3nd",
+      "name": "500 C Berlina",
+      "slug": "500-c-berlina",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28778,
+      "documentId": "jyy6p4eqh4hy0gkgh7baouvc",
+      "name": "500 C Giardiniera",
+      "slug": "500-c-giardiniera",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28780,
+      "documentId": "o8og912cs2klzobdo1kt2u44",
+      "name": "500 Estate",
+      "slug": "500-estate",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -91,10 +291,26 @@
       "isActive": true
     },
     {
+      "id": 28800,
+      "documentId": "rn01z4gvye0sekgx5h1ryd05",
+      "name": "500L",
+      "slug": "fiat-500l",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 28801,
       "documentId": "brc7bacpokh4xaf7y2mdemju",
       "name": "500X",
       "slug": "500x",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28802,
+      "documentId": "intzaj0oqmwc6roew76s86id",
+      "name": "500X",
+      "slug": "fiat-500x",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -107,10 +323,58 @@
       "isActive": true
     },
     {
+      "id": 28861,
+      "documentId": "ynzcmzvaf09exs5fi396p4tc",
+      "name": "600e / 600",
+      "slug": "600e-600",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28948,
+      "documentId": "hni6j9ema19tdmzvmjcjw972",
+      "name": "850 Coupe",
+      "slug": "850-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28950,
+      "documentId": "eh820obq9b256mgi0ojf3msd",
+      "name": "850 Spider",
+      "slug": "850-spider",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28997,
+      "documentId": "nughaccp4r3d15f4wui5fi0u",
+      "name": "900   T/E Panorama",
+      "slug": "900-t-e-panorama",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28998,
+      "documentId": "untwn384nauro97r3jcvrpjq",
+      "name": "900   T/E Pulmino",
+      "slug": "900-t-e-pulmino",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 29210,
       "documentId": "jqvxtdkepq6yu0utgoj4n9wb",
       "name": "AEgea / Egea",
       "slug": "aegea--egea",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29356,
+      "documentId": "dw4yuu21sdd4q4wfkp69tvo8",
+      "name": "ARGENTA",
+      "slug": "fiat-argenta",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -131,6 +395,86 @@
       "isActive": true
     },
     {
+      "id": 29772,
+      "documentId": "p0q7o05omjsr2i7cltsq5zap",
+      "name": "BRAVA",
+      "slug": "bedford-brava",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29773,
+      "documentId": "vfn98nz3l9gsgd38di6ydsds",
+      "name": "BRAVA",
+      "slug": "fiat-brava",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29774,
+      "documentId": "m84bl27vkz8kgqo41x0038rr",
+      "name": "BRAVA",
+      "slug": "vauxhall-brava",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29777,
+      "documentId": "msedaajr2pun83v8r1t2nkki",
+      "name": "BRAVO I",
+      "slug": "fiat-bravo-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29779,
+      "documentId": "p3w6noqvzlcpvz760ovht4ag",
+      "name": "BRAVO II",
+      "slug": "fiat-bravo-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29780,
+      "documentId": "hm9dzzpwm4rdc4wvv7zus53y",
+      "name": "BRAVO Van",
+      "slug": "bravo-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30098,
+      "documentId": "wz3c9sjt5hkb6se7ekiian15",
+      "name": "CAMPAGNOLA",
+      "slug": "campagnola",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30391,
+      "documentId": "u4o3k93rn4mwngv2i1njbny6",
+      "name": "CINQUECENTO",
+      "slug": "fiat-cinquecento",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30392,
+      "documentId": "zjxicu2wjkxl0t69as6i7zya",
+      "name": "CINQUECENTO VAN",
+      "slug": "cinquecento-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30690,
+      "documentId": "o48zm7t2i78fu0n2o72ulon8",
+      "name": "CROMA Estate Van",
+      "slug": "croma-estate-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 30841,
       "documentId": "cxc43ud3nlb44gpxf0f4cebg",
       "name": "Citivan",
@@ -139,10 +483,42 @@
       "isActive": true
     },
     {
+      "id": 30995,
+      "documentId": "nyry4vfs944tvqskmvba86s1",
+      "name": "DINO Coupe",
+      "slug": "dino-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30999,
+      "documentId": "i0rcpviqcc88u3vndqgz8t5j",
+      "name": "DINO Spider",
+      "slug": "dino-spider",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 31041,
       "documentId": "smcnjhkvkkawzgr3gbmoi11k",
       "name": "DOBLO Box Body / Estate",
       "slug": "doblo-box-body-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31043,
+      "documentId": "kcuhac59gye7g52sp5476gtu",
+      "name": "DOBLO Bus",
+      "slug": "doblo-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31044,
+      "documentId": "xg78g1x142esxmuiw55ou4hp",
+      "name": "DOBLO CARGO",
+      "slug": "fiat-doblo-cargo",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -187,6 +563,30 @@
       "isActive": true
     },
     {
+      "id": 31134,
+      "documentId": "r9qq0qyvm8p7071p9o5ka2gh",
+      "name": "DUNA",
+      "slug": "fiat-duna",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31135,
+      "documentId": "ulf26uic00lgcar0tvn1ohxc",
+      "name": "DUNA Saloon",
+      "slug": "duna-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31136,
+      "documentId": "odeigghh1parl6dfds2l3hmb",
+      "name": "DUNA Weekend",
+      "slug": "duna-weekend",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 31218,
       "documentId": "lxij8i905k4tckv7mhlqh0o2",
       "name": "Ducato",
@@ -227,10 +627,90 @@
       "isActive": true
     },
     {
+      "id": 32270,
+      "documentId": "fcbnxj67xrjk6pdh3dj05iwv",
+      "name": "GRANDE PUNTO",
+      "slug": "fiat-grande-punto",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32272,
+      "documentId": "osfg0vh4pk7gudo7jvs54z3v",
+      "name": "GRANDE PUNTO Van",
+      "slug": "grande-punto-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32635,
+      "documentId": "dn06zbe8mqqjl4km4hu4wir6",
+      "name": "IDEA",
+      "slug": "fiat-idea",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32636,
+      "documentId": "waqxpwdb1c9d9me57pfjdakz",
+      "name": "IDEA Van",
+      "slug": "idea-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32752,
+      "documentId": "qh6celojc8juyj34x5ny6z2q",
+      "name": "JAGST",
+      "slug": "jagst",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33139,
+      "documentId": "qjszjvhk9doylsp4va0zli7w",
+      "name": "LINEA",
+      "slug": "fiat-linea",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33340,
+      "documentId": "fkxueqot7we9kedr09xb2okj",
+      "name": "MAREA",
+      "slug": "fiat-marea",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 33722,
       "documentId": "z5nfug32kpdfd0730xq0uyc1",
       "name": "MULTIPLA",
       "slug": "multipla",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33723,
+      "documentId": "gsysy2wgyrpb1e7x59pds40u",
+      "name": "MULTIPLA",
+      "slug": "fiat-multipla",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33724,
+      "documentId": "caslgk39b7mnbvgp83eifrxi",
+      "name": "MULTIPLA VAN",
+      "slug": "multipla-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34172,
+      "documentId": "opohp8ynebgz7qehjeownika",
+      "name": "PALIO",
+      "slug": "fiat-palio",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -243,10 +723,42 @@
       "isActive": true
     },
     {
+      "id": 34257,
+      "documentId": "nllt0s4j1tfv151cmlmewrzz",
+      "name": "PENNY Estate Van",
+      "slug": "penny-estate-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 34440,
       "documentId": "rrn58vkalyakyvxgbkwfvcd4",
       "name": "PUNTO",
       "slug": "punto",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34443,
+      "documentId": "mk95bwbrdernjtmyqckqcym0",
+      "name": "PUNTO EVO",
+      "slug": "abarth-punto-evo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34444,
+      "documentId": "z6g3m8rnjkw3cu89jta6y2qb",
+      "name": "PUNTO EVO",
+      "slug": "fiat-punto-evo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34446,
+      "documentId": "xhawcvlci26nqe7e8b26u00u",
+      "name": "PUNTO EVO Hatchback Van",
+      "slug": "punto-evo-hatchback-van",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -267,6 +779,38 @@
       "isActive": true
     },
     {
+      "id": 34587,
+      "documentId": "m0do9kigf6hli1t1ewiimptp",
+      "name": "QUBO",
+      "slug": "fiat-qubo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34694,
+      "documentId": "bup7n73w8p80r9rlz0j17s2v",
+      "name": "REGATA",
+      "slug": "regata",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34695,
+      "documentId": "s02qraekmb6jrmfmyy0wnqe3",
+      "name": "REGATA Weekend",
+      "slug": "regata-weekend",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34763,
+      "documentId": "hwio2ayuecpq6ynl2e8m1iza",
+      "name": "RITMO Convertible",
+      "slug": "ritmo-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 35075,
       "documentId": "d9hr2i2cu93nb1h52p08dste",
       "name": "SCUDO Box",
@@ -275,10 +819,50 @@
       "isActive": true
     },
     {
+      "id": 35101,
+      "documentId": "b74u029dkphyq0mvpp6ahrwk",
+      "name": "SEDICI",
+      "slug": "fiat-sedici",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35106,
+      "documentId": "c0pcs7ywe0nyvezettxw88qd",
+      "name": "SEICENTO / 600 Hatchback Van",
+      "slug": "seicento-600-hatchback-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35179,
+      "documentId": "pds8wwvflier7lq283ymfpjp",
+      "name": "SIENA",
+      "slug": "fiat-siena",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 35486,
       "documentId": "hk1trrlbplzewcac01cxpg3b",
       "name": "STILO",
       "slug": "stilo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35487,
+      "documentId": "zpgs2k3vjy8pjparjjdyw60o",
+      "name": "STILO",
+      "slug": "fiat-stilo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35489,
+      "documentId": "seayq15874s7kj9tvgx1mwgj",
+      "name": "STILO VAN",
+      "slug": "stilo-van",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -307,6 +891,22 @@
       "isActive": true
     },
     {
+      "id": 35901,
+      "documentId": "rp7yoztd7juzn327rxlhp8pc",
+      "name": "TEMPRA",
+      "slug": "fiat-tempra",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35966,
+      "documentId": "ztlvc4qb95e8tt8btdk5o13e",
+      "name": "TIPO",
+      "slug": "fiat-tipo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 36207,
       "documentId": "f2a9fizqjhx62pj90upmthf0",
       "name": "Talento",
@@ -319,6 +919,30 @@
       "documentId": "trlfmckynp0we4kzfaza8iqe",
       "name": "Topolino",
       "slug": "topolino",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36318,
+      "documentId": "bag79f8wqxbpxtp423jfykvx",
+      "name": "ULYSSE Bus",
+      "slug": "ulysse-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36323,
+      "documentId": "e0b0lmz6ykwk9nqitosochyh",
+      "name": "UNO",
+      "slug": "fiat-uno",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36324,
+      "documentId": "nj2jm6d4pgimy9k05phr6bnx",
+      "name": "UNO Van",
+      "slug": "uno-van",
       "vehicle_type": "car",
       "isActive": true
     }

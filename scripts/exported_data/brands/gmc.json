@@ -7,7 +7,80 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.859Z",
-  "models": []
+  "modelCount": 9,
+  "exportDate": "2026-01-07T09:17:53.812Z",
+  "models": [
+    {
+      "id": 29152,
+      "documentId": "n8hy5yi9bpxjbwrtwviq5dlm",
+      "name": "ACADIA",
+      "slug": "acadia",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32052,
+      "documentId": "lp1387078pvie22qfcbmhv88",
+      "name": "G SERIE Van",
+      "slug": "g-serie-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35181,
+      "documentId": "ltam9s2o67byxoyvu0q3657b",
+      "name": "SIERRA 1500 Crew Cab Pickup",
+      "slug": "sierra-1500-crew-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35182,
+      "documentId": "x5bkden7wgp6r3uryslgoudz",
+      "name": "SIERRA 1500 Extended Cab Pickup",
+      "slug": "sierra-1500-extended-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35183,
+      "documentId": "x1iskgxe72hhom8sgyry4eoj",
+      "name": "SIERRA 2500 HD Crew Cab Pickup",
+      "slug": "sierra-2500-hd-crew-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35184,
+      "documentId": "j3vmo1jsg3vz4iyiankoarwx",
+      "name": "SIERRA Crew Cab Pickup",
+      "slug": "sierra-crew-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35190,
+      "documentId": "ak0aka3un5fqz9uwy10pmmi2",
+      "name": "SIERRA Standard Cab Pickup",
+      "slug": "sierra-standard-cab-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35916,
+      "documentId": "uawnu7tzgsks5b4wbsvlvfl3",
+      "name": "TERRAIN",
+      "slug": "terrain",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37125,
+      "documentId": "hvko5s6zevk9v4hmj6imghq9",
+      "name": "YUKON",
+      "slug": "yukon",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

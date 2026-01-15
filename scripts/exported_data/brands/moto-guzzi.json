@@ -7,7 +7,728 @@
     "vehicle_type": "moto",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.931Z",
-  "models": []
+  "modelCount": 90,
+  "exportDate": "2026-01-07T09:17:53.855Z",
+  "models": [
+    {
+      "id": 29033,
+      "documentId": "ej0c6rkhnpqs3lz85t7cejx1",
+      "name": "940 940",
+      "slug": "940-940",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29636,
+      "documentId": "kx5ol0yv0tikvq5af3nj771g",
+      "name": "Audace",
+      "slug": "audace",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29811,
+      "documentId": "ugq22g2u1tlaqry6exef8h93",
+      "name": "Belaggio 940",
+      "slug": "belaggio-940",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29813,
+      "documentId": "bp32l3xkfpsvp7yessl3svdt",
+      "name": "Bellagio 940 Aquila Nera (LY)",
+      "slug": "bellagio-940-aquila-nera-ly",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29814,
+      "documentId": "px0ce2lmtw17qq2x7kjjecls",
+      "name": "Bellagio 940 Black Eagle",
+      "slug": "bellagio-940-black-eagle",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29815,
+      "documentId": "cc4pldf8o29jbf99md95pkld",
+      "name": "Bellagio 940 Deluxe (LY)",
+      "slug": "bellagio-940-deluxe-ly",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29817,
+      "documentId": "jc6rkpzohjfv6nmf6fbo10zh",
+      "name": "Belville 125 Allure",
+      "slug": "belville-125-allure",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29886,
+      "documentId": "fyilyd3vvzwjklusw6ur4o6y",
+      "name": "Breva 1200",
+      "slug": "breva-1200",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29887,
+      "documentId": "w809a2gon4fxb2iths9vjtv8",
+      "name": "Breva 750 i.e",
+      "slug": "breva-750-ie",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29888,
+      "documentId": "nx79qig3jahx4ttazudyt51o",
+      "name": "Breva 850",
+      "slug": "breva-850",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 30782,
+      "documentId": "qrmxj3rxysobbp44ms6w9jce",
+      "name": "California 1000 II (VT)",
+      "slug": "california-1000-ii-vt",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 30783,
+      "documentId": "ceurk6lccqnokr8zm7wrdz94",
+      "name": "California 1000 III (KG)",
+      "slug": "california-1000-iii-kg",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 30784,
+      "documentId": "wvrba2mlwj3itaekbt9jr07r",
+      "name": "California 1000 III ie (VY)",
+      "slug": "california-1000-iii-ie-vy",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 30785,
+      "documentId": "bjzfqzsqrriylrxx291l5zar",
+      "name": "California 1100 (KC)",
+      "slug": "california-1100-kc",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 30786,
+      "documentId": "vvcippibcwo2q1txyobldge7",
+      "name": "California 1100 Alu",
+      "slug": "california-1100-alu",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 30787,
+      "documentId": "ay2dx5wqko6unqvpzgmn3d1r",
+      "name": "California 1100 Clas.",
+      "slug": "california-1100-clas",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 30788,
+      "documentId": "gio01jmudgayuh0fxqz8p1n6",
+      "name": "California 1100 Spez. (KD)",
+      "slug": "california-1100-spez-kd",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 30789,
+      "documentId": "aokegmqkvth3lwlflqecpscb",
+      "name": "California 1100 Titan",
+      "slug": "california-1100-titan",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 30790,
+      "documentId": "k2xjqcipogmlvepeltayagop",
+      "name": "California 1100 Touring",
+      "slug": "california-1100-touring",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 30791,
+      "documentId": "xegwzc2nhmto33sl6tepsxc9",
+      "name": "California 1100 Vint.",
+      "slug": "california-1100-vint",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 30792,
+      "documentId": "xz6yr1qscpp5b388ar2t0mtt",
+      "name": "California 1100 i (KD)",
+      "slug": "california-1100-i-kd",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 30793,
+      "documentId": "fniligzh7mvjwoyllyga9jow",
+      "name": "California 1100 i Jackal (KD)",
+      "slug": "california-1100-i-jackal-kd",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 30794,
+      "documentId": "eonjg2a5yqpm03j8b37yq5rd",
+      "name": "California 1400 Custom",
+      "slug": "california-1400-custom",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 30795,
+      "documentId": "f8hwgzcvoq0tjgn5x7wt59n5",
+      "name": "California 1400 Touring",
+      "slug": "california-1400-touring",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 30796,
+      "documentId": "ss4x83ldcq8q6d1qixcgzp31",
+      "name": "California Evo 1100",
+      "slug": "california-evo-1100",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 30797,
+      "documentId": "kcv1t76jalcuwkp8g0uyfw7g",
+      "name": "California Evo 1100 (KD)",
+      "slug": "california-evo-1100-kd",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 30798,
+      "documentId": "obgga661oashpwg9z9x39bxl",
+      "name": "California Evo 1100 Touring",
+      "slug": "california-evo-1100-touring",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31164,
+      "documentId": "kiywnptx2f4s6fndzy5abl92",
+      "name": "Daytona 1000 RS (KL)",
+      "slug": "daytona-1000-rs-kl",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31165,
+      "documentId": "qiskamtpdmqufdj74kfu30wp",
+      "name": "Daytona 1000 ie (KA)",
+      "slug": "daytona-1000-ie-ka",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31502,
+      "documentId": "d8o30rhmooi2ihrzlx6r8w04",
+      "name": "Eldorado",
+      "slug": "eldorado",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32441,
+      "documentId": "z3e14ckasytrt2zokib91kv6",
+      "name": "GTS 350 (BD)",
+      "slug": "gts-350-bd",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32442,
+      "documentId": "ehml9rvz1nfagnul8yp6xe1e",
+      "name": "GTS 350 (BM)",
+      "slug": "gts-350-bm",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32443,
+      "documentId": "bqpw2ofgitamd3m3mtgpmo1b",
+      "name": "GTS 400 (BL)",
+      "slug": "gts-400-bl",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32487,
+      "documentId": "vgh1wiizoejc8c6tp3d6wcbf",
+      "name": "Griso 1100",
+      "slug": "griso-1100",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32488,
+      "documentId": "l7hju9nwtnxto0wanizj1xxd",
+      "name": "Griso 1200 8V",
+      "slug": "griso-1200-8v",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32489,
+      "documentId": "vzoqegcj3whh3hgaom2ueomr",
+      "name": "Griso 850",
+      "slug": "griso-850",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33147,
+      "documentId": "bb5gxkz52cpwhi7us4o0opyv",
+      "name": "LM 1000 (VV)",
+      "slug": "lm-1000-vv",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33148,
+      "documentId": "n7y0xsiw51hgk94dtakbgdes",
+      "name": "LM 1000 CI (VV)",
+      "slug": "lm-1000-ci-vv",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33149,
+      "documentId": "fo1qfa99doq0ikx7e1wr4q2h",
+      "name": "LM 1000 IV (VV)",
+      "slug": "lm-1000-iv-vv",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33150,
+      "documentId": "nolufe01784pkp7gejro6ym8",
+      "name": "LM 850 I (VE)",
+      "slug": "lm-850-i-ve",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33510,
+      "documentId": "niak6bedgedjn6kpyhsilcwp",
+      "name": "MGX-21",
+      "slug": "mgx-21",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34035,
+      "documentId": "kic1inbi6g9je0vql3rvjva9",
+      "name": "Nevada",
+      "slug": "nevada",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34036,
+      "documentId": "a6ksvaqlhvjezohbb5zqsmzt",
+      "name": "Nevada 750",
+      "slug": "nevada-750",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34037,
+      "documentId": "shx1tcjidqp4swf0h7i1gagc",
+      "name": "Nevada 750 (LF)",
+      "slug": "nevada-750-lf",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34038,
+      "documentId": "n4mhprzqigo4a4td12sw7zd3",
+      "name": "Nevada 750 (LK)",
+      "slug": "nevada-750-lk",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34039,
+      "documentId": "xol23ksdg039t58bu1t6c3iz",
+      "name": "Nevada 750 (LM)",
+      "slug": "nevada-750-lm",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34040,
+      "documentId": "igo0ssrartrsed9eawleraeg",
+      "name": "Nevada 750 Anniversario",
+      "slug": "nevada-750-anniversario",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34041,
+      "documentId": "mcrc8ba6t0968ufklrya11uo",
+      "name": "Nevada 750 Aquila Nera",
+      "slug": "nevada-750-aquila-nera",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34042,
+      "documentId": "to8gsaocy0t36pb7sjdbm360",
+      "name": "Nevada 750 Base (LK)",
+      "slug": "nevada-750-base-lk",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34043,
+      "documentId": "ki40feljv5t7hjcdna81bexo",
+      "name": "Nevada 750 Classic",
+      "slug": "nevada-750-classic",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34044,
+      "documentId": "zjklewtb9vp695d6zjbm9kjm",
+      "name": "Nevada 750 Club (LF)",
+      "slug": "nevada-750-club-lf",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34045,
+      "documentId": "ka8qifn1z2hegijkzkjiuzzv",
+      "name": "Nevada 750 NT (LF)",
+      "slug": "nevada-750-nt-lf",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34046,
+      "documentId": "u9du14mo9dcpesfpy81pxcpx",
+      "name": "Nevada 750 ie",
+      "slug": "nevada-750-ie",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34065,
+      "documentId": "rll11x0lye6ks3mssm4qa7mz",
+      "name": "Norge 1200",
+      "slug": "norge-1200",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34066,
+      "documentId": "ntbb91ox8zbajr6816y4vfri",
+      "name": "Norge 850",
+      "slug": "norge-850",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34604,
+      "documentId": "cmmkg8liw2h5hkxok1t3vqw9",
+      "name": "Quota 1000 ie (KB)",
+      "slug": "quota-1000-ie-kb",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34605,
+      "documentId": "qoyt26o2cqcmcedhwxlbo68c",
+      "name": "Quota 1100 ES (KM)",
+      "slug": "quota-1100-es-km",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35709,
+      "documentId": "yd5hodxr1xrm6biubg4083po",
+      "name": "Sport 1100 (KE)",
+      "slug": "sport-1100-ke",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35710,
+      "documentId": "xl6ptghf7kp0wmm5xo4ikm0x",
+      "name": "Sport 1100 i Corsa",
+      "slug": "sport-1100-i-corsa",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35711,
+      "documentId": "oa1zup5zzihnj7gx2ad71id9",
+      "name": "Sport 1200",
+      "slug": "sport-1200",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35712,
+      "documentId": "ifwu10hf8a5adbpv8m0m7b0f",
+      "name": "Sport 1200 ABS",
+      "slug": "sport-1200-abs",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35739,
+      "documentId": "su32xdq1qrikwadafq42uc8g",
+      "name": "Stelvio 1200 (LZ)",
+      "slug": "stelvio-1200-lz",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35740,
+      "documentId": "yypq5hmjbeo9dcuo2sqkedub",
+      "name": "Stelvio 8v",
+      "slug": "stelvio-8v",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35741,
+      "documentId": "xsunnfmask48ojnk41gqcj9l",
+      "name": "Stelvio 8v NTX",
+      "slug": "stelvio-8v-ntx",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35743,
+      "documentId": "xnlh7dl0cubkbqc13vrj5p1v",
+      "name": "Stone 1100",
+      "slug": "stone-1100",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35744,
+      "documentId": "lzcz0ch7p5rl6zjtb54ikrwc",
+      "name": "Stone 1100 Metal",
+      "slug": "stone-1100-metal",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35745,
+      "documentId": "f0gbw52ktadgiqpct7x8gifq",
+      "name": "Stone 1100 Touring",
+      "slug": "stone-1100-touring",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36261,
+      "documentId": "bp0yg85rh8rhmg4hgv1n5t42",
+      "name": "Toscana Cruise 1200",
+      "slug": "toscana-cruise-1200",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36338,
+      "documentId": "mkaaiuwxno4btftaelvk2d6t",
+      "name": "V 1100 Breva",
+      "slug": "v-1100-breva",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36339,
+      "documentId": "e0cw13d83yivmqbfzklto9er",
+      "name": "V 1100 Breva ABS",
+      "slug": "v-1100-breva-abs",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36340,
+      "documentId": "w8xas4xqjgvs4ufyvgpjk5hs",
+      "name": "V 750 ie",
+      "slug": "v-750-ie",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36342,
+      "documentId": "zj3box1b0n8eq4c9eodod1vw",
+      "name": "V 85 TT (KW)",
+      "slug": "v-85-tt-kw",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36343,
+      "documentId": "qglash1tkki3z2dzlbs110i9",
+      "name": "V 9 Bobber (KP1)",
+      "slug": "v-9-bobber-kp1",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36344,
+      "documentId": "jm55d6hzphzlayb7toyih4ti",
+      "name": "V 9 Bobber (LH)",
+      "slug": "v-9-bobber-lh",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36345,
+      "documentId": "wornsfcg36g86b340h6rerdy",
+      "name": "V 9 Bobber Sport (KP1)",
+      "slug": "v-9-bobber-sport-kp1",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36346,
+      "documentId": "jeb1i1lnecxhw0gd3tbur31y",
+      "name": "V 9 Roamer (LH)",
+      "slug": "v-9-roamer-lh",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36356,
+      "documentId": "kqpqzdory50yl8gxu1dgs96k",
+      "name": "V11 1100",
+      "slug": "v11-1100",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36357,
+      "documentId": "t2iv4t15fsl6cf6r6lajytq7",
+      "name": "V11 1100 Coppa Italia",
+      "slug": "v11-1100-coppa-italia",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36358,
+      "documentId": "iexq5ycyq5fphi8ozxy3m88m",
+      "name": "V11 1100 Le Mans",
+      "slug": "v11-1100-le-mans",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36359,
+      "documentId": "hlgswj9jlyd78nviflpjjg6p",
+      "name": "V11 1100 Scura",
+      "slug": "v11-1100-scura",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36360,
+      "documentId": "osuaqv58iv2ba9y1w7ovspwu",
+      "name": "V11 1100 Sport",
+      "slug": "v11-1100-sport",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36377,
+      "documentId": "g9vt0rxegekvkgb4upfa5e03",
+      "name": "V7 750 Classic (LW)",
+      "slug": "v7-750-classic-lw",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36378,
+      "documentId": "ilbgt3gosam8js2xgm7dxzoz",
+      "name": "V7 750 Racer (LW)",
+      "slug": "v7-750-racer-lw",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36379,
+      "documentId": "zhlnh9tndqtkwnhikzb8gwx3",
+      "name": "V7 750 Special (LW)",
+      "slug": "v7-750-special-lw",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36380,
+      "documentId": "hsk4qhs2shx1gdx1iii8gh0z",
+      "name": "V7 II Special",
+      "slug": "v7-ii-special",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36381,
+      "documentId": "ed183bm2lrf2uhjpyqf9pmfg",
+      "name": "V7 II Stone",
+      "slug": "v7-ii-stone",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36382,
+      "documentId": "fi8a7b0lz50ortaueg314c76",
+      "name": "V7 Racer",
+      "slug": "v7-racer",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36383,
+      "documentId": "tpmcdlntc3zc0ojw19m3j4iq",
+      "name": "V7 Stone",
+      "slug": "v7-stone",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36388,
+      "documentId": "catnzigb54qh53i6mkbs4n24",
+      "name": "V75 750 Strada (LT)",
+      "slug": "v75-750-strada-lt",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36389,
+      "documentId": "he2c7b6egaixxvuohqxq7hre",
+      "name": "V75 750 Targa (LT)",
+      "slug": "v75-750-targa-lt",
+      "vehicle_type": "moto",
+      "isActive": true
+    }
+  ]
 }

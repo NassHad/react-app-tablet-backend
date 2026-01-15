@@ -7,7 +7,32 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:17.024Z",
-  "models": []
+  "modelCount": 3,
+  "exportDate": "2026-01-07T09:17:53.888Z",
+  "models": [
+    {
+      "id": 33590,
+      "documentId": "h958k5lhe0u9nrp7g97fc0sn",
+      "name": "MODEL 3",
+      "slug": "model-3",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33592,
+      "documentId": "stdhjd5f56w3nfw54ukx6m4p",
+      "name": "MODEL X",
+      "slug": "model-x",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33593,
+      "documentId": "vcxc8zf50dbnpaliziqap0m9",
+      "name": "MODEL Y",
+      "slug": "model-y",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

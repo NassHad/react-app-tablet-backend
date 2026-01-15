@@ -7,7 +7,128 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.848Z",
-  "models": []
+  "modelCount": 15,
+  "exportDate": "2026-01-07T09:17:53.808Z",
+  "models": [
+    {
+      "id": 28246,
+      "documentId": "fvelp1jqaow40y6i56k2e7h7",
+      "name": "125P",
+      "slug": "125p",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28247,
+      "documentId": "upnzm44fbpi8qujt7l2ckhxc",
+      "name": "125P Estate",
+      "slug": "125p-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28248,
+      "documentId": "if3pjaotp2qs7knyvx90ymo1",
+      "name": "125P Pickup",
+      "slug": "125p-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28250,
+      "documentId": "b7on7nuwgs0kcshoeq9obwxi",
+      "name": "126P",
+      "slug": "126p",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28253,
+      "documentId": "v14gfp6wlguzft6ax25rtcy0",
+      "name": "127P",
+      "slug": "127p",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28269,
+      "documentId": "fmy3zt8bxposp8afwg98wkla",
+      "name": "1300 Saloon",
+      "slug": "1300-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28282,
+      "documentId": "a2mio8mrjyql4q5qhq9a5uu4",
+      "name": "132P",
+      "slug": "132p",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28297,
+      "documentId": "hza7g7gnm391qtdf9z40ft9n",
+      "name": "1500 Estate",
+      "slug": "1500-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28300,
+      "documentId": "xbnuc3dwhkbfyjl28utrq06z",
+      "name": "1500 Saloon",
+      "slug": "1500-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34331,
+      "documentId": "a545059ocg4d4tfwoi19rhy4",
+      "name": "POLONEZ Estate",
+      "slug": "polonez-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34332,
+      "documentId": "lxczgsa47nreuyd3wk3i9c0m",
+      "name": "POLONEZ I",
+      "slug": "polonez-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34333,
+      "documentId": "xu9n1gmdlrfpnbkfoz4dai56",
+      "name": "POLONEZ II",
+      "slug": "polonez-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34334,
+      "documentId": "ayct03p49fe5yvno0wf5fvht",
+      "name": "POLONEZ III",
+      "slug": "polonez-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34335,
+      "documentId": "vpjm1h8dids9f4fsc9n8jr90",
+      "name": "POLONEZ III Saloon",
+      "slug": "polonez-iii-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34336,
+      "documentId": "sxpjtgjdpvem4229dkdri5ue",
+      "name": "POLONEZ Pickup",
+      "slug": "polonez-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

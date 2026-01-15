@@ -7,9 +7,17 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 22,
-  "exportDate": "2026-01-06T19:34:16.875Z",
+  "modelCount": 32,
+  "exportDate": "2026-01-07T09:17:53.825Z",
   "models": [
+    {
+      "id": 30907,
+      "documentId": "mk82e8hl70x0j5h8kqclha27",
+      "name": "DAILY I Bus",
+      "slug": "daily-i-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
     {
       "id": 30908,
       "documentId": "ar15seb2l0zs3rgvh0r278k0",
@@ -27,10 +35,42 @@
       "isActive": true
     },
     {
+      "id": 30911,
+      "documentId": "boxu1zgr1zmcct3nl4k1767t",
+      "name": "DAILY II Bus",
+      "slug": "daily-ii-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30912,
+      "documentId": "nq7kaq74hdy9rfrvh48a2thq",
+      "name": "DAILY II Platform/Chassis",
+      "slug": "daily-ii-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30913,
+      "documentId": "d3lhvhlt3f99gb6vwx4vrhnt",
+      "name": "DAILY II Van",
+      "slug": "daily-ii-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 30915,
       "documentId": "y5talzjym4smtxyqqmp9h8v9",
       "name": "DAILY III Box Body / Estate 29 L 12 V",
       "slug": "daily-iii-box-body-estate-29-l-12-v",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30916,
+      "documentId": "qk378tw1u46sca2blplvt5yu",
+      "name": "DAILY III Bus",
+      "slug": "daily-iii-bus",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -107,6 +147,14 @@
       "isActive": true
     },
     {
+      "id": 30927,
+      "documentId": "uj4hicmznjl2ve5sxwbzs6el",
+      "name": "DAILY V Bus",
+      "slug": "daily-v-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 30928,
       "documentId": "s3o0af9o3glo7s9hqqrh0yz4",
       "name": "DAILY V Dumptruck",
@@ -127,6 +175,14 @@
       "documentId": "tg49zofusdmuzmmb4gcr5ewn",
       "name": "DAILY V Van",
       "slug": "daily-v-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30931,
+      "documentId": "u6vgias554jwcbc0fqwf4gpl",
+      "name": "DAILY VI Bus",
+      "slug": "daily-vi-bus",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -183,6 +239,30 @@
       "documentId": "foxegngh6lbnn4ekhiawfl47",
       "name": "Massif / Pick-up / Campagnola",
       "slug": "massif--pick-up--campagnola",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34350,
+      "documentId": "cqco31arypocw4y0xcp9woqr",
+      "name": "POWER DAILY Bus",
+      "slug": "power-daily-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34351,
+      "documentId": "rfzpea9tza84n5ghrhjm6dz0",
+      "name": "POWER DAILY Platform/Chassis",
+      "slug": "power-daily-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34352,
+      "documentId": "ao2oo4n8jap5yyp1k2ke57rc",
+      "name": "POWER DAILY Van",
+      "slug": "power-daily-van",
       "vehicle_type": "car",
       "isActive": true
     }

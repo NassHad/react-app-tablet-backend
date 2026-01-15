@@ -7,8 +7,8 @@
     "vehicle_type": "car-moto",
     "isActive": true
   },
-  "modelCount": 305,
-  "exportDate": "2026-01-06T19:34:17.005Z",
+  "modelCount": 342,
+  "exportDate": "2026-01-07T09:17:53.885Z",
   "models": [
     {
       "id": 28176,
@@ -75,6 +75,46 @@
       "isActive": true
     },
     {
+      "id": 29282,
+      "documentId": "ce8a3zxvaiiptlax0et95okh",
+      "name": "ALTO 800",
+      "slug": "alto-800",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29283,
+      "documentId": "jdigjmerppafhbm7ivs5y4mv",
+      "name": "ALTO Hatchback Van",
+      "slug": "alto-hatchback-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29284,
+      "documentId": "xkw46hfg22tjefmp4v2v0ino",
+      "name": "ALTO I",
+      "slug": "alto-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29285,
+      "documentId": "lu72s7ylpuvj3if83hmqys5m",
+      "name": "ALTO II",
+      "slug": "alto-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29286,
+      "documentId": "zxdzuuuif5p2n11zdrt3sz15",
+      "name": "ALTO III",
+      "slug": "alto-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 29287,
       "documentId": "ymvwix2bo35b5h4swjl24vac",
       "name": "ALTO IV",
@@ -83,10 +123,42 @@
       "isActive": true
     },
     {
+      "id": 29288,
+      "documentId": "brll22x7h5fjb3ow0whwuocd",
+      "name": "ALTO K10",
+      "slug": "alto-k10",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29289,
+      "documentId": "p5e3ut38z2eise0kdxo9hs2o",
+      "name": "ALTO V",
+      "slug": "alto-v",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 29290,
       "documentId": "uom3mbhmat16p0uj96e39i3z",
       "name": "ALTO VI",
       "slug": "alto-vi",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29291,
+      "documentId": "xbtyzediwtfc9qmt7kn3hhlr",
+      "name": "ALTO VII",
+      "slug": "alto-vii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29292,
+      "documentId": "aagjg2s38ex5bdubm71l283e",
+      "name": "ALTO VIII",
+      "slug": "alto-viii",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -227,6 +299,30 @@
       "isActive": true
     },
     {
+      "id": 29342,
+      "documentId": "kfa0i0mz03iqcpvp06lg8r5v",
+      "name": "APV Bus",
+      "slug": "apv-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29343,
+      "documentId": "i6y6ggc520c3dkd0svzwo5mn",
+      "name": "APV Platform/Chassis",
+      "slug": "apv-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29344,
+      "documentId": "hgqw5hkv9rsuzgw8kwrkbimr",
+      "name": "APV Van",
+      "slug": "apv-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 29557,
       "documentId": "tw3z2uk0rfpblz4q8xpmqbcj",
       "name": "AY 50 A LC (AAL111)",
@@ -360,6 +456,30 @@
       "name": "C(VLR) 1800 RT (CT1112)",
       "slug": "cvlr-1800-rt-ct1112",
       "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 30106,
+      "documentId": "bux0q6v0frp9ndlqgukr75e9",
+      "name": "CAPPUCCINO",
+      "slug": "cappuccino",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30165,
+      "documentId": "n43jtiukgscq37e712ohzrvm",
+      "name": "CARRY Bus",
+      "slug": "carry-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30166,
+      "documentId": "ofgwz8hj1lb87r4d49x7tx72",
+      "name": "CARRY Platform/Chassis",
+      "slug": "carry-platform-chassis",
+      "vehicle_type": "car",
       "isActive": true
     },
     {
@@ -651,6 +771,14 @@
       "isActive": true
     },
     {
+      "id": 31162,
+      "documentId": "rrxrbbtaok8dq1frl72ep5zt",
+      "name": "DZIRE",
+      "slug": "dzire",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 31699,
       "documentId": "gbs1ksb24dv6ro6pgbakxizq",
       "name": "FL 125 SDW (CM)",
@@ -659,10 +787,26 @@
       "isActive": true
     },
     {
+      "id": 31842,
+      "documentId": "ghxthzbu4vlgej9javn02wjj",
+      "name": "FORENZA Saloon",
+      "slug": "forenza-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 32262,
       "documentId": "c4x1n2z4fj6hpvjlx2i9j83h",
       "name": "GRAND VITARA I",
       "slug": "grand-vitara-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32263,
+      "documentId": "ltuipetrn10hnt29wu8e98j1",
+      "name": "GRAND VITARA I Open Off-Road Vehicle",
+      "slug": "grand-vitara-i-open-off-road-vehicle",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -1619,10 +1763,26 @@
       "isActive": true
     },
     {
+      "id": 32768,
+      "documentId": "yky2adc1nf1auix693fb6232",
+      "name": "JIMNY Open Off-Road Vehicle",
+      "slug": "jimny-open-off-road-vehicle",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 32822,
       "documentId": "kwut9rgrhvt6naogqc4v9ivv",
       "name": "Jimny",
       "slug": "jimny",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32914,
+      "documentId": "j9awjna8032mfo999n3cxoxw",
+      "name": "KEI Hatchback",
+      "slug": "kei-hatchback",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -1647,6 +1807,30 @@
       "documentId": "tb3q0u7oxtimk67plprksyb4",
       "name": "LIANA",
       "slug": "liana",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33131,
+      "documentId": "u4u8q4djipcysqbzhm9qrh26",
+      "name": "LIANA Hatchback",
+      "slug": "liana-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33144,
+      "documentId": "p0pz0qncyngz8wd1ubxubrl2",
+      "name": "LJ80",
+      "slug": "lj80",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33145,
+      "documentId": "e34eaomrfacb3eyekzuaryxb",
+      "name": "LJ80 Closed Off-Road Vehicle",
+      "slug": "lj80-closed-off-road-vehicle",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -1688,6 +1872,14 @@
       "name": "M(VZR) 1800 RZ UF (CA2111)",
       "slug": "mvzr-1800-rz-uf-ca2111",
       "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33359,
+      "documentId": "ieqs4u6p4qfpdduszcm7tkuv",
+      "name": "MARUTI",
+      "slug": "maruti",
+      "vehicle_type": "car",
       "isActive": true
     },
     {
@@ -1755,11 +1947,67 @@
       "isActive": true
     },
     {
+      "id": 34999,
+      "documentId": "lsfjgylmme4nadtk1mf3lxom",
+      "name": "SAMURAI Open Off-Road Vehicle",
+      "slug": "samurai-open-off-road-vehicle",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35045,
+      "documentId": "cne00pf1q24ynaph0vlb6au6",
+      "name": "SC100 Coupe",
+      "slug": "sc100-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35046,
+      "documentId": "e662fmsj819gzbquj0jjdlr0",
+      "name": "SC100 Hatchback",
+      "slug": "sc100-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 35144,
       "documentId": "iodjp9us8oiyqjpiyxucd84s",
       "name": "SFV 650 (CX)",
       "slug": "sfv-650-cx",
       "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35244,
+      "documentId": "va6hxy4cmjv5zotjnq6tqtvc",
+      "name": "SJ410",
+      "slug": "sj410",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35245,
+      "documentId": "qkhkw9vzkdw4oxnudaxr5dva",
+      "name": "SJ410 Cabrio",
+      "slug": "sj410-cabrio",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35246,
+      "documentId": "yvb74ui7uo8i7fw7j5p1yne0",
+      "name": "SJ413",
+      "slug": "sj413",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35247,
+      "documentId": "o0gxt05xoxn65fd93m4v1rjo",
+      "name": "SJ413 Open Off-Road Vehicle",
+      "slug": "sj413-open-off-road-vehicle",
+      "vehicle_type": "car",
       "isActive": true
     },
     {
@@ -1775,6 +2023,14 @@
       "documentId": "vedxho0vcdfxp4otldtq9rxw",
       "name": "SUPER CARRY Bus",
       "slug": "super-carry-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35534,
+      "documentId": "qbeg9kzznok7g6bpvx98rx0m",
+      "name": "SUPER CARRY Van",
+      "slug": "super-carry-van",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -1919,6 +2175,22 @@
       "documentId": "l7tli3tv0xrxn8t8nadipnl6",
       "name": "SWACE",
       "slug": "swace",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35577,
+      "documentId": "hjpcdvf144mhu5r3i1wyda15",
+      "name": "SWIFT Convertible",
+      "slug": "swift-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35578,
+      "documentId": "rgghsqsmz3w3mhf8au624ypu",
+      "name": "SWIFT I",
+      "slug": "swift-i",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -2187,6 +2459,14 @@
       "isActive": true
     },
     {
+      "id": 36509,
+      "documentId": "se98g67lm98t6ezwm3y84cv7",
+      "name": "VITARA",
+      "slug": "santana-vitara",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 36510,
       "documentId": "ui0iha5uigtejzf6xujl12ew",
       "name": "VITARA Cabrio",
@@ -2411,6 +2691,14 @@
       "isActive": true
     },
     {
+      "id": 36728,
+      "documentId": "zjtmxdpfh1blsg8iqq2ffucx",
+      "name": "WAGON R",
+      "slug": "suzuki-wagon-r",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 36729,
       "documentId": "rkg6aw7snebm2714ocs4op51",
       "name": "WAGON R+ Hatchback",
@@ -2448,6 +2736,14 @@
       "name": "XF 650 (AC2112)",
       "slug": "xf-650-ac2112",
       "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36953,
+      "documentId": "w2ybpw3s7y62k3nh16686ygs",
+      "name": "XL7",
+      "slug": "xl7",
+      "vehicle_type": "car",
       "isActive": true
     }
   ]

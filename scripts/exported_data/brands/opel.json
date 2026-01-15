@@ -7,9 +7,25 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 87,
-  "exportDate": "2026-01-06T19:34:16.936Z",
+  "modelCount": 223,
+  "exportDate": "2026-01-07T09:17:53.860Z",
   "models": [
+    {
+      "id": 29201,
+      "documentId": "l37q81iplx4ydqpyzpkjyl62",
+      "name": "ADMIRAL A",
+      "slug": "admiral-a",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29202,
+      "documentId": "exdrx5cv4ad36xqpnlzngtvh",
+      "name": "ADMIRAL B",
+      "slug": "admiral-b",
+      "vehicle_type": "car",
+      "isActive": true
+    },
     {
       "id": 29213,
       "documentId": "z1l7nbxjctk802bx6b9f3a2p",
@@ -19,10 +35,74 @@
       "isActive": true
     },
     {
+      "id": 29214,
+      "documentId": "erdtfwxhjxj18ujc9ytqw1w9",
+      "name": "AGILA A",
+      "slug": "agila-a",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29215,
+      "documentId": "xzj4vxm1ffnno1jjesrfa5xg",
+      "name": "AGILA B",
+      "slug": "agila-b",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 29307,
       "documentId": "rrm8d77hup1u9xi7aihfjn9v",
       "name": "AMPERA-E",
       "slug": "ampera-e",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29353,
+      "documentId": "kcdsszukgyfm1mh4866765t9",
+      "name": "ARENA Bus",
+      "slug": "arena-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29374,
+      "documentId": "qwjit38tk65af21f3jpyy7jc",
+      "name": "ASCONA A",
+      "slug": "ascona-a",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29375,
+      "documentId": "d3umhzkzhqyktn6j1n95ps2a",
+      "name": "ASCONA A Voyage",
+      "slug": "ascona-a-voyage",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29376,
+      "documentId": "bsg9r8b4k3rkihoivm98j7zh",
+      "name": "ASCONA B",
+      "slug": "ascona-b",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29377,
+      "documentId": "ielfigwx2ltth5ivohqs1et8",
+      "name": "ASCONA C",
+      "slug": "ascona-c",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29378,
+      "documentId": "tuvxi9kea1mgnaombpu4w9k5",
+      "name": "ASCONA C Hatchback",
+      "slug": "ascona-c-hatchback",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -39,6 +119,14 @@
       "documentId": "vsrpt3e4aj8apzapq228z31b",
       "name": "ASTRA F CLASSIC Estate",
       "slug": "astra-f-classic-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29388,
+      "documentId": "y37g9xsjqgtehcckj2ktd0oy",
+      "name": "ASTRA F CLASSIC Hatchback",
+      "slug": "astra-f-classic-hatchback",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -83,10 +171,50 @@
       "isActive": true
     },
     {
+      "id": 29394,
+      "documentId": "yui6jj8p6fjs3obf8xci9w32",
+      "name": "ASTRA F Saloon",
+      "slug": "astra-f-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 29395,
       "documentId": "zt2mag6tez302fbnm9b5ovqe",
       "name": "ASTRA G",
       "slug": "astra-g",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29396,
+      "documentId": "g9stnv3aqhlp6r70rghbjtoy",
+      "name": "ASTRA G CLASSIC",
+      "slug": "astra-g-classic",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29397,
+      "documentId": "ll7d1wp6iwvqju3enka2ul8d",
+      "name": "ASTRA G CLASSIC Caravan",
+      "slug": "astra-g-classic-caravan",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29398,
+      "documentId": "d679i7tzs4btszpo9uujbiv1",
+      "name": "ASTRA G CLASSIC Saloon",
+      "slug": "astra-g-classic-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29399,
+      "documentId": "p91go2rdij95obkx7r9f7ise",
+      "name": "ASTRA G COUPE",
+      "slug": "opel-astra-g-coupe",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -151,6 +279,14 @@
       "documentId": "d05l2o12ovfobxw7rwsyppee",
       "name": "ASTRA H CLASSIC Estate",
       "slug": "astra-h-classic-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29408,
+      "documentId": "kawb8r3s2txil4irnozmck9v",
+      "name": "ASTRA H CLASSIC Hatchback",
+      "slug": "astra-h-classic-hatchback",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -227,6 +363,14 @@
       "isActive": true
     },
     {
+      "id": 29419,
+      "documentId": "e20up185bb9m7r46f7t7dl3d",
+      "name": "ASTRA J Hatchback Van",
+      "slug": "astra-j-hatchback-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 29420,
       "documentId": "p2dj83z5f3m3osvm0aiemaab",
       "name": "ASTRA J Saloon",
@@ -247,6 +391,22 @@
       "documentId": "hes3n1wktqym9i7rnln98zel",
       "name": "ASTRA K",
       "slug": "astra-k",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29423,
+      "documentId": "yxohziewy01sf2pkmjzd8ncc",
+      "name": "ASTRA K Estate Van",
+      "slug": "astra-k-estate-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29424,
+      "documentId": "x5bi0d5g8o66yy2cy0nv2j8b",
+      "name": "ASTRA K Hatchback Van",
+      "slug": "astra-k-hatchback-van",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -347,10 +507,26 @@
       "isActive": true
     },
     {
+      "id": 30100,
+      "documentId": "oahx3gnn0ilzvr1h1fsbxpdl",
+      "name": "CAMPO",
+      "slug": "isuzu-campo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 30168,
       "documentId": "modgtvy1hanl8f51ux7e663v",
       "name": "CASCADA",
       "slug": "cascada",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30169,
+      "documentId": "m3btb4c561ls2b3chyslec2y",
+      "name": "CASCADA",
+      "slug": "vauxhall-cascada",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -395,6 +571,78 @@
       "isActive": true
     },
     {
+      "id": 30529,
+      "documentId": "lw6vi8agmdaer3oo1n80iw8f",
+      "name": "COMMODORE A",
+      "slug": "commodore-a",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30530,
+      "documentId": "pe8y0wuipy57464grsm5ppty",
+      "name": "COMMODORE A Coupe",
+      "slug": "commodore-a-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30531,
+      "documentId": "tsy4h3tmia1qydky7z8mhb10",
+      "name": "COMMODORE B",
+      "slug": "commodore-b",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30532,
+      "documentId": "nahre2hpjd9g2pgohfn86a19",
+      "name": "COMMODORE B Coupe",
+      "slug": "commodore-b-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30533,
+      "documentId": "zl0bzjnux92rzu2cpdgief0g",
+      "name": "COMMODORE C",
+      "slug": "commodore-c",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30534,
+      "documentId": "o856tqrbeir1o8dnfxyscqhq",
+      "name": "COMMODORE C Estate",
+      "slug": "commodore-c-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30601,
+      "documentId": "ibx2zhmff0x69tmane3wo6y6",
+      "name": "CORSA A Hatchback",
+      "slug": "corsa-a-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30602,
+      "documentId": "o5ksmdrmi1vzckdpsjldd6z5",
+      "name": "CORSA A Hatchback Van",
+      "slug": "corsa-a-hatchback-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30603,
+      "documentId": "z0yxrq4mo04baczp3szymigy",
+      "name": "CORSA A TR",
+      "slug": "corsa-a-tr",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 30604,
       "documentId": "wd6hffwuorpg9y0whsksncct",
       "name": "CORSA B",
@@ -419,6 +667,14 @@
       "isActive": true
     },
     {
+      "id": 30607,
+      "documentId": "ohgtf5u9dvn3p15ik5dpvuk9",
+      "name": "CORSA B Hatchback Van",
+      "slug": "corsa-b-hatchback-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 30608,
       "documentId": "zpc9c9k1zudrp2uql21shrm2",
       "name": "CORSA C",
@@ -435,10 +691,26 @@
       "isActive": true
     },
     {
+      "id": 30610,
+      "documentId": "wybyo9ooplt4gk0h37cmw5jv",
+      "name": "CORSA C Hatchback Van",
+      "slug": "corsa-c-hatchback-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 30611,
       "documentId": "obsmpv9wqj7v8pnygtuq7y6i",
       "name": "CORSA D",
       "slug": "corsa-d",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30612,
+      "documentId": "rpgc0ipz2z1bh3y5ypi6deej",
+      "name": "CORSA D Hatchback Van",
+      "slug": "corsa-d-hatchback-van",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -475,10 +747,26 @@
       "isActive": true
     },
     {
+      "id": 30618,
+      "documentId": "af8wz6r2lax2a0y9nod27ce1",
+      "name": "CORSA F Hatchback Van",
+      "slug": "corsa-f-hatchback-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 30698,
       "documentId": "zz559i7eyvpu82cqb8awk5qz",
       "name": "CROSSLAND X",
       "slug": "crossland-x",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30701,
+      "documentId": "a4g756qb2rs2noy62rdl0kor",
+      "name": "CROSSLAND X Van",
+      "slug": "crossland-x-van",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -507,6 +795,54 @@
       "isActive": true
     },
     {
+      "id": 31000,
+      "documentId": "tawf0euxvsgv38kzxm20pm6a",
+      "name": "DIPLOMAT A",
+      "slug": "diplomat-a",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31001,
+      "documentId": "a6gio2ubnxa3xvzlaq0qgm3n",
+      "name": "DIPLOMAT A Coupe",
+      "slug": "diplomat-a-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31002,
+      "documentId": "ntlbhw6clnghdusz8gk3ht7e",
+      "name": "DIPLOMAT B",
+      "slug": "diplomat-b",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31880,
+      "documentId": "l6rz3bju27detem1zphmaech",
+      "name": "FRONTERA A",
+      "slug": "frontera-a",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31881,
+      "documentId": "vx0zetx2pb01s36u834pclpm",
+      "name": "FRONTERA A Sport",
+      "slug": "frontera-a-sport",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31882,
+      "documentId": "nmudun5v31qssl9wpwu4dp3u",
+      "name": "FRONTERA B",
+      "slug": "frontera-b",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 32045,
       "documentId": "v2f2igbddp6qr8j7zz4utbxu",
       "name": "Frontera",
@@ -531,10 +867,98 @@
       "isActive": true
     },
     {
+      "id": 32275,
+      "documentId": "eawcnlv9xbn3p6hsazcy6syn",
+      "name": "GRANDLAND / GRANDLAND X",
+      "slug": "grandland-grandland-x",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32280,
+      "documentId": "g69843dj3axfthxwe8i227d7",
+      "name": "GRANDLAND X Van",
+      "slug": "grandland-x-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32409,
+      "documentId": "lr8bxarrk82eq1wmzho29vx5",
+      "name": "GT Convertible",
+      "slug": "gt-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 32485,
       "documentId": "jjy7fths9aopsyc2afdzi97d",
       "name": "Grandland",
       "slug": "grandland",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32665,
+      "documentId": "vazcz7h6mmvf2d2kck31vaej",
+      "name": "INSIGNIA A",
+      "slug": "insignia-a",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32666,
+      "documentId": "yzg918mh99idkfns50x27sm2",
+      "name": "INSIGNIA A Country Tourer",
+      "slug": "insignia-a-country-tourer",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32667,
+      "documentId": "d0m27dbaj6r1gxra67o96vnn",
+      "name": "INSIGNIA A Saloon",
+      "slug": "insignia-a-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32668,
+      "documentId": "plcdzf3xwjqomvmws7dwe4iw",
+      "name": "INSIGNIA A Sports Tourer",
+      "slug": "insignia-a-sports-tourer",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32670,
+      "documentId": "sy2b30roa9wxwiukzksv03mk",
+      "name": "INSIGNIA B Country Tourer",
+      "slug": "insignia-b-country-tourer",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32671,
+      "documentId": "xlep3j2npmpy6jnl0v5g66vn",
+      "name": "INSIGNIA B Grand Sport",
+      "slug": "insignia-b-grand-sport",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32672,
+      "documentId": "o5r25thax265dxhmjc0u73f3",
+      "name": "INSIGNIA B Sports Tourer",
+      "slug": "insignia-b-sports-tourer",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32673,
+      "documentId": "gzr5t4k44yhh1in5uc5vn74j",
+      "name": "INSIGNIA B Sports Tourer Combi Van",
+      "slug": "insignia-b-sports-tourer-combi-van",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -571,6 +995,174 @@
       "isActive": true
     },
     {
+      "id": 32850,
+      "documentId": "f3bo5p9spul40j68qa530rl8",
+      "name": "KADETT A",
+      "slug": "kadett-a",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32851,
+      "documentId": "c7fh88xj6r11tvq0p5i34xpm",
+      "name": "KADETT A Coupe",
+      "slug": "kadett-a-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32852,
+      "documentId": "cix5udxakys5oq9hlvnt9nqn",
+      "name": "KADETT A Estate",
+      "slug": "kadett-a-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32853,
+      "documentId": "bkeo4l9v7fzullh6vgj0fs29",
+      "name": "KADETT B",
+      "slug": "kadett-b",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32854,
+      "documentId": "g9tkhe0w1ae3lx1tkqy4rdes",
+      "name": "KADETT B Coupe",
+      "slug": "kadett-b-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32855,
+      "documentId": "mio96oey5pyhg5rywyxspcur",
+      "name": "KADETT B Estate",
+      "slug": "kadett-b-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32856,
+      "documentId": "rplc3yabul6mri1gm9vl26ey",
+      "name": "KADETT C",
+      "slug": "kadett-c",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32857,
+      "documentId": "gojjgujkv6b5b2zn2mls8f8z",
+      "name": "KADETT C AERO",
+      "slug": "kadett-c-aero",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32858,
+      "documentId": "k80s5l2gw0dbrvh6ypmzh05u",
+      "name": "KADETT C City",
+      "slug": "kadett-c-city",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32859,
+      "documentId": "ekf1wvihpc5l9rrm69iebb3l",
+      "name": "KADETT C Coupe",
+      "slug": "kadett-c-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32860,
+      "documentId": "mwmoy7qbe77qd4qq0a0kyaw5",
+      "name": "KADETT C Estate",
+      "slug": "kadett-c-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32861,
+      "documentId": "du2mdexor9dzr9yrmos5lpfu",
+      "name": "KADETT D",
+      "slug": "kadett-d",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32862,
+      "documentId": "u59h8f77qc5j50o4n0sol40d",
+      "name": "KADETT D Estate",
+      "slug": "kadett-d-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32863,
+      "documentId": "c0btdz9ipd0s5qywitnrkfys",
+      "name": "KADETT E",
+      "slug": "kadett-e",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32864,
+      "documentId": "i1uhlctwi4z3veezbzghx7s6",
+      "name": "KADETT E Combo",
+      "slug": "kadett-e-combo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32865,
+      "documentId": "jpxztpcg3iaus1uyygwbpfgv",
+      "name": "KADETT E Convertible",
+      "slug": "kadett-e-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32866,
+      "documentId": "p56bjl3ow3e9bryxzi472c07",
+      "name": "KADETT E Estate",
+      "slug": "kadett-e-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32867,
+      "documentId": "snbx2ov8ldbiqs539prld0g1",
+      "name": "KADETT E Estate Van",
+      "slug": "kadett-e-estate-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32868,
+      "documentId": "fqhcc76mwvyveonzey0nrl0p",
+      "name": "KADETT E Hatchback",
+      "slug": "kadett-e-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32898,
+      "documentId": "cdldj3pv7fkx70y7gxuec0h9",
+      "name": "KAPIT�N A",
+      "slug": "kapit-n-a",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32899,
+      "documentId": "xbna36p0rxpkn90rdlmsngui",
+      "name": "KAPIT�N B",
+      "slug": "kapit-n-b",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 32906,
       "documentId": "yuvgoictkftpbfl1iktqha4x",
       "name": "KARL",
@@ -587,6 +1179,30 @@
       "isActive": true
     },
     {
+      "id": 33323,
+      "documentId": "kg4bushwe27292wxxvn6zh9m",
+      "name": "MANTA A",
+      "slug": "manta-a",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33324,
+      "documentId": "iroydcm7o2dgb2ahhxol9i58",
+      "name": "MANTA B",
+      "slug": "manta-b",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33325,
+      "documentId": "redfe7j2g75i0pp4nxz66d2y",
+      "name": "MANTA B CC",
+      "slug": "manta-b-cc",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 33462,
       "documentId": "we2r9w1lr1dd8gnyg92qh991",
       "name": "MERIVA A MPV",
@@ -599,6 +1215,110 @@
       "documentId": "na9tz3g739z3yh32kzr0dmnm",
       "name": "MERIVA B MPV",
       "slug": "meriva-b-mpv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33465,
+      "documentId": "jgizkd5xfriq2q1u539joisf",
+      "name": "MERIVA B VAN",
+      "slug": "meriva-b-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33602,
+      "documentId": "byx8t065pdgqog3xhyyrbtld",
+      "name": "MOKKA X VAN",
+      "slug": "mokka-x-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33631,
+      "documentId": "jeybtkdso97rm426ddlgptcb",
+      "name": "MONTEREY A",
+      "slug": "monterey-a",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33632,
+      "documentId": "vijigl2ctajnaindqv5euv5j",
+      "name": "MONTEREY B",
+      "slug": "monterey-b",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33635,
+      "documentId": "up79uta5cjrio8oegq509jed",
+      "name": "MONZA A",
+      "slug": "monza-a",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33641,
+      "documentId": "xu9vzidpyqhjtiiy30locp8k",
+      "name": "MOVANO A Bus",
+      "slug": "movano-a-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33642,
+      "documentId": "wb5ujlugradqwl0i2hm28ors",
+      "name": "MOVANO A Platform/Chassis",
+      "slug": "movano-a-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33643,
+      "documentId": "ty1sw3ehwu7zc9tih3eel36r",
+      "name": "MOVANO A Van",
+      "slug": "movano-a-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33644,
+      "documentId": "s4ccrwhcqhq3ro9lwrxoeo8h",
+      "name": "MOVANO B Bus",
+      "slug": "movano-b-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33645,
+      "documentId": "ctraqpqsvukvr3z5isrrixcu",
+      "name": "MOVANO B Platform/Chassis",
+      "slug": "movano-b-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33646,
+      "documentId": "fmwr2mukt7fs3f0p3dvk87nr",
+      "name": "MOVANO B Van",
+      "slug": "movano-b-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33647,
+      "documentId": "ykxvokasf3cj7ho7s7idy86p",
+      "name": "MOVANO C Platform/Chassis",
+      "slug": "movano-c-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33648,
+      "documentId": "g8b3ws8b7je1h4d5hkm1ceos",
+      "name": "MOVANO C Van",
+      "slug": "movano-c-van",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -635,10 +1355,226 @@
       "isActive": true
     },
     {
+      "id": 34081,
+      "documentId": "g6to9cui7o2v7jb8kl0wg7cq",
+      "name": "OLYMPIA A",
+      "slug": "olympia-a",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34082,
+      "documentId": "kv7apd47yz9nlecp5i7awgbr",
+      "name": "OLYMPIA A Coupe",
+      "slug": "olympia-a-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34083,
+      "documentId": "f24xe1zjzhqowqzmm049179t",
+      "name": "OLYMPIA REKORD",
+      "slug": "olympia-rekord",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34084,
+      "documentId": "rbx6cl5oqezx6ofn24n6ffsj",
+      "name": "OLYMPIA REKORD Estate",
+      "slug": "olympia-rekord-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34086,
+      "documentId": "tilvbtbjs0zk3i5oioj5r799",
+      "name": "OMEGA A",
+      "slug": "omega-a",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34087,
+      "documentId": "pnq3zz7w2whqvmeo4whfrtbt",
+      "name": "OMEGA A Estate",
+      "slug": "omega-a-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34088,
+      "documentId": "kq1is17rfl57gpad4okwm58f",
+      "name": "OMEGA B",
+      "slug": "omega-b",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34089,
+      "documentId": "kmoku78m14zcmr6iy739zuis",
+      "name": "OMEGA B Estate",
+      "slug": "omega-b-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 34127,
       "documentId": "o53nbd823kwgygs19kmb0zjo",
       "name": "Omega",
       "slug": "omega",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34698,
+      "documentId": "xjgjagvdyb0m1v58ms1a2ror",
+      "name": "REKORD A",
+      "slug": "rekord-a",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34699,
+      "documentId": "vvm2u8tmlyr9syfgu50gak4q",
+      "name": "REKORD A Coupe",
+      "slug": "rekord-a-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34700,
+      "documentId": "s1w5swezsc3lb1zkgyc5obcw",
+      "name": "REKORD A Estate",
+      "slug": "rekord-a-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34701,
+      "documentId": "up3m8spxvnuilgae0siupajq",
+      "name": "REKORD B",
+      "slug": "rekord-b",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34702,
+      "documentId": "alw6mwgaqzp3gwanv069fz3v",
+      "name": "REKORD B Coupe",
+      "slug": "rekord-b-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34703,
+      "documentId": "d7d3q8cjeig5wreoouky1hkz",
+      "name": "REKORD B Estate",
+      "slug": "rekord-b-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34704,
+      "documentId": "qwr2aaz1h4waq4tf22s8esl0",
+      "name": "REKORD C",
+      "slug": "rekord-c",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34705,
+      "documentId": "sijrldjeq8sfpeu0vcvohw8e",
+      "name": "REKORD C Coupe",
+      "slug": "rekord-c-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34706,
+      "documentId": "s9svty63acwu7unvaom7hxyh",
+      "name": "REKORD C Estate",
+      "slug": "rekord-c-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34708,
+      "documentId": "sath8p1oxvehtzblesneps9y",
+      "name": "REKORD D",
+      "slug": "rekord-d",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34709,
+      "documentId": "d5ltf7mpw30kjdoa9cfviw85",
+      "name": "REKORD D Coupe",
+      "slug": "rekord-d-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34710,
+      "documentId": "knlbzny49v5c1w6ankpj0ajf",
+      "name": "REKORD D Estate",
+      "slug": "rekord-d-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34711,
+      "documentId": "rc7k3sp1vkgq09yqip0hh7k4",
+      "name": "REKORD E",
+      "slug": "rekord-e",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34712,
+      "documentId": "lh9fr8y1375sbcgepbjimeqh",
+      "name": "REKORD E Estate",
+      "slug": "rekord-e-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34713,
+      "documentId": "gc20gvppcgquqy4r0aguakgh",
+      "name": "REKORD P1",
+      "slug": "rekord-p1",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34714,
+      "documentId": "h1m0fu9bcy3xk2b6bup9lxlu",
+      "name": "REKORD P1 Estate",
+      "slug": "rekord-p1-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34715,
+      "documentId": "mrf0zpwwh30igjjqax8ljgmu",
+      "name": "REKORD P2",
+      "slug": "rekord-p2",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34716,
+      "documentId": "x7hfq0xsney3etvl5bxsuhkh",
+      "name": "REKORD P2 Coupe",
+      "slug": "rekord-p2-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34717,
+      "documentId": "hms86qnwjd6faw3y5oabrgeu",
+      "name": "REKORD P2 Estate",
+      "slug": "rekord-p2-estate",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -651,10 +1587,130 @@
       "isActive": true
     },
     {
+      "id": 35109,
+      "documentId": "yub8znzezqxca8e88tl3w8rm",
+      "name": "SENATOR A",
+      "slug": "senator-a",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35110,
+      "documentId": "jigt8dv12ccdhditwup7vwdy",
+      "name": "SENATOR A",
+      "slug": "vauxhall-senator-a",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35111,
+      "documentId": "hwcib9h5ojoow9lgxlwysjwf",
+      "name": "SENATOR B",
+      "slug": "senator-b",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35197,
+      "documentId": "bbxewunqmzc9ymkpkxmc7a12",
+      "name": "SIGNUM Hatchback",
+      "slug": "signum-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35950,
+      "documentId": "hdlxog82g5xgpipailtjqlzy",
+      "name": "TIGRA",
+      "slug": "tigra",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35951,
+      "documentId": "aiccivnt59lt2qfffdrdcc2y",
+      "name": "TIGRA",
+      "slug": "vauxhall-tigra",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36423,
+      "documentId": "yjgcmzph0876htsoc7maduob",
+      "name": "VECTRA A",
+      "slug": "vauxhall-vectra-a",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36422,
+      "documentId": "g43ghvnkuedxh0o9hsp3zcw1",
+      "name": "VECTRA A",
+      "slug": "vectra-a",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36424,
+      "documentId": "rwhkn3ng47mehiy0f84z7i3l",
+      "name": "VECTRA A Hatchback",
+      "slug": "vectra-a-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36425,
+      "documentId": "qwusykid6ntms2sjr1l1k2u8",
+      "name": "VECTRA B",
+      "slug": "vectra-b",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36426,
+      "documentId": "czt0mhhsnxgtj05fddnevuvk",
+      "name": "VECTRA B Estate",
+      "slug": "vectra-b-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36427,
+      "documentId": "imyqh059xw5ikkvbdvmy1e97",
+      "name": "VECTRA B Hatchback",
+      "slug": "vectra-b-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36428,
+      "documentId": "f4u071n8r0celvna3t603s2h",
+      "name": "VECTRA C",
+      "slug": "vectra-c",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36429,
+      "documentId": "g4xvwq56ifwopimp13lc4jcb",
+      "name": "VECTRA C Estate",
+      "slug": "vectra-c-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 36430,
       "documentId": "h4zsot4g11sbc7u9gu55zy4l",
       "name": "VECTRA C GTS",
       "slug": "vectra-c-gts",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36537,
+      "documentId": "l258pib9wk1n2ih7kbiz0bmx",
+      "name": "VIVARO C Bus",
+      "slug": "vivaro-c-bus",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -687,6 +1743,38 @@
       "documentId": "ur573l26ffwotgnlwbpyvj0j",
       "name": "ZAFIRA A MPV",
       "slug": "zafira-a-mpv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37197,
+      "documentId": "kowa93fx7k5lehgfci4bw8jo",
+      "name": "ZAFIRA B Box Body/MPV",
+      "slug": "zafira-b-box-body-mpv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37202,
+      "documentId": "ufnd3xybtfwds3br4cqo3kg8",
+      "name": "ZAFIRA LIFE Bus",
+      "slug": "zafira-life-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37206,
+      "documentId": "hqvjvoiofzzg56woino12qdn",
+      "name": "ZAFIRA TOURER C",
+      "slug": "zafira-tourer-c",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37207,
+      "documentId": "tbkkkor3mxrztwuvwck72mcx",
+      "name": "ZAFIRA TOURER C VAN",
+      "slug": "zafira-tourer-c-van",
       "vehicle_type": "car",
       "isActive": true
     },

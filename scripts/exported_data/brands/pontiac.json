@@ -7,14 +7,206 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 1,
-  "exportDate": "2026-01-06T19:34:16.952Z",
+  "modelCount": 25,
+  "exportDate": "2026-01-07T09:17:53.867Z",
   "models": [
+    {
+      "id": 29755,
+      "documentId": "x0rjofqkpjtpffpphsljvfjy",
+      "name": "BONNEVILLE Saloon",
+      "slug": "bonneville-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31650,
+      "documentId": "lrindo1wqcevsikckso86nyg",
+      "name": "FIERO Coupe",
+      "slug": "fiero-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31680,
+      "documentId": "uvgfelepy30o5q8skqfeptnh",
+      "name": "FIREBIRD",
+      "slug": "firebird",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31681,
+      "documentId": "yagqh045lu5joojjijbvqofy",
+      "name": "FIREBIRD Convertible",
+      "slug": "firebird-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32233,
+      "documentId": "nm54lby03o16s5obt5pv4itj",
+      "name": "GRAND AM Coupe",
+      "slug": "grand-am-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32234,
+      "documentId": "nvtd9vyi74r446a6uyknyb6n",
+      "name": "GRAND AM Saloon",
+      "slug": "grand-am-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32250,
+      "documentId": "gm3l62zmjy62ynflf55oki21",
+      "name": "GRAND PRIX Coupe",
+      "slug": "grand-prix-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32251,
+      "documentId": "ba9j09r7qbpzut9so5eg1sol",
+      "name": "GRAND PRIX V Coupe",
+      "slug": "grand-prix-v-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32252,
+      "documentId": "jfnsnx37fwnmgafozet24lbe",
+      "name": "GRAND PRIX V Saloon",
+      "slug": "grand-prix-v-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32253,
+      "documentId": "pq6mcs2tltteu675dcuagsw2",
+      "name": "GRAND PRIX VI Coupe",
+      "slug": "grand-prix-vi-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32254,
+      "documentId": "lubmug67wwwp1kh5rp3da9fj",
+      "name": "GRAND PRIX VI Saloon",
+      "slug": "grand-prix-vi-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33106,
+      "documentId": "d7ydmdvb1ez23v773ywikm9q",
+      "name": "LEMANS Estate",
+      "slug": "lemans-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33107,
+      "documentId": "mc7d52dsvxe9q43m5amnjscy",
+      "name": "LEMANS Saloon",
+      "slug": "lemans-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33627,
+      "documentId": "d2z0nfee4xxk3hdk87ipydlq",
+      "name": "MONTANA",
+      "slug": "montana",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34274,
+      "documentId": "zj305fqujk22t65pqp0zp5i3",
+      "name": "PHOENIX",
+      "slug": "phoenix",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34275,
+      "documentId": "msdn6qor5nypvj7ux4zsusx3",
+      "name": "PHOENIX Coupe",
+      "slug": "phoenix-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35318,
+      "documentId": "d7ahpqu0y2mi9ubwzml9xg5v",
+      "name": "SOLSTICE Convertible",
+      "slug": "solstice-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35512,
+      "documentId": "m1ntrfqxnf98vzoiunua0h0r",
+      "name": "SUNBIRD",
+      "slug": "sunbird",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35513,
+      "documentId": "f6gyhbxe0muv9ye841fymnao",
+      "name": "SUNFIRE",
+      "slug": "sunfire",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35514,
+      "documentId": "am6j0kxvcnzvhirdr2is23r1",
+      "name": "SUNFIRE Coupe",
+      "slug": "sunfire-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35996,
+      "documentId": "wg56c8ke3ny9z54ad14b6kor",
+      "name": "TORRENT",
+      "slug": "torrent",
+      "vehicle_type": "car",
+      "isActive": true
+    },
     {
       "id": 36082,
       "documentId": "r7tmeakwtworqrinkgiid0au",
       "name": "TRANS SPORT",
       "slug": "trans-sport",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36083,
+      "documentId": "xz9ldv4kvis40ubphpt416of",
+      "name": "TRANS SPORT",
+      "slug": "pontiac-trans-sport",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36084,
+      "documentId": "ade8sjz0vbxbkini59hdzkeu",
+      "name": "TRANS SPORT Mini Cargo Van",
+      "slug": "trans-sport-mini-cargo-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36085,
+      "documentId": "crcbt3xer5n23fc5o9ums2ij",
+      "name": "TRANS SPORT VAN",
+      "slug": "trans-sport-van",
       "vehicle_type": "car",
       "isActive": true
     }

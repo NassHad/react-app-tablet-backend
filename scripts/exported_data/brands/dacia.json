@@ -7,14 +7,134 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 20,
-  "exportDate": "2026-01-06T19:34:16.813Z",
+  "modelCount": 38,
+  "exportDate": "2026-01-07T09:17:53.790Z",
   "models": [
+    {
+      "id": 28194,
+      "documentId": "ixdrqmgc6iua0ozxbx1s96yl",
+      "name": "1100",
+      "slug": "1100",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28195,
+      "documentId": "otg68lmhczt4axt87kw5c1x3",
+      "name": "1100",
+      "slug": "zastava-1100",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28229,
+      "documentId": "g5sq54jnwut8tux9kjm5yglt",
+      "name": "1210",
+      "slug": "1210",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28267,
+      "documentId": "ny8k5ezq798dmb9bhxmsskcy",
+      "name": "1300 Estate",
+      "slug": "1300-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28270,
+      "documentId": "fxv5uil80wvuz7i457asb343",
+      "name": "1304 Pickup",
+      "slug": "1304-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28271,
+      "documentId": "iukh6od2pji00vhvmmahbdmy",
+      "name": "1307 Platform/Chassis",
+      "slug": "1307-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28273,
+      "documentId": "mxemyv8nsmsm37hfbvkumod3",
+      "name": "1309 Pickup",
+      "slug": "1309-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28274,
+      "documentId": "to845y85y7ricwarby415z3m",
+      "name": "1309 Platform/Chassis",
+      "slug": "1309-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28277,
+      "documentId": "shxlhfaobc66fs1iwqqi2pel",
+      "name": "1310 Coupe",
+      "slug": "1310-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28278,
+      "documentId": "y7mp6xi202zntldhsbkl9awk",
+      "name": "1310 Estate",
+      "slug": "1310-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28279,
+      "documentId": "p4jpgvggkq5755nycj4849zw",
+      "name": "1310 Saloon",
+      "slug": "1310-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28281,
+      "documentId": "x7p1hw23939bl66om4spy5u7",
+      "name": "1325",
+      "slug": "1325",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28287,
+      "documentId": "cy4mmbfn1hqrp3kulj94qjo5",
+      "name": "1410 Estate",
+      "slug": "1410-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28288,
+      "documentId": "d69zycyp023zg09v2kxllu1w",
+      "name": "1410 Saloon",
+      "slug": "1410-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
     {
       "id": 28384,
       "documentId": "ac7tea7pp1zjgugsmm2x38fo",
       "name": "2000",
       "slug": "2000",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31050,
+      "documentId": "qwm5v8cadrdkscis0fmi4fz3",
+      "name": "DOKKER Box Body/MPV",
+      "slug": "dokker-box-body-mpv",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -107,6 +227,14 @@
       "isActive": true
     },
     {
+      "id": 33168,
+      "documentId": "odb09kek6w26thsbocgsgmwe",
+      "name": "LOGAN III",
+      "slug": "logan-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 33170,
       "documentId": "e780xh41fnbwtfs9c6u38e20",
       "name": "LOGAN MCV",
@@ -167,6 +295,22 @@
       "documentId": "amwcgvl3qb44qjc7zhjzvh82",
       "name": "SPRING",
       "slug": "spring",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35377,
+      "documentId": "cjb6v0v3yafd4s6z9679ek0b",
+      "name": "SPRING Cargo",
+      "slug": "spring-cargo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35544,
+      "documentId": "txd5mfythonz9qdip548sase",
+      "name": "SUPERNOVA",
+      "slug": "supernova",
       "vehicle_type": "car",
       "isActive": true
     }

@@ -7,7 +7,96 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.896Z",
-  "models": []
+  "modelCount": 11,
+  "exportDate": "2026-01-07T09:17:53.839Z",
+  "models": [
+    {
+      "id": 29299,
+      "documentId": "qj5gki0kitjjaov0pzvi26az",
+      "name": "AMBRA",
+      "slug": "ambra",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29691,
+      "documentId": "z0j3u4vd0knj6cmji3quk6d1",
+      "name": "BE UP",
+      "slug": "be-up",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32722,
+      "documentId": "inpa8c02esutkhxn8r2a1v5d",
+      "name": "IXO",
+      "slug": "ixo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32774,
+      "documentId": "p8be0ot8fga26m56302xr3rq",
+      "name": "JS RC",
+      "slug": "js-rc",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32775,
+      "documentId": "tzhbkkyqe01583cbcfzhc422",
+      "name": "JS50",
+      "slug": "js50",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33954,
+      "documentId": "kejtr5pwbm11qc4mppqq8uip",
+      "name": "NOVA",
+      "slug": "chevrolet-nova",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33955,
+      "documentId": "y79q7rs1qalg14yggdmclsn9",
+      "name": "NOVA",
+      "slug": "ligier-nova",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33956,
+      "documentId": "iugnygcpl1ufze2v2csgw5l5",
+      "name": "NOVA",
+      "slug": "vauxhall-nova",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34436,
+      "documentId": "lfklybhrsh8piypxw1bftvyn",
+      "name": "PULSE 3 Threewheeler",
+      "slug": "pulse-3-threewheeler",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34437,
+      "documentId": "ao7ydk8ili56xkygge4oub5k",
+      "name": "PULSE 4 Platform/Chassis",
+      "slug": "pulse-4-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37017,
+      "documentId": "ca8ihx1bo1b1d0bokcj7oj22",
+      "name": "XTOO",
+      "slug": "xtoo",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

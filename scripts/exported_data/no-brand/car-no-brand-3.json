@@ -2,128 +2,8 @@
   "vehicleType": "car",
   "batchNumber": 3,
   "totalInBatch": 1000,
-  "exportDate": "2026-01-06T19:34:17.141Z",
+  "exportDate": "2026-01-07T08:08:51.478Z",
   "models": [
-    {
-      "id": 33098,
-      "documentId": "gidviad5cis6j35cv0maj2ck",
-      "name": "LEGEND Coupe",
-      "slug": "legend-coupe",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 33099,
-      "documentId": "mcyw63s9fm7titkw1svdvdk0",
-      "name": "LEGEND I",
-      "slug": "legend-i",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 33100,
-      "documentId": "saemkwvqho3ckwjqj8wt9q16",
-      "name": "LEGEND I Coupe",
-      "slug": "legend-i-coupe",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 33105,
-      "documentId": "bnr58ew7etmzeh6efkt2geao",
-      "name": "LEMANS",
-      "slug": "lemans",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 33106,
-      "documentId": "d7ydmdvb1ez23v773ywikm9q",
-      "name": "LEMANS Estate",
-      "slug": "lemans-estate",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 33107,
-      "documentId": "mc7d52dsvxe9q43m5amnjscy",
-      "name": "LEMANS Saloon",
-      "slug": "lemans-saloon",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 33110,
-      "documentId": "e6rxphb9so4xdszu96pyvoyk",
-      "name": "LEON I",
-      "slug": "leon-i",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 33111,
-      "documentId": "j2imxzatbfdwya4vq2tx91iq",
-      "name": "LEON II",
-      "slug": "leon-ii",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 33112,
-      "documentId": "kzz6ic3p5r7slrkjucg54qf3",
-      "name": "LEON III",
-      "slug": "leon-iii",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 33113,
-      "documentId": "gg0c3gerigjpwp62o7b3e7al",
-      "name": "LEON IV",
-      "slug": "leon-iv",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 33118,
-      "documentId": "trywp9mjg3fpi4urkt5eddid",
-      "name": "LEONE",
-      "slug": "leone",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 33119,
-      "documentId": "xuujfakr6h0e2djswglhyhjn",
-      "name": "LEONE / LOYALE Coupe",
-      "slug": "leone-loyale-coupe",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 33120,
-      "documentId": "agct0r8blv325t9ukg5etajb",
-      "name": "LEONE Hatchback",
-      "slug": "leone-hatchback",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 33121,
-      "documentId": "omxszow5ztfw7si4s0rm4jsj",
-      "name": "LEONE II",
-      "slug": "leone-ii",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 33122,
-      "documentId": "n752epgjyt9ohvjyfrn6ey1w",
-      "name": "LEONE II Estate",
-      "slug": "leone-ii-estate",
-      "vehicle_type": "car",
-      "isActive": true
-    },
     {
       "id": 33123,
       "documentId": "vzhjkuj5bd2jgikrtteferyp",
@@ -2933,14 +2813,6 @@
       "isActive": true
     },
     {
-      "id": 34121,
-      "documentId": "z4a9merbb5lebvn5typ5m6vp",
-      "name": "OUTLANDER III",
-      "slug": "outlander-iii",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
       "id": 34124,
       "documentId": "iub86bgmiuhwq1d9a9qz9zwk",
       "name": "OXFORD",
@@ -3085,14 +2957,6 @@
       "isActive": true
     },
     {
-      "id": 34153,
-      "documentId": "zmpzwoiypymewc36iqhi7oxq",
-      "name": "PAJERO CLASSIC",
-      "slug": "pajero-classic",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
       "id": 34155,
       "documentId": "kechts686zgzf0st7dceg2b8",
       "name": "PAJERO I",
@@ -3105,14 +2969,6 @@
       "documentId": "um7hfnl6pfvqe9uvj1siuuq7",
       "name": "PAJERO I Canvas Top",
       "slug": "pajero-i-canvas-top",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 34157,
-      "documentId": "t1px5zl3tdf66feay6e15t2b",
-      "name": "PAJERO II",
-      "slug": "pajero-ii",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -3137,14 +2993,6 @@
       "documentId": "opohp8ynebgz7qehjeownika",
       "name": "PALIO",
       "slug": "fiat-palio",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
-      "id": 34173,
-      "documentId": "gdlsfp5nyfioss69r4w7qzgb",
-      "name": "PALIO Weekend",
-      "slug": "palio-weekend",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -7949,14 +7797,6 @@
       "isActive": true
     },
     {
-      "id": 35497,
-      "documentId": "iejzhqcarhead2v6bmv6ruar",
-      "name": "STRADA Pickup",
-      "slug": "strada-pickup",
-      "vehicle_type": "car",
-      "isActive": true
-    },
-    {
       "id": 35501,
       "documentId": "cg6r5rvyrj2oshhnp8v81qh6",
       "name": "STRATUS Coupe",
@@ -8001,6 +7841,166 @@
       "documentId": "o2x9mdeipavwxl5arr7mb2pt",
       "name": "SUNBEAM",
       "slug": "sunbeam",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35511,
+      "documentId": "xy5hikffkyoh1df4c6cxzcwn",
+      "name": "SUNBEAM",
+      "slug": "talbot-sunbeam",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35512,
+      "documentId": "m1ntrfqxnf98vzoiunua0h0r",
+      "name": "SUNBIRD",
+      "slug": "sunbird",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35513,
+      "documentId": "f6gyhbxe0muv9ye841fymnao",
+      "name": "SUNFIRE",
+      "slug": "sunfire",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35514,
+      "documentId": "am6j0kxvcnzvhirdr2is23r1",
+      "name": "SUNFIRE Coupe",
+      "slug": "sunfire-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35515,
+      "documentId": "sw84odxajvxmu3zy77yszwhr",
+      "name": "SUNNY Estate Van",
+      "slug": "sunny-estate-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35516,
+      "documentId": "gnmcfyi1shjmligmm4cxt1l6",
+      "name": "SUNNY I",
+      "slug": "sunny-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35517,
+      "documentId": "nhgjqzx07ytrvv7fxrimq151",
+      "name": "SUNNY I Coupe",
+      "slug": "sunny-i-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35518,
+      "documentId": "ywc54x0z6k1k9dnur5vzoy7k",
+      "name": "SUNNY I Traveller",
+      "slug": "sunny-i-traveller",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35519,
+      "documentId": "nrd9fud0bwtdbnsrtxmzgq0q",
+      "name": "SUNNY II",
+      "slug": "sunny-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35520,
+      "documentId": "k7rgaomsvzommjz1tcpc80h5",
+      "name": "SUNNY II Coupe",
+      "slug": "sunny-ii-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35521,
+      "documentId": "texkxxkhl49ae0ky42o80n17",
+      "name": "SUNNY II Hatchback",
+      "slug": "sunny-ii-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35522,
+      "documentId": "s01owybwdurr6zyso0z8azeg",
+      "name": "SUNNY II Traveller",
+      "slug": "sunny-ii-traveller",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35528,
+      "documentId": "fnqeemtucsw80pzi8mwgqeug",
+      "name": "SUNNY IV Saloon",
+      "slug": "sunny-iv-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35529,
+      "documentId": "jxpx96v4yabtl2l1dqorbq1r",
+      "name": "SUNNY Traveller",
+      "slug": "sunny-traveller",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35532,
+      "documentId": "x8wp7wdph8py3q2tdngapkdc",
+      "name": "SUPER 90",
+      "slug": "super-90",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35534,
+      "documentId": "qbeg9kzznok7g6bpvx98rx0m",
+      "name": "SUPER CARRY Van",
+      "slug": "super-carry-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35535,
+      "documentId": "fzei8i15sian9ozj196mma1n",
+      "name": "SUPER EIGHT",
+      "slug": "super-eight",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35536,
+      "documentId": "grqo41sxqy5lz3zuw5pt15r2",
+      "name": "SUPERAMERICA",
+      "slug": "superamerica",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35542,
+      "documentId": "dqrepmeadczi1eaghfsfkssc",
+      "name": "SUPERB IV",
+      "slug": "superb-iv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35543,
+      "documentId": "cqaj9rsodgoc6b4udp5eikwo",
+      "name": "SUPERB IV Estate",
+      "slug": "superb-iv-estate",
       "vehicle_type": "car",
       "isActive": true
     }

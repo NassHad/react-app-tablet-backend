@@ -7,7 +7,64 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.776Z",
-  "models": []
+  "modelCount": 7,
+  "exportDate": "2026-01-07T09:17:53.768Z",
+  "models": [
+    {
+      "id": 28528,
+      "documentId": "b9jqb9rnc3yacqmm4x9mzcf5",
+      "name": "3000 MK.I Convertible",
+      "slug": "3000-mk-i-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28529,
+      "documentId": "ojc7mdlfpvfmdxsoywj4pqr5",
+      "name": "3000 MK.II Convertible",
+      "slug": "3000-mk-ii-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28530,
+      "documentId": "xlsanfgts9xbmga2dxc2lqqq",
+      "name": "3000 MK.III Convertible",
+      "slug": "3000-mk-iii-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35416,
+      "documentId": "u3gq2a1gpmzvkpqxfk7oa3j9",
+      "name": "SPRITE MK.I Convertible",
+      "slug": "sprite-mk-i-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35417,
+      "documentId": "nsacx7lmy6q8u848fhixim29",
+      "name": "SPRITE MK.II Convertible",
+      "slug": "sprite-mk-ii-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35418,
+      "documentId": "bbprqkkw0gywvz3nnutbc246",
+      "name": "SPRITE MK.III Convertible",
+      "slug": "sprite-mk-iii-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35419,
+      "documentId": "qq71t4k74ifklt25qudwjtyl",
+      "name": "SPRITE MK.IV Convertible",
+      "slug": "sprite-mk-iv-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

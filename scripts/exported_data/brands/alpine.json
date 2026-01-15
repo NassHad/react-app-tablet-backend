@@ -7,14 +7,62 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 1,
-  "exportDate": "2026-01-06T19:34:16.771Z",
+  "modelCount": 7,
+  "exportDate": "2026-01-07T09:17:53.761Z",
   "models": [
+    {
+      "id": 29068,
+      "documentId": "jzwuif7v86yji4zrg7gqdqj6",
+      "name": "A110 I",
+      "slug": "a110-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
     {
       "id": 29069,
       "documentId": "wrfsiw75b0o2qjo40t95tjun",
       "name": "A110 II",
       "slug": "a110-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29086,
+      "documentId": "r43zzgas5cgs6gc78hlntyha",
+      "name": "A310",
+      "slug": "a310",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29140,
+      "documentId": "c03kuuy6h0pulcuujems5o9p",
+      "name": "A610",
+      "slug": "a610",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29269,
+      "documentId": "iopbl05mpooxkmxqzqs0bn7g",
+      "name": "ALPINE",
+      "slug": "alpine",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29702,
+      "documentId": "ctialsgyawwi9ty65eeloli3",
+      "name": "BERLINETTE",
+      "slug": "berlinette",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36370,
+      "documentId": "uxvmbn9jh9k98fmdtyjizmo4",
+      "name": "V6",
+      "slug": "v6",
       "vehicle_type": "car",
       "isActive": true
     }

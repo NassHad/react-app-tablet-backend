@@ -7,7 +7,120 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:17.069Z",
-  "models": []
+  "modelCount": 14,
+  "exportDate": "2026-01-07T09:17:53.902Z",
+  "models": [
+    {
+      "id": 30357,
+      "documentId": "rj25pdco1csc47hgotpcgplb",
+      "name": "CHANCE Hatchback",
+      "slug": "chance-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30358,
+      "documentId": "hftrr1ko1wshxl6s21bxnzwm",
+      "name": "CHANCE Saloon",
+      "slug": "chance-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30935,
+      "documentId": "l3jybfobitbdvc20grr2o441",
+      "name": "DANA",
+      "slug": "dana",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31855,
+      "documentId": "ie4d7w5wvdmnir872qf8ghmb",
+      "name": "FORZA Hatchback",
+      "slug": "forza-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31856,
+      "documentId": "iz4qqyhzfu2cjhno4wpf9kvl",
+      "name": "FORZA Saloon",
+      "slug": "forza-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33056,
+      "documentId": "qkayrno95xl8st9iho8hq82f",
+      "name": "LANOS Hatchback",
+      "slug": "lanos-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33057,
+      "documentId": "sr4ic35r0yueff50rgdmvryh",
+      "name": "LANOS PICK-UP",
+      "slug": "lanos-pick-up",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35114,
+      "documentId": "ond019hm2wzyifkuzjfruynu",
+      "name": "SENS",
+      "slug": "sens",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35115,
+      "documentId": "dbhay90sh6a897mgpbbft3ss",
+      "name": "SENS Hatchback",
+      "slug": "sens-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35267,
+      "documentId": "hhoeflhix13un00l07v2f864",
+      "name": "SLAVUTA",
+      "slug": "slavuta",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35865,
+      "documentId": "jgpjia1kt7brrfmiu8z6bc7o",
+      "name": "TAVRIA Pickup",
+      "slug": "tavria-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36488,
+      "documentId": "ed17mnryguk8llxhqaa4ej41",
+      "name": "VIDA Hatchback",
+      "slug": "vida-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36489,
+      "documentId": "m1d03gocaug48k3piu72b0r2",
+      "name": "VIDA Saloon",
+      "slug": "vida-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37210,
+      "documentId": "ord99glugf9mh4zjq82l7zu0",
+      "name": "ZAPOROZHETS",
+      "slug": "zaporozhets",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

@@ -7,7 +7,1464 @@
     "vehicle_type": "moto",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.772Z",
-  "models": []
+  "modelCount": 182,
+  "exportDate": "2026-01-07T09:17:53.763Z",
+  "models": [
+    {
+      "id": 29211,
+      "documentId": "l9kncsupxazsihl4i52xy47i",
+      "name": "AF1 125 Futura",
+      "slug": "af1-125-futura",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29212,
+      "documentId": "s6iqf7h54bya44rs3yxdpqt5",
+      "name": "AF1 125 Replica",
+      "slug": "af1-125-replica",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29608,
+      "documentId": "a7ss5vic6mvdvyns8qoq2v72",
+      "name": "Amico 25 Starter (MK)",
+      "slug": "amico-25-starter-mk",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29609,
+      "documentId": "s0y26zybpjxjpvcvz8q54m5n",
+      "name": "Amico 50",
+      "slug": "amico-50",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29610,
+      "documentId": "a5p1yrdefs2nqli4xm37c2lv",
+      "name": "Amico 50 GL (HV)",
+      "slug": "amico-50-gl-hv",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29611,
+      "documentId": "vrznp1nsmy71qixrhwfo0ppu",
+      "name": "Amico 50 LX (GC)",
+      "slug": "amico-50-lx-gc",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29614,
+      "documentId": "we5u7j2lxc4cgy2gahwirtwu",
+      "name": "Area 51 50 (MY)",
+      "slug": "area-51-50-my",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29615,
+      "documentId": "hd0gn3zjci3kqs6n25fng0m3",
+      "name": "Area 51 50 SBK (MY)",
+      "slug": "area-51-50-sbk-my",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29626,
+      "documentId": "t1pog5by3kfvt7eghtidk4f2",
+      "name": "Atlantic 125",
+      "slug": "atlantic-125",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29627,
+      "documentId": "xcbxndpvpcjkw2kd306vtgm6",
+      "name": "Atlantic 125 (SP)",
+      "slug": "atlantic-125-sp",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29628,
+      "documentId": "fct3cyfcat3828j3h32bym61",
+      "name": "Atlantic 200 (SP)",
+      "slug": "atlantic-200-sp",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29629,
+      "documentId": "b7f1quepkj9ysgnp6nvswtt7",
+      "name": "Atlantic 250",
+      "slug": "atlantic-250",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29630,
+      "documentId": "mvlvowphchf1bfxyawj035z8",
+      "name": "Atlantic 250 i.e.",
+      "slug": "atlantic-250-ie",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29631,
+      "documentId": "lerzne3wy8m6jeo2wm422oo6",
+      "name": "Atlantic 300 (SPG)",
+      "slug": "atlantic-300-spg",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29632,
+      "documentId": "pure0tddianlen22vweh9s0s",
+      "name": "Atlantic 500 (VH)",
+      "slug": "atlantic-500-vh",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29633,
+      "documentId": "ovxiskso2pbho26fcwg3y5rr",
+      "name": "Atlantic 500 (VLA00)",
+      "slug": "atlantic-500-vla00",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 29634,
+      "documentId": "c3yj1mfudjwsehop99odfinc",
+      "name": "Atlantic 500 Sprint",
+      "slug": "atlantic-500-sprint",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 30801,
+      "documentId": "t4bqik8aqrfmchdtotnzhepe",
+      "name": "Caponord",
+      "slug": "caponord",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 30802,
+      "documentId": "mriu0jha6i1zk7x6j0o76hqn",
+      "name": "Caponord 1200 (VK)",
+      "slug": "caponord-1200-vk",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 30848,
+      "documentId": "dfcneggppljrb5u603ruaqiw",
+      "name": "Classic 125 (MF)",
+      "slug": "classic-125-mf",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 30849,
+      "documentId": "y75ub38ih03qemdbmra6hnnm",
+      "name": "Classic 50 (GI)",
+      "slug": "classic-50-gi",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31209,
+      "documentId": "olnblpstoqju8tyt9az2rsps",
+      "name": "Dorsoduro",
+      "slug": "dorsoduro",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31210,
+      "documentId": "becaw9vhjj6i7mi1p7ewy802",
+      "name": "Dorsoduro 1200 (TV)",
+      "slug": "dorsoduro-1200-tv",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31211,
+      "documentId": "tj31aug7ns375kl1z0gd5i6q",
+      "name": "Dorsoduro 750 (SM)",
+      "slug": "dorsoduro-750-sm",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31412,
+      "documentId": "d9l8mkdrt9aovxzefjfzbdg3",
+      "name": "ETV 1000 ABS",
+      "slug": "etv-1000-abs",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31413,
+      "documentId": "qn3n3dmly72dqd3ux9x1ddz4",
+      "name": "ETV 1000 Capo Nord",
+      "slug": "etv-1000-capo-nord",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31414,
+      "documentId": "bjvm1jlxsyenib5xi65uraiq",
+      "name": "ETV 1000 Raid",
+      "slug": "etv-1000-raid",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31415,
+      "documentId": "c88ev9x3um93m12l8ypofdml",
+      "name": "ETV 1000 Raid ABS",
+      "slug": "etv-1000-raid-abs",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31416,
+      "documentId": "w3oaw333cn5b6bnpbj351rib",
+      "name": "ETX 125 (PH)",
+      "slug": "etx-125-ph",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31535,
+      "documentId": "agbxevkbcqvgfswl7bmthp68",
+      "name": "Europa 125",
+      "slug": "europa-125",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32490,
+      "documentId": "urldd2q4alt2am6ic8j9v282",
+      "name": "Gulliver 50 AC (LH02)",
+      "slug": "gulliver-50-ac-lh02",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32491,
+      "documentId": "i826tdgg6gk8eqs356cq5xvw",
+      "name": "Gulliver 50 LC (LH)",
+      "slug": "gulliver-50-lc-lh",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32585,
+      "documentId": "iwg3rx9t32txb19n7ugwo97w",
+      "name": "Habana 125 Custom (PM)",
+      "slug": "habana-125-custom-pm",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32586,
+      "documentId": "q9gxttpm6vl932h9jyoeqon8",
+      "name": "Habana 50 Custom (PK)",
+      "slug": "habana-50-custom-pk",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33236,
+      "documentId": "kzdqdv5shz89dya0fe4vu2rz",
+      "name": "Leonardo 125 (MB)",
+      "slug": "leonardo-125-mb",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33237,
+      "documentId": "wc91jmluclor5nv1vdmvk04x",
+      "name": "Leonardo 125 (MB00)",
+      "slug": "leonardo-125-mb00",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33238,
+      "documentId": "ulpx0fm7dp8r0g8ex363o3ax",
+      "name": "Leonardo 125 ST",
+      "slug": "leonardo-125-st",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33239,
+      "documentId": "fpk7wlmuxui0y7n86xuztlxz",
+      "name": "Leonardo 150 (MBA0)",
+      "slug": "leonardo-150-mba0",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33240,
+      "documentId": "s4s0ifeytm8e5gjg7g9fcajn",
+      "name": "Leonardo 150 (TB)",
+      "slug": "leonardo-150-tb",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33241,
+      "documentId": "alp2p2oujbb9x9a0hgmdzv8x",
+      "name": "Leonardo 250 (PD)",
+      "slug": "leonardo-250-pd",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33242,
+      "documentId": "r0x5t7p9v0cszlsrgtap7wa9",
+      "name": "Leonardo 250 (SV)",
+      "slug": "leonardo-250-sv",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33243,
+      "documentId": "mdisym8rib0dxzi4b39q9x7x",
+      "name": "Leonardo 300",
+      "slug": "leonardo-300",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33751,
+      "documentId": "k042y8ik27yxdf7ypgwod1m6",
+      "name": "MX 125",
+      "slug": "mx-125",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33753,
+      "documentId": "g67nhhepoiy6tqssiry2wjus",
+      "name": "MX 50",
+      "slug": "mx-50",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33785,
+      "documentId": "bjm0nknlkfieq1iggocipkuk",
+      "name": "Mana",
+      "slug": "mana",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33786,
+      "documentId": "nf0bf6pgtfxsziwl0u92loqe",
+      "name": "Mana 850 (RC)",
+      "slug": "mana-850-rc",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33787,
+      "documentId": "pfmppw13oyelyd8jw9t9pufh",
+      "name": "Mana 850 GT (RC)",
+      "slug": "mana-850-gt-rc",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33816,
+      "documentId": "f8cstfvo02w9ei61g23f19cu",
+      "name": "Mojito 125 (RY000)",
+      "slug": "mojito-125-ry000",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33817,
+      "documentId": "yj56ux1amzo0cei4xmajhhz9",
+      "name": "Mojito 125 AC Cust.",
+      "slug": "mojito-125-ac-cust",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33818,
+      "documentId": "zllftpjbs3jayzfc1oo3jngx",
+      "name": "Mojito 125 Custom",
+      "slug": "mojito-125-custom",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33819,
+      "documentId": "np6myvjk4myxd7tztkl691j5",
+      "name": "Mojito 150 (RY)",
+      "slug": "mojito-150-ry",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33820,
+      "documentId": "s1l5i90pmw7rn8y4bv2tdgt6",
+      "name": "Mojito 50 AC Cust. (TFA00)",
+      "slug": "mojito-50-ac-cust-tfa00",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33821,
+      "documentId": "l1yela9dft2bagygtig0x62l",
+      "name": "Mojito 50 Custom",
+      "slug": "mojito-50-custom",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33877,
+      "documentId": "xxmlzf87bywoawms5ddcqhwv",
+      "name": "Moto 650 (MH00)",
+      "slug": "moto-650-mh00",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33902,
+      "documentId": "ec15r1rpsmbx905xeo9pt7ra",
+      "name": "NA 850",
+      "slug": "na-850",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33903,
+      "documentId": "ksbv3wslmscsf9mnnnb2ceql",
+      "name": "NA 850 GT ABS (RCC01)",
+      "slug": "na-850-gt-abs-rcc01",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34479,
+      "documentId": "bzp0nyjq1szatxi0abft6g48",
+      "name": "Pegaso 600",
+      "slug": "pegaso-600",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34480,
+      "documentId": "bys3fdp1qy69livvc2cwzw0x",
+      "name": "Pegaso 650",
+      "slug": "pegaso-650",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34481,
+      "documentId": "qt9pkdx1bwliv6xqiz21jvk9",
+      "name": "Pegaso 650 (GA)",
+      "slug": "pegaso-650-ga",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34482,
+      "documentId": "duv3wvhadgnvgmjc0vgdrjxc",
+      "name": "Pegaso 650 (ML)",
+      "slug": "pegaso-650-ml",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34483,
+      "documentId": "jj7axha2u9ut9pvvv97d6hig",
+      "name": "Pegaso 650 (MX)",
+      "slug": "pegaso-650-mx",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34484,
+      "documentId": "j7tf2996c09kp54ufz6jakla",
+      "name": "Pegaso 650 Fact. (VDE00)",
+      "slug": "pegaso-650-fact-vde00",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34485,
+      "documentId": "v98g1j0q7hqcqv16yyzmuwje",
+      "name": "Pegaso 650 Strada (VDB00)",
+      "slug": "pegaso-650-strada-vdb00",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34486,
+      "documentId": "ncvsq9of2mf9wu867ym7tbhs",
+      "name": "Pegaso 650 Trail (VDD00)",
+      "slug": "pegaso-650-trail-vdd00",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34487,
+      "documentId": "cnor1l3xpd4q4pcfrc5delqa",
+      "name": "Pegaso 650 ie",
+      "slug": "pegaso-650-ie",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34804,
+      "documentId": "qo30antb8b1k5raa5jzm9do6",
+      "name": "RS 125",
+      "slug": "rs-125",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34805,
+      "documentId": "m7g1s55r32m94kgwvaj0axla",
+      "name": "RS 125 (GS)",
+      "slug": "rs-125-gs",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34806,
+      "documentId": "m9mjn3spuoxt8c42c9we5j6w",
+      "name": "RS 125 (GS/MP)",
+      "slug": "rs-125-gsmp",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34807,
+      "documentId": "lguvcbx0jsov1ueb6lb5nyjh",
+      "name": "RS 125 (KC)",
+      "slug": "rs-125-kc",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34808,
+      "documentId": "vhp41r8e1k0u275bvb6rjstv",
+      "name": "RS 125 (PYA00)",
+      "slug": "rs-125-pya00",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34809,
+      "documentId": "dc57df52cuokazb736iinpat",
+      "name": "RS 125 (RD000)",
+      "slug": "rs-125-rd000",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34810,
+      "documentId": "px86xlhft4bkntebqrq5gyml",
+      "name": "RS 125 (RD000/RDA00/RM000)",
+      "slug": "rs-125-rd000rda00rm000",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34811,
+      "documentId": "f1o61zq9biwxm641ppb5gm3x",
+      "name": "RS 125 (SF)",
+      "slug": "rs-125-sf",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34812,
+      "documentId": "wl6sv9rw7ifwh3v1vgtd1z3y",
+      "name": "RS 125 80 km/h",
+      "slug": "rs-125-80-kmh",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34813,
+      "documentId": "qle4ebb7uml87tclt4yk6pu1",
+      "name": "RS 125 80 km/h (GS)",
+      "slug": "rs-125-80-kmh-gs",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34814,
+      "documentId": "a9c7hbncxevq3jj04bi7ysc1",
+      "name": "RS 125 80 km/h (SFA00)",
+      "slug": "rs-125-80-kmh-sfa00",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34815,
+      "documentId": "yzn9patwkp4x79mmywp948bh",
+      "name": "RS 250 (LD)",
+      "slug": "rs-250-ld",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34816,
+      "documentId": "u3qmoyleeaacxp7b0dde0p2z",
+      "name": "RS 250 (LD01)",
+      "slug": "rs-250-ld01",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34819,
+      "documentId": "zdf7stule0l156zwk3yvdfvd",
+      "name": "RS 50",
+      "slug": "rs-50",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34820,
+      "documentId": "qdqwniw644n24hdnbzettixx",
+      "name": "RS 50 (PG)",
+      "slug": "rs-50-pg",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34821,
+      "documentId": "wpoi1fdf5r03bo3g1khdhxu6",
+      "name": "RS 50 (SE)",
+      "slug": "rs-50-se",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34822,
+      "documentId": "fh4ming4e838hz63pnlusk2f",
+      "name": "RS 50 (TS)",
+      "slug": "rs-50-ts",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34824,
+      "documentId": "ahm0n5mnfqnusfm3r87rxiis",
+      "name": "RS4 125 (TW0)",
+      "slug": "rs4-125-tw0",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34825,
+      "documentId": "b4n38tl8czqcuz38rxy3jyui",
+      "name": "RS4 50",
+      "slug": "rs4-50",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34826,
+      "documentId": "uj45ryswk58hg8aqr23k7az7",
+      "name": "RST 1000 (PW)",
+      "slug": "rst-1000-pw",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34827,
+      "documentId": "zm4p2s3l9zndieyq9xa0m6a5",
+      "name": "RSV 1000 (ME)",
+      "slug": "rsv-1000-me",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34828,
+      "documentId": "ktbfctgetii1zoo626k4848t",
+      "name": "RSV 1000 (RP)",
+      "slug": "rsv-1000-rp",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34829,
+      "documentId": "raoj09yqrssp8hc9n075x8c3",
+      "name": "RSV 1000 (RPB00)",
+      "slug": "rsv-1000-rpb00",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34830,
+      "documentId": "j93pbv8un8eeodk74jn81egh",
+      "name": "RSV 1000 R",
+      "slug": "rsv-1000-r",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34831,
+      "documentId": "qgetwc53jjbhhge6v9p9wpvs",
+      "name": "RSV 1000 R (ME)",
+      "slug": "rsv-1000-r-me",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34832,
+      "documentId": "coynm5fejm0houc9c2n8h85y",
+      "name": "RSV 1000 R (RPA0)",
+      "slug": "rsv-1000-r-rpa0",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34833,
+      "documentId": "eoq1i4eqsb5ktvptu9y26ya3",
+      "name": "RSV4 1000 Factory (RK000)",
+      "slug": "rsv4-1000-factory-rk000",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34834,
+      "documentId": "zt95htzwdawc388nvc34rd42",
+      "name": "RSV4 1000 Factory (RKG)",
+      "slug": "rsv4-1000-factory-rkg",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34835,
+      "documentId": "cbxfmw2gboslogy5vnhtlzgk",
+      "name": "RSV4 1000 R (RKH)",
+      "slug": "rsv4-1000-r-rkh",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34836,
+      "documentId": "kys79kdnygf3fqpwm0g82m4k",
+      "name": "RSV4 1100 Factory",
+      "slug": "rsv4-1100-factory",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34837,
+      "documentId": "ex9b4j2gfs60a32x62vykcij",
+      "name": "RSV4 ABS",
+      "slug": "rsv4-abs",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34838,
+      "documentId": "t8jdkv2qsc8o3mpskbxkfw0f",
+      "name": "RSV4 Factory",
+      "slug": "rsv4-factory",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34839,
+      "documentId": "ms72ik7przswe4cjrt53p5lz",
+      "name": "RSV4 RF 1000 (KE)",
+      "slug": "rsv4-rf-1000-ke",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34840,
+      "documentId": "uxy8g854ud66hs2or03qqw8l",
+      "name": "RSV4 RF 1000 (RK)",
+      "slug": "rsv4-rf-1000-rk",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34841,
+      "documentId": "fv2wwvjae52p9qcy942u99zd",
+      "name": "RSV4 RR 1000 (KE)",
+      "slug": "rsv4-rr-1000-ke",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34842,
+      "documentId": "c8viy866yd304f374iz63k2u",
+      "name": "RSV4 RR 1000 (RK)",
+      "slug": "rsv4-rr-1000-rk",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34852,
+      "documentId": "s3h3t03qt7ulunq5y9vdgj2j",
+      "name": "RX 125",
+      "slug": "rx-125",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34853,
+      "documentId": "eyix5mx5ixoqmvdnvrb7orme",
+      "name": "RX 125 (RV000/RVA00)",
+      "slug": "rx-125-rv000rva00",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34856,
+      "documentId": "q38g5z05tf80y2aom0eya55j",
+      "name": "RX 50 (TT)",
+      "slug": "rx-50-tt",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34867,
+      "documentId": "hyu2qpiko3wdado109ykee52",
+      "name": "RXV 450",
+      "slug": "rxv-450",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34868,
+      "documentId": "w1wadc4q6d9qfzehudegfy8c",
+      "name": "RXV 450 (VPT00)",
+      "slug": "rxv-450-vpt00",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34869,
+      "documentId": "keulvxuaosv97bi8ehrqm1iy",
+      "name": "RXV 550",
+      "slug": "rxv-550",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34870,
+      "documentId": "j1ed6dp05a3dh1krog3m82vm",
+      "name": "RXV 550 (VPX)",
+      "slug": "rxv-550-vpx",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34873,
+      "documentId": "zlfvp7wibiex1mfq3mdqa5ct",
+      "name": "Rally 50 AC",
+      "slug": "rally-50-ac",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34874,
+      "documentId": "zjwhyu4xinypk9sskxo1kqrv",
+      "name": "Rally 50 LC DD (MD)",
+      "slug": "rally-50-lc-dd-md",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34884,
+      "documentId": "cg403359p19pisv5rc7v3rn6",
+      "name": "Red Rose 125",
+      "slug": "red-rose-125",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34885,
+      "documentId": "sl0sjfc4eu3qww1m4ataznet",
+      "name": "Red Rose 50 (LP)",
+      "slug": "red-rose-50-lp",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34886,
+      "documentId": "bqj21e8qdzdryqp5d9rtufwt",
+      "name": "Red Rose 50 classic",
+      "slug": "red-rose-50-classic",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35255,
+      "documentId": "etwr2sid2uu0mfud16r5ozum",
+      "name": "SL 1000 (PA)",
+      "slug": "sl-1000-pa",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35257,
+      "documentId": "utq2ttraqwb6bulhbj379soj",
+      "name": "SL 750",
+      "slug": "sl-750",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35258,
+      "documentId": "t6oxwm5w01vdacdfrr9sgcql",
+      "name": "SL 750 (RAE00)",
+      "slug": "sl-750-rae00",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35259,
+      "documentId": "b7gxdwhxlyc8rrfteimtp23m",
+      "name": "SL 750 ABS (RAG00)",
+      "slug": "sl-750-abs-rag00",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35260,
+      "documentId": "godi3oi89rxmhy772toem2uf",
+      "name": "SL 750 GT (RAB00)",
+      "slug": "sl-750-gt-rab00",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35261,
+      "documentId": "cpdznardctf4pcheicc8k9m5",
+      "name": "SL 750 Shiver",
+      "slug": "sl-750-shiver",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35303,
+      "documentId": "su3ztapc0t4xc7cc6nnzekvn",
+      "name": "SMV 750 (SM000)",
+      "slug": "smv-750-sm000",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35304,
+      "documentId": "rlwivb2xl7k4gmngdmba1xqf",
+      "name": "SMV 750 (SMA00)",
+      "slug": "smv-750-sma00",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35305,
+      "documentId": "tu2swnz97zv65xkim1l3w61g",
+      "name": "SMV 750 ABS (SMC00)",
+      "slug": "smv-750-abs-smc00",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35422,
+      "documentId": "spnr900bpg4ouzufxjrjmmey",
+      "name": "SR 125 (PX)",
+      "slug": "sr-125-px",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35423,
+      "documentId": "zkn25f59qf3syqcmm7g17yf2",
+      "name": "SR 125 Motard (M70)",
+      "slug": "sr-125-motard-m70",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35424,
+      "documentId": "zsy64ki748vxol1k6224ibim",
+      "name": "SR 150 (PX)",
+      "slug": "sr-150-px",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35426,
+      "documentId": "tk4xf10soofm1z72eycepyaa",
+      "name": "SR 50 AC",
+      "slug": "sr-50-ac",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35427,
+      "documentId": "w13u4x16g4gt9pp08fzbxzgg",
+      "name": "SR 50 AC (LB/GP)",
+      "slug": "sr-50-ac-lbgp",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35428,
+      "documentId": "q4iyvvlt5yxzu7f8e4c78j6w",
+      "name": "SR 50 LC",
+      "slug": "sr-50-lc",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35429,
+      "documentId": "iaqbiklhtay7ng0dm90yorwc",
+      "name": "SR 50 LC (MR/LC)",
+      "slug": "sr-50-lc-mrlc",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35430,
+      "documentId": "mkp30euv8byhvvnnvz3p4lxo",
+      "name": "SR 50 LC Ditech",
+      "slug": "sr-50-lc-ditech",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35431,
+      "documentId": "j6o92i02z3rs8ls5x7762p8i",
+      "name": "SR 50 R LC",
+      "slug": "sr-50-r-lc",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35432,
+      "documentId": "quvjiljb8gfzxdv1v3w8mqbp",
+      "name": "SR 50 R LC Ditech",
+      "slug": "sr-50-r-lc-ditech",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35433,
+      "documentId": "k0rnku4mlvs56pbniq4thjk1",
+      "name": "SR Max",
+      "slug": "sr-max",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35434,
+      "documentId": "p1yxx4ujyeuxcwnyesk6fxgq",
+      "name": "SR Max 125 (M35)",
+      "slug": "sr-max-125-m35",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35435,
+      "documentId": "nbj9sjt23c1g2cia8i6jim28",
+      "name": "SRV 850",
+      "slug": "srv-850",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35436,
+      "documentId": "va8rsj7v3kzbmcxehip7xtjo",
+      "name": "SRV 850 (M55)",
+      "slug": "srv-850-m55",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35584,
+      "documentId": "e3mncps3c35tkh5xq0sv8oqk",
+      "name": "SX 125 (RV000/RVA00)",
+      "slug": "sx-125-rv000rva00",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35593,
+      "documentId": "j7g0kp04uhh3ox3esboagnd5",
+      "name": "SXV 450",
+      "slug": "sxv-450",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35594,
+      "documentId": "f2tj2twz3l9ydkj2dc9onajj",
+      "name": "SXV 550",
+      "slug": "sxv-550",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35608,
+      "documentId": "z6l8173pxb3fh7xjfwaun901",
+      "name": "Scarabeo 100 RE 4T",
+      "slug": "scarabeo-100-re-4t",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35609,
+      "documentId": "a876y37pxi9i6mkqwhu2msuz",
+      "name": "Scarabeo 125 (PC)",
+      "slug": "scarabeo-125-pc",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35610,
+      "documentId": "qybt9qbc42sy17p6hpatg3cp",
+      "name": "Scarabeo 125 (RB)",
+      "slug": "scarabeo-125-rb",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35611,
+      "documentId": "h06i4xwsy4yxu8zhhlu7ur4a",
+      "name": "Scarabeo 125 (SD)",
+      "slug": "scarabeo-125-sd",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35612,
+      "documentId": "alxyidgv1c4y296adt8h2xtj",
+      "name": "Scarabeo 125 (TD)",
+      "slug": "scarabeo-125-td",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35613,
+      "documentId": "c4cmuzu8a6ucwyt7gh48aien",
+      "name": "Scarabeo 150 (PC)",
+      "slug": "scarabeo-150-pc",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35614,
+      "documentId": "pbj21mlq6ibs6bfywlh109jv",
+      "name": "Scarabeo 200 (RB)",
+      "slug": "scarabeo-200-rb",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35615,
+      "documentId": "vr7ds1vgblult9tg61qxuvzg",
+      "name": "Scarabeo 200 (SD)",
+      "slug": "scarabeo-200-sd",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35616,
+      "documentId": "pweomnop23vm3t31xju3ev8j",
+      "name": "Scarabeo 200 (TD)",
+      "slug": "scarabeo-200-td",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35617,
+      "documentId": "qgnacwh2pvcy1vbaien1aozb",
+      "name": "Scarabeo 250 (TD)",
+      "slug": "scarabeo-250-td",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35618,
+      "documentId": "lm5l8pwzzm4ldjqh3o69l0h8",
+      "name": "Scarabeo 250 (VR)",
+      "slug": "scarabeo-250-vr",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35619,
+      "documentId": "pksjpcfbweoqrsmg4ncukoct",
+      "name": "Scarabeo 300 (VR)",
+      "slug": "scarabeo-300-vr",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35620,
+      "documentId": "ebcvs6fb1m5nwbztc9iyaize",
+      "name": "Scarabeo 400 (VR)",
+      "slug": "scarabeo-400-vr",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35621,
+      "documentId": "ma4b2kbvwyt3rhuvbp1v12t3",
+      "name": "Scarabeo 50 (MS)",
+      "slug": "scarabeo-50-ms",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35622,
+      "documentId": "kg0jcnpduczb93puqxiuhn23",
+      "name": "Scarabeo 50 (PF)",
+      "slug": "scarabeo-50-pf",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35623,
+      "documentId": "x2umeodrqxd39px6x6quyfp7",
+      "name": "Scarabeo 50 (SC)",
+      "slug": "scarabeo-50-sc",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35624,
+      "documentId": "tyua2obq290vaozqbnfvj8r9",
+      "name": "Scarabeo 500 (RT)",
+      "slug": "scarabeo-500-rt",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35625,
+      "documentId": "ehyt5qeaig8l79212lrgr7y4",
+      "name": "Scarabeo 500 i.e. (VR)",
+      "slug": "scarabeo-500-ie-vr",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35653,
+      "documentId": "ujzppdmpvqg6c693jjb2g0ru",
+      "name": "Shiver",
+      "slug": "shiver",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35666,
+      "documentId": "sy9pfhth08ct6d92mwryxsd3",
+      "name": "Sonic 50 AC (PB)",
+      "slug": "sonic-50-ac-pb",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35667,
+      "documentId": "bh9lrdgf2j6dp2gwd5w07z6g",
+      "name": "Sonic 50 LC GP (PB)",
+      "slug": "sonic-50-lc-gp-pb",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35714,
+      "documentId": "lzjhvdly3fvnmmsfbdx3b1ym",
+      "name": "Sportcity 125",
+      "slug": "sportcity-125",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35715,
+      "documentId": "s37v0bs1l3zuj6lbchxca8ex",
+      "name": "Sportcity 125 Cube LC (VBE00)",
+      "slug": "sportcity-125-cube-lc-vbe00",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35716,
+      "documentId": "m7y88wyg8h68vzkbkgtbofer",
+      "name": "Sportcity 125 LC (VB002)",
+      "slug": "sportcity-125-lc-vb002",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35717,
+      "documentId": "d5wt54jqcsvbfzlfo4l24lv4",
+      "name": "Sportcity 125 One (SG000)",
+      "slug": "sportcity-125-one-sg000",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35718,
+      "documentId": "yann7vgtd7nd840zcq5hz957",
+      "name": "Sportcity 200",
+      "slug": "sportcity-200",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35719,
+      "documentId": "lrgz3i3hs3xcc8jimsvj6dzw",
+      "name": "Sportcity 250 i.e.",
+      "slug": "sportcity-250-ie",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35720,
+      "documentId": "odgpyipk3d5zs0c8ouote84y",
+      "name": "Sportcity 300 i.e. Cube (VBL00)",
+      "slug": "sportcity-300-ie-cube-vbl00",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35721,
+      "documentId": "enr4sqif4vigtfxcmlct6syb",
+      "name": "Sportcity 50 one 2T (SBA000)",
+      "slug": "sportcity-50-one-2t-sba000",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35722,
+      "documentId": "smz15oirtvavj610nm4ufa2r",
+      "name": "Sportcity 50 one 4T (SB000)",
+      "slug": "sportcity-50-one-4t-sb000",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36285,
+      "documentId": "eyjlr0c3igy2c433u59goy65",
+      "name": "Tuareg 350",
+      "slug": "tuareg-350",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36286,
+      "documentId": "mx1884k3as22ugv4ad5hoaou",
+      "name": "Tuareg 600 (DU)",
+      "slug": "tuareg-600-du",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36287,
+      "documentId": "s5z54lohpxx8q0rfxiawjr1q",
+      "name": "Tuareg 600 (EP)",
+      "slug": "tuareg-600-ep",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36288,
+      "documentId": "o7l4om75obdzmvyr49x6szlx",
+      "name": "Tundra 650 ie",
+      "slug": "tundra-650-ie",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36289,
+      "documentId": "dekuygeb3x8vayw1ftjisvcg",
+      "name": "Tuono 1000 R",
+      "slug": "tuono-1000-r",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36290,
+      "documentId": "t44bcz2862z8j751sjg5irtp",
+      "name": "Tuono 1000 R Factory (RRL)",
+      "slug": "tuono-1000-r-factory-rrl",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36291,
+      "documentId": "jmgkqnfz0m5rej9lqko93dec",
+      "name": "Tuono 1000 V4 (TY)",
+      "slug": "tuono-1000-v4-ty",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36292,
+      "documentId": "l1ve1itvej26thjxmacfbus2",
+      "name": "Tuono 1000 V4 Factory (TY)",
+      "slug": "tuono-1000-v4-factory-ty",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36293,
+      "documentId": "j4gihusevroyxob1y2y2rr0b",
+      "name": "Tuono 125 (KC1)",
+      "slug": "tuono-125-kc1",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36294,
+      "documentId": "xhvi0u1hbis6r7peuuahxxy7",
+      "name": "Tuono V4 Factory",
+      "slug": "tuono-v4-factory",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36295,
+      "documentId": "imalf35xk4g8rx59zu7d89c3",
+      "name": "Tuono V4 R APRC",
+      "slug": "tuono-v4-r-aprc",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36296,
+      "documentId": "i4zpv6ytnsez1r53qtw0d13p",
+      "name": "Tuono V4 RR",
+      "slug": "tuono-v4-rr",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 37319,
+      "documentId": "m54pozpvwzz3ccqm5o4qzj14",
+      "name": "ab 2004",
+      "slug": "ab-2004",
+      "vehicle_type": "moto",
+      "isActive": true
+    }
+  ]
 }

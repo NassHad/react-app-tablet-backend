@@ -7,14 +7,70 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 101,
-  "exportDate": "2026-01-06T19:34:16.886Z",
+  "modelCount": 139,
+  "exportDate": "2026-01-07T09:17:53.833Z",
   "models": [
+    {
+      "id": 29530,
+      "documentId": "kzp372hthviepbyprw4wy9up",
+      "name": "AVELLA",
+      "slug": "avella",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29531,
+      "documentId": "t73ji2g51xjb628n7jaya67p",
+      "name": "AVELLA Hatchback",
+      "slug": "avella-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29716,
+      "documentId": "vj8evwckcbqf54h7iyselzza",
+      "name": "BESTA Bus",
+      "slug": "besta-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
     {
       "id": 29717,
       "documentId": "n1t1m8bvfl5oyqaj9naufys9",
       "name": "BESTA Van",
       "slug": "besta-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29751,
+      "documentId": "ghrytp6szzq8tzwitwuvlwtr",
+      "name": "BONGO Bus",
+      "slug": "bongo-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29752,
+      "documentId": "yufb0ko621ulfy3yqpf6g2of",
+      "name": "BONGO Platform/Chassis",
+      "slug": "bongo-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29754,
+      "documentId": "tg06vhq2tan9lbqfgmpw1vfb",
+      "name": "BONGO Van",
+      "slug": "bongo-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29760,
+      "documentId": "omao7g93rhddd3z6ied24epp",
+      "name": "BORREGO",
+      "slug": "borrego",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -27,10 +83,34 @@
       "isActive": true
     },
     {
+      "id": 30081,
+      "documentId": "fzqzxkbk4ljbj0xpyq4jynr7",
+      "name": "CADENZA I",
+      "slug": "cadenza-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30082,
+      "documentId": "zytzc6qjhc1ya4ijbm9ymyu2",
+      "name": "CADENZA II",
+      "slug": "cadenza-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 30124,
       "documentId": "szc1xoe6pd4ndsorq7wysq4y",
       "name": "CARENS I",
       "slug": "carens-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30125,
+      "documentId": "qctumilcogvy81xizmcbnd7t",
+      "name": "CARENS I MPV",
+      "slug": "carens-i-mpv",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -55,6 +135,14 @@
       "documentId": "lla3v4vscvzhnjmk5hifiiex",
       "name": "CARENS IV",
       "slug": "carens-iv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30131,
+      "documentId": "s3ng14qo4lvaoillinzw8g82",
+      "name": "CARENS IV Van",
+      "slug": "carens-iv-van",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -147,10 +235,42 @@
       "isActive": true
     },
     {
+      "id": 30337,
+      "documentId": "oaeq637rl6d2umsc8384o5v4",
+      "name": "CERATO II",
+      "slug": "cerato-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30338,
+      "documentId": "dz2ofc3oac4upup3y9aapn4k",
+      "name": "CERATO II Saloon",
+      "slug": "cerato-ii-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30340,
+      "documentId": "m8kxigrf38ee11dylkamjlx1",
+      "name": "CERATO III Hatchback",
+      "slug": "cerato-iii-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 30341,
       "documentId": "ecov9p7vtaextr0f7n42lssw",
       "name": "CERATO III Saloon",
       "slug": "cerato-iii-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30343,
+      "documentId": "lqf59ha6xheelitepgssrbhb",
+      "name": "CERATO IV Hatchback",
+      "slug": "cerato-iv-hatchback",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -163,10 +283,34 @@
       "isActive": true
     },
     {
+      "id": 30345,
+      "documentId": "o57duqlg6ld45izkfque7p2q",
+      "name": "CERATO KOUP II",
+      "slug": "cerato-koup-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 30346,
       "documentId": "g4be5ya5yf7lso7xpag0c6c3",
       "name": "CERATO KOUP III",
       "slug": "cerato-koup-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30347,
+      "documentId": "nc4mxqcdyyv5xpulosh42uy2",
+      "name": "CERATO Saloon",
+      "slug": "cerato-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30349,
+      "documentId": "fylk92mrpq2pd5l27mmbrpi8",
+      "name": "CERES",
+      "slug": "ceres",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -243,6 +387,14 @@
       "isActive": true
     },
     {
+      "id": 31422,
+      "documentId": "hbvu1nmrgk78oyszc4smmj1h",
+      "name": "EV9",
+      "slug": "ev9",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 31423,
       "documentId": "jy1p0n4k2lc4qm5xcfm74yeu",
       "name": "EV9 / EV9 GT",
@@ -275,6 +427,46 @@
       "isActive": true
     },
     {
+      "id": 32837,
+      "documentId": "pjfbmgtjcjamqgt2abxs2zsk",
+      "name": "K2700",
+      "slug": "k2700",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32838,
+      "documentId": "t7hqjgg02icsdw9nx4yb76dn",
+      "name": "K2900",
+      "slug": "k2900",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32839,
+      "documentId": "g2o2h4t7ciifiywsnyy5ysfs",
+      "name": "K3600",
+      "slug": "k3600",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32840,
+      "documentId": "iibsh2ncpboc386tugb9t6sp",
+      "name": "K3600 Platform/Chassis",
+      "slug": "k3600-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32841,
+      "documentId": "wxo5nrndhn4qw9ksjh9dqt5c",
+      "name": "K9 II",
+      "slug": "k9-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 33311,
       "documentId": "lv5gjp31jq0u88btq45i3l36",
       "name": "MAGENTIS I",
@@ -303,6 +495,22 @@
       "documentId": "rrdmeyl3w6itpu0lkp4mf60e",
       "name": "NIRO I",
       "slug": "niro-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33939,
+      "documentId": "sjyi1gl14mb44iphda7bvzhz",
+      "name": "NIRO II",
+      "slug": "niro-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33940,
+      "documentId": "py7aui6cpt1dja6cpx1u85z4",
+      "name": "NIRO VAN",
+      "slug": "niro-van",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -379,6 +587,14 @@
       "isActive": true
     },
     {
+      "id": 34357,
+      "documentId": "jv8hdn0a1mnkm5ihlg6t37ax",
+      "name": "PREGIO Bus",
+      "slug": "pregio-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 34358,
       "documentId": "qgktvwnvjrsi55pc1tu6q645",
       "name": "PREGIO Van",
@@ -403,10 +619,34 @@
       "isActive": true
     },
     {
+      "id": 34373,
+      "documentId": "gcmm0jmf8sohiod3l6b321l2",
+      "name": "PRIDE Saloon",
+      "slug": "pride-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34374,
+      "documentId": "kopl3gp7inmh8a4w2x314oos",
+      "name": "PRIDE Van",
+      "slug": "pride-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 34402,
       "documentId": "f6wivx1kab31h4jliytnea74",
       "name": "PRO CEE'D",
       "slug": "pro-ceed",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34403,
+      "documentId": "q7jn3n8edy62xayesgizsqzt",
+      "name": "PRO CEE'D Hatchback Van",
+      "slug": "pro-cee-d-hatchback-van",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -479,6 +719,22 @@
       "documentId": "nnbf22qz0xukw80dgyk884lz",
       "name": "RIO Estate",
       "slug": "rio-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34751,
+      "documentId": "f18uysakx3fd21ft8oagcx4e",
+      "name": "RIO I Hatchback",
+      "slug": "rio-i-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34752,
+      "documentId": "o29cq17w7uomm6xb1akmi5a2",
+      "name": "RIO I Saloon",
+      "slug": "rio-i-saloon",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -603,6 +859,14 @@
       "isActive": true
     },
     {
+      "id": 35172,
+      "documentId": "meuaujljmkllajmckn2l467k",
+      "name": "SHUMA I",
+      "slug": "shuma-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 35173,
       "documentId": "s2pwsaxlh0j4uvwf74y9fjan",
       "name": "SHUMA II",
@@ -635,10 +899,26 @@
       "isActive": true
     },
     {
+      "id": 35330,
+      "documentId": "zj1blkfuy61loitpfigbsikz",
+      "name": "SORENTO I VAN",
+      "slug": "sorento-i-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 35331,
       "documentId": "ao1xyusto7by23tzutfcgh0m",
       "name": "SORENTO II",
       "slug": "sorento-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35332,
+      "documentId": "e3x2gn08mt73c0jpn87bcnis",
+      "name": "SORENTO II SUV Van",
+      "slug": "sorento-ii-suv-van",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -683,10 +963,26 @@
       "isActive": true
     },
     {
+      "id": 35338,
+      "documentId": "wo3xpp4osga6c4lidwxu0157",
+      "name": "SOUL III Cargo",
+      "slug": "soul-iii-cargo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 35368,
       "documentId": "tb32fcictzmq1qh9md6cvsq3",
       "name": "SPORTAGE II",
       "slug": "sportage-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35369,
+      "documentId": "ehssd2dtllkbpeoxib8u7err",
+      "name": "SPORTAGE II VAN",
+      "slug": "sportage-ii-van",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -727,6 +1023,14 @@
       "documentId": "d9kfheuwhojm6urix7pqcksl",
       "name": "SPORTAGE V",
       "slug": "sportage-v",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35375,
+      "documentId": "p5wlpgm11xbhkl5azbhy5nbc",
+      "name": "SPORTAGE VAN",
+      "slug": "sportage-van",
       "vehicle_type": "car",
       "isActive": true
     },

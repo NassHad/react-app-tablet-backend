@@ -7,8 +7,8 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 2,
-  "exportDate": "2026-01-06T19:34:16.910Z",
+  "modelCount": 38,
+  "exportDate": "2026-01-07T09:17:53.844Z",
   "models": [
     {
       "id": 28449,
@@ -19,10 +19,298 @@
       "isActive": true
     },
     {
+      "id": 28450,
+      "documentId": "rfzo5q5y5ppgdpg1w7lw359t",
+      "name": "228",
+      "slug": "228",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 28601,
       "documentId": "hglli36hz60q3gevu2qng24v",
       "name": "3200 GT Coupe",
       "slug": "3200-gt-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28721,
+      "documentId": "fg8ipmtjtk3ol3c7ibu6dzdd",
+      "name": "4200 GT / COUPE Coupe",
+      "slug": "4200-gt-coupe-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28722,
+      "documentId": "f2p38t020r6yowbb65wgs3im",
+      "name": "4200 GT SPYDER Convertible",
+      "slug": "4200-gt-spyder-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29724,
+      "documentId": "b0mfwc1fpdx98psrtdpfh4zq",
+      "name": "BITURBO",
+      "slug": "biturbo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29725,
+      "documentId": "d49joq5ekbyn9cpw0bsb0qup",
+      "name": "BITURBO Coupe",
+      "slug": "biturbo-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29726,
+      "documentId": "vmxozw70szedtqxkwwatgqcq",
+      "name": "BITURBO Spyder",
+      "slug": "biturbo-spyder",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32130,
+      "documentId": "ijeq65iadd3gnizlxyvem7e0",
+      "name": "GHIBLI",
+      "slug": "ghibli",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32131,
+      "documentId": "jus2vk5h4kh54aopmy2hnawk",
+      "name": "GHIBLI II",
+      "slug": "ghibli-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32132,
+      "documentId": "n5b98in903pe8otaapdy99nn",
+      "name": "GHIBLI III",
+      "slug": "ghibli-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32133,
+      "documentId": "kspae8hidkltyhds03uwagu8",
+      "name": "GHIBLI Spider",
+      "slug": "ghibli-spider",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32226,
+      "documentId": "yt24qwytsjk24ryoodzjaizy",
+      "name": "GRAN TURISMO I",
+      "slug": "gran-turismo-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32227,
+      "documentId": "wws3wu493e8s8fide68hlnlh",
+      "name": "GRAN TURISMO II",
+      "slug": "gran-turismo-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32232,
+      "documentId": "h50wfzfm5n1srg5rsclvm95l",
+      "name": "GRANCABRIO",
+      "slug": "grancabrio",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32281,
+      "documentId": "yfb9v8hzgk9amyz5bm8c7zzx",
+      "name": "GRANSPORT Convertible",
+      "slug": "gransport-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32282,
+      "documentId": "vju9wdggd090up4nlkc54zqz",
+      "name": "GRANSPORT Coupe",
+      "slug": "gransport-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32288,
+      "documentId": "twbcv9gieiql1k7hsfv69fky",
+      "name": "GRECALE",
+      "slug": "grecale",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32661,
+      "documentId": "v96voni9z7q68vz3vbe2k26u",
+      "name": "INDY",
+      "slug": "indy",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32905,
+      "documentId": "oiy14hh0kr5vly20wkcxboo3",
+      "name": "KARIF",
+      "slug": "karif",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32918,
+      "documentId": "sxaesbfvw64apfufgub8awa9",
+      "name": "KHAMSIN",
+      "slug": "khamsin",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32967,
+      "documentId": "awwfkb66z9bfkwrsjj6ciw0b",
+      "name": "KYALAMI",
+      "slug": "kyalami",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33127,
+      "documentId": "be1gblu4ag6bucw1dohd52mw",
+      "name": "LEVANTE SUV",
+      "slug": "levante-suv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33416,
+      "documentId": "o76ekrkckmpdqe8rze9iri0t",
+      "name": "MC 12",
+      "slug": "mc-12",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33418,
+      "documentId": "pp6xogq33tgwgwza0m85m9fe",
+      "name": "MC 20 Convertible",
+      "slug": "mc-20-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33419,
+      "documentId": "xfwaf2dgbwo3c7litkqczvfl",
+      "name": "MC 20 Coupe",
+      "slug": "mc-20-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33459,
+      "documentId": "gt353pmnhv6u1u4bu8fokdrn",
+      "name": "MERAK",
+      "slug": "merak",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33478,
+      "documentId": "tbudv7y2taik71htgeiplr78",
+      "name": "MEXICO",
+      "slug": "mexico",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33576,
+      "documentId": "u236z4xubvu9suz0oyg2ooui",
+      "name": "MISTRAL Coupe",
+      "slug": "mistral-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33577,
+      "documentId": "wrqox6pek72x9ufao9wz6rmr",
+      "name": "MISTRAL Spyder",
+      "slug": "mistral-spyder",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34580,
+      "documentId": "ptc0ongy6ebm2kn0hdj5ny9i",
+      "name": "QUATTROPORTE I",
+      "slug": "quattroporte-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34581,
+      "documentId": "pbpq6fby0b0yhbo6r3o8f51e",
+      "name": "QUATTROPORTE II",
+      "slug": "quattroporte-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34582,
+      "documentId": "t4fxq2vu3057ghkgk8fcv63t",
+      "name": "QUATTROPORTE III",
+      "slug": "quattroporte-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34583,
+      "documentId": "cgotwuffphcxagpfh1d40emv",
+      "name": "QUATTROPORTE IV",
+      "slug": "quattroporte-iv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34584,
+      "documentId": "cikm4jr7haqykz0405ah8rc1",
+      "name": "QUATTROPORTE V",
+      "slug": "quattroporte-v",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34585,
+      "documentId": "zekvhl3q3wbzw44khyw7snr1",
+      "name": "QUATTROPORTE VI",
+      "slug": "quattroporte-vi",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35160,
+      "documentId": "eo8u02orl0iavbtva5yvzmaj",
+      "name": "SHAMAL",
+      "slug": "shamal",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35420,
+      "documentId": "d03cn1z1oa1vt8vg5if7sgse",
+      "name": "SPYDER Convertible",
+      "slug": "spyder-convertible",
       "vehicle_type": "car",
       "isActive": true
     }

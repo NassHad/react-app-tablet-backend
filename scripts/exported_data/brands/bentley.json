@@ -7,7 +7,136 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.786Z",
-  "models": []
+  "modelCount": 16,
+  "exportDate": "2026-01-07T09:17:53.772Z",
+  "models": [
+    {
+      "id": 29363,
+      "documentId": "ip7k14l47riibgpf0t8644za",
+      "name": "ARNAGE",
+      "slug": "arnage",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29364,
+      "documentId": "x53gqhp9tbgt431zh1tb5544",
+      "name": "ARNAGE Coupe",
+      "slug": "arnage-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29570,
+      "documentId": "v8smlqzmfhpcgxue4zvkweyl",
+      "name": "AZURE",
+      "slug": "azure",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29571,
+      "documentId": "fcq3o8psm4zvtkiv6eajxuqv",
+      "name": "AZURE II",
+      "slug": "azure-ii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29699,
+      "documentId": "f5sg35sb9btkcvp1hd6a679q",
+      "name": "BENTAYGA",
+      "slug": "bentayga",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29787,
+      "documentId": "soa34jacqc1ptri7mjmwwjg2",
+      "name": "BROOKLANDS",
+      "slug": "brooklands",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29788,
+      "documentId": "gr9gjhyjds4xhoazc8xdelp9",
+      "name": "BROOKLANDS Coupe",
+      "slug": "brooklands-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30544,
+      "documentId": "ldx8bcgwodz2njcrneev7btk",
+      "name": "CONTINENTAL Convertible",
+      "slug": "continental-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30545,
+      "documentId": "mx0n2jk0i47c0dq3uxby11gb",
+      "name": "CONTINENTAL Coupe",
+      "slug": "continental-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30546,
+      "documentId": "w2x1xwy0bdcbph6nzscs1usc",
+      "name": "CONTINENTAL FLYING SPUR",
+      "slug": "continental-flying-spur",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30562,
+      "documentId": "hashv78nl71eprnvxjceg2qm",
+      "name": "CORNICHE Coupe",
+      "slug": "corniche-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31294,
+      "documentId": "oipo2lgbgqnmwxwjraoo3vx4",
+      "name": "EIGHT",
+      "slug": "eight",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31814,
+      "documentId": "n5ntolgsx13jkv5hls7zjt91",
+      "name": "FLYING SPUR",
+      "slug": "flying-spur",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33721,
+      "documentId": "y0638ye2uneco775q6b7ly74",
+      "name": "MULSANNE",
+      "slug": "mulsanne",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35793,
+      "documentId": "gm569u8ct0mgz539rnubz9qk",
+      "name": "T1 SERIES Saloon",
+      "slug": "t1-series-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35797,
+      "documentId": "eyy9s1i48eclrz2ld656tyvc",
+      "name": "T2 SERIES Saloon",
+      "slug": "t2-series-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

@@ -7,7 +7,504 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.831Z",
-  "models": []
+  "modelCount": 62,
+  "exportDate": "2026-01-07T09:17:53.803Z",
+  "models": [
+    {
+      "id": 28207,
+      "documentId": "q9c2qqn1hd40l4kxmxgexbjt",
+      "name": "12 CILINDRI Coupe",
+      "slug": "12-cilindri-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28429,
+      "documentId": "g17vjwai3dz6v8l5knc2qoqp",
+      "name": "208/308 Coupe",
+      "slug": "208-308-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28430,
+      "documentId": "e78ekulpbim8useq2nr3a7ae",
+      "name": "208/308 Targa",
+      "slug": "208-308-targa",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28494,
+      "documentId": "iaosv0i45a585db7fyynwy0g",
+      "name": "288 GTO Coupe",
+      "slug": "288-gto-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28622,
+      "documentId": "jgfrtwep5nhxze2uyaknsgd6",
+      "name": "328 GTB",
+      "slug": "328-gtb",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28623,
+      "documentId": "zfkbf7dkxvo9ag64nirw7rcn",
+      "name": "328 GTS",
+      "slug": "328-gts",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28630,
+      "documentId": "ftit8ou5841t5xyrge30b2wd",
+      "name": "348 Spider",
+      "slug": "348-spider",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28631,
+      "documentId": "ngow5mhw0sw6ze46pxhv2yos",
+      "name": "348 tb/GTB",
+      "slug": "348-tb-gtb",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28632,
+      "documentId": "x5lbpvsx0ygmsjmmn70evi66",
+      "name": "348 ts/GTS",
+      "slug": "348-ts-gts",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28644,
+      "documentId": "y6xpmd9wnlwro277h08bc7ui",
+      "name": "360",
+      "slug": "360",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28645,
+      "documentId": "f8hcgkrif7evjlwzbvz4b2rd",
+      "name": "360 Spider",
+      "slug": "360-spider",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28647,
+      "documentId": "tbmv6qvycgob1sm7gvy7bqt1",
+      "name": "365 GT 2+2",
+      "slug": "365-gt-2-2",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28648,
+      "documentId": "r95q0730xykmnvo0zkaufbpp",
+      "name": "365 GTB/4 DAYTONA",
+      "slug": "365-gtb-4-daytona",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28649,
+      "documentId": "cn0hpfpa1h807wlyt70wxu8b",
+      "name": "365 GTS/4 DAYTONA",
+      "slug": "365-gts-4-daytona",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28681,
+      "documentId": "to9ih2yffcxma6ni87pa8l1u",
+      "name": "400 i",
+      "slug": "400-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28716,
+      "documentId": "mn7ijyredi7q2w1w1nwlc6rz",
+      "name": "412 i",
+      "slug": "412-i",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28740,
+      "documentId": "n45i6exlfc5kdfrr7000k12j",
+      "name": "456 GT/GTA",
+      "slug": "456-gt-gta",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28741,
+      "documentId": "hqbpapc3jordvzslaxw1q9fv",
+      "name": "458",
+      "slug": "458",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28742,
+      "documentId": "y8946q5s1fzbxwkjkvf7vp1c",
+      "name": "458 Spider",
+      "slug": "458-spider",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28748,
+      "documentId": "bw2elyfo12df61lloej3f3pw",
+      "name": "488 GTB",
+      "slug": "488-gtb",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28749,
+      "documentId": "wzs3wdyi1b3du9orhguuam8s",
+      "name": "488 Spider",
+      "slug": "488-spider",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28823,
+      "documentId": "a9m1q0c64xaqw7f42p947iq4",
+      "name": "512 BB",
+      "slug": "512-bb",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28824,
+      "documentId": "h2317c1j63uhn7lzwx1g15bz",
+      "name": "512 M",
+      "slug": "512-m",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28825,
+      "documentId": "muskpp94bb18liuyd0paqhif",
+      "name": "512 TR",
+      "slug": "512-tr",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28836,
+      "documentId": "plj2n7ewb2pa8ozyy4hmwr7v",
+      "name": "550 BARCHETTA",
+      "slug": "550-barchetta",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28838,
+      "documentId": "bgflsv67s74yftyi45cgrh2w",
+      "name": "599 GTB/GTO",
+      "slug": "599-gtb-gto",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28839,
+      "documentId": "nozbe0muk952dvsdfkat52es",
+      "name": "599 SA",
+      "slug": "599-sa",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28840,
+      "documentId": "m9t8di0qoyw4llgdevoge4l8",
+      "name": "5__ MARANELLO",
+      "slug": "5-maranello",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28866,
+      "documentId": "f0cwm5ylzs582og5kceumjzr",
+      "name": "612 SCAGLIETTI",
+      "slug": "612-scaglietti",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28934,
+      "documentId": "g40b1f16x9djf9t5g31mhmje",
+      "name": "812 GTS Spider",
+      "slug": "812-gts-spider",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28935,
+      "documentId": "vhywepxs282rw45h4yvj4b9x",
+      "name": "812 SUPERFAST Coupe",
+      "slug": "812-superfast-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28936,
+      "documentId": "kuy4j2da6hs6zrqe8s87zkle",
+      "name": "812 SUPERFAST Targa",
+      "slug": "812-superfast-targa",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30090,
+      "documentId": "janf9iubb3ysmb6l4tlicf19",
+      "name": "CALIFORNIA",
+      "slug": "california",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30996,
+      "documentId": "w231dqo985z1mw5g4af2r4w7",
+      "name": "DINO GT",
+      "slug": "dino-gt",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30997,
+      "documentId": "kkpux5esp2d3h6v30mmjzjkt",
+      "name": "DINO GT4",
+      "slug": "dino-gt4",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30998,
+      "documentId": "yapsng0drs5mn69x7pux0of1",
+      "name": "DINO GTS",
+      "slug": "dino-gts",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31330,
+      "documentId": "c4vlephuct98addmq1hasvgv",
+      "name": "ENZO FERRARI",
+      "slug": "enzo-ferrari",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31576,
+      "documentId": "rvcfci5uu2lxrjm5rbw91mbx",
+      "name": "F12 Berlinetta",
+      "slug": "f12-berlinetta",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31586,
+      "documentId": "wxvhbdtblyb43u5xvj99z04d",
+      "name": "F355 Berlinetta",
+      "slug": "f355-berlinetta",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31587,
+      "documentId": "fq5hskyos9ge3cfma3ma6hp2",
+      "name": "F355 GTS",
+      "slug": "f355-gts",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31588,
+      "documentId": "tfi2pklm27bne3jr41e6vo2t",
+      "name": "F355 Spider",
+      "slug": "f355-spider",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31597,
+      "documentId": "t93gxehjrmup87nx79mkze2d",
+      "name": "F40",
+      "slug": "f40",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31598,
+      "documentId": "azyo7sf5gt2pidaa3xfpol0p",
+      "name": "F430",
+      "slug": "f430",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31599,
+      "documentId": "naxf9fovsj3ewctkxqjv9go6",
+      "name": "F430 Spider",
+      "slug": "f430-spider",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31600,
+      "documentId": "fgyq6c9zwbrgqemqcslcg9x9",
+      "name": "F50 Targa",
+      "slug": "f50-targa",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31602,
+      "documentId": "zv756893nca090oaymb88hxn",
+      "name": "F8 Spider",
+      "slug": "f8-spider",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31603,
+      "documentId": "dnhk8xeq0oo58qyaw1tsf8hq",
+      "name": "F8 Tributo Coupe",
+      "slug": "f8-tributo-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31649,
+      "documentId": "v94fjtpyoc2rc7c6lmbmo0c2",
+      "name": "FF",
+      "slug": "ff",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32418,
+      "documentId": "qmn598pk87kqhtwicssadvy5",
+      "name": "GTB",
+      "slug": "gtb",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32420,
+      "documentId": "lnl7ff52b9hwky9tc0axuaqf",
+      "name": "GTC4 Lusso / Lusso T",
+      "slug": "gtc4-lusso-lusso-t",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33220,
+      "documentId": "mgdskmwueruf2wlujjx56n6c",
+      "name": "LaFERRARI",
+      "slug": "laferrari",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33221,
+      "documentId": "h46q6nggurojo65wxq2p06b0",
+      "name": "LaFERRARI APERTA Spider",
+      "slug": "laferrari-aperta-spider",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33625,
+      "documentId": "y54s1vqmz1iy66c5gludbrta",
+      "name": "MONDIAL",
+      "slug": "mondial",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33626,
+      "documentId": "yz7l4kb8mmdqun8t4yfgks21",
+      "name": "MONDIAL Convertible",
+      "slug": "mondial-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33636,
+      "documentId": "t4mhk7p5jz08ptgifq119ffv",
+      "name": "MONZA SP1",
+      "slug": "monza-sp1",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33637,
+      "documentId": "jqwh76ou44y1a7fosmkz9zw5",
+      "name": "MONZA SP2",
+      "slug": "monza-sp2",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34349,
+      "documentId": "wmhpwlq9c1ezck0kz2cuzoru",
+      "name": "PORTOFINO",
+      "slug": "portofino",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34454,
+      "documentId": "ipmiu1xp5fzthvltp7o4us8v",
+      "name": "PUROSANGUE FUV",
+      "slug": "purosangue-fuv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34794,
+      "documentId": "iafz7ct4b0tkk9pn319wx07f",
+      "name": "ROMA",
+      "slug": "roma",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34795,
+      "documentId": "tzybn5mat1fzgbe4fsh2ylav",
+      "name": "ROMA Spider",
+      "slug": "roma-spider",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35536,
+      "documentId": "grqo41sxqy5lz3zuw5pt15r2",
+      "name": "SUPERAMERICA",
+      "slug": "superamerica",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35924,
+      "documentId": "h5h0krph7aq5240cicbp26z0",
+      "name": "TESTAROSSA",
+      "slug": "testarossa",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

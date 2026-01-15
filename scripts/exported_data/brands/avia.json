@@ -7,7 +7,16 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.779Z",
-  "models": []
+  "modelCount": 1,
+  "exportDate": "2026-01-07T09:17:53.770Z",
+  "models": [
+    {
+      "id": 29085,
+      "documentId": "oftyg4lcmw58l90zrzn6r8y9",
+      "name": "A31 Platform/Chassis",
+      "slug": "a31-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

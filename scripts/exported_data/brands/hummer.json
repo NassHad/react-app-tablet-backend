@@ -7,7 +7,56 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.867Z",
-  "models": []
+  "modelCount": 6,
+  "exportDate": "2026-01-07T09:17:53.819Z",
+  "models": [
+    {
+      "id": 32498,
+      "documentId": "zpqr8or635zyh3pfjglhif62",
+      "name": "H1 Closed Off-Road Vehicle",
+      "slug": "h1-closed-off-road-vehicle",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32504,
+      "documentId": "tftwxay67dz1onqi9fo9asr4",
+      "name": "H2 Closed Off-Road Vehicle",
+      "slug": "h2-closed-off-road-vehicle",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32574,
+      "documentId": "rnqwkrunldu4402s0z4i34l5",
+      "name": "HUMMER H1",
+      "slug": "hummer-h1",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32575,
+      "documentId": "wrtem0dsade9sbfjdyq6t1eb",
+      "name": "HUMMER H2",
+      "slug": "hummer-h2",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32576,
+      "documentId": "sv5i52cok9nliijpf7jazto1",
+      "name": "HUMMER H2  SUT",
+      "slug": "hummer-h2-sut",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32577,
+      "documentId": "qlwkb8hwfk6wf70hcdzz7o7e",
+      "name": "HUMMER H3",
+      "slug": "hummer-h3",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

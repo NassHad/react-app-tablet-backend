@@ -7,7 +7,24 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.873Z",
-  "models": []
+  "modelCount": 2,
+  "exportDate": "2026-01-07T09:17:53.823Z",
+  "models": [
+    {
+      "id": 31309,
+      "documentId": "j2qo6lu6si2uwnc3p01ut4i1",
+      "name": "ELBA",
+      "slug": "elba",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34696,
+      "documentId": "wlhxlvnt4t1jwf3nen9621ph",
+      "name": "REGENT",
+      "slug": "regent",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

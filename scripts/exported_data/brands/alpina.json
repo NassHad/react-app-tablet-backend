@@ -7,8 +7,8 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 38,
-  "exportDate": "2026-01-06T19:34:16.770Z",
+  "modelCount": 49,
+  "exportDate": "2026-01-07T09:17:53.761Z",
   "models": [
     {
       "id": 29652,
@@ -107,6 +107,14 @@
       "isActive": true
     },
     {
+      "id": 29664,
+      "documentId": "fdnh3r6jt6na5c2kx45x539l",
+      "name": "B4 Gran Coupe",
+      "slug": "b4-gran-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 29665,
       "documentId": "xkty26vwmpn5ixfodcd3t3w4",
       "name": "B5",
@@ -171,6 +179,14 @@
       "isActive": true
     },
     {
+      "id": 29674,
+      "documentId": "n2roxoazjdtxm6ezk2g6n7xh",
+      "name": "B7 Coupe",
+      "slug": "b7-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 29676,
       "documentId": "gvvk4b93fhsbi1mdfymtev9z",
       "name": "B8",
@@ -203,6 +219,46 @@
       "isActive": true
     },
     {
+      "id": 29680,
+      "documentId": "dexsf8ipqunwdm60mdpc37so",
+      "name": "B8 GRAN COUPE",
+      "slug": "b8-gran-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29681,
+      "documentId": "lwpc6co8l46ud1i36tof8agu",
+      "name": "B8 Touring",
+      "slug": "b8-touring",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29682,
+      "documentId": "zo4q5cm0elsoufwhfs7u3a52",
+      "name": "B9",
+      "slug": "b9",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29683,
+      "documentId": "amqzc33bncgc5s1bbeqmhvy7",
+      "name": "B9 Coupe",
+      "slug": "b9-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29959,
+      "documentId": "lmbeqm4158rtev54flm5nz6q",
+      "name": "C2 Convertible",
+      "slug": "c2-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 30893,
       "documentId": "uxtep0lh95dfxa0wqo1idued",
       "name": "D10",
@@ -215,6 +271,14 @@
       "documentId": "rdj6nb6uztwx55moz9h25733",
       "name": "D10 Estate",
       "slug": "d10-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30895,
+      "documentId": "bp8otom93e1rwcck3rih9zsk",
+      "name": "D10 Touring",
+      "slug": "d10-touring",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -267,6 +331,14 @@
       "isActive": true
     },
     {
+      "id": 30902,
+      "documentId": "htslhtix53sk13h3hvz3v2oy",
+      "name": "D4 Gran Coupe",
+      "slug": "d4-gran-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 30903,
       "documentId": "o83y959wo3x1sa3u5thklf86",
       "name": "D5",
@@ -295,6 +367,22 @@
       "documentId": "uh8264bcdw7a8zpvy4v2hons",
       "name": "ROADSTER S",
       "slug": "roadster-s",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34779,
+      "documentId": "knyixxw8z18qq3c9arqoeci4",
+      "name": "ROADSTER V8",
+      "slug": "roadster-v8",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36845,
+      "documentId": "fpjzkpfldudgh0k1hs32kfeh",
+      "name": "XB7",
+      "slug": "xb7",
       "vehicle_type": "car",
       "isActive": true
     },

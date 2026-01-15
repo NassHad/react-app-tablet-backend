@@ -7,8 +7,8 @@
     "vehicle_type": "moto",
     "isActive": true
   },
-  "modelCount": 82,
-  "exportDate": "2026-01-06T19:34:16.947Z",
+  "modelCount": 83,
+  "exportDate": "2026-01-07T09:17:53.865Z",
   "models": [
     {
       "id": 29039,
@@ -399,6 +399,14 @@
       "documentId": "utzd1zuqkk584d1022g4sz07",
       "name": "GT 200 L (ZAPM31200)",
       "slug": "gt-200-l-zapm31200",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32431,
+      "documentId": "tmcek3ocktaoikxxc3ckz4ux",
+      "name": "GTS",
+      "slug": "gts",
       "vehicle_type": "moto",
       "isActive": true
     },

@@ -7,7 +7,264 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:17.017Z",
-  "models": []
+  "modelCount": 32,
+  "exportDate": "2026-01-07T09:17:53.887Z",
+  "models": [
+    {
+      "id": 28272,
+      "documentId": "ftwdz343ypw9grb75dk3c8sv",
+      "name": "1307-1510",
+      "slug": "1307-1510",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28317,
+      "documentId": "perffhwsrhct6vvzdorzvv5a",
+      "name": "160",
+      "slug": "160",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28329,
+      "documentId": "qq800y9cxqjhnefpa855mfla",
+      "name": "180",
+      "slug": "180",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29533,
+      "documentId": "qb4gzaj568k0q94y0goyt7yt",
+      "name": "AVENGER",
+      "slug": "dodge-avenger",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29534,
+      "documentId": "cohcj76wrbwin6ee8tq510gz",
+      "name": "AVENGER",
+      "slug": "hillman-avenger",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29535,
+      "documentId": "k5gnbyrdaynfe3vso90x3x47",
+      "name": "AVENGER",
+      "slug": "jeep-avenger",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 29537,
+      "documentId": "feh66prebhdra8z7jmzneysc",
+      "name": "AVENGER Estate",
+      "slug": "avenger-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31482,
+      "documentId": "b0sdhs0hfb48xcbsca6zasac",
+      "name": "EXPRESS 1000 -1500 Bus",
+      "slug": "express-1000-1500-bus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31483,
+      "documentId": "uqmgf515pn0eo3e0p4cwmyvd",
+      "name": "EXPRESS 1000 -1500 Platform/Chassis",
+      "slug": "express-1000-1500-platform-chassis",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31484,
+      "documentId": "i4b986mowl6q363c5w6xui2r",
+      "name": "EXPRESS 1000 -1800 Van",
+      "slug": "express-1000-1800-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32561,
+      "documentId": "t5naproki9b3z4xhwvh0pliu",
+      "name": "HORIZON",
+      "slug": "horizon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33391,
+      "documentId": "w9vlua7j67575qajygobe2rq",
+      "name": "MATRA BAGHEERA",
+      "slug": "matra-bagheera",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33738,
+      "documentId": "tm72zvwiwi1njeczekpufy28",
+      "name": "MURENA",
+      "slug": "murena",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34643,
+      "documentId": "zzr3s94qkxgo80ze1scefcuy",
+      "name": "RANCHO",
+      "slug": "rancho",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34994,
+      "documentId": "wcdpzbgkr03dxk7l2kvkjs57",
+      "name": "SAMBA",
+      "slug": "samba",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34995,
+      "documentId": "rdhbvtjid3pw1l6tra86e0gs",
+      "name": "SAMBA Convertible",
+      "slug": "samba-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35225,
+      "documentId": "av91v4sojctqovon6n5rc0qc",
+      "name": "SIMCA 1000",
+      "slug": "simca-1000",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35226,
+      "documentId": "yfnl6zb3ahtj94aor5khltgr",
+      "name": "SIMCA 1100 Break/Tourisme",
+      "slug": "simca-1100-break-tourisme",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35227,
+      "documentId": "gb65r5fa50kdneb7sq7ljtzr",
+      "name": "SIMCA 1100 Hatchback",
+      "slug": "simca-1100-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35228,
+      "documentId": "kjnqi7i8zwkm2oryiunzpai3",
+      "name": "SIMCA 1200 S Coupe",
+      "slug": "simca-1200-s-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35229,
+      "documentId": "syace1lpswe1eq89w2bwx3wu",
+      "name": "SIMCA 1300",
+      "slug": "simca-1300",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35230,
+      "documentId": "enh1jwhg28510r4kyc74wpxq",
+      "name": "SIMCA 1301",
+      "slug": "simca-1301",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35231,
+      "documentId": "j2gy7mt1mry77xlowd3jnsnn",
+      "name": "SIMCA 1301 Tourisme",
+      "slug": "simca-1301-tourisme",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35232,
+      "documentId": "zdetazcj1rougf7ul6dyx6cr",
+      "name": "SIMCA 1500",
+      "slug": "simca-1500",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35233,
+      "documentId": "modhm32l0hekb0gdtnq4p43v",
+      "name": "SIMCA 1500 Break",
+      "slug": "simca-1500-break",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35234,
+      "documentId": "rugbjz1qsz32d8t1xn85905y",
+      "name": "SIMCA 1501",
+      "slug": "simca-1501",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35235,
+      "documentId": "vn4ozjkwvie46n95gbcl0rcx",
+      "name": "SIMCA 1501 Break/Tourisme",
+      "slug": "simca-1501-break-tourisme",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35236,
+      "documentId": "y3wkbs6gq62pgvhwhuy182kk",
+      "name": "SIMCA 1609/1610",
+      "slug": "simca-1609-1610",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35237,
+      "documentId": "o1uer1fykpb8kfv8rln6k5pl",
+      "name": "SIMCA SIM'4",
+      "slug": "simca-sim-4",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35238,
+      "documentId": "zd1g1c41wwpewwciivhm0ntb",
+      "name": "SIMCA SUNBEAM",
+      "slug": "simca-sunbeam",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35311,
+      "documentId": "lknp1pronovzxyz3wzpfjkv6",
+      "name": "SOLARA",
+      "slug": "solara",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35816,
+      "documentId": "mg7dnotfoz6eeylp6s5pstol",
+      "name": "TAGORA",
+      "slug": "tagora",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

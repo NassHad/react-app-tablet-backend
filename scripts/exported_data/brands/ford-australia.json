@@ -7,7 +7,32 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.844Z",
-  "models": []
+  "modelCount": 3,
+  "exportDate": "2026-01-07T09:17:53.806Z",
+  "models": [
+    {
+      "id": 31653,
+      "documentId": "n4zsiu1ck61fx27soo4d8mni",
+      "name": "FIESTA Hatchback",
+      "slug": "fiesta-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31819,
+      "documentId": "qrl0xlkii5p5t1r3dn0bwvug",
+      "name": "FOCUS Hatchback",
+      "slug": "focus-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34662,
+      "documentId": "e9xjskut6epozqjwahsp6y5n",
+      "name": "RANGER Pickup",
+      "slug": "ranger-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

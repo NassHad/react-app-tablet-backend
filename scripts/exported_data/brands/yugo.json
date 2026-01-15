@@ -7,7 +7,96 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:17.062Z",
-  "models": []
+  "modelCount": 11,
+  "exportDate": "2026-01-07T09:17:53.901Z",
+  "models": [
+    {
+      "id": 28593,
+      "documentId": "gcwb9wf1xc7e6q4khpos713f",
+      "name": "311",
+      "slug": "311",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28594,
+      "documentId": "ys8ud3dfs6q6wmfaz9yispsz",
+      "name": "313",
+      "slug": "313",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28710,
+      "documentId": "rtiu9jo9bvgkbqjj3ou3u9my",
+      "name": "411",
+      "slug": "411",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28717,
+      "documentId": "csxl61gc7562dptrigkhzldq",
+      "name": "413",
+      "slug": "413",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28733,
+      "documentId": "emod75yidb5qk72slg3mpiiy",
+      "name": "45-65",
+      "slug": "45-65",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28734,
+      "documentId": "vkic5oecimd9dg9q774nnabe",
+      "name": "45/65 Hatchback Van",
+      "slug": "45-65-hatchback-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28821,
+      "documentId": "ufb0nye3r1hbfje9wv9uk7zt",
+      "name": "511",
+      "slug": "511",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28826,
+      "documentId": "qk6wbatc0s1ip85b2rresu6b",
+      "name": "513",
+      "slug": "513",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31771,
+      "documentId": "hc4o9huctegvvrjtlyb5dba3",
+      "name": "FLORIDA",
+      "slug": "florida",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35000,
+      "documentId": "xf5uxfwoym5na0ufw4u3zpsu",
+      "name": "SANA",
+      "slug": "sana",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35899,
+      "documentId": "ydrgmmyhwsc01mdql2e3xxks",
+      "name": "TEMPO",
+      "slug": "tempo",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

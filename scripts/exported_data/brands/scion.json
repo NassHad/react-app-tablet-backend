@@ -7,7 +7,32 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.987Z",
-  "models": []
+  "modelCount": 3,
+  "exportDate": "2026-01-07T09:17:53.878Z",
+  "models": [
+    {
+      "id": 37380,
+      "documentId": "k71wsceb5nrnvdcp2dahvbg7",
+      "name": "tC Coupe",
+      "slug": "tc-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37382,
+      "documentId": "lhse5bqdgki0t52id8teuvrq",
+      "name": "xB MPV",
+      "slug": "xb-mpv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37383,
+      "documentId": "b1y5pcpn0ve6783un0tt8xw5",
+      "name": "xD Hatchback",
+      "slug": "xd-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

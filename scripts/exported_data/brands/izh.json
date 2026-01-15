@@ -7,7 +7,40 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.875Z",
-  "models": []
+  "modelCount": 4,
+  "exportDate": "2026-01-07T09:17:53.826Z",
+  "models": [
+    {
+      "id": 28442,
+      "documentId": "k0tbi5kuaetae1h6eaffizfp",
+      "name": "2125",
+      "slug": "2125",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28488,
+      "documentId": "c6lreipzsog53i5ez576h84e",
+      "name": "2717",
+      "slug": "2717",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34104,
+      "documentId": "pbp1k3osjhqbs7xs8bba66y6",
+      "name": "ORBITA",
+      "slug": "orbita",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34105,
+      "documentId": "tql1a2h426abhi0rftpzrz02",
+      "name": "ORBITA Estate",
+      "slug": "orbita-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

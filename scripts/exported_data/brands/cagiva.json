@@ -7,7 +7,256 @@
     "vehicle_type": "moto",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.802Z",
-  "models": []
+  "modelCount": 31,
+  "exportDate": "2026-01-07T09:17:53.781Z",
+  "models": [
+    {
+      "id": 30053,
+      "documentId": "ekgltwp76dxba5k083dj9s2w",
+      "name": "C9 125",
+      "slug": "c9-125",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 30842,
+      "documentId": "cchpy6xc32zawak05gw5cnk4",
+      "name": "City 50",
+      "slug": "city-50",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31503,
+      "documentId": "o29vlm75ije88ig219imsy3a",
+      "name": "Elefant 350",
+      "slug": "elefant-350",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31504,
+      "documentId": "c7n59dt923gbevoz1y6i6fpm",
+      "name": "Elefant 650",
+      "slug": "elefant-650",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31505,
+      "documentId": "hbhk7apgx8vybe33kfgturla",
+      "name": "Elefant 750",
+      "slug": "elefant-750",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31506,
+      "documentId": "mqu9tagxz73t2p5klhe4egld",
+      "name": "Elefant 750 E",
+      "slug": "elefant-750-e",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31507,
+      "documentId": "oapj6sr9efxqjr2voxkqwg32",
+      "name": "Elefant 900 E AC",
+      "slug": "elefant-900-e-ac",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31508,
+      "documentId": "kymmyvb0st6xegk1h1lhkuti",
+      "name": "Elefant 900 ie",
+      "slug": "elefant-900-ie",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 31509,
+      "documentId": "htkbxykfm8eefga8o080zo9m",
+      "name": "Elefant 900 ie GT",
+      "slug": "elefant-900-ie-gt",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32038,
+      "documentId": "vj2ucodu7a3xnfxavr8ntyvr",
+      "name": "Freccia 125",
+      "slug": "freccia-125",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32475,
+      "documentId": "y11tw8stzryia03fdtr3arho",
+      "name": "Gran Canyon 900",
+      "slug": "gran-canyon-900",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33294,
+      "documentId": "mdcro23bth84pxiblzyv1mnw",
+      "name": "M2 1200 (EB1)",
+      "slug": "m2-1200-eb1",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33813,
+      "documentId": "u1c3pcfebhd6o08r3zg0vfjz",
+      "name": "Mito 125 EV",
+      "slug": "mito-125-ev",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 33814,
+      "documentId": "z0469id45v05dpcpkfqxe642",
+      "name": "Mito 125 II",
+      "slug": "mito-125-ii",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34034,
+      "documentId": "unecmwvwa8wm9fdoxgiuyzjb",
+      "name": "Navigator 1000",
+      "slug": "navigator-1000",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34607,
+      "documentId": "u5v2a29jdzy33eh7pclepklf",
+      "name": "R 1125 R",
+      "slug": "r-1125-r",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34881,
+      "documentId": "le9j9vz2trcwvqoknohwafg8",
+      "name": "Raptor 1000",
+      "slug": "raptor-1000",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34882,
+      "documentId": "odaemairsrl5emrqbk4sk56j",
+      "name": "Raptor 125",
+      "slug": "raptor-125",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34896,
+      "documentId": "xoc5bgg05q9vk2g1qulobole",
+      "name": "River 500",
+      "slug": "river-500",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34897,
+      "documentId": "t51qkbotz48g4ycbt6b6i9x7",
+      "name": "River 600",
+      "slug": "river-600",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34903,
+      "documentId": "yeoqow4h1d22b5wfbyytq7z3",
+      "name": "Roadster 125",
+      "slug": "roadster-125",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35773,
+      "documentId": "f4y9ne7n4kzvpme9o5qxycw1",
+      "name": "Supercity 125",
+      "slug": "supercity-125",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35807,
+      "documentId": "pkpfb30l79bmumewjnn0kb80",
+      "name": "T4E 350",
+      "slug": "t4e-350",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35808,
+      "documentId": "t4f7y7mt5g3zkf3whpmsqbg7",
+      "name": "T4E 500",
+      "slug": "t4e-500",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35809,
+      "documentId": "a1rtcx334p9w5zsurnas1i4y",
+      "name": "T4R 350",
+      "slug": "t4r-350",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35810,
+      "documentId": "mxu1eej9s0fciu819auzuc21",
+      "name": "T4R 500",
+      "slug": "t4r-500",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36352,
+      "documentId": "zfg1j2tt4sin05ludqglzet2",
+      "name": "V-Raptor 1000",
+      "slug": "v-raptor-1000",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36353,
+      "documentId": "xjft6iv8m7zoobtyzff22ls9",
+      "name": "V-Raptor 650",
+      "slug": "v-raptor-650",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36725,
+      "documentId": "vmkmzb4lpqs9aojy6wl75gmt",
+      "name": "W12 350",
+      "slug": "w12-350",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36726,
+      "documentId": "z3gpr3wlu2wcqet6c6epfijp",
+      "name": "W16 600",
+      "slug": "w16-600",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 36727,
+      "documentId": "c27paqk3grpkqqt9ohm3oeg4",
+      "name": "W8 125",
+      "slug": "w8-125",
+      "vehicle_type": "moto",
+      "isActive": true
+    }
+  ]
 }

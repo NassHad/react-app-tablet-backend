@@ -7,7 +7,16 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.790Z",
-  "models": []
+  "modelCount": 1,
+  "exportDate": "2026-01-07T09:17:53.773Z",
+  "models": [
+    {
+      "id": 36203,
+      "documentId": "bowzlt4c8ktiwasrnc24bvl8",
+      "name": "TYPE 3 Convertible",
+      "slug": "type-3-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

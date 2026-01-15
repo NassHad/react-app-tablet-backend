@@ -7,7 +7,32 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:17.058Z",
-  "models": []
+  "modelCount": 3,
+  "exportDate": "2026-01-07T09:17:53.898Z",
+  "models": [
+    {
+      "id": 28640,
+      "documentId": "opvz1tqrh3bbmj1bxw1qyvm6",
+      "name": "353",
+      "slug": "353",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28641,
+      "documentId": "wuy30ojdwjmgsa9efgau5iw1",
+      "name": "353 Tourist",
+      "slug": "353-tourist",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36730,
+      "documentId": "vbjx1gq9mccas4gjor4uw6bp",
+      "name": "WARTBURG",
+      "slug": "wartburg",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

@@ -7,7 +7,216 @@
     "vehicle_type": "moto",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.853Z",
-  "models": []
+  "modelCount": 26,
+  "exportDate": "2026-01-07T09:17:53.811Z",
+  "models": [
+    {
+      "id": 30891,
+      "documentId": "s5vh0m6l2hegdpiznx94mc3s",
+      "name": "D.N.A 50 (ZAPC27000)",
+      "slug": "dna-50-zapc27000",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 30892,
+      "documentId": "in7ebjhn9l9y4pxghw4ez0sx",
+      "name": "D.N.A 50 GP (VTBC33200)",
+      "slug": "dna-50-gp-vtbc33200",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32048,
+      "documentId": "o80sz3d29qk4dob7kd5mqwks",
+      "name": "Fuoco",
+      "slug": "fuoco",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32049,
+      "documentId": "p88et1nwh2wknb5fgeb1qqyc",
+      "name": "Fuoco 500 (M61)",
+      "slug": "fuoco-500-m61",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 32214,
+      "documentId": "m7v0jijodv465alropi8x2i3",
+      "name": "GP 800 (M55)",
+      "slug": "gp-800-m55",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34048,
+      "documentId": "yyr9v9lh9hcxnrrdqe3k8u1s",
+      "name": "Nexus",
+      "slug": "nexus",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34049,
+      "documentId": "cnukuwcjx7tq7xx2lkk8rqs3",
+      "name": "Nexus 124 (M35)",
+      "slug": "nexus-124-m35",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34050,
+      "documentId": "arqxn5z5y33excdv4cdtp2yp",
+      "name": "Nexus 250 (M35)",
+      "slug": "nexus-250-m35",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34051,
+      "documentId": "td7lnyqixnlo2c2kdq95ep75",
+      "name": "Nexus 300 (M35)",
+      "slug": "nexus-300-m35",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34052,
+      "documentId": "rtnxd8qzxbx8ba6t9d3rhxfr",
+      "name": "Nexus 500 (M35)",
+      "slug": "nexus-500-m35",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34685,
+      "documentId": "cu2rcg9tn53arha2lt2zk9nn",
+      "name": "RCR 50",
+      "slug": "rcr-50",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34918,
+      "documentId": "zlnlhnq2k4lf7wc3ghxkom9v",
+      "name": "Runner 125 FX (ZAPM07000)",
+      "slug": "runner-125-fx-zapm07000",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34919,
+      "documentId": "ajggugyzadby0b62gems2e4a",
+      "name": "Runner 125 ST (M46)",
+      "slug": "runner-125-st-m46",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34920,
+      "documentId": "nhs3ykay5g1doje1nxdeytcz",
+      "name": "Runner 125 VX",
+      "slug": "runner-125-vx",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34921,
+      "documentId": "lmufr6chtr595603b9gimkjd",
+      "name": "Runner 125 VX (ZAPM24000)",
+      "slug": "runner-125-vx-zapm24000",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34922,
+      "documentId": "diwwpagisbm6b5ebw542c9at",
+      "name": "Runner 180 FXR (ZAPM08000)",
+      "slug": "runner-180-fxr-zapm08000",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34923,
+      "documentId": "agvvkyyxokhmbe82t5acx5nm",
+      "name": "Runner 180 VXR (ZAPM24000)",
+      "slug": "runner-180-vxr-zapm24000",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34924,
+      "documentId": "dc3xjear5277bjo6inqe3phh",
+      "name": "Runner 200 (M46)",
+      "slug": "runner-200-m46",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34925,
+      "documentId": "am8amcrpr8nzy7t55yy4xoh8",
+      "name": "Runner 200 VXR (ZAPM24300)",
+      "slug": "runner-200-vxr-zapm24300",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34926,
+      "documentId": "unh6pm7x13bivj9urgb8do6p",
+      "name": "Runner 50 (ZAPC14000)",
+      "slug": "runner-50-zapc14000",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34927,
+      "documentId": "rycmkgnimknegjq4lbnd13sd",
+      "name": "Runner 50 DD (ZAPC14000)",
+      "slug": "runner-50-dd-zapc14000",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34928,
+      "documentId": "iu8wqdgqtpj65h85lhui0rzo",
+      "name": "Runner SP 50 DD",
+      "slug": "runner-sp-50-dd",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34929,
+      "documentId": "f47gdc8d92qrn8h31o1bgfet",
+      "name": "Runner SP 50 DD (ZAPC14000)",
+      "slug": "runner-sp-50-dd-zapc14000",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 34930,
+      "documentId": "etvslcnp47hyl57m37oys3ji",
+      "name": "Runner SP 50 DD P.Jet (ZAPC361)",
+      "slug": "runner-sp-50-dd-pjet-zapc361",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35734,
+      "documentId": "srpuwp8m6b7bfli7pcx2xru4",
+      "name": "Stalker 50 DD (ZAPC13000)",
+      "slug": "stalker-50-dd-zapc13000",
+      "vehicle_type": "moto",
+      "isActive": true
+    },
+    {
+      "id": 35735,
+      "documentId": "j4hw5rducehstlgg83hkhfcz",
+      "name": "Stalker 50 DT (ZAPC13000)",
+      "slug": "stalker-50-dt-zapc13000",
+      "vehicle_type": "moto",
+      "isActive": true
+    }
+  ]
 }

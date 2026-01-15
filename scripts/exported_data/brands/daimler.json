@@ -7,8 +7,8 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 163,
-  "exportDate": "2026-01-06T19:34:16.818Z",
+  "modelCount": 172,
+  "exportDate": "2026-01-07T09:17:53.794Z",
   "models": [
     {
       "id": 28243,
@@ -23,6 +23,14 @@
       "documentId": "jnwry3t3s2ja4xqpsz9ywca1",
       "name": "126",
       "slug": "126",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 28368,
+      "documentId": "h3tshg7f7t43pbpcfi9uza3d",
+      "name": "2.8 - 5.3",
+      "slug": "2-8-5-3",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -191,6 +199,14 @@
       "documentId": "ghc9l9xh1hc64zvt28b9t4n4",
       "name": "DART",
       "slug": "dart",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30939,
+      "documentId": "w0y9kewfrz729m3qsi5z86sb",
+      "name": "DART Convertible",
+      "slug": "dart-convertible",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -587,6 +603,14 @@
       "isActive": true
     },
     {
+      "id": 31890,
+      "documentId": "a2rvt8smqrzhh0pkw3t9ef4u",
+      "name": "FULLBACK Pickup",
+      "slug": "fullback-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 31891,
       "documentId": "nzlchc0ckswymbc5w1p0s6d2",
       "name": "FULLBACK Pickup (502_,",
@@ -695,6 +719,22 @@
       "documentId": "e1l6iz02ta6v12jdka6vhc2v",
       "name": "KUGA III",
       "slug": "kuga-iii",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33051,
+      "documentId": "d5h0e8pn7twhz1s29309clqi",
+      "name": "LANDAULETTE",
+      "slug": "landaulette",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33137,
+      "documentId": "bpk70i67bnetti02g10fmbr0",
+      "name": "LIMOUSINE",
+      "slug": "limousine",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -907,6 +947,14 @@
       "isActive": true
     },
     {
+      "id": 34173,
+      "documentId": "gdlsfp5nyfioss69r4w7qzgb",
+      "name": "PALIO Weekend",
+      "slug": "palio-weekend",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 34174,
       "documentId": "eyrmj5f1y6v4s8sn084ue1kj",
       "name": "PALIO Weekend (178_,",
@@ -1083,6 +1131,14 @@
       "isActive": true
     },
     {
+      "id": 35497,
+      "documentId": "iejzhqcarhead2v6bmv6ruar",
+      "name": "STRADA Pickup",
+      "slug": "strada-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 35498,
       "documentId": "o1ji9xukzd0hs26di8fuwq6m",
       "name": "STRADA Pickup (178_,",
@@ -1095,6 +1151,14 @@
       "documentId": "xlcgbvno8n4xq6ztgw7uukz2",
       "name": "STREET KA",
       "slug": "street-ka",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35535,
+      "documentId": "fzei8i15sian9ozj196mma1n",
+      "name": "SUPER EIGHT",
+      "slug": "super-eight",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -1303,6 +1367,14 @@
       "documentId": "qu8afsmnhvlambhzclmp26kb",
       "name": "UNO",
       "slug": "uno",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36893,
+      "documentId": "pwug9d5mtymphnt12jsgveir",
+      "name": "XJ 40, 81",
+      "slug": "xj-40-81",
       "vehicle_type": "car",
       "isActive": true
     },

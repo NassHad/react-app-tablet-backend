@@ -7,7 +7,112 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.963Z",
-  "models": []
+  "modelCount": 13,
+  "exportDate": "2026-01-07T09:17:53.871Z",
+  "models": [
+    {
+      "id": 31858,
+      "documentId": "n7ua99bza6mhwniz9glg7l92",
+      "name": "FOX",
+      "slug": "reliant-fox",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32921,
+      "documentId": "cmlqp8j4dga1scj6e9mvxt2j",
+      "name": "KITTEN",
+      "slug": "kitten",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 32922,
+      "documentId": "utb6me7ydoyndrq9qfd8o4q9",
+      "name": "KITTEN Station Wagon",
+      "slug": "kitten-station-wagon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34718,
+      "documentId": "tc9enrb4xaaljwgwhf46m4q6",
+      "name": "RELIANT",
+      "slug": "reliant",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34746,
+      "documentId": "sxovyxl7q7ze0i8e1bdvnez1",
+      "name": "RIALTO Estate",
+      "slug": "rialto-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34747,
+      "documentId": "ghw3swbmdxsnjcnn5six7ogq",
+      "name": "RIALTO Hatchback",
+      "slug": "rialto-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34780,
+      "documentId": "i1jkk6b7fqdijq1obewjkcfv",
+      "name": "ROBIN",
+      "slug": "robin",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34781,
+      "documentId": "mtdj4kax44qnnfoqsz8oxi0g",
+      "name": "ROBIN Estate",
+      "slug": "robin-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 34782,
+      "documentId": "x39z9onjbnll1jfbcabk54xv",
+      "name": "ROBIN Pickup",
+      "slug": "robin-pickup",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35054,
+      "documentId": "iynv3bb4ovd0wzik2la7zg4q",
+      "name": "SCIMITAR Cabriolet",
+      "slug": "scimitar-cabriolet",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35056,
+      "documentId": "q3pq8xgg5v70ho4ccp5hu34u",
+      "name": "SCIMITAR Roadster",
+      "slug": "scimitar-roadster",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35057,
+      "documentId": "z2koulnv51it6i1nv0qad8bg",
+      "name": "SCIMITAR SABRE Roadster",
+      "slug": "scimitar-sabre-roadster",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35058,
+      "documentId": "vzr2d4bjw9fjwa237xjh9qod",
+      "name": "SCIMITAR Station Wagon",
+      "slug": "scimitar-station-wagon",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

@@ -7,7 +7,56 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:17.059Z",
-  "models": []
+  "modelCount": 6,
+  "exportDate": "2026-01-07T09:17:53.898Z",
+  "models": [
+    {
+      "id": 28264,
+      "documentId": "ps3yvf54rlcet73h14lekc24",
+      "name": "130 Roadster",
+      "slug": "130-roadster",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31899,
+      "documentId": "ecx7bjlbsovqdhk7rm8ytp4d",
+      "name": "FW",
+      "slug": "fw",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35094,
+      "documentId": "hfnu23npm55d9woveenp9kcg",
+      "name": "SE / SEVEN",
+      "slug": "se-seven",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36891,
+      "documentId": "fow1pzwusrddpahqi2rtw0ou",
+      "name": "XI",
+      "slug": "xi",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37018,
+      "documentId": "tf0vsx4sfdb2jx1hig5ycwvu",
+      "name": "XTR",
+      "slug": "xtr",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 37212,
+      "documentId": "dsy6l2no4ju3ywtl9pol721y",
+      "name": "ZE",
+      "slug": "ze",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

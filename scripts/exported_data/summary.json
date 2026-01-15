@@ -1,19 +1,19 @@
 {
-  "exportDate": "2026-01-06T19:34:17.162Z",
-  "executionTime": "0.5 seconds",
+  "exportDate": "2026-01-07T09:17:53.911Z",
+  "executionTime": "0.2 seconds",
   "statistics": {
     "totalBrands": 261,
     "totalModels": 9247,
-    "modelsWithBrand": 4169,
-    "modelsWithoutBrand": 5078,
+    "modelsWithBrand": 8620,
+    "modelsWithoutBrand": 627,
     "byVehicleType": {
-      "car": 3074,
-      "moto": 1095,
+      "car": 5968,
+      "moto": 2652,
       "unknown": 0
     },
     "noBrandByType": {
-      "car": 3521,
-      "moto": 1557,
+      "car": 627,
+      "moto": 0,
       "unknown": 0
     },
     "filesCreated": {
@@ -282,12 +282,7 @@
         "scripts/exported_data/brands/zotye.json"
       ],
       "noBrandFiles": [
-        "scripts/exported_data/no-brand/car-no-brand-1.json",
-        "scripts/exported_data/no-brand/car-no-brand-2.json",
-        "scripts/exported_data/no-brand/car-no-brand-3.json",
-        "scripts/exported_data/no-brand/car-no-brand-4.json",
-        "scripts/exported_data/no-brand/moto-no-brand-1.json",
-        "scripts/exported_data/no-brand/moto-no-brand-2.json"
+        "scripts/exported_data/no-brand/car-no-brand-1.json"
       ],
       "summary": null
     }
@@ -299,39 +294,39 @@
     },
     {
       "brand": "HONDA",
-      "modelCount": 669
-    },
-    {
-      "brand": "SUZUKI",
-      "modelCount": 567
-    },
-    {
-      "brand": "RENAULT",
-      "modelCount": 395
+      "modelCount": 733
     },
     {
       "brand": "YAMAHA",
-      "modelCount": 305
+      "modelCount": 610
     },
     {
-      "brand": "VOLKSWAGEN",
-      "modelCount": 234
-    },
-    {
-      "brand": "CITRO�N",
-      "modelCount": 229
+      "brand": "SUZUKI",
+      "modelCount": 604
     },
     {
       "brand": "DUCATI",
-      "modelCount": 212
+      "modelCount": 423
     },
     {
       "brand": "HARLEY DAVIDSON",
-      "modelCount": 210
+      "modelCount": 420
+    },
+    {
+      "brand": "RENAULT",
+      "modelCount": 397
     },
     {
       "brand": "KAWASAKI",
-      "modelCount": 195
+      "modelCount": 390
+    },
+    {
+      "brand": "APRILIA",
+      "modelCount": 364
+    },
+    {
+      "brand": "TOYOTA",
+      "modelCount": 273
     }
   ]
 }

@@ -7,7 +7,64 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.852Z",
-  "models": []
+  "modelCount": 7,
+  "exportDate": "2026-01-07T09:17:53.810Z",
+  "models": [
+    {
+      "id": 33472,
+      "documentId": "vwzybzday3fwa3pgrepoqfx9",
+      "name": "METRO Convertible",
+      "slug": "metro-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33476,
+      "documentId": "zvio4jpugg7khhtrz9tb8b96",
+      "name": "METRO Saloon",
+      "slug": "metro-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35494,
+      "documentId": "lpal0env5wphvbvus214guhb",
+      "name": "STORM Coupe",
+      "slug": "storm-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 35495,
+      "documentId": "m0ldxdh2iv3cxm3s09wb24ab",
+      "name": "STORM Hatchback",
+      "slug": "storm-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36054,
+      "documentId": "fmq7hox23xezfes2gvy5lzik",
+      "name": "TRACKER",
+      "slug": "geo-tracker",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36055,
+      "documentId": "yn5lkg71i1ynb00pp1o675ek",
+      "name": "TRACKER Cabrio",
+      "slug": "tracker-cabrio",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 36056,
+      "documentId": "aezo60sqj839eh4o4g54954b",
+      "name": "TRACKER Station Wagon",
+      "slug": "tracker-station-wagon",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

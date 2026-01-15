@@ -7,7 +7,40 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.805Z",
-  "models": []
+  "modelCount": 4,
+  "exportDate": "2026-01-07T09:17:53.784Z",
+  "models": [
+    {
+      "id": 30720,
+      "documentId": "pgsn9m9mgyrnqe4n27dpfxz2",
+      "name": "CS35",
+      "slug": "cs35",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30721,
+      "documentId": "s54kpbhvr1erk3e5vf34gpuy",
+      "name": "CS35 PLUS",
+      "slug": "cs35-plus",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30774,
+      "documentId": "r2bn1e69xxigcgk1esvrwve2",
+      "name": "CX20",
+      "slug": "cx20",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31252,
+      "documentId": "pjvj2hndcpfqo1gnwy2u5ns7",
+      "name": "EADO I Saloon",
+      "slug": "eado-i-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

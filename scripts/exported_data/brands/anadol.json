@@ -7,7 +7,16 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.771Z",
-  "models": []
+  "modelCount": 1,
+  "exportDate": "2026-01-07T09:17:53.762Z",
+  "models": [
+    {
+      "id": 35562,
+      "documentId": "fm7tbouzap2ummf6zhg24oo8",
+      "name": "SV 1600",
+      "slug": "sv-1600",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }

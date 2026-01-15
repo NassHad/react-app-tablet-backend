@@ -7,14 +7,46 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 16,
-  "exportDate": "2026-01-06T19:34:16.925Z",
+  "modelCount": 38,
+  "exportDate": "2026-01-07T09:17:53.849Z",
   "models": [
+    {
+      "id": 30775,
+      "documentId": "fvx8vw6zj1whony5zlkj319t",
+      "name": "CYBERSTER",
+      "slug": "cyberster",
+      "vehicle_type": "car",
+      "isActive": true
+    },
     {
       "id": 31293,
       "documentId": "h8gdkkgxtupbyg3rlh4b72xl",
       "name": "EHS / HS plug-in",
       "slug": "ehs--hs-plug-in",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 31494,
+      "documentId": "vxb2g2pny1ywptsglriwx0mw",
+      "name": "EXPRESS Hatchback Van",
+      "slug": "express-hatchback-van",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33306,
+      "documentId": "amlpk58229h2sdwo5js7q6kg",
+      "name": "MAESTRO",
+      "slug": "maestro",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33315,
+      "documentId": "tke6xtnbzbetvfi4i19f365o",
+      "name": "MAGNETTE",
+      "slug": "magnette",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -27,6 +59,14 @@
       "isActive": true
     },
     {
+      "id": 33471,
+      "documentId": "l71w9ce9ajsbopz2ckxz5m30",
+      "name": "METRO",
+      "slug": "metro",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 33483,
       "documentId": "f2num0srpnw5dqeqmeg0djhf",
       "name": "MG 3",
@@ -35,10 +75,34 @@
       "isActive": true
     },
     {
+      "id": 33484,
+      "documentId": "my4ix339nomok0zcyoebqxt9",
+      "name": "MG 350",
+      "slug": "mg-350",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33485,
+      "documentId": "t1o0s3a25ojbt50asxurqurl",
+      "name": "MG 4",
+      "slug": "mg-4",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 33486,
       "documentId": "qfxn8ampz5d582zrijis7to0",
       "name": "MG 5 Estate",
       "slug": "mg-5-estate",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33487,
+      "documentId": "ayuqvu8yg5c5ujos88sfbz3t",
+      "name": "MG 5 Hatchback",
+      "slug": "mg-5-hatchback",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -67,10 +131,26 @@
       "isActive": true
     },
     {
+      "id": 33491,
+      "documentId": "dv7tnvk67ch1leoskrxvl94i",
+      "name": "MG HS",
+      "slug": "mg-hs",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 33492,
       "documentId": "vanfxjr9k797i6zomwdspsjq",
       "name": "MG TF",
       "slug": "mg-tf",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33493,
+      "documentId": "qxktpg152md4jqhowr4524ue",
+      "name": "MG X-POWER",
+      "slug": "mg-x-power",
       "vehicle_type": "car",
       "isActive": true
     },
@@ -99,6 +179,14 @@
       "isActive": true
     },
     {
+      "id": 33497,
+      "documentId": "jmgdvtkgptkgwwvky7h2x4w8",
+      "name": "MG ZS SUV",
+      "slug": "mg-zs-suv",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 33498,
       "documentId": "mnaaxhcghh11hxwzjfemmsvj",
       "name": "MG ZT",
@@ -123,10 +211,98 @@
       "isActive": true
     },
     {
+      "id": 33501,
+      "documentId": "nwuhx9yby50y6gs1zyebhadg",
+      "name": "MG750",
+      "slug": "mg750",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33502,
+      "documentId": "gzar8s7t3p6e2bbizc6i0r4i",
+      "name": "MGA Convertible",
+      "slug": "mga-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33503,
+      "documentId": "pbfw2rkcinhof2qehn4stfrl",
+      "name": "MGA Coupe",
+      "slug": "mga-coupe",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33504,
+      "documentId": "uda7y0p1szugjytsvwy8etz6",
+      "name": "MGB Convertible",
+      "slug": "mgb-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33505,
+      "documentId": "llrqo6t0jhn0ultex2vteoey",
+      "name": "MGB GT",
+      "slug": "mgb-gt",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33506,
+      "documentId": "oolag2g2jm9zjr186w14x2ta",
+      "name": "MGC",
+      "slug": "mgc",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33507,
+      "documentId": "ij7z2qnlbmeov9hmq1l59rb8",
+      "name": "MGC GT",
+      "slug": "mgc-gt",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
       "id": 33508,
       "documentId": "b0n3ub17qdklitmt302syb7r",
       "name": "MGF",
       "slug": "mgf",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33509,
+      "documentId": "xi7h8ddjwpj2aaqcfy1e3q31",
+      "name": "MGR V8",
+      "slug": "mgr-v8",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33511,
+      "documentId": "jpxgpa5enkej3zs6veh3byk0",
+      "name": "MGY Convertible",
+      "slug": "mgy-convertible",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33512,
+      "documentId": "cqpnfr4pw6ku6vrl5897d4hp",
+      "name": "MGY Hatchback",
+      "slug": "mgy-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33523,
+      "documentId": "vwv20sc2ufzshsdbanqep15j",
+      "name": "MIDGET",
+      "slug": "midget",
       "vehicle_type": "car",
       "isActive": true
     },

@@ -7,7 +7,48 @@
     "vehicle_type": "car",
     "isActive": true
   },
-  "modelCount": 0,
-  "exportDate": "2026-01-06T19:34:16.909Z",
-  "models": []
+  "modelCount": 5,
+  "exportDate": "2026-01-07T09:17:53.844Z",
+  "models": [
+    {
+      "id": 29800,
+      "documentId": "dg1qqnoxb3aqfm3p1a0b5nlk",
+      "name": "BUBBLE",
+      "slug": "bubble",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 30332,
+      "documentId": "mmqzkpi44hagjnozuwreovzm",
+      "name": "CEO",
+      "slug": "ceo",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33586,
+      "documentId": "a3bqex3j2yfsckaipo0rf6r1",
+      "name": "MM 520 Hatchback",
+      "slug": "mm-520-hatchback",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33587,
+      "documentId": "dy8v6a1q7h4vlkft6jb1hwf4",
+      "name": "MM 520 Saloon",
+      "slug": "mm-520-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    },
+    {
+      "id": 33588,
+      "documentId": "zpb0rljcjds9k4v2xlgtroad",
+      "name": "MM 620 Saloon",
+      "slug": "mm-620-saloon",
+      "vehicle_type": "car",
+      "isActive": true
+    }
+  ]
 }
