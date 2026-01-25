@@ -112,7 +112,8 @@ function createDatabase() {
           name TEXT NOT NULL,
           slug TEXT NOT NULL,
           icon TEXT NOT NULL,
-          active BOOLEAN NOT NULL DEFAULT 1
+          active BOOLEAN NOT NULL DEFAULT 1,
+          "order" INTEGER
         );
       `);
       
@@ -161,9 +162,14 @@ function createDatabase() {
         CREATE TABLE light_data (
           id INTEGER PRIMARY KEY,
           ref TEXT NOT NULL,
+          brand TEXT,
+          category TEXT,
           description TEXT,
+          EAN INTEGER,
+          refGTI INTEGER,
           brandImg TEXT,
           img TEXT,
+          isActive BOOLEAN DEFAULT 1,
           specifications TEXT,
           created_at TEXT,
           updated_at TEXT
@@ -247,6 +253,30 @@ function createDatabase() {
       `);
       
       db.run(`
+        CREATE TABLE wipers_products (
+          id INTEGER PRIMARY KEY,
+          name TEXT NOT NULL,
+          slug TEXT,
+          brand TEXT,
+          brand_slug TEXT,
+          model_name TEXT,
+          model_slug TEXT,
+          wipers_positions TEXT,
+          ref TEXT,
+          description TEXT,
+          construction_year_start TEXT,
+          construction_year_end TEXT,
+          direction TEXT,
+          wiper_brand TEXT,
+          source TEXT,
+          category TEXT,
+          is_active BOOLEAN DEFAULT 1,
+          created_at TEXT,
+          updated_at TEXT
+        );
+      `);
+
+      db.run(`
         CREATE TABLE vehicles (
           id INTEGER PRIMARY KEY,
           brand TEXT NOT NULL,
@@ -299,6 +329,67 @@ function createDatabase() {
           updated_at TEXT
         );
       `);
+
+      db.run(`
+        CREATE TABLE filter_products (
+          id INTEGER PRIMARY KEY,
+          brand TEXT NOT NULL DEFAULT 'PURFLUX',
+          filter_type TEXT NOT NULL CHECK (filter_type IN ('oil', 'air', 'diesel', 'cabin')),
+          reference TEXT NOT NULL,
+          full_reference TEXT,
+          full_name TEXT NOT NULL,
+          ean TEXT UNIQUE NOT NULL,
+          internal_sku TEXT UNIQUE NOT NULL,
+          category TEXT NOT NULL,
+          is_active BOOLEAN DEFAULT true,
+          slug TEXT UNIQUE NOT NULL,
+          img TEXT,
+          brandImg TEXT,
+          created_at TEXT,
+          updated_at TEXT
+        );
+      `);
+
+      db.run(`
+        CREATE TABLE filter_compatibilities (
+          id INTEGER PRIMARY KEY,
+          brand_id INTEGER,
+          model_id INTEGER,
+          brand_name TEXT,
+          model_name TEXT,
+          vehicle_variant TEXT,
+          engine_code TEXT,
+          power TEXT,
+          production_start TEXT,
+          production_end TEXT,
+          filters TEXT,
+          metadata TEXT,
+          created_at TEXT,
+          updated_at TEXT,
+          FOREIGN KEY (brand_id) REFERENCES brands(id),
+          FOREIGN KEY (model_id) REFERENCES models(id)
+        );
+      `);
+
+      db.run(`
+        CREATE INDEX IF NOT EXISTS idx_filter_compat_brand_model 
+        ON filter_compatibilities(brand_id, model_id);
+      `);
+
+      db.run(`
+        CREATE INDEX IF NOT EXISTS idx_filter_compat_variant 
+        ON filter_compatibilities(vehicle_variant);
+      `);
+
+      db.run(`
+        CREATE INDEX IF NOT EXISTS idx_filter_products_ref 
+        ON filter_products(reference);
+      `);
+
+      db.run(`
+        CREATE INDEX IF NOT EXISTS idx_filter_products_type 
+        ON filter_products(filter_type);
+      `);
       
       db.run(`
         CREATE TABLE db_version (
@@ -328,6 +419,11 @@ async function insertData(db, syncData) {
     console.log(`📋 Loaded ${brandsLookup.size} brands for lookup`);
   }
   
+  // NOTE: On conserve les données Strapi originales (JSON) pour que getImageUrl() puisse
+  // extraire le filename et construire le bon chemin vers les images téléchargées.
+  // Les images sont téléchargées par download-images.js avec la convention: {prefix}_{filename}
+  // Exemple: light_904600_OSRAM_P21_W.jpg
+
   return new Promise((resolve, reject) => {
     db.serialize(() => {
       const stmt = db.prepare(`
@@ -347,11 +443,14 @@ async function insertData(db, syncData) {
           'lightData': 'light_data',
           'wipersData': 'wipers_data',
           'wiperData': 'wipers_data',
+          'wipersProducts': 'wipers_products',
           'vehicles': 'vehicles',
           'compatibilities': 'compatibilities',
           'specificQuestions': 'questions',
           'lightsPositions': 'positions',
-          'motorisations': 'motorisations'
+          'motorisations': 'motorisations',
+          'filterProducts': 'filter_products',
+          'filterCompatibilities': 'filter_compatibilities'
         };
         
         // Insert data for each table
@@ -388,7 +487,8 @@ async function insertData(db, syncData) {
               'name': 'name',
               'slug': 'slug',
               'icon': 'icon',
-              'isActive': 'active'
+              'isActive': 'active',
+              'order': 'order'
             },
             'brands': {
               'id': 'id',
@@ -420,9 +520,14 @@ async function insertData(db, syncData) {
             'light_data': {
               'id': 'id',
               'ref': 'ref',
+              'brand': 'brand',
+              'category': 'category',
               'description': 'description',
+              'EAN': 'EAN',
+              'refGTI': 'refGTI',
               'brandImg': 'brandImg',
               'img': 'img',
+              'isActive': 'isActive',
               'specifications': 'specifications',
               'createdAt': 'created_at',
               'updatedAt': 'updated_at'
@@ -480,12 +585,66 @@ async function insertData(db, syncData) {
               'createdAt': 'created_at',
               'updatedAt': 'updated_at'
             },
+            'wipers_products': {
+              'id': 'id',
+              'name': 'name',
+              'slug': 'slug',
+              'brand.name': 'brand',
+              'brand.slug': 'brand_slug',
+              'model.name': 'model_name',
+              'model.slug': 'model_slug',
+              'wipersPositions': 'wipers_positions',
+              'ref': 'ref',
+              'description': 'description',
+              'constructionYearStart': 'construction_year_start',
+              'constructionYearEnd': 'construction_year_end',
+              'direction': 'direction',
+              'wiperBrand': 'wiper_brand',
+              'source': 'source',
+              'category': 'category',
+              'isActive': 'is_active',
+              'createdAt': 'created_at',
+              'updatedAt': 'updated_at'
+            },
             'positions': {
               'id': 'id',
               'name': 'name',
               'slug': 'slug',
               'icon': 'icon',
               'vehicleType': 'vehicle_type',
+              'createdAt': 'created_at',
+              'updatedAt': 'updated_at'
+            },
+            'filter_products': {
+              'id': 'id',
+              'brand': 'brand',
+              'filterType': 'filter_type',
+              'reference': 'reference',
+              'fullReference': 'full_reference',
+              'fullName': 'full_name',
+              'ean': 'ean',
+              'internalSKU': 'internal_sku',
+              'category': 'category',
+              'isActive': 'is_active',
+              'slug': 'slug',
+              'img': 'img',
+              'brandImg': 'brandImg',
+              'createdAt': 'created_at',
+              'updatedAt': 'updated_at'
+            },
+            'filter_compatibilities': {
+              'id': 'id',
+              'brand.id': 'brand_id',
+              'model.id': 'model_id',
+              'brand.name': 'brand_name',
+              'model.name': 'model_name',
+              'vehicleVariant': 'vehicle_variant',
+              'engineCode': 'engine_code',
+              'power': 'power',
+              'productionStart': 'production_start',
+              'productionEnd': 'production_end',
+              'filters': 'filters',
+              'metadata': 'metadata',
               'createdAt': 'created_at',
               'updatedAt': 'updated_at'
             }
@@ -583,6 +742,39 @@ async function insertData(db, syncData) {
               }
             }
             
+            // Handle filter_compatibilities brand/model relations (similar to models)
+            if (sqliteTableName === 'filter_compatibilities') {
+              // Handle brand relation
+              if (record.brand) {
+                if (typeof record.brand === 'object' && record.brand.id) {
+                  // Brand is populated, extract id and name
+                  if (!record.brand_id) record.brand_id = record.brand.id;
+                  if (!record.brand_name) record.brand_name = record.brand.name;
+                } else if (typeof record.brand === 'number') {
+                  // Brand is just an ID
+                  record.brand_id = record.brand;
+                  const brandData = brandsLookup.get(record.brand);
+                  if (brandData) {
+                    record.brand_name = brandData.name;
+                  }
+                }
+              }
+              
+              // Handle model relation (we need models lookup - for now, try to get from record)
+              if (record.model) {
+                if (typeof record.model === 'object' && record.model.id) {
+                  // Model is populated, extract id and name
+                  if (!record.model_id) record.model_id = record.model.id;
+                  if (!record.model_name) record.model_name = record.model.name;
+                } else if (typeof record.model === 'number') {
+                  // Model is just an ID
+                  record.model_id = record.model;
+                  // Note: We don't have a models lookup here, so model_name might be null
+                  // It should be populated by the API
+                }
+              }
+            }
+            
             const values = strapiColumns.map(strapiCol => {
               // Handle nested properties like 'brand.slug'
               let value;
@@ -601,7 +793,8 @@ async function insertData(db, syncData) {
                 value = record[strapiCol];
               }
               
-              // Convert objects to JSON strings
+              // Convert objects to JSON strings (incluant img, brandImg, filters, metadata)
+              // getImageUrl() dans environment.ts sait extraire le filename du JSON Strapi
               if (typeof value === 'object' && value !== null) {
                 return JSON.stringify(value);
               }
