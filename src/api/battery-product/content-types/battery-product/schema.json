@@ -65,14 +65,12 @@
     "brand": {
       "type": "relation",
       "relation": "manyToOne",
-      "target": "api::brand.brand",
-      "inversedBy": "battery_products"
+      "target": "api::brand.brand"
     },
     "model": {
       "type": "relation",
       "relation": "manyToOne",
-      "target": "api::model.model",
-      "inversedBy": "battery_products"
+      "target": "api::model.model"
     }
   }
 }
