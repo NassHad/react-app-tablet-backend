@@ -58,6 +58,7 @@ async function createTables(db) {
       slug TEXT UNIQUE,
       description TEXT,
       image_url TEXT,
+      order INTEGER,
       created_at TEXT,
       updated_at TEXT
     );
@@ -416,7 +417,7 @@ async function insertTableData(db, tableName, records) {
   
   // Filtrer les colonnes pour ne garder que celles qui existent dans la table SQLite
   const validColumns = {
-    categories: ['id', 'name', 'slug', 'description', 'image_url', 'created_at', 'updated_at'],
+    categories: ['id', 'name', 'slug', 'description', 'image_url', 'order', 'created_at', 'updated_at'],
     products: ['id', 'name', 'slug', 'description', 'price', 'image_url', 'category_id', 'created_at', 'updated_at'],
     vehicle_types: ['id', 'name', 'slug', 'created_at', 'updated_at'],
     brands: ['id', 'name', 'slug', 'logo_url', 'created_at', 'updated_at'],

@@ -55,14 +55,17 @@ async function getSyncData() {
       lightsPositions,
       lightsPositionData,
       lightData,
+      wipersProducts,
       wipersData,
+      filterProducts,
+      filterCompatibilities,
       compatibilities,
       specificQuestions,
       motorisations
     ] = await Promise.all([
       strapi.entityService.findMany('api::category.category', {
         populate: '*',
-        sort: 'id:asc'
+        sort: 'order:asc'
       }).catch(() => []),
       strapi.entityService.findMany('api::product.product', {
         populate: '*',
@@ -127,12 +130,41 @@ async function getSyncData() {
         },
         sort: 'ref:asc'
       }).catch(() => []),
+      strapi.entityService.findMany('api::wipers-product.wipers-product', {
+        populate: {
+          brand: {
+            fields: ['id', 'name', 'slug']
+          },
+          model: {
+            fields: ['id', 'name', 'slug']
+          }
+        },
+        sort: 'name:asc'
+      }).catch(() => []),
       strapi.entityService.findMany('api::wiper-data.wiper-data', {
         populate: {
           img: true,
           brandImg: true
         },
         sort: 'id:asc'
+      }).catch(() => []),
+      strapi.entityService.findMany('api::filter-product.filter-product', {
+        populate: {
+          img: true,
+          brandImg: true
+        },
+        sort: 'reference:asc'
+      }).catch(() => []),
+      strapi.entityService.findMany('api::filter-compatibility.filter-compatibility', {
+        populate: {
+          brand: {
+            fields: ['id', 'name', 'slug']
+          },
+          model: {
+            fields: ['id', 'name', 'slug']
+          }
+        },
+        sort: 'vehicleModel:asc'
       }).catch(() => []),
       strapi.entityService.findMany('api::compatibility.compatibility', {
         populate: '*',
@@ -228,7 +260,10 @@ async function getSyncData() {
       lightsPositions,
       lightsPositionData,
       lightData,
+      wipersProducts,
       wipersData,
+      filterProducts,
+      filterCompatibilities,
       compatibilities,
       specificQuestions,
       motorisations

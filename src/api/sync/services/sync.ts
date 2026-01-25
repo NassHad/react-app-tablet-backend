@@ -25,13 +25,14 @@ export default ({ strapi }) => ({
         lightData,
         wipersProducts,
         wipersPositions,
+        wipersData,
         compatibilities,
         specificQuestions,
         motorisations
       ] = await Promise.all([
         strapi.entityService.findMany('api::category.category', {
           populate: '*',
-          sort: 'id:asc'
+          sort: 'order:asc'
         }),
         strapi.entityService.findMany('api::product.product', {
           populate: '*',
@@ -93,6 +94,13 @@ export default ({ strapi }) => ({
           populate: '*',
           sort: 'id:asc'
         }),
+        strapi.entityService.findMany('api::wiper-data.wiper-data', {
+          populate: {
+            img: true,
+            brandImg: true
+          },
+          sort: 'id:asc'
+        }),
         strapi.entityService.findMany('api::compatibility.compatibility', {
           populate: '*',
           sort: 'id:asc'
@@ -124,6 +132,7 @@ export default ({ strapi }) => ({
         lightData,
         wipersProducts,
         wipersPositions,
+        wipersData,
         compatibilities,
         specificQuestions,
         motorisations
@@ -147,6 +156,7 @@ export default ({ strapi }) => ({
           slug TEXT UNIQUE,
           description TEXT,
           image_url TEXT,
+          order INTEGER,
           created_at TEXT,
           updated_at TEXT
         );
@@ -298,13 +308,17 @@ export default ({ strapi }) => ({
         -- Light Data
         CREATE TABLE IF NOT EXISTS light_data (
           id INTEGER PRIMARY KEY,
-          vehicle_id INTEGER,
-          lights_product_id INTEGER,
-          compatibility_notes TEXT,
+          ref TEXT,
+          brand TEXT,
+          category TEXT,
+          description TEXT,
+          EAN INTEGER,
+          refGTI INTEGER,
+          img_url TEXT,
+          brandImg_url TEXT,
+          is_active BOOLEAN DEFAULT true,
           created_at TEXT,
-          updated_at TEXT,
-          FOREIGN KEY (vehicle_id) REFERENCES vehicles(id),
-          FOREIGN KEY (lights_product_id) REFERENCES lights_products(id)
+          updated_at TEXT
         );
 
         -- Wipers Products
@@ -346,6 +360,65 @@ export default ({ strapi }) => ({
           created_at TEXT,
           updated_at TEXT
         );
+
+        -- Wipers Data
+        CREATE TABLE IF NOT EXISTS wipers_data (
+          id INTEGER PRIMARY KEY,
+          ref TEXT NOT NULL UNIQUE,
+          category TEXT,
+          brand TEXT,
+          size TEXT,
+          description TEXT,
+          is_active BOOLEAN DEFAULT true,
+          img_url TEXT,
+          brandImg_url TEXT,
+          gtiCode INTEGER,
+          genCode INTEGER,
+          created_at TEXT,
+          updated_at TEXT
+        );
+
+        -- Filter Products
+        CREATE TABLE IF NOT EXISTS filter_products (
+          id INTEGER PRIMARY KEY,
+          brand TEXT NOT NULL DEFAULT 'PURFLUX',
+          filter_type TEXT NOT NULL CHECK (filter_type IN ('oil', 'air', 'diesel', 'cabin')),
+          reference TEXT NOT NULL,
+          full_reference TEXT,
+          full_name TEXT NOT NULL,
+          ean TEXT UNIQUE NOT NULL,
+          internal_sku TEXT UNIQUE NOT NULL,
+          category TEXT NOT NULL,
+          is_active BOOLEAN DEFAULT true,
+          slug TEXT UNIQUE NOT NULL,
+          img_url TEXT,
+          brandImg_url TEXT,
+          created_at TEXT,
+          updated_at TEXT
+        );
+
+        -- Filter Compatibilities
+        CREATE TABLE IF NOT EXISTS filter_compatibilities (
+          id INTEGER PRIMARY KEY,
+          brand_id INTEGER,
+          model_id INTEGER,
+          vehicle_model TEXT NOT NULL,
+          vehicle_variant TEXT,
+          engine_code TEXT NOT NULL,
+          power TEXT,
+          production_start TEXT,
+          production_end TEXT,
+          filters TEXT NOT NULL,
+          metadata TEXT,
+          created_at TEXT,
+          updated_at TEXT,
+          FOREIGN KEY (brand_id) REFERENCES brands(id),
+          FOREIGN KEY (model_id) REFERENCES models(id)
+        );
+
+        -- Indexes for filter compatibilities
+        CREATE INDEX IF NOT EXISTS idx_filter_compat_brand_model ON filter_compatibilities(brand_id, model_id);
+        CREATE INDEX IF NOT EXISTS idx_filter_compat_variant ON filter_compatibilities(vehicle_variant);
 
         -- Compatibilities
         CREATE TABLE IF NOT EXISTS compatibilities (
@@ -416,11 +489,19 @@ export default ({ strapi }) => ({
       return `'${new Date(date).toISOString()}'`;
     };
 
+    // Helper function pour extraire l'URL d'un objet Media Strapi
+    const getMediaUrl = (media: any) => {
+      if (!media) return null;
+      if (typeof media === 'string') return media;
+      // Priorité: formats.small > url > formats.thumbnail
+      return media.formats?.small?.url || media.url || media.formats?.thumbnail?.url || null;
+    };
+
     // Insert categories
     if (data.categories) {
-      sql += 'INSERT OR REPLACE INTO categories (id, name, slug, description, image_url, created_at, updated_at) VALUES\n';
+      sql += 'INSERT OR REPLACE INTO categories (id, name, slug, description, image_url, order, created_at, updated_at) VALUES\n';
       const categoryValues = data.categories.map((cat: any) => 
-        `(${cat.id}, ${escapeString(cat.name)}, ${escapeString(cat.slug)}, ${escapeString(cat.description)}, ${escapeString(cat.image_url)}, ${formatDate(cat.createdAt)}, ${formatDate(cat.updatedAt)})`
+        `(${cat.id}, ${escapeString(cat.name)}, ${escapeString(cat.slug)}, ${escapeString(cat.description)}, ${escapeString(cat.image_url)}, ${cat.order !== null && cat.order !== undefined ? cat.order : 'NULL'}, ${formatDate(cat.createdAt)}, ${formatDate(cat.updatedAt)})`
       ).join(',\n');
       sql += categoryValues + ';\n\n';
     }
@@ -535,11 +616,52 @@ export default ({ strapi }) => ({
 
     // Insert light data
     if (data.lightData) {
-      sql += 'INSERT OR REPLACE INTO light_data (id, vehicle_id, lights_product_id, compatibility_notes, created_at, updated_at) VALUES\n';
-      const lightDataValues = data.lightData.map((ld: any) => 
-        `(${ld.id}, ${ld.vehicle?.id || 'NULL'}, ${ld.lights_product?.id || 'NULL'}, ${escapeString(ld.compatibility_notes)}, ${formatDate(ld.createdAt)}, ${formatDate(ld.updatedAt)})`
-      ).join(',\n');
+      sql += 'INSERT OR REPLACE INTO light_data (id, ref, brand, category, description, EAN, refGTI, img_url, brandImg_url, is_active, created_at, updated_at) VALUES\n';
+      const lightDataValues = data.lightData.map((ld: any) => {
+        const imgUrl = getMediaUrl(ld.img);
+        const brandImgUrl = getMediaUrl(ld.brandImg);
+        // Convertir biginteger en INTEGER (ou null si undefined)
+        const ean = ld.EAN ? parseInt(String(ld.EAN)) : 'NULL';
+        const refGTI = ld.refGTI ? parseInt(String(ld.refGTI)) : 'NULL';
+        return `(${ld.id}, ${escapeString(ld.ref)}, ${escapeString(ld.brand)}, ${escapeString(ld.category)}, ${escapeString(ld.description)}, ${ean}, ${refGTI}, ${escapeString(imgUrl)}, ${escapeString(brandImgUrl)}, ${ld.isActive !== false ? 1 : 0}, ${formatDate(ld.createdAt)}, ${formatDate(ld.updatedAt)})`;
+      }).join(',\n');
       sql += lightDataValues + ';\n\n';
+    }
+
+    // Insert wipers data
+    if (data.wipersData) {
+      sql += 'INSERT OR REPLACE INTO wipers_data (id, ref, category, brand, size, description, is_active, img_url, brandImg_url, gtiCode, genCode, created_at, updated_at) VALUES\n';
+      const wipersDataValues = data.wipersData.map((wd: any) => {
+        const imgUrl = getMediaUrl(wd.img);
+        const brandImgUrl = getMediaUrl(wd.brandImg);
+        // Convertir biginteger en INTEGER (ou null si undefined)
+        const gtiCode = wd.gtiCode ? parseInt(String(wd.gtiCode)) : 'NULL';
+        const genCode = wd.genCode ? parseInt(String(wd.genCode)) : 'NULL';
+        return `(${wd.id}, ${escapeString(wd.ref)}, ${escapeString(wd.category)}, ${escapeString(wd.brand)}, ${escapeString(wd.size)}, ${escapeString(wd.description)}, ${wd.isActive !== false ? 1 : 0}, ${escapeString(imgUrl)}, ${escapeString(brandImgUrl)}, ${gtiCode}, ${genCode}, ${formatDate(wd.createdAt)}, ${formatDate(wd.updatedAt)})`;
+      }).join(',\n');
+      sql += wipersDataValues + ';\n\n';
+    }
+
+    // Insert filter products
+    if (data.filterProducts) {
+      sql += 'INSERT OR REPLACE INTO filter_products (id, brand, filter_type, reference, full_reference, full_name, ean, internal_sku, category, is_active, slug, img_url, brandImg_url, created_at, updated_at) VALUES\n';
+      const filterProductValues = data.filterProducts.map((fp: any) => {
+        const imgUrl = getMediaUrl(fp.img);
+        const brandImgUrl = getMediaUrl(fp.brandImg);
+        return `(${fp.id}, ${escapeString(fp.brand || 'PURFLUX')}, ${escapeString(fp.filterType)}, ${escapeString(fp.reference)}, ${escapeString(fp.fullReference || null)}, ${escapeString(fp.fullName)}, ${escapeString(fp.ean)}, ${escapeString(fp.internalSKU)}, ${escapeString(fp.category)}, ${fp.isActive !== false ? 1 : 0}, ${escapeString(fp.slug)}, ${escapeString(imgUrl)}, ${escapeString(brandImgUrl)}, ${formatDate(fp.createdAt)}, ${formatDate(fp.updatedAt)})`;
+      }).join(',\n');
+      sql += filterProductValues + ';\n\n';
+    }
+
+    // Insert filter compatibilities
+    if (data.filterCompatibilities) {
+      sql += 'INSERT OR REPLACE INTO filter_compatibilities (id, brand_id, model_id, vehicle_model, vehicle_variant, engine_code, power, production_start, production_end, filters, metadata, created_at, updated_at) VALUES\n';
+      const filterCompatValues = data.filterCompatibilities.map((fc: any) => {
+        const filtersJson = JSON.stringify(fc.filters || {});
+        const metadataJson = fc.metadata ? JSON.stringify(fc.metadata) : null;
+        return `(${fc.id}, ${fc.brand?.id || 'NULL'}, ${fc.model?.id || 'NULL'}, ${escapeString(fc.vehicleModel)}, ${escapeString(fc.vehicleVariant || null)}, ${escapeString(fc.engineCode)}, ${escapeString(fc.power || null)}, ${escapeString(fc.productionStart || null)}, ${escapeString(fc.productionEnd || null)}, ${escapeString(filtersJson)}, ${metadataJson ? escapeString(metadataJson) : 'NULL'}, ${formatDate(fc.createdAt)}, ${formatDate(fc.updatedAt)})`;
+      }).join(',\n');
+      sql += filterCompatValues + ';\n\n';
     }
 
     // Insert compatibilities

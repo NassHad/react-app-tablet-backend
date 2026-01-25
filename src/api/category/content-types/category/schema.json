@@ -28,6 +28,9 @@
       "relation": "oneToOne",
       "target": "api::product.product",
       "mappedBy": "category"
+    },
+    "order": {
+      "type": "integer"
     }
   }
 }
