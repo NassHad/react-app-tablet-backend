@@ -85,6 +85,32 @@ function delay(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
+// Helper function to deduplicate wiper positions
+// Keeps the first occurrence based on ref+position+brand (or position+brand+size+description if no ref)
+function deduplicatePositions(positions) {
+  const seen = new Set();
+  return positions.filter(pos => {
+    const ref = (pos.ref || '').toString().trim().toLowerCase();
+    const position = (pos.position || '').toString().trim().toLowerCase();
+    const brand = (pos.brand || '').toString().trim().toLowerCase();
+
+    let key;
+    if (ref) {
+      key = `${ref}|${position}|${brand}`;
+    } else {
+      const size = (pos.size || '').toString().trim().toLowerCase();
+      const description = (pos.description || '').toString().trim().toLowerCase();
+      key = `${position}|${brand}|${size}|${description}`;
+    }
+
+    if (seen.has(key)) {
+      return false;
+    }
+    seen.add(key);
+    return true;
+  });
+}
+
 // Helper function to make API calls to Strapi
 async function strapiRequest(endpoint, method = 'GET', data = null) {
   const url = `${STRAPI_URL}/api${endpoint}`;
@@ -555,7 +581,13 @@ async function importImdicarWipersPositions() {
               // Strapi v5 uses documentId, not id
               const productId = product.documentId || product.id;
               const currentPositions = product.attributes?.wipersPositions || product.wipersPositions || [];
-              const updatedPositions = [...currentPositions, ...newPositions];
+              const mergedPositions = [...currentPositions, ...newPositions];
+              const updatedPositions = deduplicatePositions(mergedPositions);
+
+              const duplicatesRemoved = mergedPositions.length - updatedPositions.length;
+              if (duplicatesRemoved > 0) {
+                console.log(`   Removed ${duplicatesRemoved} duplicate position(s) for product ${productId}`);
+              }
               
               // strapiRequest already wraps data in { data: ... }, so pass the fields directly
               await strapiRequest(`/wipers-products/${productId}`, 'PUT', {

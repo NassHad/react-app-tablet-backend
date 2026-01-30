@@ -1,3 +1,31 @@
+/**
+ * Deduplicate wiper positions based on ref+position+brand (or position+brand+size+description if no ref).
+ * Keeps the first occurrence and removes subsequent duplicates.
+ */
+function deduplicatePositions(positions: any[]): any[] {
+  const seen = new Set<string>();
+  return positions.filter((pos: any) => {
+    const ref = (pos.ref || '').toString().trim().toLowerCase();
+    const position = (pos.position || pos.name || '').toString().trim().toLowerCase();
+    const brand = (pos.brand || '').toString().trim().toLowerCase();
+
+    let key: string;
+    if (ref) {
+      key = `${ref}|${position}|${brand}`;
+    } else {
+      const size = (pos.size || '').toString().trim().toLowerCase();
+      const description = (pos.description || '').toString().trim().toLowerCase();
+      key = `${position}|${brand}|${size}|${description}`;
+    }
+
+    if (seen.has(key)) {
+      return false;
+    }
+    seen.add(key);
+    return true;
+  });
+}
+
 export default {
   async getBrandsAndModelsByCategory(ctx: any) {
     try {
@@ -209,7 +237,7 @@ export default {
 
       // Extract positions from the wipersPositions JSON field
       const product = wipersProduct[0];
-      const positions = (product as any).wipersPositions || [];
+      const positions = deduplicatePositions((product as any).wipersPositions || []);
 
       // Transform positions to match expected format
       const formattedPositions = positions.map((pos: any, index: number) => ({
@@ -263,13 +291,13 @@ export default {
 
       // Find products that have the requested position
       const matchingProducts = wipersProducts.filter((product: any) => {
-        const positions = (product as any).wipersPositions || [];
+        const positions = deduplicatePositions((product as any).wipersPositions || []);
         return positions.length > positionIndex;
       });
 
       // Transform to match the expected format
       const wiperData = matchingProducts.map((product: any) => {
-        const positions = (product as any).wipersPositions || [];
+        const positions = deduplicatePositions((product as any).wipersPositions || []);
         const position = positions[positionIndex];
         
         return {
@@ -504,7 +532,7 @@ export default {
 
       // Extract positions from the wipersPositions JSON field
       const product = wipersProduct[0];
-      const positions = (product as any).wipersPositions || [];
+      const positions = deduplicatePositions((product as any).wipersPositions || []);
 
       // Transform positions to match expected format
       const formattedPositions = positions.map((pos: any, index: number) => ({
@@ -548,7 +576,7 @@ export default {
   // New endpoint: Get products by brand, model, and optional position slugs
   async getProductsBySlugs(ctx: any) {
     try {
-      const { brandSlug, modelSlug, positionSlug } = ctx.query;
+      const { brandSlug, modelSlug, positionSlug, direction, wiperBrand } = ctx.query;
 
       if (!brandSlug || !modelSlug) {
         return ctx.badRequest('Brand slug and model slug are required');
@@ -607,7 +635,7 @@ export default {
       let filteredProducts = wipersProducts;
       if (positionSlug) {
         filteredProducts = wipersProducts.filter((product: any) => {
-          const positions = (product as any).wipersPositions || [];
+          const positions = deduplicatePositions((product as any).wipersPositions || []);
           return positions.some((pos: any) => {
             const positionName = pos.position.toLowerCase();
             const normalizedSlug = positionSlug.toLowerCase();
@@ -626,6 +654,36 @@ export default {
             const mappedTerms = positionMapping[normalizedSlug] || [];
             return mappedTerms.some(term => positionName.includes(term.toLowerCase()));
           });
+        });
+      }
+
+      // Filter by direction if specified (e.g., "LHD", "RHD")
+      if (direction) {
+        const normalizedDirection = direction.toUpperCase();
+        filteredProducts = filteredProducts.filter((product: any) => {
+          const productDirection = (product.direction || '').toUpperCase();
+          // Match exact direction or "LHD/RHD" (which covers both)
+          return productDirection === normalizedDirection || productDirection === 'LHD/RHD';
+        });
+      }
+
+      // Filter by wiper brand if specified (e.g., "Valeo", "IMDICAR")
+      if (wiperBrand) {
+        const normalizedWiperBrand = wiperBrand.toLowerCase();
+        filteredProducts = filteredProducts.filter((product: any) => {
+          // Check product-level wiperBrand field
+          if (product.wiperBrand && product.wiperBrand.toLowerCase() === normalizedWiperBrand) {
+            return true;
+          }
+          // Check source field for brand identification
+          if (product.source && product.source.toLowerCase().includes(normalizedWiperBrand)) {
+            return true;
+          }
+          // Check positions-level brand field
+          const positions = deduplicatePositions((product as any).wipersPositions || []);
+          return positions.some((pos: any) =>
+            pos.brand && pos.brand.toLowerCase() === normalizedWiperBrand
+          );
         });
       }
 
@@ -683,7 +741,7 @@ export default {
 
       // Transform products to match expected format
       const formattedProducts = filteredProducts.map((product: any) => {
-        const positions = (product as any).wipersPositions || [];
+        const positions = deduplicatePositions((product as any).wipersPositions || []);
         
         // If positionSlug is specified, filter positions to only include matching ones
         let filteredPositions = positions;
@@ -834,7 +892,7 @@ export default {
 
       // Filter products that have the requested position
       const filteredProducts = wipersProducts.filter((product: any) => {
-        const positions = (product as any).wipersPositions || [];
+        const positions = deduplicatePositions((product as any).wipersPositions || []);
         return positions.some((pos: any) => {
           // Map position categories to our 3 main categories
           const positionMapping = {
@@ -853,7 +911,7 @@ export default {
 
       // Transform products to include all matching positions
       const formattedProducts = filteredProducts.map((product: any) => {
-        const positions = (product as any).wipersPositions || [];
+        const positions = deduplicatePositions((product as any).wipersPositions || []);
         
         // Find all matching position data
         const selectedPositions = positions.filter((pos: any) => {
