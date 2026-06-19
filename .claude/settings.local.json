@@ -25,7 +25,8 @@
       "Bash(python3 scripts/wipers/parse_valeo_janv2026.py)",
       "Bash(node scripts/import-wipers-imdicar-v2.js --dry-run)",
       "Bash(node scripts/import-wipers-imdicar-avril2026.js --dry-run)",
-      "Bash(node -e ' *)"
+      "Bash(node -e ' *)",
+      "Bash(ls /mnt/workdisk/Workspace/projets-code/ | grep tablet)"
     ],
     "deny": [],
     "ask": []
