@@ -85,7 +85,7 @@ async function getSyncData() {
         status: 'published',
         populate: {
           brand: {
-            fields: ['id', 'name', 'slug', 'vehicle_type', 'isActive']
+            fields: ['id', 'name', 'slug', 'isActive']
           }
         },
         sort: 'name:asc'
@@ -216,7 +216,6 @@ async function getSyncData() {
           id: brandData.id,
           name: brandData.name,
           slug: brandData.slug,
-          vehicle_type: brandData.vehicle_type,
           isActive: brandData.isActive
         };
         return model;
@@ -234,7 +233,6 @@ async function getSyncData() {
               id: inferredBrand.id,
               name: inferredBrand.name,
               slug: inferredBrand.slug,
-              vehicle_type: inferredBrand.vehicle_type,
               isActive: inferredBrand.isActive
             };
             return model;

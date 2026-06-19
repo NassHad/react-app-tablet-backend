@@ -565,7 +565,8 @@ export interface ApiBatteryProductBatteryProduct
   attributes: {
     batteryBrand: Schema.Attribute.String &
       Schema.Attribute.DefaultTo<'Fulmen Endurance'>;
-    brand: Schema.Attribute.String & Schema.Attribute.Required;
+    brand: Schema.Attribute.Relation<'manyToOne', 'api::brand.brand'>;
+    brandName: Schema.Attribute.String & Schema.Attribute.Required;
     brandSlug: Schema.Attribute.String & Schema.Attribute.Required;
     category: Schema.Attribute.String & Schema.Attribute.DefaultTo<'battery'>;
     createdAt: Schema.Attribute.DateTime;
@@ -579,6 +580,7 @@ export interface ApiBatteryProductBatteryProduct
       'api::battery-product.battery-product'
     > &
       Schema.Attribute.Private;
+    model: Schema.Attribute.Relation<'manyToOne', 'api::model.model'>;
     modelName: Schema.Attribute.String & Schema.Attribute.Required;
     modelSlug: Schema.Attribute.String & Schema.Attribute.Required;
     motorisations: Schema.Attribute.JSON;
@@ -602,6 +604,10 @@ export interface ApiBrandBrand extends Struct.CollectionTypeSchema {
     draftAndPublish: true;
   };
   attributes: {
+    battery_products: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::battery-product.battery-product'
+    >;
     createdAt: Schema.Attribute.DateTime;
     createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
@@ -616,8 +622,6 @@ export interface ApiBrandBrand extends Struct.CollectionTypeSchema {
     updatedAt: Schema.Attribute.DateTime;
     updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
-    vehicle_type: Schema.Attribute.Enumeration<['car', 'moto', 'car-moto']> &
-      Schema.Attribute.DefaultTo<'car'>;
   };
 }
 
@@ -939,6 +943,10 @@ export interface ApiModelModel extends Struct.CollectionTypeSchema {
     draftAndPublish: true;
   };
   attributes: {
+    battery_products: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::battery-product.battery-product'
+    >;
     brand: Schema.Attribute.Relation<'manyToOne', 'api::brand.brand'>;
     createdAt: Schema.Attribute.DateTime;
     createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
@@ -953,8 +961,6 @@ export interface ApiModelModel extends Struct.CollectionTypeSchema {
     updatedAt: Schema.Attribute.DateTime;
     updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
-    vehicle_type: Schema.Attribute.Enumeration<['car', 'moto']> &
-      Schema.Attribute.DefaultTo<'car'>;
   };
 }
 
