@@ -28,6 +28,7 @@ export default {
       }
 
       // Query battery products
+      // Note: Using publicationState: 'preview' to include unpublished entries
       const batteryProducts = await strapi.entityService.findMany('api::battery-product.battery-product', {
         filters: {
           brandSlug: brandSlug,
@@ -36,7 +37,8 @@ export default {
         },
         populate: {
           img: true
-        }
+        },
+        publicationState: 'preview'
       });
 
       // Filter by motorisation if provided
@@ -103,12 +105,14 @@ export default {
 
       const model = models[0];
 
-      // Query lights products directly by brand and model
+      // Query lights products directly by model (model already has brand relationship)
+      // Note: Using publicationState: 'preview' to include unpublished entries
       const lightsProducts = await strapi.entityService.findMany('api::lights-product.lights-product', {
         filters: {
-          brand: { id: brand.id },
-          model: { id: model.id },
-          isActive: true
+          isActive: true,
+          model: {
+            id: model.id
+          }
         },
         populate: {
           brand: true,
@@ -116,9 +120,9 @@ export default {
             populate: {
               brand: true
             }
-          },
-          img: true
-        }
+          }
+        },
+        publicationState: 'preview'
       });
 
       console.log('📦 Lights products:', {
@@ -183,16 +187,19 @@ export default {
       const model = models[0];
 
       // Query wipers products
+      // Note: Using publicationState: 'preview' to include unpublished entries
       const wipersProducts = await strapi.entityService.findMany('api::wipers-product.wipers-product', {
         filters: {
-          brand: { id: brand.id },
-          model: { id: model.id },
-          isActive: true
+          isActive: true,
+          model: {
+            id: model.id
+          }
         },
         populate: {
           brand: true,
           model: true
-        }
+        },
+        publicationState: 'preview'
       });
 
       console.log('📦 Wipers products:', {
