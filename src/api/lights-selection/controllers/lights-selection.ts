@@ -547,7 +547,7 @@ export default {
   // New endpoint: Get products by brand, model, and optional position slugs
   async getProductsBySlugs(ctx: any) {
     try {
-      const { brandSlug, modelSlug, positionSlug } = ctx.query;
+      const { brandSlug, modelSlug, positionSlug, typeConception, source } = ctx.query;
 
       if (!brandSlug || !modelSlug) {
         return ctx.badRequest('Brand slug and model slug are required');
@@ -602,14 +602,34 @@ export default {
         });
       }
 
+      const normalizeSlug = (s: string) =>
+        s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/\s+/g, '-');
+
       // Filter by position if specified
       let filteredProducts = lightsProducts;
       if (positionSlug) {
         filteredProducts = lightsProducts.filter((product: any) => {
           const positions = (product as any).lightPositions || [];
-          return positions.some((pos: any) => 
-            pos.position.toLowerCase().replace(/\s+/g, '-') === positionSlug
+          return positions.some((pos: any) =>
+            normalizeSlug(pos.position) === normalizeSlug(positionSlug)
           );
+        });
+      }
+
+      // Filter by typeConception if specified (e.g., "Halogene", "LED", "Xenon")
+      if (typeConception) {
+        const normalizedType = typeConception.toLowerCase();
+        filteredProducts = filteredProducts.filter((product: any) => {
+          const productType = (product.typeConception || '').toLowerCase();
+          return productType === normalizedType;
+        });
+      }
+
+      // Filter by source if specified (e.g., "Osram", "Philips")
+      if (source) {
+        const normalizedSource = source.toLowerCase();
+        filteredProducts = filteredProducts.filter((product: any) => {
+          return product.source && product.source.toLowerCase().includes(normalizedSource);
         });
       }
 
@@ -627,7 +647,7 @@ export default {
           lightPositions: positions.map((pos: any, index: number) => ({
             id: `pos-${index}`,
             name: pos.position,
-            slug: pos.position.toLowerCase().replace(/\s+/g, '-'),
+            slug: normalizeSlug(pos.position),
             isActive: true,
             ref: pos.ref,
             category: pos.category
