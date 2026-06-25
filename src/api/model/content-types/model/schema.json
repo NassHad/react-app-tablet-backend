@@ -27,6 +27,9 @@
     "isActive": {
       "type": "boolean"
     },
+    "display_name": {
+      "type": "string"
+    },
     "battery_products": {
       "type": "relation",
       "relation": "oneToMany",
