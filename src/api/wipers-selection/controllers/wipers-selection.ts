@@ -783,6 +783,8 @@ export default {
               description: pos.description,
               category: pos.category,
               brand: pos.brand || product.wiperBrand || 'Valeo',
+              validFrom: pos.validFrom ?? null,
+              validTo: pos.validTo ?? null,
               // Include WiperData information
               wiperData: matchingWiperData ? {
                 id: matchingWiperData.id,
