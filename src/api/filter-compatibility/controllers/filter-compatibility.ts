@@ -182,8 +182,8 @@ export default factories.createCoreController('api::filter-compatibility.filter-
         'api::filter-compatibility.filter-compatibility',
         {
           filters: {
-            brand: { name: { $eq: brand as string } },
-            model: { name: { $eq: model as string } },
+            brand: { name: { $eqi: brand as string } },
+            model: { name: { $eqi: model as string } },
             ...(variant && { vehicleVariant: { $containsi: variant as string } })
           },
           populate: {

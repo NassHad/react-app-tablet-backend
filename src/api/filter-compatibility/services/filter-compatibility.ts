@@ -28,10 +28,10 @@ export default factories.createCoreService('api::filter-compatibility.filter-com
     const compatibilities = await strapi.entityService.findMany('api::filter-compatibility.filter-compatibility', {
       filters: {
         brand: {
-          name: { $eq: brandName }
+          name: { $eqi: brandName }
         },
         model: {
-          name: { $eq: modelName }
+          name: { $eqi: modelName }
         }
       },
       populate: ['brand', 'model'],
@@ -47,7 +47,9 @@ export default factories.createCoreService('api::filter-compatibility.filter-com
           fullName: compat.vehicleModel,
           engineCode: compat.engineCode,
           power: compat.power,
-          id: compat.id
+          id: compat.id,
+          productionStart: compat.productionStart,
+          productionEnd: compat.productionEnd
         });
       }
     });
@@ -187,8 +189,28 @@ export default factories.createCoreService('api::filter-compatibility.filter-com
       },
       limit: 100
     });
-    
-    return startsWithMatches || [];
+
+    if (startsWithMatches && startsWithMatches.length > 0) {
+      return startsWithMatches;
+    }
+
+    // Step 3: Reverse fuzzy match - cleanedRef starts with the product's (shorter)
+    // reference, e.g. compatibility ref "AH245-2" should still match product "AH245".
+    const allProducts = await strapi.entityService.findMany('api::filter-product.filter-product', {
+      filters: {
+        filterType: filterType as any,
+        isActive: true
+      },
+      populate: {
+        img: true,
+        brandImg: true
+      },
+      limit: 1000
+    });
+
+    return (allProducts || []).filter((product: any) =>
+      product.reference && cleanedRef.startsWith(product.reference)
+    );
   },
 
   /**
