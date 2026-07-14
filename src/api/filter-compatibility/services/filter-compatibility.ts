@@ -38,11 +38,19 @@ export default factories.createCoreService('api::filter-compatibility.filter-com
       sort: ['vehicleVariant:asc']
     });
 
-    // Return unique variants with their details
+    // Return every distinct real record -- do NOT dedupe by vehicleVariant
+    // text alone. Two rows can legitimately share the same display text but
+    // be different real motorisations (different engineCode, sometimes with
+    // different filter refs); deduping on text here would silently drop the
+    // second one from the dropdown entirely. Dedupe by id instead (each row
+    // is already a distinct record, so this is effectively a passthrough) --
+    // the frontend disambiguates presentation (power/date/engine label) via
+    // withDisambiguatedLabels() in filtersService.ts, uniformly for both the
+    // SQLite and this REST path.
     const variantsMap = new Map();
     compatibilities.forEach((compat: any) => {
-      if (!variantsMap.has(compat.vehicleVariant)) {
-        variantsMap.set(compat.vehicleVariant, {
+      if (!variantsMap.has(compat.id)) {
+        variantsMap.set(compat.id, {
           variant: compat.vehicleVariant,
           fullName: compat.vehicleModel,
           engineCode: compat.engineCode,
