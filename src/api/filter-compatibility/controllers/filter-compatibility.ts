@@ -168,7 +168,7 @@ export default factories.createCoreController('api::filter-compatibility.filter-
    */
   async findProducts(ctx) {
     try {
-      const { brand, model, variant, filterType, dateCirculation } = ctx.query;
+      const { brand, model, variant, engineCode, filterType, dateCirculation } = ctx.query;
 
       // Validate parameters
       if (!brand || !model || !filterType) {
@@ -184,7 +184,12 @@ export default factories.createCoreController('api::filter-compatibility.filter-
           filters: {
             brand: { name: { $eqi: brand as string } },
             model: { name: { $eqi: model as string } },
-            ...(variant && { vehicleVariant: { $containsi: variant as string } })
+            ...(variant && { vehicleVariant: { $containsi: variant as string } }),
+            // Same vehicleVariant text can legitimately cover several distinct
+            // real motorisations (different engine_code, sometimes with
+            // different filter refs) -- narrow to the exact engine when known,
+            // otherwise every matching row's filters get unioned together below.
+            ...(engineCode && { engineCode: { $eq: engineCode as string } })
           },
           populate: {
             brand: true,
@@ -199,7 +204,7 @@ export default factories.createCoreController('api::filter-compatibility.filter-
           meta: {
             found: false,
             total: 0,
-            filters: { brand, model, variant, filterType, dateCirculation }
+            filters: { brand, model, variant, engineCode, filterType, dateCirculation }
           }
         };
       }
@@ -219,7 +224,7 @@ export default factories.createCoreController('api::filter-compatibility.filter-
           meta: {
             found: false,
             total: 0,
-            filters: { brand, model, variant, filterType, dateCirculation },
+            filters: { brand, model, variant, engineCode, filterType, dateCirculation },
             availability: {
               availableReferences: [],
               unavailableReferences: [],
@@ -276,7 +281,7 @@ export default factories.createCoreController('api::filter-compatibility.filter-
         meta: {
           total: products.length,
           found: products.length > 0,
-          filters: { brand, model, variant, filterType, dateCirculation },
+          filters: { brand, model, variant, engineCode, filterType, dateCirculation },
           availability: {
             availableReferences,
             unavailableReferences,
