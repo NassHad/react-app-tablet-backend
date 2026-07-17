@@ -25,7 +25,7 @@ export default factories.createCoreService('api::filter-compatibility.filter-com
    * Optimized for dropdown population
    */
   async getVehicleVariants(brandName: string, modelName: string) {
-    const compatibilities = await strapi.entityService.findMany('api::filter-compatibility.filter-compatibility', {
+    let compatibilities = await strapi.entityService.findMany('api::filter-compatibility.filter-compatibility', {
       filters: {
         brand: {
           name: { $eqi: brandName }
@@ -37,6 +37,27 @@ export default factories.createCoreService('api::filter-compatibility.filter-com
       populate: ['brand', 'model'],
       sort: ['vehicleVariant:asc']
     });
+
+    // filter-compatibility.model relations are often generation-qualified
+    // ("BERLINGO II", "BERLINGO II (B9)") while the vehicle can be selected
+    // via a generic model ("Berlingo") that never $eqi-matches any of them,
+    // even though real, correctly dated compatibility rows exist. Mirrors
+    // the same fallback already added to the SQLite path (database.ts's
+    // getFilterVariants()) for this exact bug (Citroën Berlingo).
+    if (compatibilities.length === 0) {
+      compatibilities = await strapi.entityService.findMany('api::filter-compatibility.filter-compatibility', {
+        filters: {
+          brand: {
+            name: { $eqi: brandName }
+          },
+          model: {
+            name: { $containsi: modelName }
+          }
+        },
+        populate: ['brand', 'model'],
+        sort: ['vehicleVariant:asc']
+      });
+    }
 
     // Return every distinct real record -- do NOT dedupe by vehicleVariant
     // text alone. Two rows can legitimately share the same display text but
