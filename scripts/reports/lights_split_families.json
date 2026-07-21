@@ -1,0 +1,7026 @@
+{
+  "generatedAt": "2026-07-18T05:21:15.466Z",
+  "description": "Nameplates whose lights data is already deliberately split across multiple generation/body-style model slugs sharing one display name (e.g. Nissan Juke -> juke-f15/juke-f16). The OSRAM CSV importer (react-app-tablet/scripts/ parse_osram_csv_to_json.cjs -> merge_light_positions.cjs -> add_slugs_to_bulbs.cjs) strips chassis/generation codes and only ever produces the single generic slug, so it cannot safely route rows to the correct sibling slug for these families. import_osram_lights_additive.cjs skips all of them entirely (additive-only, never touches this set) pending a real reconciliation -- no single heuristic covers all of them, confirmed empirically 2026-07-18.",
+  "familyCount": 313,
+  "families": [
+    {
+      "brandSlug": "alfa-romeo",
+      "brandName": "ALFA ROMEO",
+      "displayName": "4C / 4C Spider",
+      "members": [
+        {
+          "slug": "4c-spider",
+          "name": "4C SPIDER"
+        },
+        {
+          "slug": "4c",
+          "name": "4C"
+        }
+      ]
+    },
+    {
+      "brandSlug": "alfa-romeo",
+      "brandName": "ALFA ROMEO",
+      "displayName": "Alfa 156",
+      "members": [
+        {
+          "slug": "156-sportwagon",
+          "name": "156 Sportwagon"
+        },
+        {
+          "slug": "156",
+          "name": "156"
+        }
+      ]
+    },
+    {
+      "brandSlug": "alfa-romeo",
+      "brandName": "ALFA ROMEO",
+      "displayName": "Alfa 159",
+      "members": [
+        {
+          "slug": "159-sportwagon",
+          "name": "159 Sportwagon"
+        },
+        {
+          "slug": "159",
+          "name": "159"
+        }
+      ]
+    },
+    {
+      "brandSlug": "alfa-romeo",
+      "brandName": "ALFA ROMEO",
+      "displayName": "Giulietta",
+      "members": [
+        {
+          "slug": "giulietta",
+          "name": "GIULIETTA"
+        },
+        {
+          "slug": "giulietta-hatchback-van",
+          "name": "GIULIETTA Hatchback Van"
+        }
+      ]
+    },
+    {
+      "brandSlug": "audi",
+      "brandName": "AUDI",
+      "displayName": "100",
+      "members": [
+        {
+          "slug": "100-c3-saloon",
+          "name": "100 C3 Saloon"
+        },
+        {
+          "slug": "100-c4-saloon",
+          "name": "100 C4 Saloon"
+        },
+        {
+          "slug": "100-c3-avant",
+          "name": "100 C3 Avant"
+        },
+        {
+          "slug": "100-avant",
+          "name": "100 Avant"
+        }
+      ]
+    },
+    {
+      "brandSlug": "audi",
+      "brandName": "AUDI",
+      "displayName": "80",
+      "members": [
+        {
+          "slug": "80-b4-avant",
+          "name": "80 B4 Avant"
+        },
+        {
+          "slug": "80",
+          "name": "80"
+        },
+        {
+          "slug": "80-b2-saloon",
+          "name": "80 B2 Saloon"
+        },
+        {
+          "slug": "80-b3-saloon",
+          "name": "80 B3 Saloon"
+        }
+      ]
+    },
+    {
+      "brandSlug": "audi",
+      "brandName": "AUDI",
+      "displayName": "A1",
+      "members": [
+        {
+          "slug": "a1-city-carver",
+          "name": "A1 City Carver"
+        },
+        {
+          "slug": "a1-sportback",
+          "name": "A1 Sportback"
+        },
+        {
+          "slug": "a1",
+          "name": "A1"
+        }
+      ]
+    },
+    {
+      "brandSlug": "audi",
+      "brandName": "AUDI",
+      "displayName": "A3",
+      "members": [
+        {
+          "slug": "a3-convertible",
+          "name": "A3 Convertible"
+        },
+        {
+          "slug": "a3-limousine",
+          "name": "A3 Limousine"
+        },
+        {
+          "slug": "a3-sportback",
+          "name": "A3 Sportback"
+        },
+        {
+          "slug": "a3",
+          "name": "A3"
+        }
+      ]
+    },
+    {
+      "brandSlug": "audi",
+      "brandName": "AUDI",
+      "displayName": "A4",
+      "members": [
+        {
+          "slug": "a4-b5",
+          "name": "A4 B5"
+        },
+        {
+          "slug": "a4-b6",
+          "name": "A4 B6"
+        },
+        {
+          "slug": "a4-b9",
+          "name": "A4 B9"
+        },
+        {
+          "slug": "a4-allroad",
+          "name": "A4 Allroad"
+        },
+        {
+          "slug": "a4-allroad-b9",
+          "name": "A4 Allroad B9"
+        },
+        {
+          "slug": "a4-b5-avant",
+          "name": "A4 B5 Avant"
+        },
+        {
+          "slug": "a4-b6-avant",
+          "name": "A4 B6 Avant"
+        },
+        {
+          "slug": "a4-avant",
+          "name": "A4 Avant"
+        },
+        {
+          "slug": "a4-b9-avant",
+          "name": "A4 B9 Avant"
+        },
+        {
+          "slug": "a4-b6-convertible",
+          "name": "A4 B6 Convertible"
+        },
+        {
+          "slug": "a4-b7-convertible",
+          "name": "A4 B7 Convertible"
+        },
+        {
+          "slug": "a4",
+          "name": "A4"
+        }
+      ]
+    },
+    {
+      "brandSlug": "audi",
+      "brandName": "AUDI",
+      "displayName": "A6",
+      "members": [
+        {
+          "slug": "a6-c4",
+          "name": "A6 C4"
+        },
+        {
+          "slug": "a6-c5",
+          "name": "A6 C5"
+        },
+        {
+          "slug": "a6-c6",
+          "name": "A6 C6"
+        },
+        {
+          "slug": "a6-c7",
+          "name": "A6 C7"
+        },
+        {
+          "slug": "a6-allroad-c6",
+          "name": "A6 Allroad C6"
+        },
+        {
+          "slug": "a6-allroad-c7",
+          "name": "A6 Allroad C7"
+        },
+        {
+          "slug": "a6-allroad-c8",
+          "name": "A6 Allroad C8"
+        },
+        {
+          "slug": "a6-c4-avant",
+          "name": "A6 C4 Avant"
+        },
+        {
+          "slug": "a6-c5-avant",
+          "name": "A6 C5 Avant"
+        },
+        {
+          "slug": "a6-avant-c6",
+          "name": "A6 Avant C6"
+        },
+        {
+          "slug": "a6-c7-avant",
+          "name": "A6 C7 Avant"
+        },
+        {
+          "slug": "a6-c8",
+          "name": "A6 C8"
+        },
+        {
+          "slug": "a6-c8-avant",
+          "name": "A6 C8 Avant"
+        }
+      ]
+    },
+    {
+      "brandSlug": "audi",
+      "brandName": "AUDI",
+      "displayName": "A8",
+      "members": [
+        {
+          "slug": "a8-d2",
+          "name": "A8 D2"
+        },
+        {
+          "slug": "a8",
+          "name": "A8"
+        },
+        {
+          "slug": "a8-d4",
+          "name": "A8 D4"
+        },
+        {
+          "slug": "a8-d5",
+          "name": "A8 D5"
+        }
+      ]
+    },
+    {
+      "brandSlug": "audi",
+      "brandName": "AUDI",
+      "displayName": "Q3",
+      "members": [
+        {
+          "slug": "q3-sportback",
+          "name": "Q3 Sportback"
+        },
+        {
+          "slug": "q3",
+          "name": "Q3"
+        }
+      ]
+    },
+    {
+      "brandSlug": "audi",
+      "brandName": "AUDI",
+      "displayName": "Q5",
+      "members": [
+        {
+          "slug": "q5-sportback",
+          "name": "Q5 Sportback"
+        },
+        {
+          "slug": "q5",
+          "name": "Q5"
+        }
+      ]
+    },
+    {
+      "brandSlug": "audi",
+      "brandName": "AUDI",
+      "displayName": "Q7",
+      "members": [
+        {
+          "slug": "q7-van",
+          "name": "Q7 Van"
+        },
+        {
+          "slug": "q7",
+          "name": "Q7"
+        }
+      ]
+    },
+    {
+      "brandSlug": "audi",
+      "brandName": "AUDI",
+      "displayName": "R8",
+      "members": [
+        {
+          "slug": "r8-spyder",
+          "name": "R8 Spyder"
+        },
+        {
+          "slug": "r8",
+          "name": "R8"
+        }
+      ]
+    },
+    {
+      "brandSlug": "audi",
+      "brandName": "AUDI",
+      "displayName": "TT",
+      "members": [
+        {
+          "slug": "tt-roadster",
+          "name": "TT Roadster"
+        },
+        {
+          "slug": "tt",
+          "name": "TT"
+        }
+      ]
+    },
+    {
+      "brandSlug": "bmw",
+      "brandName": "BMW",
+      "displayName": "C1",
+      "members": [
+        {
+          "slug": "c1-125-c1-abs",
+          "name": "C1 125 (C1 ABS)"
+        },
+        {
+          "slug": "c1-125-c1",
+          "name": "C1 125 (C1)"
+        },
+        {
+          "slug": "c1-200-c1-abs",
+          "name": "C1 200 (C1 ABS)"
+        },
+        {
+          "slug": "c1-200-c1",
+          "name": "C1 200 (C1)"
+        }
+      ]
+    },
+    {
+      "brandSlug": "bmw",
+      "brandName": "BMW",
+      "displayName": "i8",
+      "members": [
+        {
+          "slug": "i8-roadster",
+          "name": "i8 Roadster"
+        },
+        {
+          "slug": "i8",
+          "name": "i8"
+        }
+      ]
+    },
+    {
+      "brandSlug": "bmw",
+      "brandName": "BMW",
+      "displayName": "Série 1",
+      "members": [
+        {
+          "slug": "1-coupe",
+          "name": "1 Coupe"
+        },
+        {
+          "slug": "1-van",
+          "name": "1 Van"
+        },
+        {
+          "slug": "1",
+          "name": "1"
+        }
+      ]
+    },
+    {
+      "brandSlug": "bmw",
+      "brandName": "BMW",
+      "displayName": "Série 3",
+      "members": [
+        {
+          "slug": "3-coupe",
+          "name": "3 Coupe"
+        },
+        {
+          "slug": "3-touring",
+          "name": "3 Touring"
+        },
+        {
+          "slug": "3-touring-van",
+          "name": "3 Touring Van"
+        },
+        {
+          "slug": "bmw-3",
+          "name": "3"
+        }
+      ]
+    },
+    {
+      "brandSlug": "bmw",
+      "brandName": "BMW",
+      "displayName": "Série 5",
+      "members": [
+        {
+          "slug": "5-touring",
+          "name": "5 Touring"
+        },
+        {
+          "slug": "5-touring-van",
+          "name": "5 Touring Van"
+        },
+        {
+          "slug": "bmw-5",
+          "name": "5"
+        }
+      ]
+    },
+    {
+      "brandSlug": "bmw",
+      "brandName": "BMW",
+      "displayName": "Série 6",
+      "members": [
+        {
+          "slug": "6-coupe",
+          "name": "6 Coupe"
+        },
+        {
+          "slug": "6",
+          "name": "6"
+        }
+      ]
+    },
+    {
+      "brandSlug": "bmw",
+      "brandName": "BMW",
+      "displayName": "X1",
+      "members": [
+        {
+          "slug": "x1-van",
+          "name": "X1 Van"
+        },
+        {
+          "slug": "x1",
+          "name": "X1"
+        }
+      ]
+    },
+    {
+      "brandSlug": "bmw",
+      "brandName": "BMW",
+      "displayName": "X3",
+      "members": [
+        {
+          "slug": "x3-van",
+          "name": "X3 Van"
+        },
+        {
+          "slug": "x3",
+          "name": "X3"
+        }
+      ]
+    },
+    {
+      "brandSlug": "bmw",
+      "brandName": "BMW",
+      "displayName": "Z3",
+      "members": [
+        {
+          "slug": "z3-coupe",
+          "name": "Z3 Coupe"
+        },
+        {
+          "slug": "z3-roadster",
+          "name": "Z3 Roadster"
+        }
+      ]
+    },
+    {
+      "brandSlug": "bmw",
+      "brandName": "BMW",
+      "displayName": "Z4",
+      "members": [
+        {
+          "slug": "z4-coupe",
+          "name": "Z4 Coupe"
+        },
+        {
+          "slug": "z4-roadster",
+          "name": "Z4 Roadster"
+        }
+      ]
+    },
+    {
+      "brandSlug": "chevrolet",
+      "brandName": "CHEVROLET",
+      "displayName": "Aveo",
+      "members": [
+        {
+          "slug": "aveo-kalos-hatchback",
+          "name": "AVEO / KALOS Hatchback"
+        },
+        {
+          "slug": "aveo-kalos-saloon",
+          "name": "AVEO / KALOS Saloon"
+        },
+        {
+          "slug": "aveo-hatchback",
+          "name": "AVEO Hatchback"
+        },
+        {
+          "slug": "aveo-saloon",
+          "name": "AVEO Saloon"
+        },
+        {
+          "slug": "chevrolet-aveo",
+          "name": "Aveo (1)"
+        }
+      ]
+    },
+    {
+      "brandSlug": "chevrolet",
+      "brandName": "CHEVROLET",
+      "displayName": "Camaro",
+      "members": [
+        {
+          "slug": "camaro-convertible",
+          "name": "CAMARO Convertible"
+        },
+        {
+          "slug": "camaro",
+          "name": "CAMARO"
+        }
+      ]
+    },
+    {
+      "brandSlug": "chevrolet",
+      "brandName": "CHEVROLET",
+      "displayName": "Cruze",
+      "members": [
+        {
+          "slug": "cruze",
+          "name": "CRUZE"
+        },
+        {
+          "slug": "cruze-hatchback",
+          "name": "CRUZE Hatchback"
+        },
+        {
+          "slug": "cruze-station-wagon",
+          "name": "CRUZE Station Wagon"
+        }
+      ]
+    },
+    {
+      "brandSlug": "chevrolet",
+      "brandName": "CHEVROLET",
+      "displayName": "Kalos",
+      "members": [
+        {
+          "slug": "chevrolet-kalos",
+          "name": "Kalos"
+        },
+        {
+          "slug": "chevrolet-kalos-saloon",
+          "name": "KALOS Saloon"
+        }
+      ]
+    },
+    {
+      "brandSlug": "chevrolet",
+      "brandName": "CHEVROLET",
+      "displayName": "Nubira",
+      "members": [
+        {
+          "slug": "nubira-estate",
+          "name": "NUBIRA Estate"
+        },
+        {
+          "slug": "chevrolet-nubira-saloon",
+          "name": "NUBIRA Saloon"
+        }
+      ]
+    },
+    {
+      "brandSlug": "chrysler",
+      "brandName": "CHRYSLER",
+      "displayName": "Crossfire",
+      "members": [
+        {
+          "slug": "crossfire",
+          "name": "CROSSFIRE"
+        },
+        {
+          "slug": "crossfire-roadster",
+          "name": "CROSSFIRE Roadster"
+        }
+      ]
+    },
+    {
+      "brandSlug": "chrysler",
+      "brandName": "CHRYSLER",
+      "displayName": "Neon",
+      "members": [
+        {
+          "slug": "chrysler-neon",
+          "name": "Neon"
+        },
+        {
+          "slug": "chrysler-neon-ii",
+          "name": "NEON II"
+        }
+      ]
+    },
+    {
+      "brandSlug": "chrysler",
+      "brandName": "CHRYSLER",
+      "displayName": "PT Cruiser",
+      "members": [
+        {
+          "slug": "pt-cruiser",
+          "name": "PT CRUISER"
+        },
+        {
+          "slug": "pt-cruiser-convertible",
+          "name": "PT CRUISER Convertible"
+        }
+      ]
+    },
+    {
+      "brandSlug": "chrysler",
+      "brandName": "CHRYSLER",
+      "displayName": "Sebring",
+      "members": [
+        {
+          "slug": "sebring",
+          "name": "SEBRING"
+        },
+        {
+          "slug": "sebring-convertible",
+          "name": "SEBRING Convertible"
+        }
+      ]
+    },
+    {
+      "brandSlug": "chrysler",
+      "brandName": "CHRYSLER",
+      "displayName": "Stratus",
+      "members": [
+        {
+          "slug": "stratus",
+          "name": "STRATUS"
+        },
+        {
+          "slug": "stratus-convertible",
+          "name": "STRATUS Convertible"
+        }
+      ]
+    },
+    {
+      "brandSlug": "chrysler",
+      "brandName": "CHRYSLER",
+      "displayName": "Voyager / Grand Voyager",
+      "members": [
+        {
+          "slug": "grand-voyager-v",
+          "name": "GRAND VOYAGER V"
+        },
+        {
+          "slug": "voyager-ii",
+          "name": "VOYAGER II"
+        },
+        {
+          "slug": "voyager-iv",
+          "name": "VOYAGER IV"
+        },
+        {
+          "slug": "chrysler-voyager",
+          "name": "Voyager"
+        }
+      ]
+    },
+    {
+      "brandSlug": "citroen",
+      "brandName": "CITROËN",
+      "displayName": "Berlingo",
+      "members": [
+        {
+          "slug": "berlingo",
+          "name": "BERLINGO"
+        },
+        {
+          "slug": "berlingo-berlingo-first-mpv",
+          "name": "BERLINGO / BERLINGO FIRST MPV"
+        },
+        {
+          "slug": "berlingo-platform-chassis",
+          "name": "BERLINGO Platform/ Chassis"
+        },
+        {
+          "slug": "berlingo-box-body-mpv",
+          "name": "BERLINGO Box Body/MPV"
+        }
+      ]
+    },
+    {
+      "brandSlug": "citroen",
+      "brandName": "CITROËN",
+      "displayName": "BX",
+      "members": [
+        {
+          "slug": "bx-break",
+          "name": "BX Break"
+        },
+        {
+          "slug": "bx",
+          "name": "BX"
+        }
+      ]
+    },
+    {
+      "brandSlug": "citroen",
+      "brandName": "CITROËN",
+      "displayName": "C-Crosser",
+      "members": [
+        {
+          "slug": "c-crosser",
+          "name": "C-CROSSER"
+        },
+        {
+          "slug": "c-crosser-enterprise",
+          "name": "C-CROSSER ENTERPRISE"
+        }
+      ]
+    },
+    {
+      "brandSlug": "citroen",
+      "brandName": "CITROËN",
+      "displayName": "C1",
+      "members": [
+        {
+          "slug": "c1-ii",
+          "name": "C1 II"
+        },
+        {
+          "slug": "c15-box-body-mpv",
+          "name": "C15 Box Body/MPV"
+        },
+        {
+          "slug": "c1",
+          "name": "C1"
+        }
+      ]
+    },
+    {
+      "brandSlug": "citroen",
+      "brandName": "CITROËN",
+      "displayName": "C2",
+      "members": [
+        {
+          "slug": "c2-enterprise",
+          "name": "C2 ENTERPRISE"
+        },
+        {
+          "slug": "c2",
+          "name": "C2"
+        }
+      ]
+    },
+    {
+      "brandSlug": "citroen",
+      "brandName": "CITROËN",
+      "displayName": "C3",
+      "members": [
+        {
+          "slug": "c3-i",
+          "name": "C3 I"
+        },
+        {
+          "slug": "c3-ii",
+          "name": "C3 II"
+        }
+      ]
+    },
+    {
+      "brandSlug": "citroen",
+      "brandName": "CITROËN",
+      "displayName": "C3 Aircross II",
+      "members": [
+        {
+          "slug": "c3-aircross-ii",
+          "name": "C3 AIRCROSS II"
+        },
+        {
+          "slug": "c3-aircross-ii-van",
+          "name": "C3 AIRCROSS II Van"
+        }
+      ]
+    },
+    {
+      "brandSlug": "citroen",
+      "brandName": "CITROËN",
+      "displayName": "C3 III",
+      "members": [
+        {
+          "slug": "c3-iii",
+          "name": "C3 III"
+        },
+        {
+          "slug": "c3-iii-van",
+          "name": "C3 III Van"
+        }
+      ]
+    },
+    {
+      "brandSlug": "citroen",
+      "brandName": "CITROËN",
+      "displayName": "C4 Cactus",
+      "members": [
+        {
+          "slug": "c4-cactus",
+          "name": "C4 CACTUS"
+        },
+        {
+          "slug": "c4-cactus-van",
+          "name": "C4 CACTUS Van"
+        }
+      ]
+    },
+    {
+      "brandSlug": "citroen",
+      "brandName": "CITROËN",
+      "displayName": "C4 Grand Picasso",
+      "members": [
+        {
+          "slug": "c4-grand-picasso-i",
+          "name": "C4 Grand Picasso I"
+        },
+        {
+          "slug": "c4-grand-picasso-ii",
+          "name": "C4 Grand Picasso II"
+        }
+      ]
+    },
+    {
+      "brandSlug": "citroen",
+      "brandName": "CITROËN",
+      "displayName": "C4 I",
+      "members": [
+        {
+          "slug": "c4-coupe",
+          "name": "C4 Coupe"
+        },
+        {
+          "slug": "c4-i",
+          "name": "C4 I"
+        },
+        {
+          "slug": "c4-i-saloon",
+          "name": "C4 I Saloon"
+        }
+      ]
+    },
+    {
+      "brandSlug": "citroen",
+      "brandName": "CITROËN",
+      "displayName": "C4 II",
+      "members": [
+        {
+          "slug": "c4-ii",
+          "name": "C4 II"
+        },
+        {
+          "slug": "c4-ii-saloon",
+          "name": "C4 II Saloon"
+        }
+      ]
+    },
+    {
+      "brandSlug": "citroen",
+      "brandName": "CITROËN",
+      "displayName": "C4 Picasso",
+      "members": [
+        {
+          "slug": "c4-picasso-i-mpv",
+          "name": "C4 Picasso I MPV"
+        },
+        {
+          "slug": "c4-picasso-ii",
+          "name": "C4 Picasso II"
+        },
+        {
+          "slug": "c4-picasso-ii-van",
+          "name": "C4 PICASSO II Van"
+        }
+      ]
+    },
+    {
+      "brandSlug": "citroen",
+      "brandName": "CITROËN",
+      "displayName": "C5",
+      "members": [
+        {
+          "slug": "c5-i",
+          "name": "C5 I"
+        },
+        {
+          "slug": "c5-i-break",
+          "name": "C5 I Break"
+        },
+        {
+          "slug": "c5-ii",
+          "name": "C5 II"
+        },
+        {
+          "slug": "c5-ii-break",
+          "name": "C5 II Break"
+        },
+        {
+          "slug": "c5-iii",
+          "name": "C5 III"
+        },
+        {
+          "slug": "c5-iii-break",
+          "name": "C5 III Break"
+        }
+      ]
+    },
+    {
+      "brandSlug": "citroen",
+      "brandName": "CITROËN",
+      "displayName": "DS 3",
+      "members": [
+        {
+          "slug": "citroen-ds3",
+          "name": "DS3"
+        },
+        {
+          "slug": "ds3-convertible",
+          "name": "DS3 Convertible"
+        }
+      ]
+    },
+    {
+      "brandSlug": "citroen",
+      "brandName": "CITROËN",
+      "displayName": "Jumper",
+      "members": [
+        {
+          "slug": "jumper-van",
+          "name": "JUMPER Van"
+        },
+        {
+          "slug": "jumper-bus",
+          "name": "JUMPER Bus"
+        }
+      ]
+    },
+    {
+      "brandSlug": "citroen",
+      "brandName": "CITROËN",
+      "displayName": "Jumpy",
+      "members": [
+        {
+          "slug": "jumpy",
+          "name": "JUMPY"
+        },
+        {
+          "slug": "jumpy-bus",
+          "name": "JUMPY Bus"
+        },
+        {
+          "slug": "jumpy-van",
+          "name": "JUMPY Van"
+        }
+      ]
+    },
+    {
+      "brandSlug": "citroen",
+      "brandName": "CITROËN",
+      "displayName": "Xantia",
+      "members": [
+        {
+          "slug": "xantia",
+          "name": "XANTIA"
+        },
+        {
+          "slug": "xantia-break",
+          "name": "XANTIA Break"
+        }
+      ]
+    },
+    {
+      "brandSlug": "citroen",
+      "brandName": "CITROËN",
+      "displayName": "XM",
+      "members": [
+        {
+          "slug": "xm-break",
+          "name": "XM Break"
+        },
+        {
+          "slug": "citroen-xm",
+          "name": "XM"
+        }
+      ]
+    },
+    {
+      "brandSlug": "citroen",
+      "brandName": "CITROËN",
+      "displayName": "Xsara",
+      "members": [
+        {
+          "slug": "xsara",
+          "name": "XSARA"
+        },
+        {
+          "slug": "xsara-break",
+          "name": "XSARA Break"
+        },
+        {
+          "slug": "xsara-coupe",
+          "name": "XSARA Coupe"
+        }
+      ]
+    },
+    {
+      "brandSlug": "citroen",
+      "brandName": "CITROËN",
+      "displayName": "ZX",
+      "members": [
+        {
+          "slug": "zx-break",
+          "name": "ZX Break"
+        },
+        {
+          "slug": "zx",
+          "name": "ZX"
+        }
+      ]
+    },
+    {
+      "brandSlug": "dacia",
+      "brandName": "DACIA",
+      "displayName": "Duster",
+      "members": [
+        {
+          "slug": "duster-suv-van",
+          "name": "DUSTER SUV Van"
+        },
+        {
+          "slug": "duster-box",
+          "name": "DUSTER Box"
+        },
+        {
+          "slug": "dacia-duster",
+          "name": "Duster (1)"
+        }
+      ]
+    },
+    {
+      "brandSlug": "dacia",
+      "brandName": "DACIA",
+      "displayName": "Logan",
+      "members": [
+        {
+          "slug": "dacia-logan",
+          "name": "LOGAN"
+        },
+        {
+          "slug": "logan-ii",
+          "name": "LOGAN II"
+        },
+        {
+          "slug": "dacia-logan-mcv",
+          "name": "LOGAN MCV"
+        },
+        {
+          "slug": "logan-mcv-ii",
+          "name": "LOGAN MCV II"
+        },
+        {
+          "slug": "logan-pickup",
+          "name": "LOGAN Pickup"
+        },
+        {
+          "slug": "dacia-logan-express",
+          "name": "LOGAN EXPRESS"
+        }
+      ]
+    },
+    {
+      "brandSlug": "daewoo",
+      "brandName": "DAEWOO",
+      "displayName": "Kalos",
+      "members": [
+        {
+          "slug": "daewoo-kalos",
+          "name": "KALOS"
+        },
+        {
+          "slug": "daewoo-kalos-saloon",
+          "name": "KALOS Saloon"
+        }
+      ]
+    },
+    {
+      "brandSlug": "daewoo",
+      "brandName": "DAEWOO",
+      "displayName": "Korando",
+      "members": [
+        {
+          "slug": "daewoo-korando",
+          "name": "Korando"
+        },
+        {
+          "slug": "daewoo-korando-cabrio",
+          "name": "KORANDO Cabrio"
+        }
+      ]
+    },
+    {
+      "brandSlug": "daewoo",
+      "brandName": "DAEWOO",
+      "displayName": "Lacetti",
+      "members": [
+        {
+          "slug": "lacetti-hatchback",
+          "name": "LACETTI Hatchback"
+        },
+        {
+          "slug": "lacetti-kombi",
+          "name": "LACETTI Kombi"
+        },
+        {
+          "slug": "lacetti-saloon",
+          "name": "LACETTI Saloon"
+        }
+      ]
+    },
+    {
+      "brandSlug": "daewoo",
+      "brandName": "DAEWOO",
+      "displayName": "Lanos",
+      "members": [
+        {
+          "slug": "lanos",
+          "name": "LANOS"
+        },
+        {
+          "slug": "lanos-saloon",
+          "name": "LANOS Saloon"
+        }
+      ]
+    },
+    {
+      "brandSlug": "daewoo",
+      "brandName": "DAEWOO",
+      "displayName": "Nexia",
+      "members": [
+        {
+          "slug": "nexia",
+          "name": "NEXIA"
+        },
+        {
+          "slug": "nexia-saloon",
+          "name": "NEXIA Saloon"
+        }
+      ]
+    },
+    {
+      "brandSlug": "daewoo",
+      "brandName": "DAEWOO",
+      "displayName": "Nubira",
+      "members": [
+        {
+          "slug": "daewoo-nubira",
+          "name": "NUBIRA"
+        },
+        {
+          "slug": "daewoo-nubira-saloon",
+          "name": "NUBIRA Saloon"
+        },
+        {
+          "slug": "nubira-wagon",
+          "name": "NUBIRA Wagon"
+        }
+      ]
+    },
+    {
+      "brandSlug": "daihatsu",
+      "brandName": "DAIHATSU",
+      "displayName": "Applause",
+      "members": [
+        {
+          "slug": "applause-i-hatchback",
+          "name": "APPLAUSE I Hatchback"
+        },
+        {
+          "slug": "applause-ii-hatchback",
+          "name": "APPLAUSE II Hatchback"
+        }
+      ]
+    },
+    {
+      "brandSlug": "daihatsu",
+      "brandName": "DAIHATSU",
+      "displayName": "Charade",
+      "members": [
+        {
+          "slug": "charade-iii",
+          "name": "CHARADE III"
+        },
+        {
+          "slug": "charade-iii-saloon",
+          "name": "CHARADE III Saloon"
+        },
+        {
+          "slug": "charade-iv",
+          "name": "CHARADE IV"
+        },
+        {
+          "slug": "charade-iv-saloon",
+          "name": "CHARADE IV Saloon"
+        }
+      ]
+    },
+    {
+      "brandSlug": "daihatsu",
+      "brandName": "DAIHATSU",
+      "displayName": "Cuore",
+      "members": [
+        {
+          "slug": "cuore-iii",
+          "name": "CUORE III"
+        },
+        {
+          "slug": "cuore-iv",
+          "name": "CUORE IV"
+        },
+        {
+          "slug": "cuore-v",
+          "name": "CUORE V"
+        },
+        {
+          "slug": "cuore-vi",
+          "name": "CUORE VI"
+        },
+        {
+          "slug": "cuore-vii",
+          "name": "CUORE VII"
+        }
+      ]
+    },
+    {
+      "brandSlug": "daihatsu",
+      "brandName": "DAIHATSU",
+      "displayName": "Hijet",
+      "members": [
+        {
+          "slug": "hijet-van",
+          "name": "HIJET Van"
+        },
+        {
+          "slug": "hijet-bus",
+          "name": "HIJET Bus"
+        }
+      ]
+    },
+    {
+      "brandSlug": "daihatsu",
+      "brandName": "DAIHATSU",
+      "displayName": "Rocky",
+      "members": [
+        {
+          "slug": "rocky-hard-top",
+          "name": "ROCKY Hard Top"
+        },
+        {
+          "slug": "rocky-soft-top",
+          "name": "ROCKY Soft Top"
+        }
+      ]
+    },
+    {
+      "brandSlug": "ds",
+      "brandName": "DS",
+      "displayName": "DS 4",
+      "members": [
+        {
+          "slug": "4",
+          "name": "4"
+        },
+        {
+          "slug": "ds-4-ds-4-crossback",
+          "name": "DS 4 / DS 4 CROSSBACK"
+        }
+      ]
+    },
+    {
+      "brandSlug": "fiat",
+      "brandName": "FIAT",
+      "displayName": "Bravo",
+      "members": [
+        {
+          "slug": "fiat-bravo-i",
+          "name": "BRAVO I"
+        },
+        {
+          "slug": "fiat-bravo-ii",
+          "name": "BRAVO II"
+        }
+      ]
+    },
+    {
+      "brandSlug": "fiat",
+      "brandName": "FIAT",
+      "displayName": "Ducato",
+      "members": [
+        {
+          "slug": "ducato-bus",
+          "name": "DUCATO Bus"
+        },
+        {
+          "slug": "ducato-platformchassis",
+          "name": "DUCATO Platform/Chassis"
+        },
+        {
+          "slug": "ducato-platform-chassis",
+          "name": "DUCATO Platform/ Chassis"
+        }
+      ]
+    },
+    {
+      "brandSlug": "fiat",
+      "brandName": "FIAT",
+      "displayName": "Punto",
+      "members": [
+        {
+          "slug": "fiat-punto-evo",
+          "name": "PUNTO EVO"
+        },
+        {
+          "slug": "fiat-grande-punto",
+          "name": "GRANDE PUNTO"
+        },
+        {
+          "slug": "fiat-punto",
+          "name": "PUNTO"
+        }
+      ]
+    },
+    {
+      "brandSlug": "fiat",
+      "brandName": "FIAT",
+      "displayName": "Seicento",
+      "members": [
+        {
+          "slug": "seicento-600-hatchback-van",
+          "name": "SEICENTO / 600 Hatchback Van"
+        },
+        {
+          "slug": "seicento",
+          "name": "Seicento"
+        }
+      ]
+    },
+    {
+      "brandSlug": "ford",
+      "brandName": "FORD",
+      "displayName": "C-Max",
+      "members": [
+        {
+          "slug": "c-max",
+          "name": "C-MAX"
+        },
+        {
+          "slug": "focus-c-max",
+          "name": "FOCUS C-MAX"
+        }
+      ]
+    },
+    {
+      "brandSlug": "ford",
+      "brandName": "FORD",
+      "displayName": "Escort",
+      "members": [
+        {
+          "slug": "ford-escort-iv",
+          "name": "ESCORT IV"
+        },
+        {
+          "slug": "ford-escort-v",
+          "name": "ESCORT V"
+        },
+        {
+          "slug": "ford-escort-vi",
+          "name": "ESCORT VI"
+        }
+      ]
+    },
+    {
+      "brandSlug": "ford",
+      "brandName": "FORD",
+      "displayName": "Fiesta",
+      "members": [
+        {
+          "slug": "ford-fiesta-iii",
+          "name": "FIESTA III"
+        },
+        {
+          "slug": "fiesta-iv",
+          "name": "FIESTA IV"
+        },
+        {
+          "slug": "fiesta-v",
+          "name": "FIESTA V"
+        },
+        {
+          "slug": "fiesta-vi",
+          "name": "FIESTA VI"
+        },
+        {
+          "slug": "fiesta-vii",
+          "name": "FIESTA VII"
+        }
+      ]
+    },
+    {
+      "brandSlug": "ford",
+      "brandName": "FORD",
+      "displayName": "Focus",
+      "members": [
+        {
+          "slug": "ford-focus-i",
+          "name": "FOCUS I"
+        },
+        {
+          "slug": "focus-iii",
+          "name": "FOCUS III"
+        },
+        {
+          "slug": "ford-focus-iv",
+          "name": "FOCUS IV"
+        },
+        {
+          "slug": "focus-ii",
+          "name": "FOCUS II"
+        }
+      ]
+    },
+    {
+      "brandSlug": "ford",
+      "brandName": "FORD",
+      "displayName": "Galaxy",
+      "members": [
+        {
+          "slug": "galaxy-i",
+          "name": "GALAXY I"
+        },
+        {
+          "slug": "galaxy",
+          "name": "GALAXY"
+        }
+      ]
+    },
+    {
+      "brandSlug": "ford",
+      "brandName": "FORD",
+      "displayName": "KA",
+      "members": [
+        {
+          "slug": "ka",
+          "name": "KA"
+        },
+        {
+          "slug": "ka-iii",
+          "name": "KA+ III"
+        },
+        {
+          "slug": "ka-iii-saloon",
+          "name": "KA+ III Saloon"
+        }
+      ]
+    },
+    {
+      "brandSlug": "ford",
+      "brandName": "FORD",
+      "displayName": "Kuga",
+      "members": [
+        {
+          "slug": "ford-kuga-i",
+          "name": "KUGA I"
+        },
+        {
+          "slug": "ford-kuga-ii",
+          "name": "KUGA II"
+        },
+        {
+          "slug": "kuga-i-mondeo",
+          "name": "KUGA I MONDEO"
+        }
+      ]
+    },
+    {
+      "brandSlug": "ford",
+      "brandName": "FORD",
+      "displayName": "Mondeo",
+      "members": [
+        {
+          "slug": "ford-mondeo-i",
+          "name": "MONDEO I"
+        },
+        {
+          "slug": "ford-mondeo-ii",
+          "name": "MONDEO II"
+        },
+        {
+          "slug": "ford-mondeo-iii",
+          "name": "MONDEO III"
+        },
+        {
+          "slug": "mondeo-iv",
+          "name": "MONDEO IV"
+        },
+        {
+          "slug": "mondeo-iii-turnier",
+          "name": "MONDEO III Turnier"
+        }
+      ]
+    },
+    {
+      "brandSlug": "ford",
+      "brandName": "FORD",
+      "displayName": "Transit",
+      "members": [
+        {
+          "slug": "transit-connect",
+          "name": "TRANSIT CONNECT"
+        },
+        {
+          "slug": "transit-connect-v408-box-body-mpv",
+          "name": "TRANSIT CONNECT V408 Box Body/MPV"
+        },
+        {
+          "slug": "transit-courier-b460-box-body-mpv",
+          "name": "TRANSIT COURIER B460 Box Body/MPV"
+        }
+      ]
+    },
+    {
+      "brandSlug": "honda",
+      "brandName": "HONDA",
+      "displayName": "Accord",
+      "members": [
+        {
+          "slug": "accord-iii",
+          "name": "ACCORD III"
+        },
+        {
+          "slug": "accord-iv",
+          "name": "ACCORD IV"
+        },
+        {
+          "slug": "accord-iv-aerodeck",
+          "name": "ACCORD IV Aerodeck"
+        },
+        {
+          "slug": "accord-iv-coupe",
+          "name": "ACCORD IV Coupe"
+        },
+        {
+          "slug": "accord-ix-saloon",
+          "name": "ACCORD IX Saloon"
+        },
+        {
+          "slug": "accord-v",
+          "name": "ACCORD V"
+        },
+        {
+          "slug": "accord-v-aerodeck",
+          "name": "ACCORD V Aerodeck"
+        },
+        {
+          "slug": "accord-v-coupe",
+          "name": "ACCORD V Coupe"
+        },
+        {
+          "slug": "accord-vi",
+          "name": "ACCORD VI"
+        },
+        {
+          "slug": "accord-vi-aerodeck",
+          "name": "ACCORD VI Aerodeck"
+        },
+        {
+          "slug": "accord-vi-coupe",
+          "name": "ACCORD VI Coupe"
+        },
+        {
+          "slug": "accord-vi-hatchback",
+          "name": "ACCORD VI Hatchback"
+        },
+        {
+          "slug": "accord-vii",
+          "name": "ACCORD VII"
+        },
+        {
+          "slug": "accord-vii-tourer",
+          "name": "ACCORD VII Tourer"
+        },
+        {
+          "slug": "accord-viii",
+          "name": "ACCORD VIII"
+        },
+        {
+          "slug": "accord-viii-estate",
+          "name": "ACCORD VIII Estate"
+        },
+        {
+          "slug": "accord-x-saloon",
+          "name": "ACCORD X Saloon"
+        }
+      ]
+    },
+    {
+      "brandSlug": "honda",
+      "brandName": "HONDA",
+      "displayName": "CBX 1000",
+      "members": [
+        {
+          "slug": "cbx-1000-cb1",
+          "name": "CBX 1000 (CB1)"
+        },
+        {
+          "slug": "cbx-1000-sc06",
+          "name": "CBX 1000 (SC06)"
+        }
+      ]
+    },
+    {
+      "brandSlug": "honda",
+      "brandName": "HONDA",
+      "displayName": "Civic",
+      "members": [
+        {
+          "slug": "civic-ix",
+          "name": "CIVIC IX"
+        },
+        {
+          "slug": "civic-ix-saloon",
+          "name": "CIVIC IX Saloon"
+        },
+        {
+          "slug": "civic-ix-tourer",
+          "name": "CIVIC IX Tourer"
+        },
+        {
+          "slug": "civic-v-coupe",
+          "name": "CIVIC V Coupe"
+        },
+        {
+          "slug": "civic-v-hatchback",
+          "name": "CIVIC V Hatchback"
+        },
+        {
+          "slug": "civic-v-saloon",
+          "name": "CIVIC V Saloon"
+        },
+        {
+          "slug": "civic-vi-aerodeck",
+          "name": "CIVIC VI Aerodeck"
+        },
+        {
+          "slug": "civic-vi-coupe",
+          "name": "CIVIC VI Coupe"
+        },
+        {
+          "slug": "civic-vi-fastback",
+          "name": "CIVIC VI Fastback"
+        },
+        {
+          "slug": "civic-vi-hatchback",
+          "name": "CIVIC VI Hatchback"
+        },
+        {
+          "slug": "civic-vi-saloon",
+          "name": "CIVIC VI Saloon"
+        },
+        {
+          "slug": "civic-vii-coupe",
+          "name": "CIVIC VII Coupe"
+        },
+        {
+          "slug": "civic-vii-hatchback",
+          "name": "CIVIC VII Hatchback"
+        },
+        {
+          "slug": "civic-vii-saloon",
+          "name": "CIVIC VII Saloon"
+        },
+        {
+          "slug": "civic-viii-hatchback",
+          "name": "CIVIC VIII Hatchback"
+        },
+        {
+          "slug": "civic-viii-saloon",
+          "name": "CIVIC VIII Saloon"
+        },
+        {
+          "slug": "civic-x-hatchback",
+          "name": "CIVIC X Hatchback"
+        },
+        {
+          "slug": "civic-x-saloon",
+          "name": "CIVIC X Saloon"
+        }
+      ]
+    },
+    {
+      "brandSlug": "honda",
+      "brandName": "HONDA",
+      "displayName": "CR-V",
+      "members": [
+        {
+          "slug": "cr-v-i",
+          "name": "CR-V I"
+        },
+        {
+          "slug": "cr-v-ii",
+          "name": "CR-V II"
+        },
+        {
+          "slug": "cr-v-iii",
+          "name": "CR-V III"
+        },
+        {
+          "slug": "cr-v-iv",
+          "name": "CR-V IV"
+        },
+        {
+          "slug": "cr-v-v",
+          "name": "CR-V V"
+        }
+      ]
+    },
+    {
+      "brandSlug": "honda",
+      "brandName": "HONDA",
+      "displayName": "Integra",
+      "members": [
+        {
+          "slug": "integra-coupe",
+          "name": "INTEGRA Coupe"
+        },
+        {
+          "slug": "nc-750-d-integra-rc89",
+          "name": "NC 750 D Integra (RC89)"
+        }
+      ]
+    },
+    {
+      "brandSlug": "honda",
+      "brandName": "HONDA",
+      "displayName": "Jazz",
+      "members": [
+        {
+          "slug": "jazz-ii",
+          "name": "JAZZ II"
+        },
+        {
+          "slug": "jazz-iii",
+          "name": "JAZZ III"
+        },
+        {
+          "slug": "jazz-iv",
+          "name": "JAZZ IV"
+        },
+        {
+          "slug": "jazz-v",
+          "name": "JAZZ V"
+        }
+      ]
+    },
+    {
+      "brandSlug": "honda",
+      "brandName": "HONDA",
+      "displayName": "Legend",
+      "members": [
+        {
+          "slug": "legend-ii",
+          "name": "LEGEND II"
+        },
+        {
+          "slug": "legend-ii-coupe",
+          "name": "LEGEND II Coupe"
+        },
+        {
+          "slug": "legend-iii",
+          "name": "LEGEND III"
+        },
+        {
+          "slug": "legend-iv",
+          "name": "LEGEND IV"
+        }
+      ]
+    },
+    {
+      "brandSlug": "honda",
+      "brandName": "HONDA",
+      "displayName": "NSX",
+      "members": [
+        {
+          "slug": "nsx-i-convertible",
+          "name": "NSX I Convertible"
+        },
+        {
+          "slug": "nsx-i-coupe",
+          "name": "NSX I Coupe"
+        },
+        {
+          "slug": "nsx-ii-coupe",
+          "name": "NSX II Coupe"
+        }
+      ]
+    },
+    {
+      "brandSlug": "honda",
+      "brandName": "HONDA",
+      "displayName": "Prelude",
+      "members": [
+        {
+          "slug": "prelude-iv",
+          "name": "PRELUDE IV"
+        },
+        {
+          "slug": "prelude-v",
+          "name": "PRELUDE V"
+        }
+      ]
+    },
+    {
+      "brandSlug": "hyundai",
+      "brandName": "HYUNDAI",
+      "displayName": "Accent",
+      "members": [
+        {
+          "slug": "accent-i",
+          "name": "ACCENT I"
+        },
+        {
+          "slug": "accent-ii",
+          "name": "ACCENT II"
+        },
+        {
+          "slug": "accent-ii-saloon",
+          "name": "ACCENT II Saloon"
+        },
+        {
+          "slug": "accent-iii",
+          "name": "ACCENT III"
+        },
+        {
+          "slug": "accent-iii-saloon",
+          "name": "ACCENT III Saloon"
+        },
+        {
+          "slug": "accent-iv",
+          "name": "ACCENT IV"
+        },
+        {
+          "slug": "accent-iv-saloon",
+          "name": "ACCENT IV Saloon"
+        },
+        {
+          "slug": "accent-saloon",
+          "name": "ACCENT Saloon"
+        },
+        {
+          "slug": "accent-v-saloon",
+          "name": "ACCENT V Saloon"
+        }
+      ]
+    },
+    {
+      "brandSlug": "hyundai",
+      "brandName": "HYUNDAI",
+      "displayName": "Atos",
+      "members": [
+        {
+          "slug": "atos",
+          "name": "ATOS"
+        },
+        {
+          "slug": "atos-prime",
+          "name": "ATOS PRIME"
+        }
+      ]
+    },
+    {
+      "brandSlug": "hyundai",
+      "brandName": "HYUNDAI",
+      "displayName": "Coupe",
+      "members": [
+        {
+          "slug": "coupe-ii",
+          "name": "COUPE II"
+        },
+        {
+          "slug": "coupe-i",
+          "name": "COUPE I"
+        },
+        {
+          "slug": "genesis-coupe",
+          "name": "GENESIS Coupe"
+        },
+        {
+          "slug": "i20-ii-coupe",
+          "name": "i20 II Coupe"
+        },
+        {
+          "slug": "i30-coupe",
+          "name": "i30 Coupe"
+        },
+        {
+          "slug": "s-coupe",
+          "name": "S COUPE"
+        }
+      ]
+    },
+    {
+      "brandSlug": "hyundai",
+      "brandName": "HYUNDAI",
+      "displayName": "Elantra",
+      "members": [
+        {
+          "slug": "elantra-iii",
+          "name": "ELANTRA III"
+        },
+        {
+          "slug": "elantra-iv-saloon",
+          "name": "ELANTRA IV Saloon"
+        },
+        {
+          "slug": "elantra-iii-saloon",
+          "name": "ELANTRA III Saloon"
+        }
+      ]
+    },
+    {
+      "brandSlug": "hyundai",
+      "brandName": "HYUNDAI",
+      "displayName": "H100",
+      "members": [
+        {
+          "slug": "h100-van",
+          "name": "H100 Van"
+        },
+        {
+          "slug": "h100-bus",
+          "name": "H100 Bus"
+        }
+      ]
+    },
+    {
+      "brandSlug": "hyundai",
+      "brandName": "HYUNDAI",
+      "displayName": "H350",
+      "members": [
+        {
+          "slug": "h350-van",
+          "name": "H350 Van"
+        },
+        {
+          "slug": "h350-bus",
+          "name": "H350 Bus"
+        },
+        {
+          "slug": "h350-platform-chassis",
+          "name": "H350 Platform/Chassis"
+        }
+      ]
+    },
+    {
+      "brandSlug": "hyundai",
+      "brandName": "HYUNDAI",
+      "displayName": "i10",
+      "members": [
+        {
+          "slug": "i10-ii",
+          "name": "i10 II"
+        },
+        {
+          "slug": "i10",
+          "name": "i10"
+        },
+        {
+          "slug": "i10-iii",
+          "name": "i10 III"
+        }
+      ]
+    },
+    {
+      "brandSlug": "hyundai",
+      "brandName": "HYUNDAI",
+      "displayName": "i20",
+      "members": [
+        {
+          "slug": "i20-ii",
+          "name": "i20 II"
+        },
+        {
+          "slug": "i20",
+          "name": "i20"
+        },
+        {
+          "slug": "i20-active",
+          "name": "i20 ACTIVE"
+        },
+        {
+          "slug": "i20-iii",
+          "name": "i20 III"
+        },
+        {
+          "slug": "i20-ii-hatchback-van",
+          "name": "i20 II Hatchback Van"
+        }
+      ]
+    },
+    {
+      "brandSlug": "hyundai",
+      "brandName": "HYUNDAI",
+      "displayName": "i30",
+      "members": [
+        {
+          "slug": "i30",
+          "name": "i30"
+        },
+        {
+          "slug": "i30-estate",
+          "name": "i30 Estate"
+        },
+        {
+          "slug": "i30-hatchback-van",
+          "name": "i30 Hatchback Van"
+        },
+        {
+          "slug": "i30-kombi-van",
+          "name": "i30 Kombi Van"
+        },
+        {
+          "slug": "i30-fastback",
+          "name": "i30 FASTBACK"
+        }
+      ]
+    },
+    {
+      "brandSlug": "hyundai",
+      "brandName": "HYUNDAI",
+      "displayName": "i40",
+      "members": [
+        {
+          "slug": "i40",
+          "name": "i40"
+        },
+        {
+          "slug": "i40-cw",
+          "name": "i40 CW"
+        }
+      ]
+    },
+    {
+      "brandSlug": "hyundai",
+      "brandName": "HYUNDAI",
+      "displayName": "Kona",
+      "members": [
+        {
+          "slug": "kona",
+          "name": "KONA"
+        },
+        {
+          "slug": "kona-suv-van",
+          "name": "KONA SUV Van"
+        }
+      ]
+    },
+    {
+      "brandSlug": "hyundai",
+      "brandName": "HYUNDAI",
+      "displayName": "Lantra",
+      "members": [
+        {
+          "slug": "lantra-i",
+          "name": "LANTRA I"
+        },
+        {
+          "slug": "lantra-ii",
+          "name": "LANTRA II"
+        },
+        {
+          "slug": "lantra-ii-estate",
+          "name": "LANTRA II Estate"
+        }
+      ]
+    },
+    {
+      "brandSlug": "hyundai",
+      "brandName": "HYUNDAI",
+      "displayName": "Sonata",
+      "members": [
+        {
+          "slug": "sonata-ii",
+          "name": "SONATA II"
+        },
+        {
+          "slug": "sonata-iii",
+          "name": "SONATA III"
+        },
+        {
+          "slug": "sonata-iv",
+          "name": "SONATA IV"
+        },
+        {
+          "slug": "sonata-v",
+          "name": "SONATA V"
+        },
+        {
+          "slug": "sonata-vi",
+          "name": "SONATA VI"
+        },
+        {
+          "slug": "sonata-vii",
+          "name": "SONATA VII"
+        },
+        {
+          "slug": "sonata-viii",
+          "name": "SONATA VIII"
+        }
+      ]
+    },
+    {
+      "brandSlug": "hyundai",
+      "brandName": "HYUNDAI",
+      "displayName": "Staria",
+      "members": [
+        {
+          "slug": "staria-bus",
+          "name": "STARIA Bus"
+        },
+        {
+          "slug": "staria-van",
+          "name": "STARIA Van"
+        }
+      ]
+    },
+    {
+      "brandSlug": "hyundai",
+      "brandName": "HYUNDAI",
+      "displayName": "Tucson",
+      "members": [
+        {
+          "slug": "tucson",
+          "name": "TUCSON"
+        },
+        {
+          "slug": "tucson-suv-van",
+          "name": "TUCSON SUV Van"
+        }
+      ]
+    },
+    {
+      "brandSlug": "isuzu",
+      "brandName": "ISUZU",
+      "displayName": "Trooper",
+      "members": [
+        {
+          "slug": "trooper-ii",
+          "name": "TROOPER II"
+        },
+        {
+          "slug": "trooper-iii",
+          "name": "TROOPER III"
+        },
+        {
+          "slug": "trooper-ii-open-off-road-vehicle",
+          "name": "TROOPER II Open Off-Road Vehicle"
+        },
+        {
+          "slug": "trooper-iii-open-off-road-vehicle",
+          "name": "TROOPER III Open Off-Road Vehicle"
+        }
+      ]
+    },
+    {
+      "brandSlug": "jaguar",
+      "brandName": "JAGUAR",
+      "displayName": "F-Type",
+      "members": [
+        {
+          "slug": "f-type-convertible",
+          "name": "F-TYPE Convertible"
+        },
+        {
+          "slug": "f-type-coupe",
+          "name": "F-TYPE Coupe"
+        }
+      ]
+    },
+    {
+      "brandSlug": "jaguar",
+      "brandName": "JAGUAR",
+      "displayName": "X-Type",
+      "members": [
+        {
+          "slug": "x-type-i",
+          "name": "X-TYPE I"
+        },
+        {
+          "slug": "x-type-i-estate",
+          "name": "X-TYPE I Estate"
+        }
+      ]
+    },
+    {
+      "brandSlug": "jaguar",
+      "brandName": "JAGUAR",
+      "displayName": "XK Series",
+      "members": [
+        {
+          "slug": "xk-8-convertible",
+          "name": "XK 8 Convertible"
+        },
+        {
+          "slug": "xk-8-coupe",
+          "name": "XK 8 Coupe"
+        },
+        {
+          "slug": "xk-ii-convertible",
+          "name": "XK II Convertible"
+        },
+        {
+          "slug": "xk-ii-coupe",
+          "name": "XK II Coupe"
+        }
+      ]
+    },
+    {
+      "brandSlug": "jeep",
+      "brandName": "JEEP",
+      "displayName": "Cherokee",
+      "members": [
+        {
+          "slug": "cherokee",
+          "name": "CHEROKEE"
+        },
+        {
+          "slug": "grand-cherokee-i",
+          "name": "GRAND CHEROKEE I"
+        },
+        {
+          "slug": "grand-cherokee-ii",
+          "name": "GRAND CHEROKEE II"
+        },
+        {
+          "slug": "grand-cherokee-iii",
+          "name": "GRAND CHEROKEE III"
+        },
+        {
+          "slug": "grand-cherokee-iv",
+          "name": "GRAND CHEROKEE IV"
+        }
+      ]
+    },
+    {
+      "brandSlug": "jeep",
+      "brandName": "JEEP",
+      "displayName": "Compass",
+      "members": [
+        {
+          "slug": "compass",
+          "name": "COMPASS"
+        },
+        {
+          "slug": "compass-mk49",
+          "name": "COMPASS (MK49)"
+        }
+      ]
+    },
+    {
+      "brandSlug": "jeep",
+      "brandName": "JEEP",
+      "displayName": "Wrangler",
+      "members": [
+        {
+          "slug": "wrangler-i",
+          "name": "WRANGLER I"
+        },
+        {
+          "slug": "wrangler-ii",
+          "name": "WRANGLER II"
+        },
+        {
+          "slug": "wrangler-iii",
+          "name": "WRANGLER III"
+        },
+        {
+          "slug": "wrangler-iv",
+          "name": "WRANGLER IV"
+        }
+      ]
+    },
+    {
+      "brandSlug": "kia",
+      "brandName": "KIA",
+      "displayName": "Carens",
+      "members": [
+        {
+          "slug": "carens-i",
+          "name": "CARENS I"
+        },
+        {
+          "slug": "carens-ii-mpv",
+          "name": "CARENS II MPV"
+        },
+        {
+          "slug": "carens-iii-mpv",
+          "name": "CARENS III MPV"
+        },
+        {
+          "slug": "carens-iv",
+          "name": "CARENS IV"
+        }
+      ]
+    },
+    {
+      "brandSlug": "kia",
+      "brandName": "KIA",
+      "displayName": "Carnival",
+      "members": [
+        {
+          "slug": "carnival-grand-carnival-iii",
+          "name": "CARNIVAL / GRAND CARNIVAL III"
+        },
+        {
+          "slug": "carnival-i",
+          "name": "CARNIVAL I"
+        },
+        {
+          "slug": "carnival-ii",
+          "name": "CARNIVAL II"
+        },
+        {
+          "slug": "carnival",
+          "name": "Carnival"
+        }
+      ]
+    },
+    {
+      "brandSlug": "kia",
+      "brandName": "KIA",
+      "displayName": "Cee'd",
+      "members": [
+        {
+          "slug": "ceed",
+          "name": "CEE'D"
+        },
+        {
+          "slug": "pro-ceed",
+          "name": "PRO CEE'D"
+        },
+        {
+          "slug": "ceed-sw",
+          "name": "CEE'D SW"
+        }
+      ]
+    },
+    {
+      "brandSlug": "kia",
+      "brandName": "KIA",
+      "displayName": "Cerato",
+      "members": [
+        {
+          "slug": "cerato-i-hatchback",
+          "name": "CERATO I Hatchback"
+        },
+        {
+          "slug": "cerato-iii-saloon",
+          "name": "CERATO III Saloon"
+        },
+        {
+          "slug": "cerato-iv-saloon",
+          "name": "CERATO IV Saloon"
+        },
+        {
+          "slug": "cerato-koup-iii",
+          "name": "CERATO KOUP III"
+        },
+        {
+          "slug": "cerato-i-saloon",
+          "name": "CERATO I Saloon"
+        }
+      ]
+    },
+    {
+      "brandSlug": "kia",
+      "brandName": "KIA",
+      "displayName": "Clarus",
+      "members": [
+        {
+          "slug": "clarus",
+          "name": "CLARUS"
+        },
+        {
+          "slug": "clarus-estate",
+          "name": "CLARUS Estate"
+        }
+      ]
+    },
+    {
+      "brandSlug": "kia",
+      "brandName": "KIA",
+      "displayName": "Magentis",
+      "members": [
+        {
+          "slug": "magentis-i",
+          "name": "MAGENTIS I"
+        },
+        {
+          "slug": "magentis-ii",
+          "name": "MAGENTIS II"
+        }
+      ]
+    },
+    {
+      "brandSlug": "kia",
+      "brandName": "KIA",
+      "displayName": "Optima",
+      "members": [
+        {
+          "slug": "kia-optima",
+          "name": "OPTIMA"
+        },
+        {
+          "slug": "optima-sportswagon",
+          "name": "OPTIMA Sportswagon"
+        }
+      ]
+    },
+    {
+      "brandSlug": "kia",
+      "brandName": "KIA",
+      "displayName": "Picanto",
+      "members": [
+        {
+          "slug": "picanto-iii",
+          "name": "PICANTO III"
+        },
+        {
+          "slug": "picanto-i",
+          "name": "PICANTO I"
+        },
+        {
+          "slug": "picanto-ii",
+          "name": "PICANTO II"
+        }
+      ]
+    },
+    {
+      "brandSlug": "kia",
+      "brandName": "KIA",
+      "displayName": "PROCEED",
+      "members": [
+        {
+          "slug": "proceed",
+          "name": "PROCEED"
+        },
+        {
+          "slug": "proceed-combi-van",
+          "name": "PROCEED Combi Van"
+        }
+      ]
+    },
+    {
+      "brandSlug": "kia",
+      "brandName": "KIA",
+      "displayName": "Rio",
+      "members": [
+        {
+          "slug": "rio-estate",
+          "name": "RIO Estate"
+        },
+        {
+          "slug": "rio-ii",
+          "name": "RIO II"
+        },
+        {
+          "slug": "rio-ii-saloon",
+          "name": "RIO II Saloon"
+        },
+        {
+          "slug": "rio-iii",
+          "name": "RIO III"
+        },
+        {
+          "slug": "rio-iii-hatchback-van",
+          "name": "RIO III Hatchback Van"
+        },
+        {
+          "slug": "rio-iii-saloon",
+          "name": "RIO III Saloon"
+        },
+        {
+          "slug": "rio-iv",
+          "name": "RIO IV"
+        },
+        {
+          "slug": "rio-iv-hatchback-van",
+          "name": "RIO IV Hatchback Van"
+        },
+        {
+          "slug": "rio-iv-saloon",
+          "name": "RIO IV Saloon"
+        },
+        {
+          "slug": "rio-saloon",
+          "name": "RIO Saloon"
+        }
+      ]
+    },
+    {
+      "brandSlug": "kia",
+      "brandName": "KIA",
+      "displayName": "Shuma",
+      "members": [
+        {
+          "slug": "shuma",
+          "name": "SHUMA"
+        },
+        {
+          "slug": "shuma-ii",
+          "name": "SHUMA II"
+        },
+        {
+          "slug": "shuma-ii-saloon",
+          "name": "SHUMA II Saloon"
+        },
+        {
+          "slug": "shuma-saloon",
+          "name": "SHUMA Saloon"
+        }
+      ]
+    },
+    {
+      "brandSlug": "kia",
+      "brandName": "KIA",
+      "displayName": "Sorento",
+      "members": [
+        {
+          "slug": "sorento-i",
+          "name": "SORENTO I"
+        },
+        {
+          "slug": "sorento-ii",
+          "name": "SORENTO II"
+        },
+        {
+          "slug": "sorento-iii",
+          "name": "SORENTO III"
+        },
+        {
+          "slug": "sorento-iv",
+          "name": "SORENTO IV"
+        }
+      ]
+    },
+    {
+      "brandSlug": "kia",
+      "brandName": "KIA",
+      "displayName": "Sportage",
+      "members": [
+        {
+          "slug": "sportage-ii",
+          "name": "SPORTAGE II"
+        },
+        {
+          "slug": "sportage-suv",
+          "name": "SPORTAGE SUV"
+        },
+        {
+          "slug": "sportage-iv",
+          "name": "SPORTAGE IV"
+        },
+        {
+          "slug": "sportage-iii",
+          "name": "SPORTAGE III"
+        },
+        {
+          "slug": "sportage-iv-van",
+          "name": "SPORTAGE IV VAN"
+        },
+        {
+          "slug": "sportage-v",
+          "name": "SPORTAGE V"
+        }
+      ]
+    },
+    {
+      "brandSlug": "kia",
+      "brandName": "KIA",
+      "displayName": "Stinger",
+      "members": [
+        {
+          "slug": "stinger",
+          "name": "STINGER"
+        },
+        {
+          "slug": "stinger-hatchback-van",
+          "name": "STINGER Hatchback Van"
+        }
+      ]
+    },
+    {
+      "brandSlug": "kia",
+      "brandName": "KIA",
+      "displayName": "Stonic",
+      "members": [
+        {
+          "slug": "stonic",
+          "name": "STONIC"
+        },
+        {
+          "slug": "stonic-hatchback-van",
+          "name": "STONIC Hatchback Van"
+        }
+      ]
+    },
+    {
+      "brandSlug": "kia",
+      "brandName": "KIA",
+      "displayName": "Venga",
+      "members": [
+        {
+          "slug": "venga",
+          "name": "VENGA"
+        },
+        {
+          "slug": "venga-hatchback-van",
+          "name": "VENGA Hatchback Van"
+        }
+      ]
+    },
+    {
+      "brandSlug": "lada",
+      "brandName": "LADA",
+      "displayName": "Granta",
+      "members": [
+        {
+          "slug": "granta",
+          "name": "GRANTA"
+        },
+        {
+          "slug": "granta-estate",
+          "name": "GRANTA Estate"
+        },
+        {
+          "slug": "granta-liftback",
+          "name": "GRANTA Liftback"
+        },
+        {
+          "slug": "granta-hatchback",
+          "name": "GRANTA Hatchback"
+        }
+      ]
+    },
+    {
+      "brandSlug": "lada",
+      "brandName": "LADA",
+      "displayName": "Largus (R90)",
+      "members": [
+        {
+          "slug": "largus",
+          "name": "LARGUS"
+        },
+        {
+          "slug": "largus-van",
+          "name": "LARGUS Van"
+        },
+        {
+          "slug": "largus-estate-van",
+          "name": "LARGUS Estate Van"
+        }
+      ]
+    },
+    {
+      "brandSlug": "lada",
+      "brandName": "LADA",
+      "displayName": "Vesta",
+      "members": [
+        {
+          "slug": "vesta",
+          "name": "VESTA"
+        },
+        {
+          "slug": "vesta-sw-estate",
+          "name": "VESTA SW Estate"
+        }
+      ]
+    },
+    {
+      "brandSlug": "lancia",
+      "brandName": "LANCIA",
+      "displayName": "Dedra",
+      "members": [
+        {
+          "slug": "dedra",
+          "name": "DEDRA"
+        },
+        {
+          "slug": "dedra-sw",
+          "name": "DEDRA SW"
+        }
+      ]
+    },
+    {
+      "brandSlug": "lancia",
+      "brandName": "LANCIA",
+      "displayName": "Delta",
+      "members": [
+        {
+          "slug": "delta-ii",
+          "name": "DELTA II"
+        },
+        {
+          "slug": "delta-iii",
+          "name": "DELTA III"
+        }
+      ]
+    },
+    {
+      "brandSlug": "lancia",
+      "brandName": "LANCIA",
+      "displayName": "Kappa",
+      "members": [
+        {
+          "slug": "kappa",
+          "name": "KAPPA"
+        },
+        {
+          "slug": "lancia-kappa-coupe",
+          "name": "KAPPA COUPE"
+        },
+        {
+          "slug": "kappa-sw",
+          "name": "KAPPA SW"
+        }
+      ]
+    },
+    {
+      "brandSlug": "lancia",
+      "brandName": "LANCIA",
+      "displayName": "Lybra",
+      "members": [
+        {
+          "slug": "lybra",
+          "name": "LYBRA"
+        },
+        {
+          "slug": "lybra-sw",
+          "name": "LYBRA SW"
+        }
+      ]
+    },
+    {
+      "brandSlug": "lancia",
+      "brandName": "LANCIA",
+      "displayName": "Thema",
+      "members": [
+        {
+          "slug": "thema",
+          "name": "THEMA"
+        },
+        {
+          "slug": "thema-sw",
+          "name": "THEMA SW"
+        }
+      ]
+    },
+    {
+      "brandSlug": "land-rover",
+      "brandName": "LAND ROVER",
+      "displayName": "Defender",
+      "members": [
+        {
+          "slug": "defender-cabrio",
+          "name": "DEFENDER Cabrio"
+        },
+        {
+          "slug": "defender-pick-up",
+          "name": "DEFENDER Pick Up"
+        },
+        {
+          "slug": "defender-platform-chassis",
+          "name": "DEFENDER Platform/ Chassis"
+        },
+        {
+          "slug": "defender-station-wagon",
+          "name": "DEFENDER Station Wagon"
+        }
+      ]
+    },
+    {
+      "brandSlug": "land-rover",
+      "brandName": "LAND ROVER",
+      "displayName": "Discovery",
+      "members": [
+        {
+          "slug": "discovery-i",
+          "name": "DISCOVERY I"
+        },
+        {
+          "slug": "discovery-ii",
+          "name": "DISCOVERY II"
+        },
+        {
+          "slug": "discovery-iii",
+          "name": "DISCOVERY III"
+        },
+        {
+          "slug": "discovery-iv",
+          "name": "DISCOVERY IV"
+        },
+        {
+          "slug": "discovery-iv-van",
+          "name": "DISCOVERY IV VAN"
+        },
+        {
+          "slug": "discovery-sport",
+          "name": "DISCOVERY SPORT"
+        },
+        {
+          "slug": "discovery-v",
+          "name": "DISCOVERY V"
+        }
+      ]
+    },
+    {
+      "brandSlug": "land-rover",
+      "brandName": "LAND ROVER",
+      "displayName": "Freelander",
+      "members": [
+        {
+          "slug": "freelander-i",
+          "name": "FREELANDER I"
+        },
+        {
+          "slug": "freelander-2",
+          "name": "FREELANDER 2"
+        },
+        {
+          "slug": "freelander-i-soft-top",
+          "name": "FREELANDER I Soft Top"
+        }
+      ]
+    },
+    {
+      "brandSlug": "land-rover",
+      "brandName": "LAND ROVER",
+      "displayName": "Range Rover",
+      "members": [
+        {
+          "slug": "range-rover-i",
+          "name": "RANGE ROVER I"
+        },
+        {
+          "slug": "range-rover-ii",
+          "name": "RANGE ROVER II"
+        },
+        {
+          "slug": "range-rover-iii",
+          "name": "RANGE ROVER III"
+        },
+        {
+          "slug": "range-rover-iv",
+          "name": "RANGE ROVER IV"
+        }
+      ]
+    },
+    {
+      "brandSlug": "man",
+      "brandName": "MAN",
+      "displayName": "TGE",
+      "members": [
+        {
+          "slug": "tge-van",
+          "name": "TGE Van"
+        },
+        {
+          "slug": "tge-platformchassis",
+          "name": "TGE Platform/Chassis"
+        }
+      ]
+    },
+    {
+      "brandSlug": "mazda",
+      "brandName": "MAZDA",
+      "displayName": "121",
+      "members": [
+        {
+          "slug": "121-i",
+          "name": "121 I"
+        },
+        {
+          "slug": "121-ii",
+          "name": "121 II"
+        },
+        {
+          "slug": "121-iii",
+          "name": "121 III"
+        }
+      ]
+    },
+    {
+      "brandSlug": "mazda",
+      "brandName": "MAZDA",
+      "displayName": "323",
+      "members": [
+        {
+          "slug": "323-c-iv",
+          "name": "323 C IV"
+        },
+        {
+          "slug": "323-c-v",
+          "name": "323 C V"
+        },
+        {
+          "slug": "323-f-iv",
+          "name": "323 F IV"
+        },
+        {
+          "slug": "323-f-v",
+          "name": "323 F V"
+        },
+        {
+          "slug": "323-f-vi",
+          "name": "323 F VI"
+        },
+        {
+          "slug": "323-iii-station-wagon",
+          "name": "323 III Station Wagon"
+        },
+        {
+          "slug": "323-p-v",
+          "name": "323 P V"
+        },
+        {
+          "slug": "323-s-iv",
+          "name": "323 S IV"
+        },
+        {
+          "slug": "323-s-v",
+          "name": "323 S V"
+        },
+        {
+          "slug": "323-s-vi",
+          "name": "323 S VI"
+        }
+      ]
+    },
+    {
+      "brandSlug": "mazda",
+      "brandName": "MAZDA",
+      "displayName": "626",
+      "members": [
+        {
+          "slug": "626-iii-hatchback",
+          "name": "626 III Hatchback"
+        },
+        {
+          "slug": "626-iii-station-wagon",
+          "name": "626 III Station Wagon"
+        },
+        {
+          "slug": "626-iv",
+          "name": "626 IV"
+        },
+        {
+          "slug": "626-iv-hatchback",
+          "name": "626 IV Hatchback"
+        },
+        {
+          "slug": "626-v",
+          "name": "626 V"
+        },
+        {
+          "slug": "626-v-hatchback",
+          "name": "626 V Hatchback"
+        },
+        {
+          "slug": "626-v-station-wagon",
+          "name": "626 V Station Wagon"
+        }
+      ]
+    },
+    {
+      "brandSlug": "mazda",
+      "brandName": "MAZDA",
+      "displayName": "BT-50",
+      "members": [
+        {
+          "slug": "bt-50-ii-pickup",
+          "name": "BT-50 II Pickup"
+        },
+        {
+          "slug": "bt-50-pickup",
+          "name": "BT-50 Pickup"
+        },
+        {
+          "slug": "bt-50-platformchassis",
+          "name": "BT-50 Platform/Chassis"
+        }
+      ]
+    },
+    {
+      "brandSlug": "mazda",
+      "brandName": "MAZDA",
+      "displayName": "MAZDA 2",
+      "members": [
+        {
+          "slug": "2-saloon",
+          "name": "2 Saloon"
+        },
+        {
+          "slug": "2",
+          "name": "2"
+        },
+        {
+          "slug": "2-dy",
+          "name": "2 (DY)"
+        }
+      ]
+    },
+    {
+      "brandSlug": "mazda",
+      "brandName": "MAZDA",
+      "displayName": "MAZDA 3",
+      "members": [
+        {
+          "slug": "3-hatchback-van",
+          "name": "3 Hatchback Van"
+        },
+        {
+          "slug": "3-saloon",
+          "name": "3 Saloon"
+        },
+        {
+          "slug": "3",
+          "name": "3"
+        },
+        {
+          "slug": "3-bk",
+          "name": "3 (BK)"
+        },
+        {
+          "slug": "3-bl",
+          "name": "3 (BL)"
+        }
+      ]
+    },
+    {
+      "brandSlug": "mazda",
+      "brandName": "MAZDA",
+      "displayName": "MAZDA 5",
+      "members": [
+        {
+          "slug": "5",
+          "name": "5"
+        },
+        {
+          "slug": "5-cw",
+          "name": "5 (CW)"
+        }
+      ]
+    },
+    {
+      "brandSlug": "mazda",
+      "brandName": "MAZDA",
+      "displayName": "MPV",
+      "members": [
+        {
+          "slug": "mpv-i",
+          "name": "MPV I"
+        },
+        {
+          "slug": "mpv-ii",
+          "name": "MPV II"
+        }
+      ]
+    },
+    {
+      "brandSlug": "mazda",
+      "brandName": "MAZDA",
+      "displayName": "MX-5",
+      "members": [
+        {
+          "slug": "mx-5-i",
+          "name": "MX-5 I"
+        },
+        {
+          "slug": "mx-5-ii",
+          "name": "MX-5 II"
+        },
+        {
+          "slug": "mx-5-iii",
+          "name": "MX-5 III"
+        },
+        {
+          "slug": "mx-5-iv",
+          "name": "MX-5 IV"
+        },
+        {
+          "slug": "mx-5-rf-targa",
+          "name": "MX-5 RF Targa"
+        }
+      ]
+    },
+    {
+      "brandSlug": "mazda",
+      "brandName": "MAZDA",
+      "displayName": "Xedos",
+      "members": [
+        {
+          "slug": "xedos-6",
+          "name": "XEDOS 6"
+        },
+        {
+          "slug": "xedos-9",
+          "name": "XEDOS 9"
+        }
+      ]
+    },
+    {
+      "brandSlug": "mini",
+      "brandName": "MINI",
+      "displayName": "Mini",
+      "members": [
+        {
+          "slug": "mini",
+          "name": "MINI"
+        },
+        {
+          "slug": "mini-countryman",
+          "name": "MINI COUNTRYMAN"
+        },
+        {
+          "slug": "mini-coupe",
+          "name": "MINI Coupe"
+        },
+        {
+          "slug": "mini-mini-convertible",
+          "name": "MINI Convertible"
+        },
+        {
+          "slug": "mini-countryman-r60",
+          "name": "MINI COUNTRYMAN (R60)"
+        }
+      ]
+    },
+    {
+      "brandSlug": "mini",
+      "brandName": "MINI",
+      "displayName": "Mini Clubvan",
+      "members": [
+        {
+          "slug": "mini-clubvan",
+          "name": "MINI CLUBVAN"
+        },
+        {
+          "slug": "mini-clubvan-r55",
+          "name": "MINI CLUBVAN (R55)"
+        }
+      ]
+    },
+    {
+      "brandSlug": "mini",
+      "brandName": "MINI",
+      "displayName": "Mini Paceman",
+      "members": [
+        {
+          "slug": "mini-paceman",
+          "name": "MINI PACEMAN"
+        },
+        {
+          "slug": "mini-paceman-r61",
+          "name": "MINI PACEMAN (R61)"
+        }
+      ]
+    },
+    {
+      "brandSlug": "mitsubishi",
+      "brandName": "MITSUBISHI",
+      "displayName": "ASX",
+      "members": [
+        {
+          "slug": "asx",
+          "name": "ASX"
+        },
+        {
+          "slug": "asx-van",
+          "name": "ASX Van"
+        }
+      ]
+    },
+    {
+      "brandSlug": "mitsubishi",
+      "brandName": "MITSUBISHI",
+      "displayName": "Carisma",
+      "members": [
+        {
+          "slug": "carisma",
+          "name": "CARISMA"
+        },
+        {
+          "slug": "carisma-saloon",
+          "name": "CARISMA Saloon"
+        }
+      ]
+    },
+    {
+      "brandSlug": "mitsubishi",
+      "brandName": "MITSUBISHI",
+      "displayName": "Colt",
+      "members": [
+        {
+          "slug": "colt-czc-vi-convertible",
+          "name": "COLT CZC VI Convertible"
+        },
+        {
+          "slug": "colt-iii",
+          "name": "COLT III"
+        },
+        {
+          "slug": "colt-iv",
+          "name": "COLT IV"
+        },
+        {
+          "slug": "colt-v",
+          "name": "COLT V"
+        },
+        {
+          "slug": "colt-vi",
+          "name": "COLT VI"
+        }
+      ]
+    },
+    {
+      "brandSlug": "mitsubishi",
+      "brandName": "MITSUBISHI",
+      "displayName": "Eclipse",
+      "members": [
+        {
+          "slug": "eclipse-cross",
+          "name": "ECLIPSE CROSS"
+        },
+        {
+          "slug": "eclipse-i",
+          "name": "ECLIPSE I"
+        },
+        {
+          "slug": "eclipse-ii",
+          "name": "ECLIPSE II"
+        }
+      ]
+    },
+    {
+      "brandSlug": "mitsubishi",
+      "brandName": "MITSUBISHI",
+      "displayName": "Galant",
+      "members": [
+        {
+          "slug": "galant-ix-saloon",
+          "name": "GALANT IX Saloon"
+        },
+        {
+          "slug": "galant-viii",
+          "name": "GALANT VIII"
+        },
+        {
+          "slug": "galant-viii-estate",
+          "name": "GALANT VIII Estate"
+        },
+        {
+          "slug": "galant-vii",
+          "name": "GALANT VII"
+        },
+        {
+          "slug": "galant-vii-saloon",
+          "name": "GALANT VII Saloon"
+        }
+      ]
+    },
+    {
+      "brandSlug": "mitsubishi",
+      "brandName": "MITSUBISHI",
+      "displayName": "L200",
+      "members": [
+        {
+          "slug": "l200",
+          "name": "L200"
+        },
+        {
+          "slug": "l200-platformchassis",
+          "name": "L200 Platform/Chassis"
+        },
+        {
+          "slug": "l200-triton",
+          "name": "L200 / TRITON"
+        }
+      ]
+    },
+    {
+      "brandSlug": "mitsubishi",
+      "brandName": "MITSUBISHI",
+      "displayName": "Lancer",
+      "members": [
+        {
+          "slug": "lancer-iv",
+          "name": "LANCER IV"
+        },
+        {
+          "slug": "lancer-iv-hatchback",
+          "name": "LANCER IV Hatchback"
+        },
+        {
+          "slug": "lancer-v-station-wagon",
+          "name": "LANCER V Station Wagon"
+        },
+        {
+          "slug": "lancer-vi",
+          "name": "LANCER VI"
+        },
+        {
+          "slug": "lancer-vii",
+          "name": "LANCER VII"
+        },
+        {
+          "slug": "mitsubishi-lancer-viii",
+          "name": "Lancer VIII"
+        },
+        {
+          "slug": "lancer-viii-sportback",
+          "name": "LANCER VIII Sportback"
+        },
+        {
+          "slug": "lancer-v",
+          "name": "LANCER V"
+        },
+        {
+          "slug": "lancer-vii-estate",
+          "name": "LANCER VII Estate"
+        }
+      ]
+    },
+    {
+      "brandSlug": "mitsubishi",
+      "brandName": "MITSUBISHI",
+      "displayName": "Mirage",
+      "members": [
+        {
+          "slug": "mirage-space-star-vi",
+          "name": "MIRAGE / SPACE STAR VI"
+        },
+        {
+          "slug": "mirage-saloon",
+          "name": "MIRAGE Saloon"
+        }
+      ]
+    },
+    {
+      "brandSlug": "mitsubishi",
+      "brandName": "MITSUBISHI",
+      "displayName": "Outlander",
+      "members": [
+        {
+          "slug": "outlander-i",
+          "name": "OUTLANDER I"
+        },
+        {
+          "slug": "outlander-ii",
+          "name": "OUTLANDER II"
+        },
+        {
+          "slug": "outlander-ii-van",
+          "name": "OUTLANDER II Van"
+        },
+        {
+          "slug": "outlander-iii-van",
+          "name": "OUTLANDER III Van"
+        },
+        {
+          "slug": "outlander-iii",
+          "name": "OUTLANDER III"
+        }
+      ]
+    },
+    {
+      "brandSlug": "mitsubishi",
+      "brandName": "MITSUBISHI",
+      "displayName": "Pajero",
+      "members": [
+        {
+          "slug": "pajero-classic",
+          "name": "PAJERO CLASSIC"
+        },
+        {
+          "slug": "pajero-ii-canvas-top",
+          "name": "PAJERO II Canvas Top"
+        },
+        {
+          "slug": "pajero-iii",
+          "name": "PAJERO III"
+        },
+        {
+          "slug": "pajero-iii-canvas-top",
+          "name": "PAJERO III Canvas Top"
+        },
+        {
+          "slug": "pajero-iv",
+          "name": "PAJERO IV"
+        },
+        {
+          "slug": "pajero-iv-van",
+          "name": "PAJERO IV Van"
+        },
+        {
+          "slug": "pajero-pinin-i",
+          "name": "PAJERO PININ I"
+        },
+        {
+          "slug": "pajero-sport-i",
+          "name": "PAJERO SPORT I"
+        },
+        {
+          "slug": "pajero-sport-ii",
+          "name": "PAJERO SPORT II"
+        },
+        {
+          "slug": "pajero-sport-iii",
+          "name": "PAJERO SPORT III"
+        },
+        {
+          "slug": "pajero-sport-van-i",
+          "name": "PAJERO SPORT VAN I"
+        },
+        {
+          "slug": "pajero-ii",
+          "name": "PAJERO II"
+        }
+      ]
+    },
+    {
+      "brandSlug": "mitsubishi",
+      "brandName": "MITSUBISHI",
+      "displayName": "Sigma",
+      "members": [
+        {
+          "slug": "sigma",
+          "name": "SIGMA"
+        },
+        {
+          "slug": "sigma-station-wagon",
+          "name": "SIGMA Station Wagon"
+        }
+      ]
+    },
+    {
+      "brandSlug": "nissan",
+      "brandName": "NISSAN",
+      "displayName": "Almera",
+      "members": [
+        {
+          "slug": "almera-classic",
+          "name": "ALMERA Classic"
+        },
+        {
+          "slug": "almera-i",
+          "name": "ALMERA I"
+        },
+        {
+          "slug": "almera-i-hatchback",
+          "name": "ALMERA I Hatchback"
+        },
+        {
+          "slug": "almera-ii",
+          "name": "ALMERA II"
+        },
+        {
+          "slug": "almera-ii-hatchback",
+          "name": "ALMERA II Hatchback"
+        }
+      ]
+    },
+    {
+      "brandSlug": "nissan",
+      "brandName": "NISSAN",
+      "displayName": "Interstar",
+      "members": [
+        {
+          "slug": "interstar-van",
+          "name": "INTERSTAR Van"
+        },
+        {
+          "slug": "interstar-bus",
+          "name": "INTERSTAR Bus"
+        },
+        {
+          "slug": "interstar-platform-chassis",
+          "name": "INTERSTAR Platform/ Chassis"
+        }
+      ]
+    },
+    {
+      "brandSlug": "nissan",
+      "brandName": "NISSAN",
+      "displayName": "Juke",
+      "members": [
+        {
+          "slug": "juke-f15",
+          "name": "JUKE (F15)"
+        },
+        {
+          "slug": "juke-f16",
+          "name": "JUKE (F16)"
+        },
+        {
+          "slug": "juke",
+          "name": "JUKE"
+        }
+      ]
+    },
+    {
+      "brandSlug": "nissan",
+      "brandName": "NISSAN",
+      "displayName": "Kubistar",
+      "members": [
+        {
+          "slug": "kubistar-van",
+          "name": "KUBISTAR Van"
+        },
+        {
+          "slug": "kubistar-mpv",
+          "name": "KUBISTAR MPV"
+        }
+      ]
+    },
+    {
+      "brandSlug": "nissan",
+      "brandName": "NISSAN",
+      "displayName": "Maxima",
+      "members": [
+        {
+          "slug": "maxima-maxima-qx-iv",
+          "name": "MAXIMA / MAXIMA QX IV"
+        },
+        {
+          "slug": "maxima-maxima-qx-v",
+          "name": "MAXIMA / MAXIMA QX V"
+        }
+      ]
+    },
+    {
+      "brandSlug": "nissan",
+      "brandName": "NISSAN",
+      "displayName": "Micra",
+      "members": [
+        {
+          "slug": "micra-cc-iii",
+          "name": "MICRA C+C III"
+        },
+        {
+          "slug": "micra-ii",
+          "name": "MICRA II"
+        },
+        {
+          "slug": "micra-iii",
+          "name": "MICRA III"
+        },
+        {
+          "slug": "micra-iv",
+          "name": "MICRA IV"
+        },
+        {
+          "slug": "micra-v",
+          "name": "MICRA V"
+        }
+      ]
+    },
+    {
+      "brandSlug": "nissan",
+      "brandName": "NISSAN",
+      "displayName": "Murano",
+      "members": [
+        {
+          "slug": "murano-i",
+          "name": "MURANO I"
+        },
+        {
+          "slug": "murano-ii",
+          "name": "MURANO II"
+        },
+        {
+          "slug": "murano-iii",
+          "name": "MURANO III"
+        }
+      ]
+    },
+    {
+      "brandSlug": "nissan",
+      "brandName": "NISSAN",
+      "displayName": "Navara",
+      "members": [
+        {
+          "slug": "np300-navara-pickup",
+          "name": "NP300 NAVARA Pickup"
+        },
+        {
+          "slug": "navara-platformchassis",
+          "name": "NAVARA Platform/Chassis"
+        },
+        {
+          "slug": "np300-navara",
+          "name": "NP300 NAVARA"
+        },
+        {
+          "slug": "np300-navara-platform",
+          "name": "NP300 NAVARA"
+        }
+      ]
+    },
+    {
+      "brandSlug": "nissan",
+      "brandName": "NISSAN",
+      "displayName": "Pathfinder",
+      "members": [
+        {
+          "slug": "pathfinder-ii",
+          "name": "PATHFINDER II"
+        },
+        {
+          "slug": "pathfinder-iii",
+          "name": "PATHFINDER III"
+        },
+        {
+          "slug": "pathfinder-iv",
+          "name": "PATHFINDER IV"
+        }
+      ]
+    },
+    {
+      "brandSlug": "nissan",
+      "brandName": "NISSAN",
+      "displayName": "Patrol",
+      "members": [
+        {
+          "slug": "patrol-gr-iv",
+          "name": "PATROL GR IV"
+        },
+        {
+          "slug": "patrol-gr-v-wagon",
+          "name": "PATROL GR V Wagon"
+        },
+        {
+          "slug": "patrol-vi",
+          "name": "PATROL VI"
+        }
+      ]
+    },
+    {
+      "brandSlug": "nissan",
+      "brandName": "NISSAN",
+      "displayName": "Primastar",
+      "members": [
+        {
+          "slug": "primastar-van",
+          "name": "PRIMASTAR Van"
+        },
+        {
+          "slug": "primastar-bus",
+          "name": "PRIMASTAR Bus"
+        }
+      ]
+    },
+    {
+      "brandSlug": "nissan",
+      "brandName": "NISSAN",
+      "displayName": "Primera",
+      "members": [
+        {
+          "slug": "primera",
+          "name": "PRIMERA"
+        },
+        {
+          "slug": "primera-estate",
+          "name": "PRIMERA Estate"
+        },
+        {
+          "slug": "primera-hatchback",
+          "name": "PRIMERA Hatchback"
+        },
+        {
+          "slug": "primera-traveller",
+          "name": "PRIMERA Traveller"
+        }
+      ]
+    },
+    {
+      "brandSlug": "nissan",
+      "brandName": "NISSAN",
+      "displayName": "Qashqai",
+      "members": [
+        {
+          "slug": "qashqai-qashqai-2-i",
+          "name": "QASHQAI / QASHQAI +2 I"
+        },
+        {
+          "slug": "qashqai-iii",
+          "name": "QASHQAI III"
+        },
+        {
+          "slug": "qashqai",
+          "name": "Qashqai"
+        },
+        {
+          "slug": "qashqai-ii-closed-off-road-vehicle",
+          "name": "QASHQAI II Closed Off- Road Vehicle"
+        }
+      ]
+    },
+    {
+      "brandSlug": "nissan",
+      "brandName": "NISSAN",
+      "displayName": "Sunny",
+      "members": [
+        {
+          "slug": "sunny-iii",
+          "name": "SUNNY III"
+        },
+        {
+          "slug": "sunny-iii-estate-van",
+          "name": "SUNNY III Estate Van"
+        },
+        {
+          "slug": "sunny-iii-hatchback",
+          "name": "SUNNY III Hatchback"
+        },
+        {
+          "slug": "sunny-iii-liftback",
+          "name": "SUNNY III Liftback"
+        },
+        {
+          "slug": "sunny-iii-traveller",
+          "name": "SUNNY III Traveller"
+        }
+      ]
+    },
+    {
+      "brandSlug": "nissan",
+      "brandName": "NISSAN",
+      "displayName": "Terrano",
+      "members": [
+        {
+          "slug": "terrano",
+          "name": "TERRANO"
+        },
+        {
+          "slug": "terrano-ii",
+          "name": "TERRANO II"
+        }
+      ]
+    },
+    {
+      "brandSlug": "nissan",
+      "brandName": "NISSAN",
+      "displayName": "Vanette",
+      "members": [
+        {
+          "slug": "vanette-cargo-van",
+          "name": "VANETTE CARGO Van"
+        },
+        {
+          "slug": "vanette-cargo-bus",
+          "name": "VANETTE CARGO Bus"
+        }
+      ]
+    },
+    {
+      "brandSlug": "nissan",
+      "brandName": "NISSAN",
+      "displayName": "X-Trail",
+      "members": [
+        {
+          "slug": "x-trail-i",
+          "name": "X-TRAIL I"
+        },
+        {
+          "slug": "x-trail-ii",
+          "name": "X-TRAIL II"
+        },
+        {
+          "slug": "x-trail-iii",
+          "name": "X-TRAIL III"
+        },
+        {
+          "slug": "x-trail-ii-t31",
+          "name": "X-TRAIL II (T31)"
+        }
+      ]
+    },
+    {
+      "brandSlug": "opel",
+      "brandName": "OPEL",
+      "displayName": "Arena",
+      "members": [
+        {
+          "slug": "opel-arena-combi",
+          "name": "ARENA Combi"
+        },
+        {
+          "slug": "opel-arena-van",
+          "name": "ARENA Van"
+        }
+      ]
+    },
+    {
+      "brandSlug": "opel",
+      "brandName": "OPEL",
+      "displayName": "Astra",
+      "members": [
+        {
+          "slug": "astra-h-classic-estate",
+          "name": "ASTRA H CLASSIC Estate"
+        },
+        {
+          "slug": "astra-f-hatchback",
+          "name": "ASTRA F Hatchback"
+        },
+        {
+          "slug": "astra-h-classic-saloon",
+          "name": "ASTRA H CLASSIC Saloon"
+        },
+        {
+          "slug": "astra-f",
+          "name": "ASTRA F"
+        },
+        {
+          "slug": "astra-f-classic-estate",
+          "name": "ASTRA F CLASSIC Estate"
+        },
+        {
+          "slug": "astra-f-classic-saloon",
+          "name": "ASTRA F CLASSIC Saloon"
+        },
+        {
+          "slug": "astra-f-convertible",
+          "name": "ASTRA F Convertible"
+        },
+        {
+          "slug": "astra-f-estate",
+          "name": "ASTRA F Estate"
+        },
+        {
+          "slug": "astra-f-estate-van",
+          "name": "ASTRA F Estate Van"
+        },
+        {
+          "slug": "astra-g-estate-van",
+          "name": "ASTRA G Estate Van"
+        },
+        {
+          "slug": "astra-g-convertible",
+          "name": "ASTRA G Convertible"
+        },
+        {
+          "slug": "astra-g-coupe",
+          "name": "ASTRA G Coupe"
+        },
+        {
+          "slug": "astra-g-estate",
+          "name": "ASTRA G Estate"
+        },
+        {
+          "slug": "astra-g-hatchback",
+          "name": "ASTRA G Hatchback"
+        },
+        {
+          "slug": "astra-g-saloon",
+          "name": "ASTRA G Saloon"
+        },
+        {
+          "slug": "astra-h",
+          "name": "ASTRA H"
+        },
+        {
+          "slug": "astra-h-estate-van",
+          "name": "ASTRA H Estate Van"
+        },
+        {
+          "slug": "astra-h-estate",
+          "name": "ASTRA H Estate"
+        },
+        {
+          "slug": "astra-h-gtc",
+          "name": "ASTRA H GTC"
+        },
+        {
+          "slug": "astra-h-saloon",
+          "name": "ASTRA H Saloon"
+        },
+        {
+          "slug": "astra-h-twintop",
+          "name": "ASTRA H TwinTop"
+        },
+        {
+          "slug": "astra-j",
+          "name": "ASTRA J"
+        },
+        {
+          "slug": "astra-j-gtc",
+          "name": "ASTRA J GTC"
+        },
+        {
+          "slug": "astra-j-estate-van",
+          "name": "ASTRA J Estate Van"
+        },
+        {
+          "slug": "astra-j-saloon",
+          "name": "ASTRA J Saloon"
+        },
+        {
+          "slug": "astra-j-sports-tourer",
+          "name": "ASTRA J Sports Tourer"
+        },
+        {
+          "slug": "astra-k",
+          "name": "ASTRA K"
+        },
+        {
+          "slug": "astra-k-sports-tourer",
+          "name": "ASTRA K Sports Tourer"
+        },
+        {
+          "slug": "astra-l",
+          "name": "ASTRA L"
+        },
+        {
+          "slug": "astra-l-sports-tourer",
+          "name": "ASTRA L Sports Tourer"
+        },
+        {
+          "slug": "astra-f-classic-hatchback",
+          "name": "ASTRA F CLASSIC Hatchback"
+        },
+        {
+          "slug": "astra-h-classic-hatchback",
+          "name": "ASTRA H CLASSIC Hatchback"
+        }
+      ]
+    },
+    {
+      "brandSlug": "opel",
+      "brandName": "OPEL",
+      "displayName": "Combo",
+      "members": [
+        {
+          "slug": "combo-box-body-estate",
+          "name": "COMBO Box Body /Estate"
+        },
+        {
+          "slug": "combo-e-tour-life",
+          "name": "COMBO E Tour / Life"
+        },
+        {
+          "slug": "combo-tour",
+          "name": "COMBO Tour"
+        },
+        {
+          "slug": "combo-box-body-mpv",
+          "name": "COMBO Box Body/MPV"
+        },
+        {
+          "slug": "kadett-e-combo",
+          "name": "KADETT E Combo"
+        },
+        {
+          "slug": "combo-platform-chassis",
+          "name": "COMBO Platform/Chassis"
+        }
+      ]
+    },
+    {
+      "brandSlug": "opel",
+      "brandName": "OPEL",
+      "displayName": "Corsa",
+      "members": [
+        {
+          "slug": "corsa-b",
+          "name": "CORSA B"
+        },
+        {
+          "slug": "corsa-b-box",
+          "name": "CORSA B Box"
+        },
+        {
+          "slug": "corsa-b-estate",
+          "name": "CORSA B Estate"
+        },
+        {
+          "slug": "corsa-c",
+          "name": "CORSA C"
+        },
+        {
+          "slug": "corsa-c-box",
+          "name": "CORSA C Box"
+        },
+        {
+          "slug": "corsa-d",
+          "name": "CORSA D"
+        },
+        {
+          "slug": "corsa-d-van",
+          "name": "CORSA D Van"
+        },
+        {
+          "slug": "corsa-e",
+          "name": "CORSA E"
+        },
+        {
+          "slug": "corsa-e-hatchback-van",
+          "name": "CORSA E Hatchback Van"
+        },
+        {
+          "slug": "corsa-f",
+          "name": "CORSA F"
+        }
+      ]
+    },
+    {
+      "brandSlug": "opel",
+      "brandName": "OPEL",
+      "displayName": "Frontera",
+      "members": [
+        {
+          "slug": "frontera-a",
+          "name": "FRONTERA A"
+        },
+        {
+          "slug": "frontera-a-sport",
+          "name": "FRONTERA A Sport"
+        },
+        {
+          "slug": "frontera-b",
+          "name": "FRONTERA B"
+        }
+      ]
+    },
+    {
+      "brandSlug": "opel",
+      "brandName": "OPEL",
+      "displayName": "Grandland X",
+      "members": [
+        {
+          "slug": "grandland-x-van",
+          "name": "GRANDLAND X Van"
+        },
+        {
+          "slug": "opel-grandland-x",
+          "name": "Grandland X (A)"
+        }
+      ]
+    },
+    {
+      "brandSlug": "opel",
+      "brandName": "OPEL",
+      "displayName": "Insignia",
+      "members": [
+        {
+          "slug": "insignia-a",
+          "name": "INSIGNIA A"
+        },
+        {
+          "slug": "insignia-a-country-tourer",
+          "name": "INSIGNIA A Country Tourer"
+        },
+        {
+          "slug": "insignia-a-saloon",
+          "name": "INSIGNIA A Saloon"
+        },
+        {
+          "slug": "insignia-a-sports-tourer",
+          "name": "INSIGNIA A Sports Tourer"
+        },
+        {
+          "slug": "insignia-b-country-tourer",
+          "name": "INSIGNIA B Country Tourer"
+        },
+        {
+          "slug": "insignia-b-grand-sport",
+          "name": "INSIGNIA B Grand Sport"
+        },
+        {
+          "slug": "insignia-b-sports-tourer",
+          "name": "INSIGNIA B Sports Tourer"
+        }
+      ]
+    },
+    {
+      "brandSlug": "opel",
+      "brandName": "OPEL",
+      "displayName": "Kadett",
+      "members": [
+        {
+          "slug": "kadett-e",
+          "name": "KADETT E"
+        },
+        {
+          "slug": "kadett-e-hatchback",
+          "name": "KADETT E Hatchback"
+        }
+      ]
+    },
+    {
+      "brandSlug": "opel",
+      "brandName": "OPEL",
+      "displayName": "Meriva",
+      "members": [
+        {
+          "slug": "meriva-a-mpv",
+          "name": "MERIVA A MPV"
+        },
+        {
+          "slug": "meriva-b-mpv",
+          "name": "MERIVA B MPV"
+        }
+      ]
+    },
+    {
+      "brandSlug": "opel",
+      "brandName": "OPEL",
+      "displayName": "Movano",
+      "members": [
+        {
+          "slug": "movano-a-bus",
+          "name": "MOVANO A Bus"
+        },
+        {
+          "slug": "movano-a-platform-chassis",
+          "name": "MOVANO A Platform/Chassis"
+        },
+        {
+          "slug": "movano-a-van",
+          "name": "MOVANO A Van"
+        },
+        {
+          "slug": "movano-b-bus",
+          "name": "MOVANO B Bus"
+        },
+        {
+          "slug": "movano-b-platform-chassis",
+          "name": "MOVANO B Platform/Chassis"
+        },
+        {
+          "slug": "movano-c-platform-chassis",
+          "name": "MOVANO C Platform/Chassis"
+        },
+        {
+          "slug": "movano-c-van",
+          "name": "MOVANO C Van"
+        }
+      ]
+    },
+    {
+      "brandSlug": "opel",
+      "brandName": "OPEL",
+      "displayName": "Omega",
+      "members": [
+        {
+          "slug": "omega-a",
+          "name": "OMEGA A"
+        },
+        {
+          "slug": "omega-a-estate",
+          "name": "OMEGA A Estate"
+        },
+        {
+          "slug": "omega-b",
+          "name": "OMEGA B"
+        },
+        {
+          "slug": "omega-b-estate",
+          "name": "OMEGA B Estate"
+        }
+      ]
+    },
+    {
+      "brandSlug": "opel",
+      "brandName": "OPEL",
+      "displayName": "Tigra",
+      "members": [
+        {
+          "slug": "opel-tigra",
+          "name": "TIGRA"
+        },
+        {
+          "slug": "opel-tigra-twintop",
+          "name": "Tigra Twintop"
+        }
+      ]
+    },
+    {
+      "brandSlug": "opel",
+      "brandName": "OPEL",
+      "displayName": "Vectra",
+      "members": [
+        {
+          "slug": "vectra-a",
+          "name": "VECTRA A"
+        },
+        {
+          "slug": "vectra-b",
+          "name": "VECTRA B"
+        },
+        {
+          "slug": "vectra-b-estate",
+          "name": "VECTRA B Estate"
+        },
+        {
+          "slug": "vectra-b-hatchback",
+          "name": "VECTRA B Hatchback"
+        },
+        {
+          "slug": "vectra-c",
+          "name": "VECTRA C"
+        },
+        {
+          "slug": "vectra-c-estate",
+          "name": "VECTRA C Estate"
+        }
+      ]
+    },
+    {
+      "brandSlug": "opel",
+      "brandName": "OPEL",
+      "displayName": "Zafira",
+      "members": [
+        {
+          "slug": "zafira-zafira-family-b",
+          "name": "ZAFIRA / ZAFIRA FAMILY B"
+        },
+        {
+          "slug": "zafira-a-mpv",
+          "name": "ZAFIRA A MPV"
+        },
+        {
+          "slug": "zafira-life-bus",
+          "name": "ZAFIRA LIFE Bus"
+        },
+        {
+          "slug": "zafira-tourer-c",
+          "name": "ZAFIRA TOURER C"
+        },
+        {
+          "slug": "opel-zafira",
+          "name": "Zafira"
+        }
+      ]
+    },
+    {
+      "brandSlug": "peugeot",
+      "brandName": "PEUGEOT",
+      "displayName": "106",
+      "members": [
+        {
+          "slug": "106-i",
+          "name": "106 I"
+        },
+        {
+          "slug": "106-ii",
+          "name": "106 II"
+        },
+        {
+          "slug": "106-van-ii-hatchback-van",
+          "name": "106 Van II Hatchback Van"
+        }
+      ]
+    },
+    {
+      "brandSlug": "peugeot",
+      "brandName": "PEUGEOT",
+      "displayName": "2008",
+      "members": [
+        {
+          "slug": "2008-i",
+          "name": "2008 I"
+        },
+        {
+          "slug": "2008-ii",
+          "name": "2008 II"
+        }
+      ]
+    },
+    {
+      "brandSlug": "peugeot",
+      "brandName": "PEUGEOT",
+      "displayName": "205",
+      "members": [
+        {
+          "slug": "205-hatchback-van",
+          "name": "205 Hatchback Van"
+        },
+        {
+          "slug": "205-i-convertible",
+          "name": "205 I Convertible"
+        }
+      ]
+    },
+    {
+      "brandSlug": "peugeot",
+      "brandName": "PEUGEOT",
+      "displayName": "206",
+      "members": [
+        {
+          "slug": "206-cc",
+          "name": "206 CC"
+        },
+        {
+          "slug": "206-hatchback",
+          "name": "206 Hatchback"
+        },
+        {
+          "slug": "206-sw",
+          "name": "206 SW"
+        },
+        {
+          "slug": "206-saloon",
+          "name": "206 Saloon"
+        },
+        {
+          "slug": "206-van",
+          "name": "206 Van"
+        },
+        {
+          "slug": "206",
+          "name": "206+"
+        }
+      ]
+    },
+    {
+      "brandSlug": "peugeot",
+      "brandName": "PEUGEOT",
+      "displayName": "207",
+      "members": [
+        {
+          "slug": "207",
+          "name": "207"
+        },
+        {
+          "slug": "207-cc",
+          "name": "207 CC"
+        },
+        {
+          "slug": "207-sw",
+          "name": "207 SW"
+        },
+        {
+          "slug": "207-saloon",
+          "name": "207 Saloon"
+        },
+        {
+          "slug": "207-hatchback-van",
+          "name": "207 Hatchback Van"
+        }
+      ]
+    },
+    {
+      "brandSlug": "peugeot",
+      "brandName": "PEUGEOT",
+      "displayName": "208",
+      "members": [
+        {
+          "slug": "208",
+          "name": "208"
+        },
+        {
+          "slug": "208-hatchback-van",
+          "name": "208 Hatchback Van"
+        },
+        {
+          "slug": "208-ii",
+          "name": "208 II"
+        }
+      ]
+    },
+    {
+      "brandSlug": "peugeot",
+      "brandName": "PEUGEOT",
+      "displayName": "306",
+      "members": [
+        {
+          "slug": "306",
+          "name": "306"
+        },
+        {
+          "slug": "306-break",
+          "name": "306 Break"
+        },
+        {
+          "slug": "306-hatchback",
+          "name": "306 Hatchback"
+        },
+        {
+          "slug": "306-convertible",
+          "name": "306 Convertible"
+        }
+      ]
+    },
+    {
+      "brandSlug": "peugeot",
+      "brandName": "PEUGEOT",
+      "displayName": "307",
+      "members": [
+        {
+          "slug": "307-break",
+          "name": "307 Break"
+        },
+        {
+          "slug": "307-cc",
+          "name": "307 CC"
+        },
+        {
+          "slug": "307-sw",
+          "name": "307 SW"
+        },
+        {
+          "slug": "307",
+          "name": "307"
+        }
+      ]
+    },
+    {
+      "brandSlug": "peugeot",
+      "brandName": "PEUGEOT",
+      "displayName": "308",
+      "members": [
+        {
+          "slug": "308-cc",
+          "name": "308 CC"
+        },
+        {
+          "slug": "308-i",
+          "name": "308 I"
+        },
+        {
+          "slug": "308-ii",
+          "name": "308 II"
+        },
+        {
+          "slug": "308-sw-i",
+          "name": "308 SW I"
+        },
+        {
+          "slug": "308-sw-ii",
+          "name": "308 SW II"
+        },
+        {
+          "slug": "308-sw-ii-estate-van",
+          "name": "308 SW II Estate Van"
+        },
+        {
+          "slug": "308-iii",
+          "name": "308 III"
+        },
+        {
+          "slug": "308-sw-iii",
+          "name": "308 SW III"
+        }
+      ]
+    },
+    {
+      "brandSlug": "peugeot",
+      "brandName": "PEUGEOT",
+      "displayName": "405",
+      "members": [
+        {
+          "slug": "405-ii",
+          "name": "405 II"
+        },
+        {
+          "slug": "405-ii-break",
+          "name": "405 II Break"
+        }
+      ]
+    },
+    {
+      "brandSlug": "peugeot",
+      "brandName": "PEUGEOT",
+      "displayName": "406",
+      "members": [
+        {
+          "slug": "406-break",
+          "name": "406 Break"
+        },
+        {
+          "slug": "406-coupe",
+          "name": "406 Coupe"
+        },
+        {
+          "slug": "406",
+          "name": "406"
+        }
+      ]
+    },
+    {
+      "brandSlug": "peugeot",
+      "brandName": "PEUGEOT",
+      "displayName": "407",
+      "members": [
+        {
+          "slug": "407-coupe",
+          "name": "407 Coupe"
+        },
+        {
+          "slug": "407-sw",
+          "name": "407 SW"
+        },
+        {
+          "slug": "407",
+          "name": "407"
+        }
+      ]
+    },
+    {
+      "brandSlug": "peugeot",
+      "brandName": "PEUGEOT",
+      "displayName": "5008",
+      "members": [
+        {
+          "slug": "5008-ii",
+          "name": "5008 II"
+        },
+        {
+          "slug": "5008",
+          "name": "5008"
+        }
+      ]
+    },
+    {
+      "brandSlug": "peugeot",
+      "brandName": "PEUGEOT",
+      "displayName": "508",
+      "members": [
+        {
+          "slug": "508-i",
+          "name": "508 I"
+        },
+        {
+          "slug": "508-ii",
+          "name": "508 II"
+        },
+        {
+          "slug": "508-sw-i",
+          "name": "508 SW I"
+        }
+      ]
+    },
+    {
+      "brandSlug": "peugeot",
+      "brandName": "PEUGEOT",
+      "displayName": "Boxer",
+      "members": [
+        {
+          "slug": "boxer-box",
+          "name": "BOXER Box"
+        },
+        {
+          "slug": "boxer-bus",
+          "name": "BOXER Bus"
+        },
+        {
+          "slug": "boxer-van",
+          "name": "BOXER Van"
+        },
+        {
+          "slug": "boxer-platform-chassis",
+          "name": "BOXER Platform/Chassis"
+        }
+      ]
+    },
+    {
+      "brandSlug": "peugeot",
+      "brandName": "PEUGEOT",
+      "displayName": "Expert",
+      "members": [
+        {
+          "slug": "expert",
+          "name": "EXPERT"
+        },
+        {
+          "slug": "expert-bus",
+          "name": "EXPERT Bus"
+        },
+        {
+          "slug": "expert-tepee",
+          "name": "EXPERT Tepee"
+        },
+        {
+          "slug": "expert-van",
+          "name": "EXPERT Van"
+        },
+        {
+          "slug": "expert-platform-chassis",
+          "name": "EXPERT Platform/Chassis"
+        }
+      ]
+    },
+    {
+      "brandSlug": "peugeot",
+      "brandName": "PEUGEOT",
+      "displayName": "J5",
+      "members": [
+        {
+          "slug": "j5-bus",
+          "name": "J5 Bus"
+        },
+        {
+          "slug": "j5-van",
+          "name": "J5 Van"
+        },
+        {
+          "slug": "j5-platform-chassis",
+          "name": "J5 Platform/Chassis"
+        }
+      ]
+    },
+    {
+      "brandSlug": "peugeot",
+      "brandName": "PEUGEOT",
+      "displayName": "Partner",
+      "members": [
+        {
+          "slug": "partner-box",
+          "name": "PARTNER Box"
+        },
+        {
+          "slug": "partner-mpv",
+          "name": "PARTNER MPV"
+        },
+        {
+          "slug": "partner-origin-box",
+          "name": "PARTNER ORIGIN Box"
+        },
+        {
+          "slug": "partner-origin-mpv",
+          "name": "PARTNER ORIGIN MPV"
+        },
+        {
+          "slug": "partner-tepee",
+          "name": "PARTNER Tepee"
+        },
+        {
+          "slug": "partner-box-body-mpv",
+          "name": "PARTNER Box Body/MPV"
+        },
+        {
+          "slug": "partner-platform-chassis",
+          "name": "PARTNER"
+        }
+      ]
+    },
+    {
+      "brandSlug": "porsche",
+      "brandName": "PORSCHE",
+      "displayName": "911",
+      "members": [
+        {
+          "slug": "911-convertible",
+          "name": "911 Convertible"
+        },
+        {
+          "slug": "911-targa",
+          "name": "911 Targa"
+        },
+        {
+          "slug": "911",
+          "name": "911"
+        }
+      ]
+    },
+    {
+      "brandSlug": "porsche",
+      "brandName": "PORSCHE",
+      "displayName": "Boxster",
+      "members": [
+        {
+          "slug": "boxster",
+          "name": "BOXSTER"
+        },
+        {
+          "slug": "boxster-spyder",
+          "name": "BOXSTER Spyder"
+        }
+      ]
+    },
+    {
+      "brandSlug": "porsche",
+      "brandName": "PORSCHE",
+      "displayName": "Panamera",
+      "members": [
+        {
+          "slug": "panamera",
+          "name": "PANAMERA"
+        },
+        {
+          "slug": "panamera-sport-turismo",
+          "name": "Panamera Sport Turismo"
+        }
+      ]
+    },
+    {
+      "brandSlug": "renault",
+      "brandName": "RENAULT",
+      "displayName": "Captur",
+      "members": [
+        {
+          "slug": "captur-i",
+          "name": "CAPTUR I"
+        },
+        {
+          "slug": "captur-ii",
+          "name": "CAPTUR II"
+        }
+      ]
+    },
+    {
+      "brandSlug": "renault",
+      "brandName": "RENAULT",
+      "displayName": "Clio",
+      "members": [
+        {
+          "slug": "clio-iii-grandtour",
+          "name": "CLIO III Grandtour"
+        },
+        {
+          "slug": "clio-i",
+          "name": "CLIO I"
+        },
+        {
+          "slug": "clio-i-hatchback-van",
+          "name": "CLIO I Hatchback Van"
+        },
+        {
+          "slug": "clio-ii",
+          "name": "CLIO II"
+        },
+        {
+          "slug": "clio-ii-hatchback-van",
+          "name": "CLIO II Hatchback Van"
+        },
+        {
+          "slug": "clio-iii",
+          "name": "CLIO III"
+        },
+        {
+          "slug": "clio-iii-hatchback-van",
+          "name": "CLIO III Hatchback Van"
+        },
+        {
+          "slug": "clio-iv",
+          "name": "CLIO IV"
+        },
+        {
+          "slug": "clio-iv-grandtour",
+          "name": "CLIO IV Grandtour"
+        },
+        {
+          "slug": "clio-iv-hatchback-van",
+          "name": "CLIO IV Hatchback Van"
+        },
+        {
+          "slug": "clio-v",
+          "name": "CLIO V"
+        },
+        {
+          "slug": "clio-grandtour",
+          "name": "CLIO Grandtour"
+        }
+      ]
+    },
+    {
+      "brandSlug": "renault",
+      "brandName": "RENAULT",
+      "displayName": "Espace",
+      "members": [
+        {
+          "slug": "espace-iii",
+          "name": "ESPACE III"
+        },
+        {
+          "slug": "espace-iv",
+          "name": "ESPACE IV"
+        },
+        {
+          "slug": "espace-v",
+          "name": "ESPACE V"
+        }
+      ]
+    },
+    {
+      "brandSlug": "renault",
+      "brandName": "RENAULT",
+      "displayName": "Kangoo",
+      "members": [
+        {
+          "slug": "kangoo",
+          "name": "KANGOO"
+        },
+        {
+          "slug": "kangoo-grand-kangoo-ii",
+          "name": "KANGOO / GRAND KANGOO II"
+        },
+        {
+          "slug": "kangoo-ii",
+          "name": "KANGOO II"
+        },
+        {
+          "slug": "kangoo-be-bop",
+          "name": "KANGOO BE BOP"
+        },
+        {
+          "slug": "kangoo-iii-mpv",
+          "name": "KANGOO III MPV"
+        },
+        {
+          "slug": "kangoo-iii-box-body-mpv",
+          "name": "KANGOO III Box Body/MPV"
+        }
+      ]
+    },
+    {
+      "brandSlug": "renault",
+      "brandName": "RENAULT",
+      "displayName": "Koleos",
+      "members": [
+        {
+          "slug": "koleos-i",
+          "name": "KOLEOS I"
+        },
+        {
+          "slug": "koleos-ii",
+          "name": "KOLEOS II"
+        }
+      ]
+    },
+    {
+      "brandSlug": "renault",
+      "brandName": "RENAULT",
+      "displayName": "Laguna",
+      "members": [
+        {
+          "slug": "laguna-coupe",
+          "name": "LAGUNA Coupe"
+        },
+        {
+          "slug": "laguna-i",
+          "name": "LAGUNA I"
+        },
+        {
+          "slug": "laguna-i-grandtour",
+          "name": "LAGUNA I Grandtour"
+        },
+        {
+          "slug": "laguna-ii",
+          "name": "LAGUNA II"
+        },
+        {
+          "slug": "laguna-ii-grandtour",
+          "name": "LAGUNA II Grandtour"
+        },
+        {
+          "slug": "laguna-iii",
+          "name": "LAGUNA III"
+        },
+        {
+          "slug": "laguna-iii-grandtour",
+          "name": "LAGUNA III Grandtour"
+        }
+      ]
+    },
+    {
+      "brandSlug": "renault",
+      "brandName": "RENAULT",
+      "displayName": "Master",
+      "members": [
+        {
+          "slug": "master-ii-van",
+          "name": "MASTER II Van"
+        },
+        {
+          "slug": "master-ii-bus",
+          "name": "MASTER II Bus"
+        },
+        {
+          "slug": "master-ii-box",
+          "name": "MASTER II Box"
+        },
+        {
+          "slug": "master-iii-bus",
+          "name": "MASTER III Bus"
+        },
+        {
+          "slug": "master-iii-van",
+          "name": "MASTER III Van"
+        },
+        {
+          "slug": "master-ii",
+          "name": "MASTER II"
+        },
+        {
+          "slug": "master-iii",
+          "name": "MASTER III"
+        }
+      ]
+    },
+    {
+      "brandSlug": "renault",
+      "brandName": "RENAULT",
+      "displayName": "Megane",
+      "members": [
+        {
+          "slug": "megane-cc",
+          "name": "MEGANE CC"
+        },
+        {
+          "slug": "megane-i",
+          "name": "MEGANE I"
+        },
+        {
+          "slug": "megane-i-cabriolet",
+          "name": "MEGANE I Cabriolet"
+        },
+        {
+          "slug": "megane-i-classic",
+          "name": "MEGANE I Classic"
+        },
+        {
+          "slug": "megane-i-coach",
+          "name": "MEGANE I Coach"
+        },
+        {
+          "slug": "megane-i-grandtour",
+          "name": "MEGANE I Grandtour"
+        },
+        {
+          "slug": "megane-ii",
+          "name": "MEGANE II"
+        },
+        {
+          "slug": "megane-ii-estate",
+          "name": "MEGANE II Estate"
+        },
+        {
+          "slug": "megane-ii-saloon",
+          "name": "MEGANE II Saloon"
+        },
+        {
+          "slug": "megane-iii-coupe",
+          "name": "MEGANE III Coupe"
+        },
+        {
+          "slug": "megane-iii-grandtour",
+          "name": "MEGANE III Grandtour"
+        },
+        {
+          "slug": "megane-iii-hatchback",
+          "name": "MEGANE III Hatchback"
+        },
+        {
+          "slug": "megane-iv-grandtour",
+          "name": "MEGANE IV Grandtour"
+        },
+        {
+          "slug": "megane-iv-hatchback",
+          "name": "MEGANE IV Hatchback"
+        },
+        {
+          "slug": "megane-iv-saloon",
+          "name": "MEGANE IV Saloon"
+        },
+        {
+          "slug": "megane-ii-coupe-cabriolet",
+          "name": "MEGANE II COUPE CABRIOLET"
+        },
+        {
+          "slug": "megane-ii-coup-cabrio-",
+          "name": "MEGANE II Coupé-Cabriolet"
+        }
+      ]
+    },
+    {
+      "brandSlug": "renault",
+      "brandName": "RENAULT",
+      "displayName": "Scenic",
+      "members": [
+        {
+          "slug": "megane-scenic",
+          "name": "MEGANE Scenic"
+        },
+        {
+          "slug": "scenic-ii",
+          "name": "SCENIC II"
+        },
+        {
+          "slug": "scenic-iii",
+          "name": "SCENIC III"
+        },
+        {
+          "slug": "scenic-iv",
+          "name": "SCENIC IV"
+        }
+      ]
+    },
+    {
+      "brandSlug": "renault",
+      "brandName": "RENAULT",
+      "displayName": "Talisman",
+      "members": [
+        {
+          "slug": "talisman",
+          "name": "TALISMAN"
+        },
+        {
+          "slug": "talisman-grandtour",
+          "name": "TALISMAN Grandtour"
+        }
+      ]
+    },
+    {
+      "brandSlug": "renault",
+      "brandName": "RENAULT",
+      "displayName": "Trafic",
+      "members": [
+        {
+          "slug": "trafic-van",
+          "name": "TRAFIC Van"
+        },
+        {
+          "slug": "trafic-bus",
+          "name": "TRAFIC Bus"
+        },
+        {
+          "slug": "trafic-ii-van",
+          "name": "TRAFIC II Van"
+        },
+        {
+          "slug": "trafic-ii-bus",
+          "name": "TRAFIC II Bus"
+        },
+        {
+          "slug": "trafic-box",
+          "name": "TRAFIC Box"
+        },
+        {
+          "slug": "trafic-iii-bus",
+          "name": "TRAFIC III Bus"
+        },
+        {
+          "slug": "trafic-iii-van",
+          "name": "TRAFIC III Van"
+        },
+        {
+          "slug": "trafic-ii",
+          "name": "TRAFIC II"
+        },
+        {
+          "slug": "trafic-iii",
+          "name": "TRAFIC III"
+        },
+        {
+          "slug": "trafic-platform-chassis",
+          "name": "TRAFIC Platform/Chassis"
+        }
+      ]
+    },
+    {
+      "brandSlug": "renault",
+      "brandName": "RENAULT",
+      "displayName": "Twingo",
+      "members": [
+        {
+          "slug": "twingo-i",
+          "name": "TWINGO I"
+        },
+        {
+          "slug": "twingo-i-hatchback-van",
+          "name": "TWINGO I Hatchback Van"
+        },
+        {
+          "slug": "twingo-ii",
+          "name": "TWINGO II"
+        },
+        {
+          "slug": "twingo-iii",
+          "name": "TWINGO III"
+        }
+      ]
+    },
+    {
+      "brandSlug": "saab",
+      "brandName": "SAAB",
+      "displayName": "9.3",
+      "members": [
+        {
+          "slug": "9-3",
+          "name": "9-3"
+        },
+        {
+          "slug": "9-3-cabriolet",
+          "name": "9-3 Cabriolet"
+        },
+        {
+          "slug": "9-3-estate",
+          "name": "9-3 Estate"
+        }
+      ]
+    },
+    {
+      "brandSlug": "saab",
+      "brandName": "SAAB",
+      "displayName": "9.5",
+      "members": [
+        {
+          "slug": "9-5",
+          "name": "9-5"
+        },
+        {
+          "slug": "9-5-estate",
+          "name": "9-5 Estate"
+        }
+      ]
+    },
+    {
+      "brandSlug": "saab",
+      "brandName": "SAAB",
+      "displayName": "900",
+      "members": [
+        {
+          "slug": "900-ii",
+          "name": "900 II"
+        },
+        {
+          "slug": "900-ii-convertible",
+          "name": "900 II Convertible"
+        },
+        {
+          "slug": "900-ii-coupe",
+          "name": "900 II Coupe"
+        }
+      ]
+    },
+    {
+      "brandSlug": "saab",
+      "brandName": "SAAB",
+      "displayName": "9000",
+      "members": [
+        {
+          "slug": "9000-hatchback",
+          "name": "9000 Hatchback"
+        },
+        {
+          "slug": "9000",
+          "name": "9000"
+        }
+      ]
+    },
+    {
+      "brandSlug": "seat",
+      "brandName": "SEAT",
+      "displayName": "Altea",
+      "members": [
+        {
+          "slug": "altea",
+          "name": "ALTEA"
+        },
+        {
+          "slug": "altea-xl",
+          "name": "ALTEA XL"
+        }
+      ]
+    },
+    {
+      "brandSlug": "seat",
+      "brandName": "SEAT",
+      "displayName": "Cordoba",
+      "members": [
+        {
+          "slug": "cordoba",
+          "name": "CORDOBA"
+        },
+        {
+          "slug": "cordoba-vario",
+          "name": "CORDOBA Vario"
+        }
+      ]
+    },
+    {
+      "brandSlug": "seat",
+      "brandName": "SEAT",
+      "displayName": "Exeo",
+      "members": [
+        {
+          "slug": "exeo",
+          "name": "EXEO"
+        },
+        {
+          "slug": "exeo-st",
+          "name": "EXEO ST"
+        }
+      ]
+    },
+    {
+      "brandSlug": "seat",
+      "brandName": "SEAT",
+      "displayName": "Ibiza",
+      "members": [
+        {
+          "slug": "ibiza-ii",
+          "name": "IBIZA II"
+        },
+        {
+          "slug": "ibiza-iii",
+          "name": "IBIZA III"
+        },
+        {
+          "slug": "ibiza-iv",
+          "name": "IBIZA IV"
+        },
+        {
+          "slug": "ibiza-iv-sportcoupe",
+          "name": "IBIZA IV SPORTCOUPE"
+        },
+        {
+          "slug": "ibiza-iv-st",
+          "name": "IBIZA IV ST"
+        },
+        {
+          "slug": "ibiza-v",
+          "name": "IBIZA V"
+        }
+      ]
+    },
+    {
+      "brandSlug": "seat",
+      "brandName": "SEAT",
+      "displayName": "Leon",
+      "members": [
+        {
+          "slug": "seat-leon",
+          "name": "LEON"
+        },
+        {
+          "slug": "leon-hatchback-van",
+          "name": "LEON Hatchback Van"
+        },
+        {
+          "slug": "leon-sc",
+          "name": "LEON SC"
+        },
+        {
+          "slug": "leon-sportstourer",
+          "name": "LEON Sportstourer"
+        },
+        {
+          "slug": "seat-leon-st",
+          "name": "LEON ST"
+        },
+        {
+          "slug": "leon-st-estate-van",
+          "name": "LEON ST Estate Van"
+        }
+      ]
+    },
+    {
+      "brandSlug": "seat",
+      "brandName": "SEAT",
+      "displayName": "Toledo",
+      "members": [
+        {
+          "slug": "toledo-i",
+          "name": "TOLEDO I"
+        },
+        {
+          "slug": "toledo-ii",
+          "name": "TOLEDO II"
+        },
+        {
+          "slug": "toledo-iii",
+          "name": "TOLEDO III"
+        },
+        {
+          "slug": "toledo-iv",
+          "name": "TOLEDO IV"
+        }
+      ]
+    },
+    {
+      "brandSlug": "skoda",
+      "brandName": "SKODA",
+      "displayName": "Fabia",
+      "members": [
+        {
+          "slug": "fabia-i",
+          "name": "FABIA I"
+        },
+        {
+          "slug": "fabia-i-combi",
+          "name": "FABIA I Combi"
+        },
+        {
+          "slug": "fabia-i-praktik",
+          "name": "FABIA I Praktik"
+        },
+        {
+          "slug": "fabia-i-saloon",
+          "name": "FABIA I Saloon"
+        },
+        {
+          "slug": "fabia-ii",
+          "name": "FABIA II"
+        },
+        {
+          "slug": "fabia-ii-combi",
+          "name": "FABIA II Combi"
+        },
+        {
+          "slug": "fabia-iii",
+          "name": "FABIA III"
+        },
+        {
+          "slug": "fabia-iii-estate",
+          "name": "FABIA III Estate"
+        },
+        {
+          "slug": "fabia-iv",
+          "name": "FABIA IV"
+        }
+      ]
+    },
+    {
+      "brandSlug": "skoda",
+      "brandName": "SKODA",
+      "displayName": "Favorit",
+      "members": [
+        {
+          "slug": "favorit",
+          "name": "FAVORIT"
+        },
+        {
+          "slug": "favorit-forman",
+          "name": "FAVORIT Forman"
+        },
+        {
+          "slug": "favorit-pickup",
+          "name": "FAVORIT Pickup"
+        }
+      ]
+    },
+    {
+      "brandSlug": "skoda",
+      "brandName": "SKODA",
+      "displayName": "Felicia",
+      "members": [
+        {
+          "slug": "felicia-i",
+          "name": "FELICIA I"
+        },
+        {
+          "slug": "felicia-i-estate",
+          "name": "FELICIA I Estate"
+        },
+        {
+          "slug": "felicia-i-pickup",
+          "name": "FELICIA I Pickup"
+        },
+        {
+          "slug": "felicia-ii",
+          "name": "FELICIA II"
+        },
+        {
+          "slug": "felicia-ii-estate",
+          "name": "FELICIA II Estate"
+        }
+      ]
+    },
+    {
+      "brandSlug": "skoda",
+      "brandName": "SKODA",
+      "displayName": "Octavia",
+      "members": [
+        {
+          "slug": "octavia-i",
+          "name": "OCTAVIA I"
+        },
+        {
+          "slug": "octavia-i-combi",
+          "name": "OCTAVIA I Combi"
+        },
+        {
+          "slug": "octavia-ii",
+          "name": "OCTAVIA II"
+        },
+        {
+          "slug": "octavia-ii-combi",
+          "name": "OCTAVIA II Combi"
+        },
+        {
+          "slug": "octavia-iii",
+          "name": "OCTAVIA III"
+        },
+        {
+          "slug": "octavia-iii-combi",
+          "name": "OCTAVIA III Combi"
+        },
+        {
+          "slug": "octavia-iv",
+          "name": "OCTAVIA IV"
+        },
+        {
+          "slug": "octavia-iv-combi",
+          "name": "OCTAVIA IV Combi"
+        }
+      ]
+    },
+    {
+      "brandSlug": "skoda",
+      "brandName": "SKODA",
+      "displayName": "Rapid",
+      "members": [
+        {
+          "slug": "skoda-rapid",
+          "name": "RAPID"
+        },
+        {
+          "slug": "rapid-spaceback",
+          "name": "RAPID Spaceback"
+        },
+        {
+          "slug": "rapid-na2",
+          "name": "RAPID (NA2)"
+        }
+      ]
+    },
+    {
+      "brandSlug": "skoda",
+      "brandName": "SKODA",
+      "displayName": "Superb",
+      "members": [
+        {
+          "slug": "superb-i",
+          "name": "SUPERB I"
+        },
+        {
+          "slug": "superb-ii",
+          "name": "SUPERB II"
+        },
+        {
+          "slug": "superb-ii-estate",
+          "name": "SUPERB II Estate"
+        },
+        {
+          "slug": "superb-iii",
+          "name": "SUPERB III"
+        },
+        {
+          "slug": "superb-iii-estate",
+          "name": "SUPERB III Estate"
+        }
+      ]
+    },
+    {
+      "brandSlug": "smart",
+      "brandName": "SMART",
+      "displayName": "Forfour",
+      "members": [
+        {
+          "slug": "forfour",
+          "name": "FORFOUR"
+        },
+        {
+          "slug": "forfour-hatchback",
+          "name": "FORFOUR Hatchback"
+        }
+      ]
+    },
+    {
+      "brandSlug": "smart",
+      "brandName": "SMART",
+      "displayName": "Fortwo",
+      "members": [
+        {
+          "slug": "fortwo-cabrio",
+          "name": "FORTWO Cabrio"
+        },
+        {
+          "slug": "fortwo-convertible",
+          "name": "FORTWO Convertible"
+        },
+        {
+          "slug": "fortwo-coupe",
+          "name": "FORTWO Coupe"
+        }
+      ]
+    },
+    {
+      "brandSlug": "smart",
+      "brandName": "SMART",
+      "displayName": "Roadster",
+      "members": [
+        {
+          "slug": "smart-roadster",
+          "name": "ROADSTER"
+        },
+        {
+          "slug": "roadster-coupe",
+          "name": "ROADSTER Coupe"
+        }
+      ]
+    },
+    {
+      "brandSlug": "ssangyong",
+      "brandName": "SSANGYONG",
+      "displayName": "Korando",
+      "members": [
+        {
+          "slug": "ssangyong-korando",
+          "name": "KORANDO"
+        },
+        {
+          "slug": "ssangyong-korando-cabrio",
+          "name": "KORANDO Cabrio"
+        },
+        {
+          "slug": "korando-sports",
+          "name": "KORANDO SPORTS"
+        }
+      ]
+    },
+    {
+      "brandSlug": "ssangyong",
+      "brandName": "SSANGYONG",
+      "displayName": "Musso",
+      "members": [
+        {
+          "slug": "ssangyong-musso",
+          "name": "MUSSO"
+        },
+        {
+          "slug": "musso-grand",
+          "name": "MUSSO GRAND"
+        },
+        {
+          "slug": "musso-sports",
+          "name": "MUSSO SPORTS"
+        }
+      ]
+    },
+    {
+      "brandSlug": "ssangyong",
+      "brandName": "SSANGYONG",
+      "displayName": "Rexton",
+      "members": [
+        {
+          "slug": "rexton-rexton-ii",
+          "name": "REXTON / REXTON II"
+        },
+        {
+          "slug": "rexton",
+          "name": "REXTON"
+        },
+        {
+          "slug": "rexton-w-rexton",
+          "name": "REXTON W / REXTON"
+        }
+      ]
+    },
+    {
+      "brandSlug": "ssangyong",
+      "brandName": "SSANGYONG",
+      "displayName": "Rodius",
+      "members": [
+        {
+          "slug": "rodius-i",
+          "name": "RODIUS I"
+        },
+        {
+          "slug": "rodius-ii",
+          "name": "RODIUS II"
+        }
+      ]
+    },
+    {
+      "brandSlug": "subaru",
+      "brandName": "SUBARU",
+      "displayName": "Impreza",
+      "members": [
+        {
+          "slug": "impreza-coupe",
+          "name": "IMPREZA Coupe"
+        },
+        {
+          "slug": "impreza-estate",
+          "name": "IMPREZA Estate"
+        },
+        {
+          "slug": "impreza-hatchback",
+          "name": "IMPREZA Hatchback"
+        },
+        {
+          "slug": "impreza-saloon",
+          "name": "IMPREZA Saloon"
+        }
+      ]
+    },
+    {
+      "brandSlug": "subaru",
+      "brandName": "SUBARU",
+      "displayName": "Justy",
+      "members": [
+        {
+          "slug": "justy-ii",
+          "name": "JUSTY II"
+        },
+        {
+          "slug": "justy-iii",
+          "name": "JUSTY III"
+        },
+        {
+          "slug": "justy-iv",
+          "name": "JUSTY IV"
+        }
+      ]
+    },
+    {
+      "brandSlug": "subaru",
+      "brandName": "SUBARU",
+      "displayName": "Legacy",
+      "members": [
+        {
+          "slug": "legacy-ii",
+          "name": "LEGACY II"
+        },
+        {
+          "slug": "legacy-ii-estate",
+          "name": "LEGACY II Estate"
+        },
+        {
+          "slug": "legacy-iii",
+          "name": "LEGACY III"
+        },
+        {
+          "slug": "legacy-iii-estate",
+          "name": "LEGACY III Estate"
+        },
+        {
+          "slug": "legacy-iv",
+          "name": "LEGACY IV"
+        },
+        {
+          "slug": "legacy-iv-estate",
+          "name": "LEGACY IV Estate"
+        },
+        {
+          "slug": "legacy-v",
+          "name": "LEGACY V"
+        },
+        {
+          "slug": "legacy-v-estate",
+          "name": "LEGACY V Estate"
+        },
+        {
+          "slug": "legacy-vi",
+          "name": "LEGACY VI"
+        }
+      ]
+    },
+    {
+      "brandSlug": "suzuki",
+      "brandName": "SUZUKI",
+      "displayName": "1300",
+      "members": [
+        {
+          "slug": "b-king-1300",
+          "name": "B-King 1300"
+        },
+        {
+          "slug": "gsx-1300-bk-u2-cr2111",
+          "name": "GSX 1300 BK U2 (CR2111)"
+        },
+        {
+          "slug": "gsx-1300-r-a11112",
+          "name": "GSX 1300 R (A11112)"
+        },
+        {
+          "slug": "gsx-1300-r-a12112",
+          "name": "GSX 1300 R (A12112)"
+        },
+        {
+          "slug": "gsx-1300-r-a13112",
+          "name": "GSX 1300 R (A13112)"
+        },
+        {
+          "slug": "gsx-1300-r-ck1111",
+          "name": "GSX 1300 R (CK1111)"
+        },
+        {
+          "slug": "gsx-1300-r-hayabusa-abs",
+          "name": "GSX 1300 R Hayabusa ABS"
+        },
+        {
+          "slug": "gsx-1300-r-u1-a12112",
+          "name": "GSX 1300 R U1 (A12112)"
+        }
+      ]
+    },
+    {
+      "brandSlug": "suzuki",
+      "brandName": "SUZUKI",
+      "displayName": "Alto",
+      "members": [
+        {
+          "slug": "alto-iv",
+          "name": "ALTO IV"
+        },
+        {
+          "slug": "alto-vi",
+          "name": "ALTO VI"
+        },
+        {
+          "slug": "alto",
+          "name": "ALTO"
+        }
+      ]
+    },
+    {
+      "brandSlug": "suzuki",
+      "brandName": "SUZUKI",
+      "displayName": "Baleno",
+      "members": [
+        {
+          "slug": "baleno",
+          "name": "BALENO"
+        },
+        {
+          "slug": "baleno-estate",
+          "name": "BALENO Estate"
+        },
+        {
+          "slug": "baleno-hatchback",
+          "name": "BALENO Hatchback"
+        }
+      ]
+    },
+    {
+      "brandSlug": "suzuki",
+      "brandName": "SUZUKI",
+      "displayName": "Carry",
+      "members": [
+        {
+          "slug": "carry-van",
+          "name": "CARRY Van"
+        },
+        {
+          "slug": "super-carry-bus",
+          "name": "SUPER CARRY Bus"
+        }
+      ]
+    },
+    {
+      "brandSlug": "suzuki",
+      "brandName": "SUZUKI",
+      "displayName": "Ignis",
+      "members": [
+        {
+          "slug": "ignis-i",
+          "name": "IGNIS I"
+        },
+        {
+          "slug": "ignis-ii",
+          "name": "IGNIS II"
+        },
+        {
+          "slug": "ignis-iii",
+          "name": "IGNIS III"
+        }
+      ]
+    },
+    {
+      "brandSlug": "suzuki",
+      "brandName": "SUZUKI",
+      "displayName": "Swace",
+      "members": [
+        {
+          "slug": "swace",
+          "name": "SWACE"
+        },
+        {
+          "slug": "swace-amz",
+          "name": "SWACE (AMZ_)"
+        }
+      ]
+    },
+    {
+      "brandSlug": "suzuki",
+      "brandName": "SUZUKI",
+      "displayName": "Swift",
+      "members": [
+        {
+          "slug": "swift-ii-hatchback",
+          "name": "SWIFT II Hatchback"
+        },
+        {
+          "slug": "swift-ii-saloon",
+          "name": "SWIFT II Saloon"
+        },
+        {
+          "slug": "swift-iii",
+          "name": "SWIFT III"
+        },
+        {
+          "slug": "swift-iv",
+          "name": "SWIFT IV"
+        },
+        {
+          "slug": "swift-v",
+          "name": "SWIFT V"
+        }
+      ]
+    },
+    {
+      "brandSlug": "suzuki",
+      "brandName": "SUZUKI",
+      "displayName": "SX4",
+      "members": [
+        {
+          "slug": "sx4",
+          "name": "SX4"
+        },
+        {
+          "slug": "sx4-s-cross",
+          "name": "SX4 S-Cross"
+        },
+        {
+          "slug": "sx4-saloon",
+          "name": "SX4 Saloon"
+        }
+      ]
+    },
+    {
+      "brandSlug": "suzuki",
+      "brandName": "SUZUKI",
+      "displayName": "Vitara",
+      "members": [
+        {
+          "slug": "grand-vitara-i",
+          "name": "GRAND VITARA I"
+        },
+        {
+          "slug": "grand-vitara-ii",
+          "name": "GRAND VITARA II"
+        },
+        {
+          "slug": "suzuki-vitara",
+          "name": "VITARA"
+        },
+        {
+          "slug": "vitara-cabrio",
+          "name": "VITARA Cabrio"
+        },
+        {
+          "slug": "grand-vitara-ii-jt-te-td",
+          "name": "GRAND VITARA II (JT, TE, TD)"
+        },
+        {
+          "slug": "vitara-et-ta-td",
+          "name": "VITARA (ET, TA, TD)"
+        },
+        {
+          "slug": "vitara-ly",
+          "name": "VITARA (LY)"
+        },
+        {
+          "slug": "grand-vitara-i-ft-ht",
+          "name": "GRAND VITARA I (FT, HT)"
+        }
+      ]
+    },
+    {
+      "brandSlug": "toyota",
+      "brandName": "TOYOTA",
+      "displayName": "Auris",
+      "members": [
+        {
+          "slug": "auris",
+          "name": "AURIS"
+        },
+        {
+          "slug": "auris-van-hatchback-van",
+          "name": "AURIS VAN Hatchback Van"
+        },
+        {
+          "slug": "auris-e15",
+          "name": "AURIS (_E15_)"
+        },
+        {
+          "slug": "auris-e18",
+          "name": "AURIS (_E18_)"
+        }
+      ]
+    },
+    {
+      "brandSlug": "toyota",
+      "brandName": "TOYOTA",
+      "displayName": "Avensis",
+      "members": [
+        {
+          "slug": "avensis",
+          "name": "AVENSIS"
+        },
+        {
+          "slug": "avensis-estate",
+          "name": "AVENSIS Estate"
+        },
+        {
+          "slug": "avensis-liftback",
+          "name": "AVENSIS Liftback"
+        },
+        {
+          "slug": "avensis-saloon",
+          "name": "AVENSIS Saloon"
+        }
+      ]
+    },
+    {
+      "brandSlug": "toyota",
+      "brandName": "TOYOTA",
+      "displayName": "Camry",
+      "members": [
+        {
+          "slug": "camry",
+          "name": "CAMRY"
+        },
+        {
+          "slug": "camry-estate",
+          "name": "CAMRY Estate"
+        },
+        {
+          "slug": "camry-saloon",
+          "name": "CAMRY Saloon"
+        },
+        {
+          "slug": "camry-v1",
+          "name": "CAMRY (_V1_)"
+        },
+        {
+          "slug": "camry-v2",
+          "name": "CAMRY (_V2_)"
+        }
+      ]
+    },
+    {
+      "brandSlug": "toyota",
+      "brandName": "TOYOTA",
+      "displayName": "Carina",
+      "members": [
+        {
+          "slug": "carina-e-vi",
+          "name": "CARINA E VI"
+        },
+        {
+          "slug": "carina-e-vi-saloon",
+          "name": "CARINA E VI Saloon"
+        },
+        {
+          "slug": "carina-e-vi-sportswagon",
+          "name": "CARINA E VI Sportswagon"
+        }
+      ]
+    },
+    {
+      "brandSlug": "toyota",
+      "brandName": "TOYOTA",
+      "displayName": "Celica",
+      "members": [
+        {
+          "slug": "celica-convertible",
+          "name": "CELICA Convertible"
+        },
+        {
+          "slug": "celica-coupe",
+          "name": "CELICA Coupe"
+        }
+      ]
+    },
+    {
+      "brandSlug": "toyota",
+      "brandName": "TOYOTA",
+      "displayName": "Corolla",
+      "members": [
+        {
+          "slug": "corolla",
+          "name": "COROLLA"
+        },
+        {
+          "slug": "corolla-compact",
+          "name": "COROLLA Compact"
+        },
+        {
+          "slug": "corolla-estate",
+          "name": "COROLLA Estate"
+        },
+        {
+          "slug": "corolla-liftback",
+          "name": "COROLLA Liftback"
+        },
+        {
+          "slug": "corolla-saloon",
+          "name": "COROLLA Saloon"
+        },
+        {
+          "slug": "corolla-verso",
+          "name": "COROLLA Verso"
+        }
+      ]
+    },
+    {
+      "brandSlug": "toyota",
+      "brandName": "TOYOTA",
+      "displayName": "LAND CRUISER",
+      "members": [
+        {
+          "slug": "land-cruiser",
+          "name": "LAND CRUISER"
+        },
+        {
+          "slug": "land-cruiser-100",
+          "name": "LAND CRUISER 100"
+        },
+        {
+          "slug": "land-cruiser-200",
+          "name": "LAND CRUISER 200"
+        },
+        {
+          "slug": "land-cruiser-80",
+          "name": "LAND CRUISER 80"
+        },
+        {
+          "slug": "land-cruiser-90",
+          "name": "LAND CRUISER 90"
+        }
+      ]
+    },
+    {
+      "brandSlug": "toyota",
+      "brandName": "TOYOTA",
+      "displayName": "MR2",
+      "members": [
+        {
+          "slug": "mr2-ii",
+          "name": "MR2 II"
+        },
+        {
+          "slug": "mr2-iii",
+          "name": "MR2 III"
+        }
+      ]
+    },
+    {
+      "brandSlug": "toyota",
+      "brandName": "TOYOTA",
+      "displayName": "Previa",
+      "members": [
+        {
+          "slug": "previa-i",
+          "name": "PREVIA I"
+        },
+        {
+          "slug": "previa-ii",
+          "name": "PREVIA II"
+        },
+        {
+          "slug": "previa-ii-r3",
+          "name": "PREVIA II (_R3_)"
+        }
+      ]
+    },
+    {
+      "brandSlug": "toyota",
+      "brandName": "TOYOTA",
+      "displayName": "Prius",
+      "members": [
+        {
+          "slug": "prius",
+          "name": "PRIUS"
+        },
+        {
+          "slug": "prius-c",
+          "name": "PRIUS C"
+        },
+        {
+          "slug": "prius-liftback",
+          "name": "PRIUS Liftback"
+        },
+        {
+          "slug": "prius-plus",
+          "name": "PRIUS PLUS"
+        },
+        {
+          "slug": "prius-saloon",
+          "name": "PRIUS Saloon"
+        },
+        {
+          "slug": "prius-w5",
+          "name": "PRIUS (_W5_)"
+        }
+      ]
+    },
+    {
+      "brandSlug": "toyota",
+      "brandName": "TOYOTA",
+      "displayName": "Proace",
+      "members": [
+        {
+          "slug": "proace-bus",
+          "name": "PROACE Bus"
+        },
+        {
+          "slug": "proace-city-box-body-mpv",
+          "name": "PROACE CITY Box Body/ MPV"
+        },
+        {
+          "slug": "proace-city-verso-mpv",
+          "name": "PROACE CITY VERSO MPV"
+        },
+        {
+          "slug": "proace-van",
+          "name": "PROACE Van"
+        }
+      ]
+    },
+    {
+      "brandSlug": "toyota",
+      "brandName": "TOYOTA",
+      "displayName": "Rav 4",
+      "members": [
+        {
+          "slug": "rav-4-i",
+          "name": "RAV 4 I"
+        },
+        {
+          "slug": "rav-4-i-cabrio",
+          "name": "RAV 4 I Cabrio"
+        },
+        {
+          "slug": "rav-4-ii",
+          "name": "RAV 4 II"
+        },
+        {
+          "slug": "rav-4-iii",
+          "name": "RAV 4 III"
+        },
+        {
+          "slug": "rav-4-iv",
+          "name": "RAV 4 IV"
+        },
+        {
+          "slug": "rav-4-v",
+          "name": "RAV 4 V"
+        }
+      ]
+    },
+    {
+      "brandSlug": "toyota",
+      "brandName": "TOYOTA",
+      "displayName": "Verso",
+      "members": [
+        {
+          "slug": "verso",
+          "name": "VERSO"
+        },
+        {
+          "slug": "verso-s",
+          "name": "VERSO S"
+        }
+      ]
+    },
+    {
+      "brandSlug": "toyota",
+      "brandName": "TOYOTA",
+      "displayName": "Yaris",
+      "members": [
+        {
+          "slug": "yaris",
+          "name": "YARIS"
+        },
+        {
+          "slug": "yaris-cross",
+          "name": "YARIS CROSS"
+        },
+        {
+          "slug": "yaris-verso",
+          "name": "YARIS VERSO"
+        },
+        {
+          "slug": "yaris-p21-pa1-ph1",
+          "name": "YARIS (_P21_, _PA1_, _PH1_)"
+        }
+      ]
+    },
+    {
+      "brandSlug": "volkswagen",
+      "brandName": "VOLKSWAGEN",
+      "displayName": "Amarok",
+      "members": [
+        {
+          "slug": "amarok",
+          "name": "AMAROK"
+        },
+        {
+          "slug": "amarok-platform-chassis",
+          "name": "AMAROK Platform/ Chassis"
+        }
+      ]
+    },
+    {
+      "brandSlug": "volkswagen",
+      "brandName": "VOLKSWAGEN",
+      "displayName": "Arteon",
+      "members": [
+        {
+          "slug": "arteon",
+          "name": "ARTEON"
+        },
+        {
+          "slug": "arteon-shooting",
+          "name": "ARTEON SHOOTING"
+        }
+      ]
+    },
+    {
+      "brandSlug": "volkswagen",
+      "brandName": "VOLKSWAGEN",
+      "displayName": "Beetle",
+      "members": [
+        {
+          "slug": "beetle",
+          "name": "BEETLE"
+        },
+        {
+          "slug": "new-beetle",
+          "name": "NEW BEETLE"
+        }
+      ]
+    },
+    {
+      "brandSlug": "volkswagen",
+      "brandName": "VOLKSWAGEN",
+      "displayName": "Bora",
+      "members": [
+        {
+          "slug": "bora-i",
+          "name": "BORA I"
+        },
+        {
+          "slug": "bora-variant",
+          "name": "BORA Variant"
+        }
+      ]
+    },
+    {
+      "brandSlug": "volkswagen",
+      "brandName": "VOLKSWAGEN",
+      "displayName": "Caddy",
+      "members": [
+        {
+          "slug": "caddy-alltrack-mpv",
+          "name": "CADDY ALLTRACK MPV"
+        },
+        {
+          "slug": "caddy-alltrack-box-body-mpv",
+          "name": "CADDY ALLTRACK Box Body/MPV"
+        },
+        {
+          "slug": "caddy-ii-mpv",
+          "name": "CADDY II MPV"
+        },
+        {
+          "slug": "caddy-ii-pickup",
+          "name": "CADDY II Pickup"
+        },
+        {
+          "slug": "caddy-iii-mpv",
+          "name": "CADDY III MPV"
+        },
+        {
+          "slug": "caddy-iv-mpv",
+          "name": "CADDY IV MPV"
+        },
+        {
+          "slug": "caddy-v-mpv",
+          "name": "CADDY V MPV"
+        },
+        {
+          "slug": "caddy-ii-box-body-mpv",
+          "name": "CADDY II Box Body/MPV"
+        },
+        {
+          "slug": "caddy-iii-box-body-mpv",
+          "name": "CADDY III Box Body/MPV"
+        },
+        {
+          "slug": "caddy-iv-box-body-mpv",
+          "name": "CADDY IV Box Body/MPV"
+        },
+        {
+          "slug": "caddy-v-box-body-mpv",
+          "name": "CADDY V Box Body/MPV"
+        }
+      ]
+    },
+    {
+      "brandSlug": "volkswagen",
+      "brandName": "VOLKSWAGEN",
+      "displayName": "California",
+      "members": [
+        {
+          "slug": "california-t6-camper",
+          "name": "CALIFORNIA T6 Camper"
+        },
+        {
+          "slug": "grand-california",
+          "name": "GRAND CALIFORNIA"
+        }
+      ]
+    },
+    {
+      "brandSlug": "volkswagen",
+      "brandName": "VOLKSWAGEN",
+      "displayName": "CC",
+      "members": [
+        {
+          "slug": "passat-cc-b6",
+          "name": "PASSAT CC B6"
+        },
+        {
+          "slug": "cc-358",
+          "name": "CC (358)"
+        },
+        {
+          "slug": "cc",
+          "name": "CC"
+        }
+      ]
+    },
+    {
+      "brandSlug": "volkswagen",
+      "brandName": "VOLKSWAGEN",
+      "displayName": "Crafter",
+      "members": [
+        {
+          "slug": "crafter-30-35-bus",
+          "name": "CRAFTER 30-35 Bus"
+        },
+        {
+          "slug": "crafter-30-50-van",
+          "name": "CRAFTER 30-50 Van"
+        },
+        {
+          "slug": "crafter-bus",
+          "name": "CRAFTER Bus"
+        },
+        {
+          "slug": "crafter-van",
+          "name": "CRAFTER Van"
+        },
+        {
+          "slug": "crafter-30-50-platform-chassis",
+          "name": "CRAFTER 30-50 Platform/Chassis"
+        },
+        {
+          "slug": "crafter-platform-chassis",
+          "name": "CRAFTER Platform/Chassis"
+        }
+      ]
+    },
+    {
+      "brandSlug": "volkswagen",
+      "brandName": "VOLKSWAGEN",
+      "displayName": "Golf",
+      "members": [
+        {
+          "slug": "golf-alltrack-vii-variant",
+          "name": "GOLF ALLTRACK VII Variant"
+        },
+        {
+          "slug": "golf-ii",
+          "name": "GOLF II"
+        },
+        {
+          "slug": "golf-iii",
+          "name": "GOLF III"
+        },
+        {
+          "slug": "golf-iii-cabriolet",
+          "name": "GOLF III Cabriolet"
+        },
+        {
+          "slug": "golf-iii-variant",
+          "name": "GOLF III Variant"
+        },
+        {
+          "slug": "golf-iv",
+          "name": "GOLF IV"
+        },
+        {
+          "slug": "golf-iv-cabriolet",
+          "name": "GOLF IV Cabriolet"
+        },
+        {
+          "slug": "golf-iv-variant",
+          "name": "GOLF IV Variant"
+        },
+        {
+          "slug": "golf-plus",
+          "name": "GOLF PLUS"
+        },
+        {
+          "slug": "golf-v",
+          "name": "GOLF V"
+        },
+        {
+          "slug": "golf-v-variant",
+          "name": "GOLF V Variant"
+        },
+        {
+          "slug": "golf-van-vii-variant",
+          "name": "GOLF VAN VII Variant"
+        },
+        {
+          "slug": "golf-vi",
+          "name": "GOLF VI"
+        },
+        {
+          "slug": "golf-vi-convertible",
+          "name": "GOLF VI Convertible"
+        },
+        {
+          "slug": "golf-vi-variant",
+          "name": "GOLF VI Variant"
+        },
+        {
+          "slug": "golf-vii",
+          "name": "GOLF VII"
+        },
+        {
+          "slug": "golf-vii-variant",
+          "name": "GOLF VII Variant"
+        },
+        {
+          "slug": "golf-viii",
+          "name": "GOLF VIII"
+        },
+        {
+          "slug": "golf-viii-variant",
+          "name": "GOLF VIII Variant"
+        }
+      ]
+    },
+    {
+      "brandSlug": "volkswagen",
+      "brandName": "VOLKSWAGEN",
+      "displayName": "Jetta",
+      "members": [
+        {
+          "slug": "jetta-ii",
+          "name": "JETTA II"
+        },
+        {
+          "slug": "jetta-iii",
+          "name": "JETTA III"
+        },
+        {
+          "slug": "jetta-iv",
+          "name": "JETTA IV"
+        }
+      ]
+    },
+    {
+      "brandSlug": "volkswagen",
+      "brandName": "VOLKSWAGEN",
+      "displayName": "LT",
+      "members": [
+        {
+          "slug": "lt-28-35-i-van",
+          "name": "LT 28-35 I Van"
+        },
+        {
+          "slug": "lt-28-35-i-bus",
+          "name": "LT 28-35 I Bus"
+        },
+        {
+          "slug": "lt-28-35-ii-bus",
+          "name": "LT 28-35 II Bus"
+        },
+        {
+          "slug": "lt-28-46-ii-van",
+          "name": "LT 28-46 II Van"
+        },
+        {
+          "slug": "lt-40-55-i-van",
+          "name": "LT 40-55 I Van"
+        },
+        {
+          "slug": "passat-alltrack-b7",
+          "name": "PASSAT ALLTRACK B7"
+        },
+        {
+          "slug": "passat-alltrack",
+          "name": "PASSAT ALLTRACK"
+        },
+        {
+          "slug": "lt-28-35-i-platform-chassis",
+          "name": "LT 28-35 I Platform/Chassis"
+        },
+        {
+          "slug": "lt-28-46-ii-platform-chassis",
+          "name": "LT 28-46 II Platform/Chassis"
+        },
+        {
+          "slug": "lt-40-55-i-platform",
+          "name": "LT 40-55 I"
+        }
+      ]
+    },
+    {
+      "brandSlug": "volkswagen",
+      "brandName": "VOLKSWAGEN",
+      "displayName": "MULTIVAN",
+      "members": [
+        {
+          "slug": "multivan-vi",
+          "name": "MULTIVAN VI"
+        },
+        {
+          "slug": "multivan-t7",
+          "name": "MULTIVAN T7"
+        },
+        {
+          "slug": "multivan-v",
+          "name": "MULTIVAN V"
+        }
+      ]
+    },
+    {
+      "brandSlug": "volkswagen",
+      "brandName": "VOLKSWAGEN",
+      "displayName": "Passat",
+      "members": [
+        {
+          "slug": "passat",
+          "name": "PASSAT"
+        },
+        {
+          "slug": "passat-b5",
+          "name": "PASSAT B5"
+        },
+        {
+          "slug": "passat-b6",
+          "name": "PASSAT B6"
+        },
+        {
+          "slug": "passat-b7-estate-van",
+          "name": "PASSAT B7 Estate Van"
+        },
+        {
+          "slug": "passat-variant",
+          "name": "PASSAT Variant"
+        },
+        {
+          "slug": "passat-b3-b4",
+          "name": "PASSAT B3/B4"
+        },
+        {
+          "slug": "passat-b5-5",
+          "name": "PASSAT B5.5"
+        },
+        {
+          "slug": "passat-b3-b4-variant",
+          "name": "PASSAT B3/B4 Variant"
+        },
+        {
+          "slug": "passat-b5-5-variant",
+          "name": "PASSAT B5.5 Variant"
+        }
+      ]
+    },
+    {
+      "brandSlug": "volkswagen",
+      "brandName": "VOLKSWAGEN",
+      "displayName": "Polo",
+      "members": [
+        {
+          "slug": "polo",
+          "name": "POLO"
+        },
+        {
+          "slug": "polo-ii",
+          "name": "POLO II"
+        },
+        {
+          "slug": "polo-hatchback-van",
+          "name": "POLO Hatchback Van"
+        },
+        {
+          "slug": "polo-iii-classic",
+          "name": "POLO III CLASSIC"
+        },
+        {
+          "slug": "polo-classic",
+          "name": "POLO CLASSIC"
+        },
+        {
+          "slug": "polo-coupe",
+          "name": "POLO Coupe"
+        },
+        {
+          "slug": "polo-v-saloon",
+          "name": "POLO V Saloon"
+        },
+        {
+          "slug": "polo-iv-saloon",
+          "name": "POLO IV Saloon"
+        },
+        {
+          "slug": "polo-van",
+          "name": "POLO Van"
+        },
+        {
+          "slug": "polo-van-hatchback-van",
+          "name": "POLO Van Hatchback Van"
+        },
+        {
+          "slug": "polo-variant",
+          "name": "POLO Variant"
+        },
+        {
+          "slug": "polo-vi",
+          "name": "POLO VI"
+        },
+        {
+          "slug": "polo-iii",
+          "name": "POLO III"
+        }
+      ]
+    },
+    {
+      "brandSlug": "volkswagen",
+      "brandName": "VOLKSWAGEN",
+      "displayName": "T-Roc",
+      "members": [
+        {
+          "slug": "t-roc",
+          "name": "T-ROC"
+        },
+        {
+          "slug": "t-roc-convertible",
+          "name": "T-ROC Convertible"
+        }
+      ]
+    },
+    {
+      "brandSlug": "volkswagen",
+      "brandName": "VOLKSWAGEN",
+      "displayName": "Tiguan",
+      "members": [
+        {
+          "slug": "tiguan",
+          "name": "TIGUAN"
+        },
+        {
+          "slug": "tiguan-van",
+          "name": "TIGUAN VAN"
+        }
+      ]
+    },
+    {
+      "brandSlug": "volkswagen",
+      "brandName": "VOLKSWAGEN",
+      "displayName": "Touran",
+      "members": [
+        {
+          "slug": "touran",
+          "name": "TOURAN"
+        },
+        {
+          "slug": "touran-van",
+          "name": "TOURAN VAN"
+        }
+      ]
+    },
+    {
+      "brandSlug": "volkswagen",
+      "brandName": "VOLKSWAGEN",
+      "displayName": "Transporter",
+      "members": [
+        {
+          "slug": "transporter-iv-van",
+          "name": "TRANSPORTER IV Van"
+        },
+        {
+          "slug": "transporter-iv-bus",
+          "name": "TRANSPORTER IV Bus"
+        },
+        {
+          "slug": "transporter-iv-box",
+          "name": "TRANSPORTER IV Box"
+        },
+        {
+          "slug": "transporter-vi-van",
+          "name": "TRANSPORTER VI Van"
+        },
+        {
+          "slug": "transporter-v-van",
+          "name": "TRANSPORTER V Van"
+        },
+        {
+          "slug": "transporter-v-bus",
+          "name": "TRANSPORTER V Bus"
+        },
+        {
+          "slug": "transporter-iv-platform-chassis",
+          "name": "TRANSPORTER IV Platform/Chassis"
+        },
+        {
+          "slug": "transporter-vi-platform-chassis",
+          "name": "TRANSPORTER VI Platform/Chassis"
+        },
+        {
+          "slug": "transporter-v-platform-chassis",
+          "name": "TRANSPORTER V Platform/Chassis"
+        }
+      ]
+    },
+    {
+      "brandSlug": "volvo",
+      "brandName": "VOLVO",
+      "displayName": "940",
+      "members": [
+        {
+          "slug": "940-ii",
+          "name": "940 II"
+        },
+        {
+          "slug": "940-ii-estate",
+          "name": "940 II Estate"
+        },
+        {
+          "slug": "940-kombi",
+          "name": "940 Kombi"
+        },
+        {
+          "slug": "940",
+          "name": "940"
+        }
+      ]
+    },
+    {
+      "brandSlug": "volvo",
+      "brandName": "VOLVO",
+      "displayName": "C70",
+      "members": [
+        {
+          "slug": "c70-i-convertible",
+          "name": "C70 I Convertible"
+        },
+        {
+          "slug": "c70-i-coupe",
+          "name": "C70 I Coupe"
+        },
+        {
+          "slug": "c70-ii-convertible",
+          "name": "C70 II Convertible"
+        }
+      ]
+    },
+    {
+      "brandSlug": "volvo",
+      "brandName": "VOLVO",
+      "displayName": "S40",
+      "members": [
+        {
+          "slug": "s40-i",
+          "name": "S40 I"
+        },
+        {
+          "slug": "s40-ii",
+          "name": "S40 II"
+        }
+      ]
+    },
+    {
+      "brandSlug": "volvo",
+      "brandName": "VOLVO",
+      "displayName": "S60",
+      "members": [
+        {
+          "slug": "s60-i",
+          "name": "S60 I"
+        },
+        {
+          "slug": "s60-ii",
+          "name": "S60 II"
+        },
+        {
+          "slug": "s60-iii",
+          "name": "S60 III"
+        }
+      ]
+    },
+    {
+      "brandSlug": "volvo",
+      "brandName": "VOLVO",
+      "displayName": "S80",
+      "members": [
+        {
+          "slug": "s80-i",
+          "name": "S80 I"
+        },
+        {
+          "slug": "s80-ii",
+          "name": "S80 II"
+        }
+      ]
+    },
+    {
+      "brandSlug": "volvo",
+      "brandName": "VOLVO",
+      "displayName": "S90",
+      "members": [
+        {
+          "slug": "s90-i",
+          "name": "S90 I"
+        },
+        {
+          "slug": "s90-ii",
+          "name": "S90 II"
+        }
+      ]
+    },
+    {
+      "brandSlug": "volvo",
+      "brandName": "VOLVO",
+      "displayName": "V40",
+      "members": [
+        {
+          "slug": "v40-cross-country",
+          "name": "V40 Cross Country"
+        },
+        {
+          "slug": "v40-estate",
+          "name": "V40 Estate"
+        },
+        {
+          "slug": "v40-hatchback",
+          "name": "V40 Hatchback"
+        }
+      ]
+    },
+    {
+      "brandSlug": "volvo",
+      "brandName": "VOLVO",
+      "displayName": "V60",
+      "members": [
+        {
+          "slug": "v60",
+          "name": "V60"
+        },
+        {
+          "slug": "v60-ii",
+          "name": "V60 II"
+        }
+      ]
+    },
+    {
+      "brandSlug": "volvo",
+      "brandName": "VOLVO",
+      "displayName": "V70",
+      "members": [
+        {
+          "slug": "v70-i",
+          "name": "V70 I"
+        },
+        {
+          "slug": "v70-ii",
+          "name": "V70 II"
+        },
+        {
+          "slug": "v70-iii",
+          "name": "V70 III"
+        }
+      ]
+    },
+    {
+      "brandSlug": "volvo",
+      "brandName": "VOLVO",
+      "displayName": "V90",
+      "members": [
+        {
+          "slug": "v90-i-estate",
+          "name": "V90 I Estate"
+        },
+        {
+          "slug": "v90-ii-estate",
+          "name": "V90 II Estate"
+        }
+      ]
+    },
+    {
+      "brandSlug": "volvo",
+      "brandName": "VOLVO",
+      "displayName": "XC60",
+      "members": [
+        {
+          "slug": "xc60-i-suv",
+          "name": "XC60 I SUV"
+        },
+        {
+          "slug": "xc60-ii",
+          "name": "XC60 II"
+        }
+      ]
+    },
+    {
+      "brandSlug": "volvo",
+      "brandName": "VOLVO",
+      "displayName": "XC70",
+      "members": [
+        {
+          "slug": "xc70-i-cross-country",
+          "name": "XC70 I Cross Country"
+        },
+        {
+          "slug": "xc70-ii",
+          "name": "XC70 II"
+        }
+      ]
+    },
+    {
+      "brandSlug": "volvo",
+      "brandName": "VOLVO",
+      "displayName": "XC90",
+      "members": [
+        {
+          "slug": "xc90-i",
+          "name": "XC90 I"
+        },
+        {
+          "slug": "xc90-ii",
+          "name": "XC90 II"
+        }
+      ]
+    }
+  ]
+}

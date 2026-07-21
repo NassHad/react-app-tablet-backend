@@ -24,18 +24,26 @@ export default factories.createCoreService('api::filter-compatibility.filter-com
    * Get all vehicle variants for a specific brand and model
    * Optimized for dropdown population
    */
-  async getVehicleVariants(brandName: string, modelName: string) {
+  async getVehicleVariants(brandName: string, modelName: string | string[]) {
+    // Accepts one name or the vehicle's whole display-name group in a single
+    // query ($or of per-name $eqi, not $in -- $in is case-sensitive exact
+    // match, and this data has real case variance between names for the same
+    // model, e.g. "POLO IV (9N)" vs "Polo IV (9N)").
+    const modelNames = Array.isArray(modelName) ? modelName : [modelName];
+
+    // status: 'published' -- without it entityService.findMany returns both
+    // the draft AND published copy of every row (this content type keeps
+    // both), showing every real motorisation twice in the dropdown.
     let compatibilities = await strapi.entityService.findMany('api::filter-compatibility.filter-compatibility', {
       filters: {
         brand: {
           name: { $eqi: brandName }
         },
-        model: {
-          name: { $eqi: modelName }
-        }
+        $or: modelNames.map(name => ({ model: { name: { $eqi: name } } }))
       },
       populate: ['brand', 'model'],
-      sort: ['vehicleVariant:asc']
+      sort: ['vehicleVariant:asc'],
+      status: 'published'
     });
 
     // filter-compatibility.model relations are often generation-qualified
@@ -50,12 +58,11 @@ export default factories.createCoreService('api::filter-compatibility.filter-com
           brand: {
             name: { $eqi: brandName }
           },
-          model: {
-            name: { $containsi: modelName }
-          }
+          $or: modelNames.map(name => ({ model: { name: { $containsi: name } } }))
         },
         populate: ['brand', 'model'],
-        sort: ['vehicleVariant:asc']
+        sort: ['vehicleVariant:asc'],
+        status: 'published'
       });
     }
 
