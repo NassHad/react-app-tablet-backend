@@ -1,15 +1,25 @@
 // Tables actually queried by the tablet frontend (verified against
 // react-app-tablet/src: every other Strapi content-type previously fetched
 // here -- vehicles (no content-type, always []), vehicleTypes,
-// batteryBrands, batteryModels, lightsPositions, lightsPositionData,
+// batteryBrands, batteryModels, lightsPositionData,
 // compatibilities, specificQuestions, motorisations -- has zero matching
 // `FROM <table>` query anywhere in the frontend, or no SQLite table
 // counterpart at all. Dropped to shrink the payload and stop shipping dead
-// data. `positions` (lights position metadata, 13 rows) is also excluded
-// for now: its SQLite columns (icon, vehicle_type) don't cleanly map from
-// lights-position's Strapi attributes (category, ref, sort, usageCount) --
-// wiring it needs a deliberate field-mapping decision, not a guess, and
-// it's small/static enough to stay manually maintained until that's done.
+// data. `lightsPositions` (-> SQLite `positions`, master list of light bulb
+// positions e.g. "Feu de croisement") WAS also dropped here on the same
+// pass, on the mistaken assumption its fields didn't map cleanly -- they do
+// (name/slug/vehicleType/createdAt/updatedAt line up directly with
+// generateSeed.js's existing columnMapping for 'positions'; `icon` just has
+// no Strapi source and stays null, which is harmless since the frontend's
+// iconMap is keyed by slug in code, not read from this column). Dropping it
+// left BulbsQuestions.tsx's on-device master-positions query permanently
+// empty on Android (confirmed live 2026-07-19: SQLite `positions` table had
+// 0 rows in every seed generated since this file's last rewrite), so every
+// vehicle's light-bulb screen showed "Aucune donnée d'éclairage disponible"
+// on Android regardless of any product data being correct -- the true root
+// cause behind what looked like an Alfa 147-specific bug. Web was
+// unaffected because it queries Strapi's lights-position endpoint directly,
+// bypassing this sync payload entirely. Restored below.
 // Every one of these content-types has draftAndPublish: true (confirmed via
 // each schema.json) but only `model` previously passed `status: 'published'`
 // -- already flagged as a known gap (drafts leaking into what tablets
@@ -37,6 +47,7 @@ const SYNCED_CONTENT_TYPES = [
     key: 'filter_compatibilities', uid: 'api::filter-compatibility.filter-compatibility',
     opts: { status: 'published', populate: { brand: { fields: ['id', 'name', 'slug'] }, model: { fields: ['id', 'name', 'slug'] } }, sort: 'vehicleModel:asc' },
   },
+  { key: 'lightsPositions', uid: 'api::lights-position.lights-position', opts: { status: 'published', populate: '*', sort: 'sort:asc' } },
 ];
 
 function enrichModelsWithBrand(models: any[], brands: any[]) {

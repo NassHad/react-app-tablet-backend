@@ -177,13 +177,21 @@ export default factories.createCoreController('api::filter-compatibility.filter-
 
       const service = strapi.service('api::filter-compatibility.filter-compatibility');
 
-      // Find FilterCompatibility records
+      // `model` can be a single name or the vehicle's whole display-name
+      // group (repeated query params, e.g. ?model=A&model=B) -- match any of
+      // them in one query via $or of per-name $eqi (not $in, which is
+      // case-sensitive and would regress names differing only in case).
+      const modelNames = Array.isArray(model) ? (model as string[]) : [model as string];
+
+      // Find FilterCompatibility records. status: 'published' -- without it,
+      // draft+published pairs of the same row both come back, doubling up
+      // matched filters/refs for no reason.
       const compatibilities = await strapi.entityService.findMany(
         'api::filter-compatibility.filter-compatibility',
         {
           filters: {
             brand: { name: { $eqi: brand as string } },
-            model: { name: { $eqi: model as string } },
+            $or: modelNames.map(name => ({ model: { name: { $eqi: name } } })),
             ...(variant && { vehicleVariant: { $containsi: variant as string } }),
             // Same vehicleVariant text can legitimately cover several distinct
             // real motorisations (different engine_code, sometimes with
@@ -194,7 +202,8 @@ export default factories.createCoreController('api::filter-compatibility.filter-
           populate: {
             brand: true,
             model: true
-          }
+          },
+          status: 'published'
         }
       );
 
