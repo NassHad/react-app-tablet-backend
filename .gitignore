@@ -135,3 +135,4 @@ build
 ############################
 
 scripts/backup/
+.jpg_conversion_backup/
